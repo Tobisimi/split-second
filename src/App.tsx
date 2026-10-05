@@ -15,11 +15,17 @@ const SUBJECTS: Subject[] = ['AM', 'DA', 'VR', 'GK'];
 const BYID = new Map(BANK.map(q => [q.id, q]));
 
 const TAG_TEXT: Record<Question['tag'], string> = {
-  confirmed: 'Confirmed: the show accepted it and the working agrees.',
-  accepted_unchecked: 'Accepted by the show, not checked yet.',
-  rejected_supported: 'The show rejected this answer, but the working supports it.',
-  worked_out: 'Not confirmed by the show; worked out.',
+  confirmed: 'Confirmed by the show.',
+  disputed: 'The show\'s answer looks wrong; this is the worked answer.',
+  worked_out: 'Not confirmed: the show\'s answer wasn\'t captured, so this was worked out.',
 };
+const RESULT_TEXT = { right: 'got it right', wrong: 'got it wrong', none: 'nobody answered' } as const;
+function onShow(q: Question): string {
+  if (!q.result) return '';
+  if (q.result === 'none') return 'On the show, nobody answered.';
+  const who = q.player ? `${q.player}${q.school ? ` (${q.school})` : ''}` : (q.school || 'The contestant');
+  return `On the show, ${who} ${RESULT_TEXT[q.result]}.`;
+}
 
 function loadSetup(): Setup { try { const s = localStorage.getItem('ss.setup'); if (s) return { ...DEFAULTS, ...JSON.parse(s) }; } catch { /* */ } return DEFAULTS; }
 function saveSetup(s: Setup) { try { localStorage.setItem('ss.setup', JSON.stringify(s)); } catch { /* */ } }
@@ -199,7 +205,7 @@ function ReviewItem({ it, onFlag, flagged }: { it: ItemRec; onFlag: (q: Question
       <div className="rev-q"><MathText text={q.q} /></div>
       {q.options && <div className="rev-opts">{q.options.map(o => <span key={o} className={o === q.answer ? 'right' : o === it.given ? 'wrong' : ''}><MathText text={o} /></span>)}</div>}
       <div className="rev-a"><b>Answer:</b> <MathText text={q.answer} />{it.given && it.r === 'wrong' && !q.options && <> · you: <s>{it.given}</s></>}</div>
-      <div className="rev-tag">{TAG_TEXT[q.tag]}{q.showNote ? ` ${q.showNote}` : ''}</div>
+      <div className="rev-tag">{TAG_TEXT[q.tag]}{q.tag === 'disputed' && q.showKey ? <> Shown: <MathText text={q.showKey} />.</> : null}{q.showNote ? ` ${q.showNote}` : ''} {onShow(q)}</div>
       {q.solution && <div className="solution"><MathText text={q.solution} /></div>}
       {q.trick && <div className="trick"><b>Faster:</b> <MathText text={q.trick} /></div>}
       <div className="rev-links"><a href={ytLink(q)} target="_blank" rel="noreferrer">Watch it on the show ({mmss(q.t)})</a><button className="ghost small" onClick={() => onFlag(q)}>{flagged(q.id) ? 'Flagged' : 'Flag'}</button></div>

@@ -1,0 +1,583 @@
+{
+ "26-fin-qb-0919": {
+  "solution": "Write u(x, t) = X(x)T(t). This splits the PDE into two ordinary differential equations, which are solved using the boundary and initial conditions. Gaussian Elimination solves linear systems and Bisection finds roots, so neither handles PDEs. The answer is Separation of Variables.",
+  "trick": "Heat and wave equations are PDEs, and the classic method for them is separation of variables. Gaussian Elimination is for linear systems and Bisection is for roots, so rule those two out by name.",
+  "check": "agree",
+  "computed": "Separation of Variables",
+  "accept": [
+   "separation of variables",
+   "variable separation"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-0926": {
+  "solution": "Correlation r = covariance ÷ (SD of X × SD of Y). So r = 20 ÷ (4 × 5) = 20 ÷ 20 = 1. The correlation is 1.",
+  "trick": "Multiply the two SDs first: 4 × 5 = 20. That is the same as the covariance, so the ratio is exactly 1.",
+  "check": "agree",
+  "computed": "1",
+  "accept": [
+   "1",
+   "1.0",
+   "+1",
+   "1.00"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-0938": {
+  "solution": "Number of half lives = 20 ÷ 4 = 5. Amount left = 400 × (1/2)⁵ = 400 ÷ 32 = 12.5. So 12.5 grams remain.",
+  "trick": "Halve five times, once for every 4 years: 400, 200, 100, 50, 25, 12.5.",
+  "check": "agree",
+  "computed": "12.5 grams",
+  "accept": [
+   "12.5",
+   "12.5g",
+   "12.5 g",
+   "12.5 grams",
+   "25/2"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-0942": {
+  "solution": "Add the values: 45 + 50 + 55 + 60 + 65 = 275. Divide by the 5 values: 275 ÷ 5 = 55. The mean is 55.",
+  "trick": "The values go up in equal steps, so the mean is the middle value: 55.",
+  "check": "agree",
+  "computed": "55",
+  "accept": [
+   "55",
+   "55.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-0953": {
+  "solution": "z = (x − mean) ÷ SD = (65 − 50) ÷ 10 = 15 ÷ 10 = 1.5. The z score is 1.5.",
+  "trick": "65 is 15 above the mean, and one SD is 10, so that is one and a half SDs: 1.5.",
+  "check": "agree",
+  "computed": "1.5",
+  "accept": [
+   "1.5",
+   "3/2",
+   "1.50"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-0965": {
+  "solution": "Weight W = m × g = 1.5 × 9.81. 1.5 × 9.81 = 9.81 + 4.905 = 14.715. The answer is 14.715 N.",
+  "trick": "g is about 10, so 1.5 × 10 = 15. Only 14.715N is near 15, because the other two options are ten times too small or ten times too big.",
+  "check": "agree",
+  "computed": "14.715 N",
+  "accept": [
+   "14.715",
+   "14.715N",
+   "14.715 N",
+   "14.715 newtons"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-0971": {
+  "solution": "Choose 3 men from 8: 8C3 = (8 × 7 × 6) ÷ (3 × 2 × 1) = 56. Choose 2 women from 6: 6C2 = (6 × 5) ÷ 2 = 15. Multiply the two: 56 × 15 = 840. There are 840 committees.",
+  "trick": "The answer must be a multiple of 7 (from the 56) and of 3 (from the 15). 480 is not a multiple of 7 and 560 is not a multiple of 3, so 840 is left.",
+  "check": "agree",
+  "computed": "840",
+  "accept": [
+   "840",
+   "840 committees",
+   "840 ways"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-0988": {
+  "solution": "z = (x − mean) ÷ SD = (88 − 75) ÷ 5 = 13 ÷ 5 = 2.6. The z score is 2.6.",
+  "trick": "13 ÷ 5 is the same as 26 ÷ 10, so double the 13 and move the point: 2.6.",
+  "check": "agree",
+  "computed": "2.6",
+  "accept": [
+   "2.6",
+   "13/5",
+   "2.60"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-0991": {
+  "solution": "With 26 letters and no repeats, the 3 letters can be chosen in 26 × 25 × 24 = 15,600 ways. Each of the 2 digits can be any of 10, so there are 10 × 10 = 100 digit pairs. Total = 15,600 × 100 = 1,560,000. The answer is 1,560,000.",
+  "trick": "25 × 24 = 600, then 26 × 600 = 15,600. Add two zeros for the digits: 1,560,000.",
+  "check": "agree",
+  "computed": "1,560,000",
+  "accept": [
+   "1560000",
+   "1,560,000"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1013": {
+  "solution": "Distance = speed × time = 40 × 10 = 400. The distance is 400 m.",
+  "trick": "Times 10 just adds a zero: 40 becomes 400.",
+  "check": "agree",
+  "computed": "400 m",
+  "accept": [
+   "400",
+   "400m",
+   "400 m",
+   "400 metres",
+   "400 meters"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1015": {
+  "solution": "Standard deviation = √variance = √16 = 4. Standard error = SD ÷ √n = 4 ÷ √25 = 4 ÷ 5 = 0.8. The standard error is 0.8.",
+  "trick": "Take both square roots first: √16 = 4 and √25 = 5. Then 4 ÷ 5 = 0.8.",
+  "check": "agree",
+  "computed": "0.8",
+  "accept": [
+   "0.8",
+   "4/5",
+   ".8",
+   "0.80"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1028": {
+  "solution": "R(x) = 160x − 4x² is a downward parabola, so the peak is where dR/dx = 160 − 8x = 0. That gives x = 160 ÷ 8 = 20. The peak revenue is R(20) = 3,200 − 1,600 = 1,600. So the bookstore should sell 20 books.",
+  "trick": "The revenue is zero at x = 0 and at x = 160 ÷ 4 = 40, and the peak is halfway between them: 20.",
+  "check": "agree",
+  "computed": "20 books",
+  "accept": [
+   "20",
+   "20 books",
+   "x = 20"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1030": {
+  "solution": "Only Coffee = total Coffee − both = 40 − 20 = 20. The Tea total of 50 is not needed. The answer is 20.",
+  "trick": "The 40 Coffee drinkers already include the 20 who like both, so take those away: 40 − 20 = 20. Ignore the Tea number.",
+  "check": "agree",
+  "computed": "20",
+  "accept": [
+   "20",
+   "20 people"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1188": {
+  "solution": "Actual length = map length × scale number = 4 × 50,000 = 200,000 cm. 100,000 cm = 1 km, so 200,000 cm = 2 km. The river is 2 km (200,000 cm) long.",
+  "trick": "On a 1:50,000 map, 1 cm stands for 50,000 cm, which is 0.5 km. So 4 cm is 4 × 0.5 = 2 km.",
+  "check": "agree",
+  "computed": "2 km (200,000 cm)",
+  "accept": [
+   "2",
+   "2km",
+   "2 km",
+   "2 kilometres",
+   "2 kilometers",
+   "2000m",
+   "2000 m",
+   "200000",
+   "200,000",
+   "200000cm",
+   "200,000cm",
+   "200000 cm",
+   "200,000 cm"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1192": {
+  "solution": "Gold, silver and bronze go to three different runners and the order matters. 8P3 = 8 × 7 × 6 = 336. There are 336 ways.",
+  "trick": "Multiply three numbers counting down from 8: 8 × 7 = 56, then 56 × 6 = 336.",
+  "check": "agree",
+  "computed": "336 ways",
+  "accept": [
+   "336",
+   "336 ways"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1200": {
+  "solution": "Choose which 5 of the 10 bit positions hold a 1: 10C5 = (10 × 9 × 8 × 7 × 6) ÷ (5 × 4 × 3 × 2 × 1) = 30,240 ÷ 120 = 252. So 252 numbers have exactly five 1's.",
+  "trick": "Remember 10C5 = 252. It is the biggest number in row 10 of Pascal's triangle (1, 10, 45, 120, 210, 252), and 210 is just the one next to it.",
+  "check": "agree",
+  "computed": "252",
+  "accept": [
+   "252",
+   "252 numbers"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1206": {
+  "solution": "Actual distance = 3 × 50,000 = 150,000 cm. 150,000 cm ÷ 100,000 = 1.5 km. The distance is 1.5 km.",
+  "trick": "On a 1:50,000 map, 1 cm is 0.5 km, so 3 cm is half of 3: 1.5 km.",
+  "check": "agree",
+  "computed": "1.5 km",
+  "accept": [
+   "1.5",
+   "1.5km",
+   "1.5 km",
+   "1.5 kilometres",
+   "1.5 kilometers",
+   "1500m",
+   "1500 m"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1211": {
+  "solution": "Simple interest I = P × R × T, so P = I ÷ (R × T). R × T = 0.06 × 4 = 0.24. P = 18,000 ÷ 0.24 = 75,000. The principal is ₦75,000.",
+  "trick": "6% a year for 4 years is 24% of the principal, which is just under a quarter. So the principal is a bit over 4 × 18,000 = 72,000, and only ₦75,000 fits.",
+  "check": "agree",
+  "computed": "₦75,000",
+  "accept": [
+   "75000",
+   "75,000",
+   "₦75,000",
+   "₦75000",
+   "N75000",
+   "N75,000"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1221": {
+  "solution": "Density = mass ÷ volume = 20 ÷ 5 = 4. The density is 4 kg m⁻³.",
+  "trick": "Divide mass by volume: 20 ÷ 5 = 4. The option 100 comes from multiplying 20 × 5 by mistake.",
+  "check": "agree",
+  "computed": "4 kg m⁻³",
+  "accept": [
+   "4",
+   "4 kg m⁻³",
+   "4 kg/m³",
+   "4kg/m3",
+   "4 kg/m^3"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1225": {
+  "solution": "In a perfectly symmetric distribution with a single peak, the mean, median and mode all sit at the same centre value. The median is 80, so the mode is 80. The answer is 80.",
+  "trick": "Symmetric with one peak means mean, median and mode are the same, so just copy the median: 80.",
+  "check": "unclear",
+  "computed": "80",
+  "accept": [
+   "80",
+   "80.0"
+  ],
+  "comment": "A symmetric distribution only has its mode at the median if it has a single peak. A symmetric bimodal set such as 70, 70, 80, 90, 90 has median 80 but modes 70 and 90. The question almost certainly assumes one peak, so 80 is the expected answer."
+ },
+ "26-fin-qb-1233": {
+  "solution": "Power P = V × I = 12 × 3 = 36. The power is 36 W.",
+  "trick": "Power is volts times amps, so multiply: 12 × 3 = 36. The other two options are the divisions, 12 ÷ 3 = 4 and 3 ÷ 12 = 0.25.",
+  "check": "agree",
+  "computed": "36 W",
+  "accept": [
+   "36",
+   "36W",
+   "36 W",
+   "36 watts"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1236": {
+  "solution": "nP2 = n × (n − 1) = 56. Two consecutive numbers with product 56 are 8 and 7, so n = 8. The other root of n² − n − 56 = 0 is −7, which cannot be used. The answer is 8.",
+  "trick": "Find two neighbouring numbers that multiply to 56: 7 × 8. The bigger one is n, so n = 8.",
+  "check": "agree",
+  "computed": "8",
+  "accept": [
+   "8",
+   "n = 8",
+   "n=8"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1248": {
+  "solution": "2 hours = 2 × 3,600 = 7,200 seconds. Volume = rate × time = 0.5 × 7,200 = 3,600. The pipe delivers 3,600 L.",
+  "trick": "Half a litre per second means half as many litres as seconds. 2 hours is 7,200 seconds, and half of 7,200 is 3,600.",
+  "check": "agree",
+  "computed": "3,600 L",
+  "accept": [
+   "3600",
+   "3,600",
+   "3600L",
+   "3,600L",
+   "3600 L",
+   "3,600 L",
+   "3600 litres",
+   "3600 liters"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1255": {
+  "solution": "Gold, silver and bronze go to three different runners and the order matters. 11P3 = 11 × 10 × 9 = 990. There are 990 ways.",
+  "trick": "11 × 9 = 99, then × 10 gives 990.",
+  "check": "agree",
+  "computed": "990",
+  "accept": [
+   "990",
+   "990 ways"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1267": {
+  "solution": "Richter magnitude M = log₁₀(A ÷ A₀), where A ÷ A₀ is the amplitude ratio. The ratio is 1,000, so M = log₁₀(1,000) = 3. The Richter value is 3.",
+  "trick": "Count the zeros in 1,000. There are three, so log₁₀(1,000) = 3.",
+  "check": "agree",
+  "computed": "3",
+  "accept": [
+   "3",
+   "3.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1271": {
+  "solution": "Quartile deviation = (Q3 − Q1) ÷ 2 = IQR ÷ 2. So IQR = 2 × 10 = 20. The interquartile range is 20 mm.",
+  "trick": "Quartile deviation is only half of the IQR, so double the 10: 20.",
+  "check": "agree",
+  "computed": "20 mm",
+  "accept": [
+   "20",
+   "20mm",
+   "20 mm",
+   "20 millimetres",
+   "20 millimeters"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1284": {
+  "solution": "Count after n hours = 100 × 2ⁿ. With n = 6, 2⁶ = 64. So the count is 100 × 64 = 6,400.",
+  "trick": "2⁶ = 64, then add two zeros for the 100: 6,400.",
+  "check": "agree",
+  "computed": "6400",
+  "accept": [
+   "6400",
+   "6,400"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1290": {
+  "solution": "People with a car or a bike = 60% + 40% − 30% = 70%. Neither = 100% − 70% = 30%. The answer is 30%.",
+  "trick": "60% + 40% is exactly 100%, so the people who own neither are exactly as many as those who own both: 30%.",
+  "check": "agree",
+  "computed": "30%",
+  "accept": [
+   "30%",
+   "30",
+   "30 percent",
+   "0.3"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1296": {
+  "solution": "Work is workers × days. 6 workers × 3 days = 18 worker days build 4 cabinets, so one cabinet needs 4.5 worker days. 20 cabinets need 20 × 4.5 = 90 worker days, and 90 ÷ 18 = 5. It takes 5 days.",
+  "trick": "Three times the workers (6 to 18) cuts the time to a third, and five times the cabinets (4 to 20) multiplies it by five. So 3 days × 5 ÷ 3 = 5 days.",
+  "check": "agree",
+  "computed": "5 days",
+  "accept": [
+   "5",
+   "5 days"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1305": {
+  "solution": "R(x) = 120x − 6x² is a downward parabola, so the peak is where dR/dx = 120 − 12x = 0. That gives x = 120 ÷ 12 = 10. The peak revenue is R(10) = 1,200 − 600 = 600. So x = 10 units.",
+  "trick": "The revenue is zero at x = 0 and at x = 120 ÷ 6 = 20, and the peak is halfway between them: 10.",
+  "check": "agree",
+  "computed": "10 units",
+  "accept": [
+   "10",
+   "10 units",
+   "x = 10"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1471": {
+  "solution": "Power = work ÷ time = 100 ÷ 5 = 20. The power is 20 W.",
+  "trick": "Dividing by 5 is the same as doubling and dividing by 10: 200 ÷ 10 = 20.",
+  "check": "agree",
+  "computed": "20 W",
+  "accept": [
+   "20",
+   "20W",
+   "20 W",
+   "20 watts"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1473": {
+  "solution": "Each face from 1 to 6 has probability 1/6. E = (1 + 2 + 3 + 4 + 5 + 6) ÷ 6 = 21 ÷ 6 = 3.5. The expected value is 3.5.",
+  "trick": "The faces are evenly spaced, so the average is halfway between the smallest and the largest: (1 + 6) ÷ 2 = 3.5.",
+  "check": "agree",
+  "computed": "3.5",
+  "accept": [
+   "3.5",
+   "7/2",
+   "3.50",
+   "3 1/2"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1476": {
+  "solution": "Slices eaten = 3 × 2 = 6. Slices left = 8 − 6 = 2. Fraction left = 2/8 = 1/4. The answer is 1/4.",
+  "trick": "6 of the 8 slices are eaten, which is 3/4, so 1/4 is left.",
+  "check": "agree",
+  "computed": "1/4",
+  "accept": [
+   "1/4",
+   "2/8",
+   "0.25",
+   "25%"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1484": {
+  "solution": "The fewest edges a connected graph on n vertices can have is n − 1, which is a tree. For 5 vertices that is 5 − 1 = 4. Read strictly, 'guarantee' would need 7 edges, but 7 is not an option. The intended answer is 4.",
+  "trick": "The show means the fewest edges a connected graph can have: n − 1 = 4.",
+  "check": "unclear",
+  "computed": "4 (strictly 7 to guarantee)",
+  "accept": [
+   "4",
+   "4 edges"
+  ],
+  "comment": "Read literally, 'guarantee it is connected' needs 7 edges, because K4 plus an isolated vertex has 6 edges and is not connected (checked over all graphs on 5 vertices). The show's 4 is the fewest edges a connected 5 vertex graph can have (a tree), and 7 is not among the options."
+ },
+ "26-fin-qb-1486": {
+  "solution": "Counting both 1980 and 2020, there are 41 years. Leap years are every 4th year from 1980 to 2020, which is (2020 − 1980) ÷ 4 + 1 = 11 years, and 2000 counts because it divides by 400. Probability = 11 ÷ 41. The chance is \\(\\frac{11}{41}\\).",
+  "trick": "About 1 year in 4 is a leap year, so the answer should be near 1/4. 11/41 is about 0.27, while 1/2 and 1/6 are far off.",
+  "check": "agree",
+  "computed": "11/41",
+  "accept": [
+   "11/41",
+   "0.268",
+   "0.2683",
+   "26.8%"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1505": {
+  "solution": "Interest = 20% of 450 = 0.2 × 450 = 90. Total = 450 + 90 = 540. For one year, simple and compound interest give the same amount. Her total is $540.",
+  "trick": "10% of 450 is 45, so 20% is 90. Then 450 + 90 = 540.",
+  "check": "agree",
+  "computed": "$540",
+  "accept": [
+   "540",
+   "$540",
+   "540 dollars",
+   "$540.00",
+   "540.00"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1509": {
+  "solution": "Add: 6 + 8 + 10 + 12 + 14 = 50. Divide by 5: 50 ÷ 5 = 10. The mean is 10.",
+  "trick": "The numbers are evenly spaced, so the mean is the middle number: 10.",
+  "check": "agree",
+  "computed": "10",
+  "accept": [
+   "10",
+   "10.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1520": {
+  "solution": "Wave speed v = f × λ = 5 × 3 = 15. Speed is measured in m s⁻¹ (metres per second), not m s⁻². The speed is 15 m s⁻¹.",
+  "trick": "Speed is frequency times wavelength: 5 × 3 = 15. Hz times metres gives m s⁻¹.",
+  "check": "agree",
+  "computed": "15 m s⁻¹",
+  "accept": [
+   "15",
+   "15 m/s",
+   "15 m s⁻¹",
+   "15m/s",
+   "15 ms⁻¹",
+   "15 metres per second",
+   "15 meters per second"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1522": {
+  "solution": "Standard deviation = √variance = √16 = 4. The units go from cm² to cm. The standard deviation is 4 cm.",
+  "trick": "The square root of 16 is 4, and square centimetres become centimetres.",
+  "check": "agree",
+  "computed": "4 cm",
+  "accept": [
+   "4",
+   "4cm",
+   "4 cm",
+   "4 centimetres",
+   "4 centimeters"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1530": {
+  "solution": "3 machines make 3 widgets in 3 minutes, so one machine makes 1 widget in 3 minutes. 100 machines make 100 widgets in 3 minutes. For 150 widgets the time is 150 ÷ 100 × 3 = 4.5 minutes. The answer is 4.5 minutes.",
+  "trick": "100 machines make 100 widgets in 3 minutes. 150 widgets is one and a half times that, so it takes one and a half times 3 minutes: 4.5.",
+  "check": "agree",
+  "computed": "4.5 minutes",
+  "accept": [
+   "4.5",
+   "4.5 minutes",
+   "4.5 min",
+   "4.5 mins",
+   "4 min 30 s",
+   "9/2"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1532": {
+  "solution": "Births in one year = 1,000,000 × 20 ÷ 1,000 = 20,000. New population = 1,000,000 + 20,000 = 1,020,000. The population is 1,020,000.",
+  "trick": "20 per 1,000 is 2%. 2% of 1,000,000 is 20,000, so add it on: 1,020,000.",
+  "check": "agree",
+  "computed": "1,020,000",
+  "accept": [
+   "1020000",
+   "1,020,000",
+   "1.02 million"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1541": {
+  "solution": "For numbers spread evenly, probability = favourable length ÷ total length. The total length is 75 − 15 = 60. The part below 30 is 30 − 15 = 15. So P = 15 ÷ 60 = 1/4.",
+  "trick": "The range is 60 wide and the part below 30 is 15 wide. 15 is a quarter of 60.",
+  "check": "agree",
+  "computed": "1/4",
+  "accept": [
+   "1/4",
+   "0.25",
+   "25%",
+   "15/60"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1551": {
+  "solution": "Electric field E = F ÷ q = 180 ÷ 3 = 60. The electric field is 60 N/C.",
+  "trick": "18 ÷ 3 = 6, so 180 ÷ 3 = 60.",
+  "check": "agree",
+  "computed": "60 N/C",
+  "accept": [
+   "60",
+   "60 N/C",
+   "60N/C",
+   "60 NC⁻¹"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1555": {
+  "solution": "8 months = 8 ÷ 12 = 2/3 of a year. Simple interest = P × R × T = 240,000 × 0.09 × 2/3. Now 0.09 × 2/3 = 0.06, and 240,000 × 0.06 = 14,400. The interest is ₦14,400.",
+  "trick": "8 months is two thirds of a year, so 9% a year becomes 6% for 8 months. 6% of 240,000 is 6 × 2,400 = 14,400.",
+  "check": "agree",
+  "computed": "₦14,400",
+  "accept": [
+   "14400",
+   "14,400",
+   "₦14,400",
+   "₦14400",
+   "N14400",
+   "N14,400"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1568": {
+  "solution": "This is a geometric series with first term a = 5 and common ratio r = 2.5 ÷ 5 = 0.5. Since r is between −1 and 1, the sum to infinity is S = a ÷ (1 − r) = 5 ÷ 0.5 = 10. The sum is 10.",
+  "trick": "The ratio is 1/2, so the series adds up to twice the first term: 2 × 5 = 10.",
+  "check": "agree",
+  "computed": "10",
+  "accept": [
+   "10",
+   "10.0"
+  ],
+  "comment": ""
+ }
+}
