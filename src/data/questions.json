@@ -64,18 +64,21 @@
   "subject": "AM",
   "q": "If Nigeria's population grows at 2.5% annually, how many years will it take to double?",
   "answer": "28 years",
-  "tag": "worked_out",
+  "tag": "rejected_supported",
   "video": "LNb9hDxcp1o",
   "match": "UNILAG v FUTA, matchday 1",
   "stage": "group",
   "level": 1,
   "accept": [
    "28",
+   "29",
+   "28.07",
    "about 28"
   ],
-  "tol": 0.6,
+  "tol": 1.1,
   "topic": "growth",
-  "trick": "Rule of 70: doubling time is about 70 divided by the growth rate in percent, so 70 / 2.5 = 28."
+  "trick": "Rule of 70: doubling time is about 70 divided by the growth rate in percent, so 70 / 2.5 = 28.",
+  "showNote": "The show took 10 points off for 28. After exactly 28 years the population is just under double (1.996×), so the show may have wanted 29."
  },
  {
   "id": "26-md1-g1-qb-05",
@@ -84,13 +87,14 @@
   "subject": "AM",
   "q": "The profit function \\(f(x) = -3x^2 + 12x + 7\\) models earnings. What is the maximum profit?",
   "answer": "19",
-  "tag": "worked_out",
+  "tag": "rejected_supported",
   "video": "LNb9hDxcp1o",
   "match": "UNILAG v FUTA, matchday 1",
   "stage": "group",
   "level": 1,
   "topic": "quadratics",
-  "trick": "The peak is at \\(x = -b/2a = 2\\); then \\(f(2) = -12 + 24 + 7\\)."
+  "trick": "The peak is at \\(x = -b/2a = 2\\); then \\(f(2) = -12 + 24 + 7\\).",
+  "showNote": "The show took 10 points off for 19."
  },
  {
   "id": "26-md1-g1-qb-06",
@@ -118,7 +122,7 @@
   "subject": "AM",
   "q": "What is the antiderivative of \\((2x + 1)\\,dx\\)?",
   "answer": "\\(x^2 + x + C\\)",
-  "tag": "worked_out",
+  "tag": "rejected_supported",
   "video": "LNb9hDxcp1o",
   "match": "UNILAG v FUTA, matchday 1",
   "stage": "group",
@@ -128,7 +132,8 @@
    "x²+x+c",
    "x^2 + x + C"
   ],
-  "topic": "integration"
+  "topic": "integration",
+  "showNote": "The show took 10 points off for x² + x + C."
  },
  {
   "id": "26-md1-g1-qb-09",
