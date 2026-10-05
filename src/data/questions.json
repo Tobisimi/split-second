@@ -1,0 +1,764 @@
+[
+ {
+  "id": "26-md1-g1-qb-01",
+  "t": 513,
+  "half": "QB",
+  "subject": "AM",
+  "q": "A technician mixes 200 mL of 6 M HCl with 300 mL of water. What is the final molarity of the diluted solution?",
+  "answer": "2.4 M",
+  "tag": "rejected_supported",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "showNote": "The show took 10 points off for 2.4 M.",
+  "accept": [
+   "2.4",
+   "2.4M",
+   "2.4 mol/L"
+  ],
+  "topic": "dilution",
+  "solution": "Moles stay the same: \\(C_1V_1 = C_2V_2\\), so \\(6 \\times 200 = C_2 \\times 500\\), giving \\(C_2 = 2.4\\) M."
+ },
+ {
+  "id": "26-md1-g1-qb-02",
+  "t": 523,
+  "half": "QB",
+  "subject": "AM",
+  "q": "A force \\(F = 3i + 4j\\) N acts on an object. What is the magnitude of F?",
+  "answer": "5 N",
+  "tag": "confirmed",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "5"
+  ],
+  "topic": "vectors",
+  "trick": "3, 4, 5 is the first Pythagorean triple; spot it and skip the square roots."
+ },
+ {
+  "id": "26-md1-g1-qb-03",
+  "t": 528,
+  "half": "QB",
+  "subject": "AM",
+  "q": "Find the current if 60 V is applied across a 15-ohm resistor.",
+  "answer": "4 A",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "4",
+   "4 amperes",
+   "4 amps"
+  ],
+  "topic": "circuits"
+ },
+ {
+  "id": "26-md1-g1-qb-04",
+  "t": 535,
+  "half": "QB",
+  "subject": "AM",
+  "q": "If Nigeria's population grows at 2.5% annually, how many years will it take to double?",
+  "answer": "28 years",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "28",
+   "about 28"
+  ],
+  "tol": 0.6,
+  "topic": "growth",
+  "trick": "Rule of 70: doubling time is about 70 divided by the growth rate in percent, so 70 / 2.5 = 28."
+ },
+ {
+  "id": "26-md1-g1-qb-05",
+  "t": 541,
+  "half": "QB",
+  "subject": "AM",
+  "q": "The profit function \\(f(x) = -3x^2 + 12x + 7\\) models earnings. What is the maximum profit?",
+  "answer": "19",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "topic": "quadratics",
+  "trick": "The peak is at \\(x = -b/2a = 2\\); then \\(f(2) = -12 + 24 + 7\\)."
+ },
+ {
+  "id": "26-md1-g1-qb-06",
+  "t": 548,
+  "half": "QB",
+  "subject": "DA",
+  "q": "If parents have blood types AO and BO, what is the probability their child has type A blood?",
+  "answer": "1/4",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "25%",
+   "0.25"
+  ],
+  "topic": "probability",
+  "solution": "The child gets A or O from one parent and B or O from the other: AB, AO, BO, OO, each 1/4. Only AO is type A."
+ },
+ {
+  "id": "26-md1-g1-qb-07",
+  "t": 555,
+  "half": "QB",
+  "subject": "AM",
+  "q": "What is the antiderivative of \\((2x + 1)\\,dx\\)?",
+  "answer": "\\(x^2 + x + C\\)",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "x^2+x+c",
+   "x²+x+c",
+   "x^2 + x + C"
+  ],
+  "topic": "integration"
+ },
+ {
+  "id": "26-md1-g1-qb-09",
+  "t": 569,
+  "half": "QB",
+  "subject": "AM",
+  "q": "A bacterial colony starts with 500 cells and doubles every 20 minutes. How many cells will there be after 3 hours?",
+  "answer": "256,000",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "256000",
+   "256,000 cells"
+  ],
+  "topic": "growth",
+  "trick": "3 hours is 9 doublings, and \\(2^9 = 512\\); 500 × 512 = 256,000."
+ },
+ {
+  "id": "26-md1-g1-qb-10",
+  "t": 577,
+  "half": "QB",
+  "subject": "AM",
+  "q": "The density of mercury is 13,600 kg/m³. What is its density in g/cm³?",
+  "answer": "13.6 g/cm³",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "13.6"
+  ],
+  "topic": "units",
+  "trick": "Divide kg/m³ by 1,000 to get g/cm³."
+ },
+ {
+  "id": "26-md1-g1-qb-12",
+  "t": 592,
+  "half": "QB",
+  "subject": "AM",
+  "q": "A 5-metre pole casts a 3-metre shadow. How tall is a tree that casts a 12-metre shadow?",
+  "answer": "20 m",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "20"
+  ],
+  "topic": "ratio"
+ },
+ {
+  "id": "26-md1-g1-qb-13",
+  "t": 603,
+  "half": "QB",
+  "subject": "AM",
+  "q": "A 160 L mixture has milk and water in a 5:3 ratio. To make it 2:3, how much water must be added?",
+  "answer": "90 L",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "90"
+  ],
+  "topic": "ratio",
+  "solution": "Milk 100 L and water 60 L. For 2:3 the water must be 150 L, so add 90 L."
+ },
+ {
+  "id": "26-md1-g1-qb-14",
+  "t": 614,
+  "half": "QB",
+  "subject": "AM",
+  "q": "If a complex number \\(z = 4 - 3i\\), find the absolute value of z.",
+  "answer": "5",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "topic": "complex numbers"
+ },
+ {
+  "id": "26-md1-g1-qb-15",
+  "t": 617,
+  "half": "QB",
+  "subject": "AM",
+  "q": "If \\(A = 2i - j\\) and \\(B = -i + 3j\\), what is \\(A \\cdot B\\)?",
+  "answer": "-5",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "topic": "vectors",
+  "solution": "\\((2)(-1) + (-1)(3) = -2 - 3 = -5\\)."
+ },
+ {
+  "id": "26-md1-g1-qb-16",
+  "t": 624,
+  "half": "QB",
+  "subject": "AM",
+  "q": "A recipe needs 2 cups of sugar for every 3 cups of flour. If you have 6 cups of flour, how much sugar is needed?",
+  "answer": "4 cups",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "4"
+  ],
+  "topic": "ratio"
+ },
+ {
+  "id": "26-md1-g1-qb-17",
+  "t": 640,
+  "half": "QB",
+  "subject": "AM",
+  "q": "A 15 m flagpole casts a 20 m shadow. What is the angle of elevation of the sun?",
+  "answer": "36.9°",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "36.87",
+   "37",
+   "36.9"
+  ],
+  "tol": 0.2,
+  "topic": "trigonometry",
+  "solution": "\\(\\tan\\theta = 15/20 = 0.75\\), so \\(\\theta \\approx 36.9^\\circ\\).",
+  "trick": "0.75 is the 3, 4, 5 triangle again: its smaller angle is about 36.9°."
+ },
+ {
+  "id": "26-md1-g1-qb-18",
+  "t": 660,
+  "half": "QB",
+  "subject": "AM",
+  "q": "If \\(f(x) = \\ln x\\), what is the average rate of change from x = 1 to x = e?",
+  "answer": "\\(\\frac{1}{e-1}\\)",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "1/(e-1)",
+   "0.582"
+  ],
+  "tol": 0.002,
+  "topic": "calculus"
+ },
+ {
+  "id": "26-md1-g1-qb-19",
+  "t": 665,
+  "half": "QB",
+  "subject": "AM",
+  "q": "A map shows 20 cm × 15 cm at 1:200 scale. What is the real area?",
+  "answer": "1,200 m²",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "1200",
+   "1200 m2",
+   "1200m^2"
+  ],
+  "topic": "scale",
+  "trick": "Scale the sides first (40 m × 30 m), then multiply; or multiply the map area by 200²."
+ },
+ {
+  "id": "26-md1-g1-qb-20",
+  "t": 676,
+  "half": "QB",
+  "subject": "AM",
+  "q": "A box has 60 cans of 1.5 kg each. If the total weight is 100 kg, what is the weight of the packaging?",
+  "answer": "10 kg",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "10"
+  ],
+  "topic": "arithmetic"
+ },
+ {
+  "id": "26-md1-g1-qb-21",
+  "t": 684,
+  "half": "QB",
+  "subject": "AM",
+  "q": "The profit function \\(f(x) = -x^2 + 10x - 9\\). What is the maximum profit?",
+  "answer": "16",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "topic": "quadratics",
+  "trick": "Peak at \\(x = 5\\): \\(-25 + 50 - 9 = 16\\)."
+ },
+ {
+  "id": "26-md1-g1-bm-01",
+  "t": 1229,
+  "half": "BM",
+  "subject": "AM",
+  "q": "A drug with an 8-hour half-life is dosed at 600 mg. What remains after 24 hours?",
+  "answer": "75 mg",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "75"
+  ],
+  "topic": "half-life",
+  "trick": "24 hours is 3 half-lives: halve three times, 600, 300, 150, 75."
+ },
+ {
+  "id": "26-md1-g1-bm-02",
+  "t": 1236,
+  "half": "BM",
+  "subject": "AM",
+  "q": "In Hardy-Weinberg equilibrium, 9% are recessive. What is the heterozygote genotype frequency?",
+  "answer": "0.42",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "42%"
+  ],
+  "topic": "genetics",
+  "solution": "\\(q^2 = 0.09\\), so \\(q = 0.3\\) and \\(p = 0.7\\). Heterozygotes are \\(2pq = 0.42\\)."
+ },
+ {
+  "id": "26-md1-g1-bm-03",
+  "t": 1244,
+  "half": "BM",
+  "subject": "AM",
+  "q": "A model of a tower is 8.5 cm tall at a scale of 1:400. What is the actual height of the tower in metres?",
+  "answer": "34 m",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "34"
+  ],
+  "topic": "scale"
+ },
+ {
+  "id": "26-md1-g1-bm-04",
+  "t": 1249,
+  "half": "BM",
+  "subject": "AM",
+  "q": "For the function \\(f(x) = 4x^3 - 6x^2 + 2x - 8\\), compute its third derivative.",
+  "answer": "24",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "topic": "differentiation",
+  "trick": "Only the cubic term survives three derivatives: \\(4 \\times 3!\\) = 24."
+ },
+ {
+  "id": "26-md1-g1-bm-05",
+  "t": 1257,
+  "half": "BM",
+  "subject": "AM",
+  "q": "The price of an item is first increased by 20% and then decreased by 20%. What is the net percentage change?",
+  "answer": "-4%",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "-4",
+   "4% decrease",
+   "a 4% decrease"
+  ],
+  "topic": "percentages",
+  "trick": "Up x% then down x% always loses \\(x^2/100\\)%: here 4%."
+ },
+ {
+  "id": "26-md1-g1-bm-06",
+  "t": 1266,
+  "half": "BM",
+  "subject": "AM",
+  "q": "A force of 100 N is applied at an angle of 30° to the horizontal. What is the magnitude of its horizontal component?",
+  "answer": "86.6 N",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "86.6",
+   "50√3",
+   "50\\sqrt3"
+  ],
+  "tol": 0.1,
+  "topic": "vectors"
+ },
+ {
+  "id": "26-md1-g1-bm-07",
+  "t": 1271,
+  "half": "BM",
+  "subject": "AM",
+  "q": "A bacterial culture doubles every hour. Starting with 100, how many after 6 hours?",
+  "answer": "6,400",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "6400"
+  ],
+  "topic": "growth"
+ },
+ {
+  "id": "26-md1-g1-bm-08",
+  "t": 1279,
+  "half": "BM",
+  "subject": "AM",
+  "q": "For \\(f(x) = \\ln(2x - 1)\\), what is the first derivative of f(x) at x = 2?",
+  "answer": "2/3",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "0.667",
+   "0.67"
+  ],
+  "tol": 0.005,
+  "topic": "differentiation",
+  "solution": "\\(f'(x) = \\frac{2}{2x - 1}\\), so \\(f'(2) = 2/3\\)."
+ },
+ {
+  "id": "26-md1-g1-bm-09",
+  "t": 1285,
+  "half": "BM",
+  "subject": "AM",
+  "q": "If the side of a square is measured as 10.0 ± 0.2 cm, the area is approximately",
+  "answer": "100 ± 4 cm²",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "100±4",
+   "100 +- 4"
+  ],
+  "topic": "errors",
+  "trick": "Percentage errors double when you square: 2% on the side is 4% on the area."
+ },
+ {
+  "id": "26-md1-g1-bm-10",
+  "t": 1293,
+  "half": "BM",
+  "subject": "AM",
+  "q": "For the quadratic equation \\(2x^2 - 5x - 3 = 0\\), find the sum of its roots.",
+  "answer": "5/2",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "2.5"
+  ],
+  "topic": "quadratics",
+  "trick": "Sum of roots is \\(-b/a\\); no need to solve."
+ },
+ {
+  "id": "26-md1-g1-bm-11",
+  "t": 1301,
+  "half": "BM",
+  "subject": "DA",
+  "q": "A factory's defect rate is 12%. In a batch of 800 items, the expected number of non-defective items is",
+  "answer": "704",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "topic": "expectation"
+ },
+ {
+  "id": "26-md1-g1-bm-12",
+  "t": 1309,
+  "half": "BM",
+  "subject": "AM",
+  "q": "A car travels 120 km in 2 hours. How far will it travel in 7 hours at the same speed?",
+  "answer": "420 km",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "420"
+  ],
+  "topic": "rates"
+ },
+ {
+  "id": "26-md1-g1-bm-13",
+  "t": 1315,
+  "half": "BM",
+  "subject": "AM",
+  "q": "The distance a car has travelled is given by \\(s(t) = t^3 + 2t^2\\). How far has it travelled after 3 seconds?",
+  "answer": "45",
+  "tag": "worked_out",
+  "video": "LNb9hDxcp1o",
+  "match": "UNILAG v FUTA, matchday 1",
+  "stage": "group",
+  "level": 1,
+  "accept": [
+   "45 m",
+   "45 units"
+  ],
+  "topic": "functions"
+ },
+ {
+  "id": "26-fin-qb-01",
+  "t": 935,
+  "half": "QB",
+  "subject": "VR",
+  "q": "\"Nigeria\" is to \"Africa\" as \"Brazil\" is to:",
+  "answer": "South America",
+  "tag": "worked_out",
+  "video": "MmCQhh6aGrE",
+  "match": "FUTA v OAU, final",
+  "stage": "final",
+  "level": 3,
+  "options": [
+   "Australia",
+   "Asia",
+   "South America"
+  ],
+  "topic": "analogies"
+ },
+ {
+  "id": "26-fin-qb-02",
+  "t": 1831,
+  "half": "QB",
+  "subject": "DA",
+  "q": "Given a mean of 70 and a margin of error of 3, find the 95% confidence interval.",
+  "answer": "(67, 73)",
+  "tag": "confirmed",
+  "video": "MmCQhh6aGrE",
+  "match": "FUTA v OAU, final",
+  "stage": "final",
+  "level": 3,
+  "options": [
+   "(67, 73)",
+   "(76, 83)",
+   "(70, 73)"
+  ],
+  "topic": "confidence intervals"
+ },
+ {
+  "id": "26-fin-qb-03",
+  "t": 1900,
+  "half": "QB",
+  "subject": "DA",
+  "q": "From a 52-card deck, what is the probability of drawing a spade or a face card?",
+  "answer": "11/26",
+  "tag": "worked_out",
+  "video": "MmCQhh6aGrE",
+  "match": "FUTA v OAU, final",
+  "stage": "final",
+  "level": 3,
+  "options": [
+   "10/26",
+   "8/26",
+   "11/26"
+  ],
+  "topic": "probability",
+  "solution": "13 spades + 12 face cards − 3 spade face cards = 22 cards, and 22/52 = 11/26."
+ },
+ {
+  "id": "26-fin-bm-01",
+  "t": 2149,
+  "half": "BM",
+  "subject": "AM",
+  "q": "How much work is done lifting 8 kilograms through 3 metres? (g = 9.8 m/s²)",
+  "answer": "235J",
+  "tag": "confirmed",
+  "video": "MmCQhh6aGrE",
+  "match": "FUTA v OAU, final",
+  "stage": "final",
+  "level": 3,
+  "options": [
+   "426J",
+   "235J",
+   "625J"
+  ],
+  "topic": "work",
+  "trick": "8 × 3 = 24, and 24 × 9.8 is just under 240."
+ },
+ {
+  "id": "26-fin-bm-02",
+  "t": 2154,
+  "half": "BM",
+  "subject": "AM",
+  "q": "If $10,000 is invested at a 4% annual simple interest rate, what will be the total balance after 2 years?",
+  "answer": "$10,800",
+  "tag": "worked_out",
+  "video": "MmCQhh6aGrE",
+  "match": "FUTA v OAU, final",
+  "stage": "final",
+  "level": 3,
+  "accept": [
+   "10800",
+   "10,800"
+  ],
+  "topic": "interest"
+ },
+ {
+  "id": "26-fin-bm-03",
+  "t": 2158,
+  "half": "BM",
+  "subject": "AM",
+  "q": "At a school, the boy-to-girl ratio stands at 2:9. With 315 girls enrolled, how many boys attend?",
+  "answer": "70",
+  "tag": "worked_out",
+  "video": "MmCQhh6aGrE",
+  "match": "FUTA v OAU, final",
+  "stage": "final",
+  "level": 3,
+  "topic": "ratio",
+  "trick": "315 / 9 = 35 per part; boys are 2 parts."
+ },
+ {
+  "id": "26-fin-bm-04",
+  "t": 2266,
+  "half": "BM",
+  "subject": "AM",
+  "q": "If a 12-inch pizza is cut into 8 slices, how many slices would a 24-inch pizza of the same thickness have?",
+  "answer": "32 slices",
+  "tag": "worked_out",
+  "video": "MmCQhh6aGrE",
+  "match": "FUTA v OAU, final",
+  "stage": "final",
+  "level": 3,
+  "options": [
+   "16 slices",
+   "32 slices",
+   "42 slices"
+  ],
+  "topic": "scaling",
+  "trick": "Double the diameter, four times the area."
+ },
+ {
+  "id": "26-fin-bm-05",
+  "t": 2392,
+  "half": "BM",
+  "subject": "VR",
+  "q": "If today is Monday, 100 days later will be?",
+  "answer": "Wednesday",
+  "tag": "worked_out",
+  "video": "MmCQhh6aGrE",
+  "match": "FUTA v OAU, final",
+  "stage": "final",
+  "level": 3,
+  "options": [
+   "Thursday",
+   "Wednesday",
+   "Tuesday"
+  ],
+  "topic": "calendar",
+  "trick": "Only the remainder matters: 100 = 14 × 7 + 2, so two days after Monday."
+ },
+ {
+  "id": "26-fin-bm-06",
+  "t": 2944,
+  "half": "BM",
+  "subject": "DA",
+  "q": "Find the median value of research grant awards (in $1000s): 45, 28, 52, 35, 48, 42, 55.",
+  "answer": "45",
+  "tag": "worked_out",
+  "video": "MmCQhh6aGrE",
+  "match": "FUTA v OAU, final",
+  "stage": "final",
+  "level": 3,
+  "options": [
+   "42",
+   "48",
+   "45"
+  ],
+  "topic": "median"
+ },
+ {
+  "id": "26-fin-bm-07",
+  "t": 2949,
+  "half": "BM",
+  "subject": "DA",
+  "q": "If independent, what's P(internship and job) when P(internship) = 0.6 and P(job) = 0.5?",
+  "answer": "30%",
+  "tag": "worked_out",
+  "video": "MmCQhh6aGrE",
+  "match": "FUTA v OAU, final",
+  "stage": "final",
+  "level": 3,
+  "options": [
+   "50%",
+   "30%",
+   "10%"
+  ],
+  "topic": "probability"
+ }
+]
