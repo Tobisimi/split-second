@@ -39,7 +39,7 @@ def on_show(q):
     if not r: return ''
     if r == 'none': return 'nobody answered'
     who = (q.get('player') or '') + (f" ({q['school']})" if q.get('school') else '')
-    return f"{who.strip() or 'contestant'} {'right' if r == 'right' else 'wrong'}"
+    return f"{who.strip() or 'contestant'} {'right' if r == 'right' else ('missed' if q.get('half') == 'BM' else 'wrong')}"
 
 def main():
     sols = {}

@@ -24,7 +24,8 @@ function onShow(q: Question): string {
   if (!q.result) return '';
   if (q.result === 'none') return 'On the show, nobody answered.';
   const who = q.player ? `${q.player}${q.school ? ` (${q.school})` : ''}` : (q.school || 'The contestant');
-  return `On the show, ${who} ${RESULT_TEXT[q.result]}.`;
+  const what = q.result === 'wrong' && q.half === 'BM' ? 'missed it' : RESULT_TEXT[q.result];
+  return `On the show, ${who} ${what}.`;
 }
 
 function loadSetup(): Setup { try { const s = localStorage.getItem('ss.setup'); if (s) return { ...DEFAULTS, ...JSON.parse(s) }; } catch { /* */ } return DEFAULTS; }
@@ -140,7 +141,7 @@ export default function App() {
         <Field label="Scoring">
           <Seg value={setup.scoring} onChange={v => update({ scoring: v as Setup['scoring'] })}
             options={brain ? [['ladder', 'Brain Match ladder'], ['practice', '+10 / minus 5']] : [['practice', '+10 / minus 5'], ['show_qb', 'Quick Buzz rules']]} />
-          {setup.scoring === 'ladder' && <p className="note">Each right answer climbs 2, 2, 3, 3, 3 … 6; a wrong answer drops you to the bottom. This rule isn't confirmed yet.</p>}
+          {setup.scoring === 'ladder' && <p className="note">Each right answer in a row is worth more: 2, 2, 3, 3, 3, 4, 4, 4, 4, 5 … up to 6. A miss sends you back to 2. This matches every score change in the 2026 final.</p>}
         </Field>
         {!brain && (
           <Field label="Skips">

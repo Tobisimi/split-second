@@ -57,14 +57,26 @@ def main(cfg_path):
         if d is not None and half == 'QB' and (abs(d[0]) > 10 or abs(d[1]) > 10):
             card = next((c for c in cards if c[0] > r['t1']), None)   # last question of a quarter: use the score card
             d = [card[1] - r['before'][0], card[2] - r['before'][1]] if card and None not in r['before'] else None
-        if d is not None:
+        player = r.get('player') or ''
+        if half == 'BM':
+            # Brain Match: the panel side shows whose turn it is (left = top score, right = bottom score).
+            # A right answer adds the ladder value; a miss adds nothing and resets the ladder.
+            side = 0 if r.get('side') == 'BML' else 1
+            school = top if side == 0 else bottom
+            names = cfg.get('bm_players', {}).get(str(qn[r['id']]))
+            player = names[side] if names else ''
+            if d is not None and abs(d[0]) <= 6 and abs(d[1]) <= 6 and min(d) >= 0:
+                result = 'right' if d[side] > 0 else 'wrong'
+        elif d is not None:
             if d[0] == 0 and d[1] == 0: result = 'none'
             else:
                 side = 0 if d[0] != 0 else 1
                 result = 'right' if d[side] > 0 else 'wrong'
                 if not school: school = top if side == 0 else bottom
-        player = r.get('player') or ''
-        if result == 'none': player, school = '', ''
+        if 'r' in p: result = None if p['r'] == '?' else p['r']
+        if 'sch' in p: school = p['sch']
+        if 'pl' in p: player = p['pl']
+        if result in ('none', None) and half == 'QB': player, school = ('', '') if result == 'none' else (player, school)
         rec = {
             'video': cfg['video'], 't': int(r['t0']), 'match': cfg['match'], 'stage': cfg['stage'], 'half': half,
             'quarter': qn[r['id']], 'subject': p.get('s'), 'topic': p.get('tp', ''),

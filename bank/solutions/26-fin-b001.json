@@ -1,0 +1,979 @@
+{
+ "26-fin-qb-1798": {
+  "solution": "Ohm's law says V = I × R, so R = V ÷ I = 10 ÷ 2 = 5. The resistance is 5 Ω.",
+  "trick": "Dividing by 2 is halving, and half of 10 is 5.",
+  "check": "agree",
+  "computed": "5 Ω",
+  "accept": [
+   "5",
+   "5Ω",
+   "5 Ω",
+   "5 ohm",
+   "5 ohms"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1800": {
+  "solution": "Only Coffee = all Coffee drinkers − those who like both = 40 − 20 = 20. The Tea total of 50 is not needed. The answer is 20.",
+  "trick": "The 40 Coffee drinkers already include the 20 who like both, so take them away: 40 − 20 = 20. Ignore the Tea number.",
+  "check": "agree",
+  "computed": "20",
+  "accept": [
+   "20",
+   "20 people"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1815": {
+  "solution": "The dot product multiplies matching parts and adds them. A · B = (2 × 1) + (5 × (−3)) = 2 − 15 = −13. The answer is −13.",
+  "trick": "The i parts give 2 and the j parts give −15, so all you need is 2 − 15 = −13.",
+  "check": "agree",
+  "computed": "−13",
+  "accept": [
+   "-13",
+   "−13",
+   "minus 13",
+   "negative 13"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1818": {
+  "solution": "The number of calls in an hour follows a Poisson distribution with mean λ = 3. For a Poisson distribution the variance equals the mean. So the variance is 3.",
+  "trick": "For a Poisson distribution the mean and the variance are the same number, so just repeat the 3.",
+  "check": "agree",
+  "computed": "3",
+  "accept": [
+   "3",
+   "3 calls",
+   "3 calls per hour",
+   "3.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1832": {
+  "solution": "Confidence interval = mean ± margin of error = 70 ± 3. The lower end is 70 − 3 = 67 and the upper end is 70 + 3 = 73. The interval is (67, 73).",
+  "trick": "The ends sit 3 either side of 70, so 67 and 73. Only (67, 73) is centred on 70.",
+  "check": "agree",
+  "computed": "(67, 73)",
+  "accept": [
+   "(67, 73)",
+   "(67,73)",
+   "67, 73",
+   "67,73",
+   "67 to 73",
+   "[67, 73]"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1835": {
+  "solution": "The share of variation explained is the coefficient of determination, r². With r = 0.8, r² = 0.8 × 0.8 = 0.64. The answer is 0.64, or 64%.",
+  "trick": "Square the correlation: 8 × 8 = 64, so 0.8² = 0.64, which is 64%.",
+  "check": "agree",
+  "computed": "0.64 (64%)",
+  "accept": [
+   "0.64",
+   "64%",
+   "64",
+   "64 percent",
+   ".64",
+   "16/25"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1852": {
+  "solution": "The rate is lowest where its derivative is zero. dR/dt = 6t − 6 = 0, so t = 1. The second derivative is 6, which is positive, so this is a minimum. The rate is minimized at t = 1 s.",
+  "trick": "R = 3t(t − 2) is a parabola that is zero at t = 0 and t = 2, so its lowest point is halfway between them, at t = 1.",
+  "check": "agree",
+  "computed": "1 s",
+  "accept": [
+   "1",
+   "1s",
+   "1 s",
+   "1 second",
+   "t = 1",
+   "t=1"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1855": {
+  "solution": "Covariance = r × SD of X × SD of Y = 0.6 × 5 × 10. 5 × 10 = 50, and 0.6 × 50 = 30. The covariance is 30.",
+  "trick": "5 × 10 = 50, and 60% of 50 is 30.",
+  "check": "agree",
+  "computed": "30",
+  "accept": [
+   "30",
+   "30.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1862": {
+  "solution": "The sum of the first n odd numbers is n². For n = 20 that is 20² = 400. The sum is 400.",
+  "trick": "The first n odd numbers always add up to n², so 20 × 20 = 400.",
+  "check": "agree",
+  "computed": "400",
+  "accept": [
+   "400",
+   "400.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1864": {
+  "solution": "Read this as the percentage increase in size: (new − old) ÷ old × 100 = (1.5 − 0.1) ÷ 0.1 × 100 = 1.4 ÷ 0.1 × 100 = 14 × 100. The percentage magnification is 1,400%.",
+  "trick": "The image grew by 1.4 mm, which is 14 times the original 0.1 mm, so 14 × 100% = 1,400%.",
+  "check": "unclear",
+  "computed": "1,400% (as a percentage increase; 1,500% if read as a ratio)",
+  "accept": [
+   "1400%",
+   "1,400%",
+   "1400",
+   "1,400",
+   "1400 percent"
+  ],
+  "comment": "Magnification is often the ratio 1.5 ÷ 0.1 = 15 times, which written as a percentage is 1,500%. The show's 1,400% is the percentage increase, (1.5 − 0.1) ÷ 0.1 × 100, and 1,500% is not among the options."
+ },
+ "26-fin-qb-1868": {
+  "solution": "Quartile deviation = (Q3 − Q1) ÷ 2, and the interquartile range is Q3 − Q1. So IQR = 2 × quartile deviation = 2 × 5 = 10. The interquartile range is 10.",
+  "trick": "The quartile deviation is half the IQR, so double it: 5 × 2 = 10.",
+  "check": "agree",
+  "computed": "10",
+  "accept": [
+   "10",
+   "10.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1876": {
+  "solution": "12.5% = 1/8 = (1/2)³, so the dose halved 3 times in 24 hours. Half life = 24 ÷ 3 = 8. The half life is 8 hours.",
+  "trick": "Halve three times: 100%, 50%, 25%, 12.5%. Three halvings in 24 hours means 8 hours each.",
+  "check": "agree",
+  "computed": "8 hours",
+  "accept": [
+   "8",
+   "8 hours",
+   "8 hour",
+   "8h",
+   "8 h",
+   "8hrs",
+   "8 hrs",
+   "8 hr"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1880": {
+  "solution": "Assume the data are normally distributed. z = (x − mean) ÷ SD = (80 − 70) ÷ 10 = 1. About 84.13% of a normal distribution lies below z = 1. So the answer is about 84%.",
+  "trick": "80 is exactly one SD above the mean. 50% lies below the mean and about 34% between the mean and one SD up, so 50 + 34 = 84.",
+  "check": "agree",
+  "computed": "84%",
+  "accept": [
+   "84%",
+   "84",
+   "84.13%",
+   "84.13",
+   "84.1%",
+   "0.84",
+   "0.8413",
+   "84 percent"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1893": {
+  "solution": "P(q) = 4q² + 240q − 100 is an upward parabola, so its lowest point is the turning point q = −b ÷ (2a). That gives q = −240 ÷ (2 × 4) = −240 ÷ 8 = −30. A negative quantity is odd in real life, but it is the turning point the question asks for. The answer is q = −30.",
+  "trick": "The turning point is at −b ÷ 2a: 240 ÷ 8 = 30, and with the minus sign that is −30.",
+  "check": "agree",
+  "computed": "−30",
+  "accept": [
+   "-30",
+   "−30",
+   "q = -30",
+   "q=-30",
+   "q = −30",
+   "minus 30",
+   "negative 30"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1898": {
+  "solution": "There are 13 spades and 12 face cards (J, Q, K), and 3 cards are both. So the cards that are a spade or a face card number 13 + 12 − 3 = 22. The probability is 22/52 = 11/26.",
+  "trick": "Count the 13 spades plus the 9 face cards that are not spades: 13 + 9 = 22. Then 22/52 halves to 11/26.",
+  "check": "agree",
+  "computed": "11/26",
+  "accept": [
+   "11/26",
+   "22/52",
+   "0.423",
+   "0.4231",
+   "42.3%"
+  ],
+  "comment": ""
+ },
+ "26-fin-qb-1907": {
+  "solution": "At 4:20 the hour hand is at 4 × 30° + 20 × 0.5° = 130°. The minute hand is at 20 × 6° = 120°. The angle between them is 130° − 120° = 10°.",
+  "trick": "Use 30 × hours − 5.5 × minutes = 120 − 110 = 10°, ignoring any minus sign. If that comes out over 180°, take it away from 360°.",
+  "check": "agree",
+  "computed": "10°",
+  "accept": [
+   "10°",
+   "10",
+   "10 degrees",
+   "10deg"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2150": {
+  "solution": "Work done = weight × height = m × g × h = 8 × 9.8 × 3. 8 × 3 = 24, and 24 × 9.8 = 235.2. The work done is about 235 J.",
+  "trick": "8 × 3 = 24, and 24 × 10 is 240, so the answer is just under 240. Only 235J is close.",
+  "check": "agree",
+  "computed": "235 J (235.2 J)",
+  "accept": [
+   "235",
+   "235J",
+   "235 J",
+   "235.2",
+   "235.2J",
+   "235.2 J",
+   "235 joules",
+   "235.2 joules"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2155": {
+  "solution": "Simple interest = P × r × t = 10,000 × 0.04 × 2 = 800. Total balance = 10,000 + 800 = 10,800. The balance is $10,800.",
+  "trick": "4% of 10,000 is 400 a year, so 800 over 2 years. Add it on: 10,800.",
+  "check": "agree",
+  "computed": "$10,800",
+  "accept": [
+   "10800",
+   "10,800",
+   "$10800",
+   "$10,800",
+   "10 800"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2160": {
+  "solution": "The girls are 9 parts of the ratio, so one part = 315 ÷ 9 = 35. The boys are 2 parts: 2 × 35 = 70. There are 70 boys.",
+  "trick": "315 ÷ 9 = 35, then double it: 70.",
+  "check": "agree",
+  "computed": "70",
+  "accept": [
+   "70",
+   "70 boys"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2165": {
+  "solution": "Magnetic flux is measured in webers (Wb). The newton is the unit of force, and the tesla is the unit of flux density, which is one weber per square metre. The answer is Weber.",
+  "trick": "Tesla is flux per square metre, so the flux itself is the weber.",
+  "check": "agree",
+  "computed": "Weber",
+  "accept": [
+   "Weber",
+   "weber",
+   "webers",
+   "Wb"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2170": {
+  "solution": "The amount of salt does not change, so 8% × 100 mL = 4% × V, where V is the final volume. V = 800 ÷ 4 = 200 mL. The water to add is 200 − 100 = 100 mL.",
+  "trick": "Going from 8% to 4% halves the strength, so the volume must double. Doubling 100 mL means adding 100 mL of water.",
+  "check": "agree",
+  "computed": "100 mL",
+  "accept": [
+   "100",
+   "100mL",
+   "100 mL",
+   "100ml",
+   "100 ml",
+   "100 millilitres",
+   "100 milliliters"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2173": {
+  "solution": "Length = √(Δx² + Δy²), where Δx and Δy are the differences in x and y. Δx = 6 − (−2) = 8 and Δy = −3 − 5 = −8, so the length is √(64 + 64) = √128 = √(64 × 2) = 8√2. The length is 8√2 units.",
+  "trick": "Both differences are 8, so the segment is the diagonal of an 8 by 8 square: 8√2. That is about 11.3, so 10 and 14 are out.",
+  "check": "agree",
+  "computed": "8√2 units (about 11.31)",
+  "accept": [
+   "8√2",
+   "8√2 units",
+   "8 root 2",
+   "8 sqrt 2",
+   "8sqrt2",
+   "8*sqrt(2)",
+   "8 sqrt(2)",
+   "√128",
+   "sqrt(128)",
+   "11.31",
+   "11.3",
+   "11.31 units",
+   "11.3137"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2176": {
+  "solution": "Permeability is defined by B = μ × H, so on a graph of B against H the slope is μ. The slope of the B-H curve represents permeability.",
+  "trick": "B = μH has the same shape as y = mx, so the slope is μ, the permeability.",
+  "check": "agree",
+  "computed": "Permeability",
+  "accept": [
+   "Permeability",
+   "permeability",
+   "magnetic permeability",
+   "μ",
+   "mu"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2179": {
+  "solution": "A · B = (length of A) × (length of B) × cos θ. Orthogonal vectors meet at θ = 90°, and cos 90° = 0. So the dot product is 0.",
+  "trick": "Orthogonal means at right angles, and cos 90° = 0, so the answer is 0.",
+  "check": "agree",
+  "computed": "0",
+  "accept": [
+   "0",
+   "zero",
+   "0.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2183": {
+  "solution": "Flour is 5 parts, so one part = 400 ÷ 5 = 80 g. Sugar is 3 parts: 3 × 80 = 240 g. So 240 g of sugar is needed.",
+  "trick": "400 ÷ 5 = 80 for one part, then 80 × 3 = 240.",
+  "check": "agree",
+  "computed": "240 g",
+  "accept": [
+   "240",
+   "240g",
+   "240 g",
+   "240 grams"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2188": {
+  "solution": "Gauss's law says the electric flux through a closed surface equals the enclosed charge divided by the permittivity of free space. So it ties the electric field to the charge inside. The answer is Charge.",
+  "trick": "Gauss's law is the charge law: the field flux depends on the charge enclosed.",
+  "check": "agree",
+  "computed": "Charge",
+  "accept": [
+   "Charge",
+   "charge",
+   "electric charge",
+   "enclosed charge"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2191": {
+  "solution": "The integral of a constant k is kx + C. So ∫3 dx = 3x + C, because the derivative of 3x + C is 3. The answer is 3x + C.",
+  "trick": "Differentiate the options: 3x³ gives 9x² and 3x² gives 6x, so only 3x + C gives back 3.",
+  "check": "agree",
+  "computed": "3x + C",
+  "accept": [
+   "3x + C",
+   "3x+C",
+   "3x + c",
+   "3x+c"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2194": {
+  "solution": "Fuel needed = rate × distance = 0.25 L/km × 240 km = 60 L. The trip needs 60 L.",
+  "trick": "0.25 is a quarter, and a quarter of 240 is 60.",
+  "check": "agree",
+  "computed": "60 L",
+  "accept": [
+   "60",
+   "60L",
+   "60 L",
+   "60l",
+   "60 litres",
+   "60 liters"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2199": {
+  "solution": "The derivative of arctan x is 1/(1 + x²), so integrating 1/(1 + x²) gives arctan x + C. The answer is arctan x.",
+  "trick": "This is a standard result. The derivative of x is 1 and of ln x is 1/x, so neither of those options can be it.",
+  "check": "agree",
+  "computed": "arctan x",
+  "accept": [
+   "arctan x",
+   "arctan(x)",
+   "arctan",
+   "arctan x + C",
+   "arctan(x) + C",
+   "atan(x)",
+   "atan x",
+   "tan⁻¹ x",
+   "tan⁻¹x",
+   "tan⁻¹(x)",
+   "tan^-1 x",
+   "tan^-1(x)",
+   "inverse tan x"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2203": {
+  "solution": "In the first, elastic part of the curve, stress is proportional to strain: stress = E × strain. So the initial slope is E, Young's modulus. The yield point is a point on the curve, and creep is slow deformation over time, so neither is a slope. The answer is Young's modulus.",
+  "trick": "Stress ÷ strain is the definition of Young's modulus, and the straight start of the curve has exactly that slope.",
+  "check": "agree",
+  "computed": "Young's modulus",
+  "accept": [
+   "Young's modulus",
+   "Youngs modulus",
+   "young's modulus",
+   "modulus of elasticity",
+   "elastic modulus"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2207": {
+  "solution": "Heat conduction is governed by Fourier's law, q = −k dT/dx, which links the heat flow to the temperature gradient. The Darcy equation describes fluid flow through porous material. The answer is the Fourier equation.",
+  "trick": "Heat conduction goes with Fourier. Darcy belongs to flow through porous material.",
+  "check": "agree",
+  "computed": "Fourier equation",
+  "accept": [
+   "Fourier equation",
+   "Fourier",
+   "Fourier's law",
+   "Fourier law",
+   "Fouriers law",
+   "Fourier's equation"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2210": {
+  "solution": "Extra pay = 15% of $300 = 0.15 × 300 = 45. Chen earns $45 extra each month.",
+  "trick": "10% of 300 is 30 and 5% is 15, so 30 + 15 = 45.",
+  "check": "agree",
+  "computed": "$45",
+  "accept": [
+   "45",
+   "$45",
+   "45 dollars"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2214": {
+  "solution": "The eigenvalues of a system's matrix set its natural modes, such as the rates and frequencies at which it naturally decays or oscillates. Force and heat are not what an eigenvalue stands for. The answer is Natural mode.",
+  "trick": "'Eigen' is German for 'own' or 'characteristic', so eigenvalues describe the system's own natural modes.",
+  "check": "agree",
+  "computed": "Natural mode",
+  "accept": [
+   "Natural mode",
+   "natural mode",
+   "natural modes",
+   "mode",
+   "a natural mode"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2218": {
+  "solution": "A fair die has 6 equally likely faces, and 3 of them are even (2, 4, 6). P(even) = 3/6 = 0.5. The probability is 0.5.",
+  "trick": "Half the faces are even, so the answer is 0.5.",
+  "check": "agree",
+  "computed": "0.5",
+  "accept": [
+   "0.5",
+   ".5",
+   "1/2",
+   "3/6",
+   "50%",
+   "half",
+   "0.50"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2222": {
+  "solution": "In simple harmonic motion a = −ω²x, where x is the displacement. So the acceleration is proportional to the displacement and points the opposite way. The answer is Displacement.",
+  "trick": "SHM is defined by a = −ω²x, so the acceleration follows the displacement.",
+  "check": "agree",
+  "computed": "Displacement",
+  "accept": [
+   "Displacement",
+   "displacement"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2228": {
+  "solution": "A positive second derivative means the curve bends upward like a bowl. At a point where the slope is zero, that makes it a local minimum. The answer is Minima.",
+  "trick": "A positive second derivative is a smile shape, and the flat point at the bottom of a smile is a minimum.",
+  "check": "agree",
+  "computed": "Minima",
+  "accept": [
+   "Minima",
+   "minima",
+   "minimum",
+   "a minimum",
+   "local minimum",
+   "min"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2232": {
+  "solution": "A gradient field ∇φ has no rotation, so its curl is the zero vector: ∇ × (∇φ) = 0. This holds for any scalar field with continuous second derivatives. The answer is 0.",
+  "trick": "The curl of a gradient is always zero, because the mixed second derivatives cancel in pairs.",
+  "check": "agree",
+  "computed": "0",
+  "accept": [
+   "0",
+   "zero",
+   "zero vector",
+   "the zero vector"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2236": {
+  "solution": "For a launch and landing at the same level, the range is R = u² sin 2θ ÷ g. So the range depends on the term sin 2θ. The answer is sin 2θ.",
+  "trick": "Range is greatest at 45°, where 2θ = 90° and sin 2θ = 1. That points to sin 2θ.",
+  "check": "agree",
+  "computed": "sin 2θ",
+  "accept": [
+   "sin2θ",
+   "sin 2θ",
+   "sin(2θ)",
+   "sin2theta",
+   "sin 2 theta",
+   "sin(2 theta)"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2239": {
+  "solution": "The Nyquist criterion judges stability by counting how many times the Nyquist plot encircles the −1 point. That count is compared with the number of open loop poles in the right half plane. The answer is the Encirclements rule.",
+  "trick": "Nyquist means counting loops around −1. The other two options are not that test.",
+  "check": "agree",
+  "computed": "Encirclements rule",
+  "accept": [
+   "Encirclements rule",
+   "encirclements rule",
+   "encirclement rule",
+   "encirclements",
+   "encirclement"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2245": {
+  "solution": "Fill rates add. Pipe A fills 1/12 of the tank per hour and Pipe B fills 1/8, so together 1/12 + 1/8 = 2/24 + 3/24 = 5/24 per hour. Time = 24 ÷ 5 = 4.8 hours.",
+  "trick": "For two pipes use product ÷ sum: (12 × 8) ÷ (12 + 8) = 96 ÷ 20 = 4.8. The answer must also lie between 4 (half of the faster pipe's 8 hours) and 8 hours, which rules out the other two options.",
+  "check": "agree",
+  "computed": "4.8 hours",
+  "accept": [
+   "4.8",
+   "4.8 hours",
+   "4.8 hour",
+   "4.8h",
+   "4.8 h",
+   "4.8 hrs",
+   "24/5",
+   "24/5 hours"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2250": {
+  "solution": "The impulse response is the output of an LTI system when the input is a unit impulse δ(t). It is written h(t), and the output for any input x(t) is the convolution of x(t) with h(t). The answer is h(t).",
+  "trick": "y(t) is the output signal, not the response to an impulse. In signals and systems the impulse response is written h(t).",
+  "check": "agree",
+  "computed": "h(t)",
+  "accept": [
+   "h(t)",
+   "h of t",
+   "h"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2253": {
+  "solution": "s(3) = 3 × 3² + 4 × 3 = 27 + 12 = 39. The cyclist starts at s(0) = 0 and never goes backwards, because the speed 6t + 4 stays positive. So the distance is 39 m.",
+  "trick": "3 × 9 = 27 and 4 × 3 = 12, so 27 + 12 = 39.",
+  "check": "agree",
+  "computed": "39 m",
+  "accept": [
+   "39",
+   "39m",
+   "39 m",
+   "39 metres",
+   "39 meters"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2260": {
+  "solution": "Energy stored = ½ C V² = ½ × 2 × 3² = ½ × 2 × 9 = 9. The energy is 9 J.",
+  "trick": "The ½ cancels the 2 F, leaving V² = 9.",
+  "check": "agree",
+  "computed": "9 J",
+  "accept": [
+   "9",
+   "9J",
+   "9 J",
+   "9 joules"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2265": {
+  "solution": "Pizza area grows with the square of the diameter. The diameter doubles from 12 to 24, so the area is 2² = 4 times as big. With slices of the same size, that is 4 × 8 = 32 slices.",
+  "trick": "Twice as wide means four times the area, so 4 × 8 = 32.",
+  "check": "agree",
+  "computed": "32 slices",
+  "accept": [
+   "32",
+   "32 slices"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2938": {
+  "solution": "With replacement the two draws are independent. P(red) = 3/5 each time, so P(both red) = 3/5 × 3/5 = 9/25. The probability is 9/25.",
+  "trick": "Square the top and the bottom: 3² = 9 and 5² = 25.",
+  "check": "agree",
+  "computed": "9/25",
+  "accept": [
+   "9/25",
+   "0.36",
+   ".36",
+   "36%"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2941": {
+  "solution": "For independent events, P(A and B) = P(A) × P(B) = 0.8 × 0.5 = 0.4. The probability of passing both is 0.4.",
+  "trick": "Multiplying by 0.5 halves a number, and half of 0.8 is 0.4.",
+  "check": "agree",
+  "computed": "0.4",
+  "accept": [
+   "0.4",
+   ".4",
+   "0.40",
+   "40%",
+   "2/5"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2943": {
+  "solution": "Put the values in order: 28, 35, 42, 45, 48, 52, 55. There are 7 values, so the median is the 4th one. The median is 45.",
+  "trick": "With 7 values you want the one with three on each side. Three are below 45 (28, 35, 42) and three above (48, 52, 55), so it is 45.",
+  "check": "agree",
+  "computed": "45",
+  "accept": [
+   "45",
+   "45.0",
+   "45,000",
+   "45000",
+   "$45,000",
+   "$45000"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2949": {
+  "solution": "For independent events, P(internship and job) = 0.6 × 0.5 = 0.3. As a percentage that is 30%. The answer is 30%.",
+  "trick": "Half of 0.6 is 0.3, which is 30%.",
+  "check": "agree",
+  "computed": "30%",
+  "accept": [
+   "30%",
+   "30",
+   "0.3",
+   ".3",
+   "0.30",
+   "3/10",
+   "30 percent"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2953": {
+  "solution": "Y rises when X rises, so the correlation is positive and r is above 0. A perfect r = 1 would need Y to fall every time X falls, but here Y is unpredictable when X falls, so r is below 1. The answer is r > 0.",
+  "trick": "Rule out r = −1, since Y rises with X. Rule out r = 1, since a perfect line needs Y to fall when X falls. That leaves r > 0.",
+  "check": "agree",
+  "computed": "r > 0",
+  "accept": [
+   "r > 0",
+   "r>0",
+   "r is greater than 0",
+   "greater than 0",
+   "positive"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2958": {
+  "solution": "Range = largest − smallest = 18 − 8 = 10. The range is 10 years.",
+  "trick": "Only the youngest and oldest matter: 18 − 8 = 10.",
+  "check": "agree",
+  "computed": "10 years",
+  "accept": [
+   "10",
+   "10 years",
+   "10 yrs",
+   "10yrs",
+   "10 year"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2962": {
+  "solution": "The three jobs are different and no student can hold two, so order matters. The number of ways is 9P3 = 9 × 8 × 7 = 504. There are 504 ways.",
+  "trick": "Only the last digit is needed: 9 × 8 ends in 2, and 2 × 7 ends in 4. Only 504 ends in 4.",
+  "check": "agree",
+  "computed": "504",
+  "accept": [
+   "504",
+   "504 ways"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2968": {
+  "solution": "The empirical relation is mode = 3 × median − 2 × mean. Mode = 3 × 13 − 2 × 11 = 39 − 22 = 17. The mode is 17.",
+  "trick": "Median − mean = 13 − 11 = 2, so go twice that far past the median: 13 + 4 = 17.",
+  "check": "agree",
+  "computed": "17",
+  "accept": [
+   "17",
+   "17.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2974": {
+  "solution": "Simple interest = P × r × t = 5,000 × 0.03 × 4 = 600. Total value = 5,000 + 600 = 5,600. The total value is $5,600.",
+  "trick": "3% for 4 years is 12%, and 12% of 5,000 is 600. So the total is 5,600.",
+  "check": "agree",
+  "computed": "$5,600",
+  "accept": [
+   "5600",
+   "5,600",
+   "$5600",
+   "$5,600"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2978": {
+  "solution": "Range = highest − lowest = 35 − 25 = 10. The range is 10°C.",
+  "trick": "Hottest 35, coldest 25: the gap is 10.",
+  "check": "agree",
+  "computed": "10°C",
+  "accept": [
+   "10",
+   "10°C",
+   "10 °C",
+   "10C",
+   "10 C",
+   "10°",
+   "10 degrees",
+   "10 degrees celsius"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2984": {
+  "solution": "Draw two balls without replacement. There are 4 + 5 + 6 = 15 balls, so 15C2 = 105 pairs. Same colour: 4C2 + 5C2 + 6C2 = 6 + 10 + 15 = 31. The probability is 31/105.",
+  "trick": "All three options have 105 underneath, so just count the same colour pairs: 6 + 10 + 15 = 31.",
+  "check": "agree",
+  "computed": "31/105",
+  "accept": [
+   "31/105",
+   "0.295",
+   "0.2952",
+   "29.5%",
+   "29.52%"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2992": {
+  "solution": "In inclusive classes both end values belong to the class, as in 0 to 9, then 10 to 19. Exclusive classes would look like 0 to 10, 10 to 20, with the upper limit left out. These classes are called Inclusive.",
+  "trick": "The classes end at 9, 19, 29, so each end value is counted inside its own class. That means inclusive.",
+  "check": "agree",
+  "computed": "Inclusive",
+  "accept": [
+   "Inclusive",
+   "inclusive"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-2999": {
+  "solution": "In a histogram the bar height is the frequency density, so the area of a bar is height × width = frequency density × class width. That product equals the frequency, so the area is also proportional to the frequency. So the answer is Frequency density × class width.",
+  "trick": "Area is height × width, and the height is the frequency density, so the area is frequency density × class width.",
+  "check": "unclear",
+  "computed": "Frequency density × class width (this equals the frequency, so 'Frequency' also fits)",
+  "accept": [
+   "Frequency density × class width",
+   "frequency density x class width",
+   "frequency density times class width",
+   "frequency density * class width",
+   "frequency density × width",
+   "Frequency",
+   "frequency"
+  ],
+  "comment": "Both of the first two options are true, because frequency density × class width is the frequency itself. The show's key is the second option, and I have also put 'Frequency' in accept."
+ },
+ "26-fin-bm-3002": {
+  "solution": "LEVEL has 5 letters, with L twice and E twice. Arrangements = 5! ÷ (2! × 2!) = 120 ÷ 4 = 30. There are 30 arrangements.",
+  "trick": "With five different letters there would be 120 arrangements. Divide by 2 for the repeated L and by 2 for the repeated E: 120 ÷ 4 = 30.",
+  "check": "agree",
+  "computed": "30",
+  "accept": [
+   "30",
+   "30 ways"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3006": {
+  "solution": "Each die has 6 outcomes, so two dice give 6 × 6 = 36. There are 36 outcomes.",
+  "trick": "6 × 6 = 36.",
+  "check": "agree",
+  "computed": "36",
+  "accept": [
+   "36",
+   "36 outcomes"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3009": {
+  "solution": "Marginal probability is the probability of an event on its own, ignoring the outcome of any other variable. Conditional probability depends on another event having happened, and cumulative probability adds up probabilities up to a value. The answer is Marginal probability.",
+  "trick": "'Irrespective of the other variable' means you ignore it, and that is marginal. Conditional would need the other event to be known.",
+  "check": "agree",
+  "computed": "Marginal probability",
+  "accept": [
+   "Marginal probability",
+   "marginal probability",
+   "marginal"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3017": {
+  "solution": "Karl Pearson's coefficient of skewness = (mean − mode) ÷ SD = (40 − 60) ÷ 10 = −20 ÷ 10 = −2. The coefficient of skewness is −2.",
+  "trick": "The mean is 20 below the mode and one SD is 10, so it is −2. The sign is negative because the mean is below the mode.",
+  "check": "agree",
+  "computed": "−2",
+  "accept": [
+   "-2",
+   "−2",
+   "minus 2",
+   "negative 2",
+   "-2.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3020": {
+  "solution": "The mode is the value that appears most often. 16 appears 3 times, 12 appears twice, and every other value appears once. The mode is 16.",
+  "trick": "Scan for repeats: 16 shows up three times, more than any other value.",
+  "check": "agree",
+  "computed": "16",
+  "accept": [
+   "16",
+   "16.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3023": {
+  "solution": "The interior angles of an n sided polygon add up to (n − 2) × 180°. So (n − 2) × 180 = 720, which gives n − 2 = 4 and n = 6. The polygon has 6 sides.",
+  "trick": "720 ÷ 180 = 4, then add 2: 6.",
+  "check": "agree",
+  "computed": "6 sides",
+  "accept": [
+   "6",
+   "6 sides",
+   "six",
+   "six sides"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3026": {
+  "solution": "Compare the percentages: housing 30%, food 20%, transport 15%, other 35%. The largest is 35%, which is Other. So the largest expense is Other expenses.",
+  "trick": "Ignore the order they are listed in and find the biggest percentage: 35, which is Other.",
+  "check": "agree",
+  "computed": "Other expenses",
+  "accept": [
+   "Other expenses",
+   "other expenses",
+   "Other",
+   "other"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3031": {
+  "solution": "z = (score − mean) ÷ SD = (91 − 75) ÷ 8 = 16 ÷ 8 = 2. So the score is 2 standard deviations above the mean.",
+  "trick": "91 is 16 above 75, and 8 goes into 16 twice.",
+  "check": "agree",
+  "computed": "2",
+  "accept": [
+   "2",
+   "2.0",
+   "2 SD",
+   "2 SDs",
+   "2 standard deviations",
+   "two"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3034": {
+  "solution": "The researcher's alternative claim is that the mean is lower than the hypothesized value (μ < μ0). A claim of lower than puts the rejection region in the left tail. The answer is a Left tailed test.",
+  "trick": "The direction in the claim names the tail: lower means left. The F test compares variances, so it does not fit.",
+  "check": "agree",
+  "computed": "Left tailed",
+  "accept": [
+   "Left tailed",
+   "left tailed",
+   "left-tailed",
+   "left tail",
+   "left-tail",
+   "left tailed test",
+   "left-tailed test",
+   "left"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3039": {
+  "solution": "Use the position (n + 1) × p = 6 × 0.4 = 2.4. That is 0.4 of the way from the 2nd value (10) to the 3rd value (15). So the 40th percentile is 10 + 0.4 × 5 = 12.",
+  "trick": "The position is 0.4 × 6 = 2.4, so go 40% of the way from 10 to 15. 40% of 5 is 2, which gives 12.",
+  "check": "unclear",
+  "computed": "12 using (n + 1) × 0.4; 13 using 1 + (n − 1) × 0.4",
+  "accept": [
+   "12",
+   "12.0"
+  ],
+  "comment": "The answer depends on the percentile method. Position (n + 1) × 0.4 = 2.4 gives 12, but position 1 + (n − 1) × 0.4 = 2.6, which is the NumPy default, gives 13, and both 12 and 13 are options."
+ },
+ "26-fin-bm-3043": {
+  "solution": "The mode is not given, so use Karl Pearson's median form: coefficient of skewness = 3 × (mean − median) ÷ SD = 3 × (120 − 100) ÷ 10 = 3 × 20 ÷ 10 = 6. The coefficient of skewness is 6.",
+  "trick": "Mean − median is 20, and 20 ÷ 10 is 2, so times 3 gives 6.",
+  "check": "agree",
+  "computed": "6",
+  "accept": [
+   "6",
+   "6.0"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3046": {
+  "solution": "Deciles split the data into 10 equal parts and percentiles into 100 equal parts. Standard deviation is a single number that measures spread, so it does not divide the data. The answer is Standard Deviation.",
+  "trick": "Deciles and percentiles are cut points. Standard deviation is a spread number and cuts nothing.",
+  "check": "agree",
+  "computed": "Standard Deviation",
+  "accept": [
+   "Standard Deviation",
+   "standard deviation",
+   "SD",
+   "sd",
+   "std dev",
+   "std deviation"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3051": {
+  "solution": "Clustering groups data points by similarity without any labels to learn from. Learning without labels is unsupervised. The answer is Unsupervised.",
+  "trick": "No labels and no answers given in advance means unsupervised, and clustering has no target to predict.",
+  "check": "agree",
+  "computed": "Unsupervised",
+  "accept": [
+   "Unsupervised",
+   "unsupervised",
+   "unsupervised learning"
+  ],
+  "comment": ""
+ },
+ "26-fin-bm-3055": {
+  "solution": "At least 3 men means 3, 4 or 5 men on the committee. 3 men and 2 women: 7C3 × 6C2 = 35 × 15 = 525; 4 men and 1 woman: 7C4 × 6C1 = 35 × 6 = 210; 5 men: 7C5 = 21. Total = 525 + 210 + 21 = 756. There are 756 ways.",
+  "trick": "7C3 and 7C4 are both 35, so add the women's ways first: 35 × (15 + 6) = 35 × 21 = 735. Then add the 21 for five men: 756.",
+  "check": "agree",
+  "computed": "756",
+  "accept": [
+   "756",
+   "756 ways"
+  ],
+  "comment": ""
+ }
+}

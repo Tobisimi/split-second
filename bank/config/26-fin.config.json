@@ -20,13 +20,40 @@
    1582.76,
    80,
    90
+  ],
+  [
+   1915,
+   -10,
+   110
   ]
  ],
  "parts": [
   [
    "bank/raw/26-fin-part1.json",
    "bank/review/26-fin-part1.json"
+  ],
+  [
+   "bank/raw/26-fin-part2.json",
+   "bank/review/26-fin-part2.json"
   ]
  ],
- "out": "bank/master/26-fin.json"
+ "out": "bank/master/26-fin.json",
+ "bm_top": "FUTA",
+ "bm_bottom": "OAU",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "VR",
+  "3": "GK",
+  "4": "DA"
+ },
+ "bm_players": {
+  "1": [
+   "Faith",
+   "Quayum"
+  ],
+  "3": [
+   "Mathew",
+   "Imran"
+  ]
+ }
 }

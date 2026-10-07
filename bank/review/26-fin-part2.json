@@ -1,0 +1,815 @@
+{
+"fin2-001": {
+"skip": "same question as fin1-083 (overlap of the two capture parts)"
+},
+"fin2-002": {
+"s": "AM",
+"tp": "Electricity",
+"o": [
+"2Ω",
+"5Ω",
+"6Ω"
+],
+"k": "5Ω"
+},
+"fin2-003": {
+"s": "DA",
+"tp": "Sets and Venn diagrams",
+"q": "In a survey, 50 prefer Tea, 40 Coffee, and 20 both. How many prefer only Coffee?"
+},
+"fin2-004": {
+"s": "GK",
+"tp": "Geography",
+"q": "The dominant driver of West Africa's rainy season is the",
+"o": [
+"Subtropical Jet",
+"ITCZ",
+"Polar Front"
+],
+"k": "ITCZ"
+},
+"fin2-005": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Bird” is to “Nest” as “Spider” is to:",
+"n": "A bird lives in a nest; a spider lives in a web."
+},
+"fin2-006": {
+"s": "AM",
+"tp": "Vectors",
+"q": "If A = 2i + 5j and B = i − 3j, what is A dot B?",
+"o": [
+"−13",
+"−15",
+"−16"
+],
+"k": "−13"
+},
+"fin2-007": {
+"s": "DA",
+"tp": "Poisson distribution",
+"q": "A call centre receives 3 calls per hour on average. What is the variance?"
+},
+"fin2-008": {
+"s": "GK",
+"tp": "History"
+},
+"fin2-009": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "A man says, “My daughter's only brother is the son of your mother's only child.” Who is the man to you?",
+"a": "Himself",
+"t": "d",
+"n": "The man's daughter's only brother is his son, and the son of your mother's only child is your son. So the man's son is your son, which only works if the man is you. The show's answer was Father, and Akinola lost points for saying Himself."
+},
+"fin2-010": {
+"s": "DA",
+"tp": "Confidence intervals",
+"o": [
+"(67, 73)",
+"(76, 83)",
+"(70, 73)"
+],
+"k": "(67, 73)"
+},
+"fin2-011": {
+"s": "DA",
+"tp": "Correlation",
+"q": "If r = 0.8 between study time and grades, how much variation is explained?",
+"k": "0.64 (64%)"
+},
+"fin2-012": {
+"s": "GK",
+"tp": "Education",
+"a": "Rwanda and Mauritius",
+"t": "d",
+"n": "ALU has its campuses in Kigali (Rwanda) and Mauritius. Its sister school, the African Leadership Academy, is in South Africa."
+},
+"fin2-013": {
+"s": "VR",
+"tp": "Odd one out",
+"n": "Synecdoche and anaphora are devices of meaning and repetition; onomatopoeia is a word that imitates a sound."
+},
+"fin2-014": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The rate of a reaction is modelled by R(t) = 3t² − 6t. At what time t is the rate minimized?",
+"o": [
+"1s",
+"2s",
+"3s"
+]
+},
+"fin2-015": {
+"s": "DA",
+"tp": "Covariance"
+},
+"fin2-016": {
+"s": "GK",
+"tp": "Africa"
+},
+"fin2-017": {
+"s": "AM",
+"tp": "Series"
+},
+"fin2-018": {
+"s": "AM",
+"tp": "Percentages",
+"o": [
+"1,200%",
+"340%",
+"1,400%"
+]
+},
+"fin2-019": {
+"s": "DA",
+"tp": "Quartiles"
+},
+"fin2-020": {
+"s": "GK",
+"tp": "Geography",
+"q": "Egypt's large PV complex near Aswan is called",
+"o": [
+"Noor III Solar Tower",
+"Taiba PV Hub",
+"Benban Solar Park"
+],
+"r": "wrong",
+"sch": "FUTA"
+},
+"fin2-021": {
+"s": "VR",
+"tp": "Analogy",
+"n": "A dentist treats teeth; a chiropodist treats feet.",
+"r": "right",
+"sch": "OAU"
+},
+"fin2-022": {
+"s": "AM",
+"tp": "Half-life",
+"r": "right",
+"sch": "OAU"
+},
+"fin2-023": {
+"s": "DA",
+"tp": "Normal distribution",
+"r": "wrong",
+"sch": "OAU"
+},
+"fin2-024": {
+"s": "GK",
+"tp": "History",
+"q": "Which African leader promoted “Consciencism”?",
+"r": "right",
+"sch": "FUTA"
+},
+"fin2-025": {
+"s": "VR",
+"tp": "Arrangement",
+"n": "The clues don't fix the whole order; the show's answer is Box 2.",
+"r": "wrong",
+"sch": "FUTA"
+},
+"fin2-026": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The profit P(q) = 4q² + 240q − 100. Find the quantity for the minimum profit.",
+"k": "−30",
+"n": "The turning point of 4q² + 240q − 100 is at q = −240 ÷ 8 = −30. A negative quantity makes little sense in real life, but −30 is the answer the show gave.",
+"r": "?"
+},
+"fin2-027": {
+"s": "DA",
+"tp": "Probability",
+"o": [
+"10/26",
+"8/26",
+"11/26"
+],
+"k": "11/26",
+"r": "?"
+},
+"fin2-028": {
+"s": "GK",
+"tp": "History",
+"r": "?"
+},
+"fin2-029": {
+"s": "AM",
+"tp": "Clock angles",
+"r": "?"
+},
+"fin2-030": {
+"s": "AM",
+"tp": "Work",
+"q": "How much work is done lifting 8 kilograms through 3 metres? (g = 9.8 m/s²)",
+"o": [
+"426J",
+"235J",
+"625J"
+],
+"k": "235J"
+},
+"fin2-031": {
+"s": "AM",
+"tp": "Simple interest"
+},
+"fin2-032": {
+"s": "AM",
+"tp": "Ratio"
+},
+"fin2-033": {
+"s": "AM",
+"tp": "Magnetism",
+"k": "Weber"
+},
+"fin2-034": {
+"s": "AM",
+"tp": "Dilution",
+"q": "A pharmacist must dilute 100mL of 8% saline solution to make 4% solution. How much distilled water should be added?",
+"o": [
+"50mL",
+"100mL",
+"150mL"
+]
+},
+"fin2-035": {
+"s": "AM",
+"tp": "Coordinate geometry",
+"o": [
+"10 units",
+"8√2 units",
+"14 units"
+],
+"k": "8√2 units"
+},
+"fin2-036": {
+"s": "AM",
+"tp": "Magnetism"
+},
+"fin2-037": {
+"s": "AM",
+"tp": "Vectors",
+"k": "0"
+},
+"fin2-038": {
+"s": "AM",
+"tp": "Ratio",
+"k": "240g"
+},
+"fin2-039": {
+"s": "AM",
+"tp": "Electrostatics",
+"q": "What does Gauss's law relate electric field to?"
+},
+"fin2-040": {
+"s": "AM",
+"tp": "Integration",
+"o": [
+"3x³ + C",
+"3x² + C",
+"3x + C"
+],
+"k": "3x + C"
+},
+"fin2-041": {
+"s": "AM",
+"tp": "Rates",
+"k": "60L"
+},
+"fin2-042": {
+"s": "AM",
+"tp": "Integration",
+"q": "What is the integral of 1/(1 + x²)?",
+"o": [
+"x",
+"ln x",
+"arctan x"
+]
+},
+"fin2-043": {
+"s": "AM",
+"tp": "Mechanics of materials",
+"q": "What is the slope of the stress-strain curve initially?"
+},
+"fin2-044": {
+"s": "AM",
+"tp": "Heat transfer"
+},
+"fin2-045": {
+"s": "AM",
+"tp": "Percentages",
+"q": "Chen earns $300 per month from his job. If he is given a 15% pay rise, how much extra does he earn each month?"
+},
+"fin2-046": {
+"s": "AM",
+"tp": "Linear algebra"
+},
+"fin2-047": {
+"s": "AM",
+"tp": "Probability",
+"k": "0.5"
+},
+"fin2-048": {
+"s": "AM",
+"tp": "Simple harmonic motion",
+"o": [
+"Frequency",
+"Velocity",
+"Displacement"
+],
+"k": "Displacement"
+},
+"fin2-049": {
+"s": "AM",
+"tp": "Calculus"
+},
+"fin2-050": {
+"s": "AM",
+"tp": "Vector calculus",
+"o": [
+"0",
+"1",
+"∞"
+],
+"k": "0"
+},
+"fin2-051": {
+"s": "AM",
+"tp": "Projectiles",
+"o": [
+"cos2θ",
+"sin2θ",
+"tan2θ"
+],
+"k": "sin2θ"
+},
+"fin2-052": {
+"s": "AM",
+"tp": "Control systems",
+"o": [
+"det = 0",
+"Poles > zeros",
+"Encirclements rule"
+]
+},
+"fin2-053": {
+"s": "AM",
+"tp": "Work rate"
+},
+"fin2-054": {
+"s": "AM",
+"tp": "Signals and systems",
+"o": [
+"y(t)",
+"g(t)",
+"h(t)"
+],
+"k": "h(t)"
+},
+"fin2-055": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "The position of a cyclist is given by s(t) = 3t² + 4t. How far has the cyclist travelled after 3 seconds?",
+"o": [
+"25m",
+"39m",
+"48m"
+],
+"k": "39m"
+},
+"fin2-056": {
+"s": "AM",
+"tp": "Capacitors",
+"q": "What is the energy stored in a 2 Farad capacitor at 3 Volts?",
+"o": [
+"12J",
+"6J",
+"9J"
+],
+"k": "9J"
+},
+"fin2-057": {
+"s": "AM",
+"tp": "Area scaling",
+"r": "?"
+},
+"fin2-058": {
+"s": "VR",
+"tp": "Calendar",
+"n": "100 days is 14 weeks and 2 days, so it is two days after Monday."
+},
+"fin2-059": {
+"s": "VR",
+"tp": "Blood relations",
+"n": "Y's husband's mother's father is the husband's grandfather."
+},
+"fin2-060": {
+"s": "VR",
+"tp": "Riddles",
+"q": "I am a container with no sides, no lid, and no base, but I can hold water. What am I?"
+},
+"fin2-061": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Semiotics” is to “Saussure” as “Structuralism” is to:",
+"k": "Lévi-Strauss",
+"n": "Saussure founded semiotics; Lévi-Strauss is the founding figure of structuralism."
+},
+"fin2-062": {
+"s": "VR",
+"tp": "Letter series",
+"n": "Each letter goes back 2: Z, X, V, T, R."
+},
+"fin2-063": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Looking at a photograph, Smith said, “He is the son of my grandfather's only son.” Who is the boy?",
+"n": "His grandfather's only son is his father, and his father's son is Smith himself."
+},
+"fin2-064": {
+"s": "VR",
+"tp": "Number series",
+"n": "Each term doubles: 72 × 2 = 144."
+},
+"fin2-065": {
+"s": "VR",
+"tp": "Odd one out",
+"q": "Which is the odd one: Trumpet, Trombone, French Horn, Violin?",
+"n": "Trumpet, trombone and French horn are brass; the violin is a string instrument."
+},
+"fin2-066": {
+"s": "VR",
+"tp": "Riddles"
+},
+"fin2-067": {
+"s": "VR",
+"tp": "Analogy",
+"n": "A group of lions is a pride; a group of fish is a school."
+},
+"fin2-068": {
+"s": "VR",
+"tp": "Analogy",
+"n": "Geology studies rocks; astronomy studies stars."
+},
+"fin2-069": {
+"s": "VR",
+"tp": "Odd one out",
+"n": "A carrot is a vegetable; the others are fruits."
+},
+"fin2-070": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Pointing to a portrait, a man says, “I have no brothers or sisters, but that man's father is my father's son.” Who is in the portrait?",
+"n": "With no siblings, my father's son is me, so the man in the portrait is my son."
+},
+"fin2-071": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Theatre of the Absurd” is to “Ionesco” as “Epic Theatre” is to:",
+"n": "Ionesco wrote absurdist plays; Brecht created epic theatre."
+},
+"fin2-072": {
+"s": "VR",
+"tp": "Odd one out",
+"n": "Helmet, shield and armour protect; a sword attacks."
+},
+"fin2-073": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Pointing to a girl, he said, “She is my mother-in-law's daughter.” Who is the girl?",
+"n": "His mother-in-law's daughter is his wife (or her sister); the show's answer is Wife."
+},
+"fin2-074": {
+"s": "VR",
+"tp": "Blood relations",
+"n": "W is the father of Y's mother, so Y is W's grandchild."
+},
+"fin2-075": {
+"s": "VR",
+"tp": "Blood relations",
+"n": "Q's mother's husband is Q's father, so his daughter is Q's sister."
+},
+"fin2-076": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Pointing to a man, a woman says, “His mother is the only daughter of my mother.” How is the woman related to the man?",
+"a": "Mother",
+"t": "d",
+"n": "The only daughter of the woman's mother is the woman herself, so she is the man's mother. The show's answer was Aunt."
+},
+"fin2-077": {
+"s": "VR",
+"tp": "Blood relations",
+"n": "B is C's daughter and C is D's mother, so B and D are siblings, and A, B's brother, is D's brother too."
+},
+"fin2-078": {
+"s": "VR",
+"tp": "Directions",
+"n": "12 km west, then 5 km north, leaves Z to the northwest of X."
+},
+"fin2-079": {
+"s": "VR",
+"tp": "Riddles",
+"q": "I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?"
+},
+"fin2-080": {
+"s": "VR",
+"tp": "Riddles"
+},
+"fin2-081": {
+"s": "VR",
+"tp": "Riddles",
+"q": "If a doctor gives you three pills and tells you to take one every half hour, how long will the pills last?",
+"o": [
+"1 hour",
+"1.5 hours",
+"3 hours"
+],
+"k": "1 hour",
+"n": "You take one now, one after 30 minutes and the last after 60 minutes.",
+"r": "?"
+},
+"fin2-082": {
+"s": "GK",
+"tp": "History"
+},
+"fin2-083": {
+"s": "GK",
+"tp": "Music"
+},
+"fin2-084": {
+"s": "GK",
+"tp": "Entertainment"
+},
+"fin2-085": {
+"s": "GK",
+"tp": "Fashion",
+"q": "Which African fashion designer founded the brand Maxhosa, blending traditional Xhosa patterns with modern knitwear?"
+},
+"fin2-086": {
+"s": "GK",
+"tp": "Geography",
+"q": "Which lake in Africa is the world's largest alkaline lake?"
+},
+"fin2-087": {
+"s": "GK",
+"tp": "Geography"
+},
+"fin2-088": {
+"s": "GK",
+"tp": "Film",
+"q": "The Nigerian movie “Saworoide” was directed by"
+},
+"fin2-089": {
+"s": "GK",
+"tp": "History"
+},
+"fin2-090": {
+"s": "GK",
+"tp": "Politics"
+},
+"fin2-091": {
+"s": "GK",
+"tp": "Nutrition",
+"q": "Nigeria promotes “biofortified cassava” rich in"
+},
+"fin2-092": {
+"s": "GK",
+"tp": "History of science"
+},
+"fin2-093": {
+"s": "GK",
+"tp": "History",
+"q": "The scramble for Africa was formalized during which European conference?",
+"o": [
+"Berlin Conference (1884–85)",
+"Brussels Conference (1890)",
+"Paris Conference (1919)"
+],
+"k": "Berlin Conference (1884–85)"
+},
+"fin2-094": {
+"s": "GK",
+"tp": "Culture",
+"k": "Bogolanfini"
+},
+"fin2-095": {
+"s": "GK",
+"tp": "History",
+"k": "David Livingstone"
+},
+"fin2-096": {
+"s": "GK",
+"tp": "Science",
+"q": "Which African scientist is renowned for her research in nanotechnology and photodynamic therapy?",
+"o": [
+"Dr. Agnes Kalibata",
+"Professor Catherine Ngila",
+"Professor Tebello Nyokong"
+]
+},
+"fin2-097": {
+"s": "GK",
+"tp": "Innovation"
+},
+"fin2-098": {
+"s": "GK",
+"tp": "History"
+},
+"fin2-099": {
+"s": "GK",
+"tp": "Economics",
+"k": "World Trade Organization"
+},
+"fin2-100": {
+"s": "GK",
+"tp": "Politics",
+"q": "Which African leader promoted “African Socialism” in Senegal?",
+"drop": "answer not confirmed"
+},
+"fin2-101": {
+"s": "GK",
+"tp": "Music"
+},
+"fin2-102": {
+"s": "GK",
+"tp": "Music"
+},
+"fin2-103": {
+"s": "GK",
+"tp": "History"
+},
+"fin2-104": {
+"s": "GK",
+"tp": "Agriculture"
+},
+"fin2-105": {
+"s": "GK",
+"tp": "Culture"
+},
+"fin2-106": {
+"s": "GK",
+"tp": "Technology"
+},
+"fin2-107": {
+"s": "GK",
+"tp": "Languages"
+},
+"fin2-108": {
+"s": "GK",
+"tp": "Geography",
+"r": "?"
+},
+"fin2-109": {
+"s": "DA",
+"tp": "Probability"
+},
+"fin2-110": {
+"s": "DA",
+"tp": "Probability",
+"k": "0.4",
+"q": "The probability of passing A is 0.8, and passing B is 0.5 if independent. What is the probability of passing both?"
+},
+"fin2-111": {
+"s": "DA",
+"tp": "Median",
+"q": "Find the median value of research grant awards (in $1000s): 45, 28, 52, 35, 48, 42, 55.",
+"o": [
+"42",
+"48",
+"45"
+]
+},
+"fin2-112": {
+"s": "DA",
+"tp": "Probability",
+"q": "If independent, what's P(internship and job) when P(internship) = 0.6 and P(job) = 0.5?"
+},
+"fin2-113": {
+"s": "DA",
+"tp": "Correlation",
+"o": [
+"r = 1",
+"r > 0",
+"r = −1"
+],
+"k": "r > 0",
+"q": "If X increases and Y increases, but when X decreases, Y is unpredictable, what value should Pearson 'r' be near?"
+},
+"fin2-114": {
+"s": "DA",
+"tp": "Range"
+},
+"fin2-115": {
+"s": "DA",
+"tp": "Permutations"
+},
+"fin2-116": {
+"s": "DA",
+"tp": "Mean, median, mode",
+"o": [
+"17",
+"15",
+"16"
+],
+"k": "17"
+},
+"fin2-117": {
+"s": "DA",
+"tp": "Simple interest",
+"q": "Find the total value of an investment of $5,000 at 3% simple interest for 4 years."
+},
+"fin2-118": {
+"s": "DA",
+"tp": "Range",
+"q": "Find the range of temperatures 28°C, 32°C, 30°C, 35°C, 25°C.",
+"k": "10°C"
+},
+"fin2-119": {
+"s": "DA",
+"tp": "Probability"
+},
+"fin2-120": {
+"s": "DA",
+"tp": "Class intervals",
+"q": "If the classes are 0 to 9, 10 to 19, 20 to 29, 30 to 39, etc., then they are called"
+},
+"fin2-121": {
+"s": "DA",
+"tp": "Histograms",
+"q": "When constructing a histogram, the area of each bar is proportional to",
+"o": [
+"Frequency",
+"Frequency density × class width",
+"Median × class width"
+],
+"k": "Frequency density × class width",
+"n": "Frequency density × class width is the frequency itself, so the area also equals the frequency."
+},
+"fin2-122": {
+"s": "DA",
+"tp": "Permutations"
+},
+"fin2-123": {
+"s": "DA",
+"tp": "Probability"
+},
+"fin2-124": {
+"s": "DA",
+"tp": "Probability"
+},
+"fin2-125": {
+"s": "DA",
+"tp": "Skewness"
+},
+"fin2-126": {
+"s": "DA",
+"tp": "Mean, median, mode"
+},
+"fin2-127": {
+"s": "DA",
+"tp": "Polygons"
+},
+"fin2-128": {
+"s": "DA",
+"tp": "Charts"
+},
+"fin2-129": {
+"s": "DA",
+"tp": "Z-score",
+"o": [
+"4",
+"1",
+"2"
+],
+"k": "2"
+},
+"fin2-130": {
+"s": "DA",
+"tp": "Hypothesis testing",
+"k": "Left tailed",
+"q": "A researcher wants to test whether the population mean is lower than some hypothesized value. Which test is used?"
+},
+"fin2-131": {
+"s": "DA",
+"tp": "Percentiles"
+},
+"fin2-132": {
+"s": "DA",
+"tp": "Skewness"
+},
+"fin2-133": {
+"s": "DA",
+"tp": "Measures of spread"
+},
+"fin2-134": {
+"s": "DA",
+"tp": "Machine learning"
+},
+"fin2-135": {
+"s": "DA",
+"tp": "Combinations",
+"r": "?"
+}
+}

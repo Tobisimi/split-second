@@ -92,8 +92,8 @@ def read_box(im, kind):
     W = dark.shape[1]
     off = np.zeros_like(dark)
     if kind == 'QB': off[:16, W - 45:] = True            # slanted top-right corner of the box
-    if kind == 'BMR': off[110:, W - 70:] = True          # question countdown circle
-    if kind == 'BML': off[110:, :40] = True
+    if kind == 'BMR': off[118:, W - 38:] = True          # question countdown circle (bottom right)
+    if kind == 'BML': off[118:, :38] = True              # (bottom left)
     dark[off] = False
     gray = gray.copy(); gray[off] = 255
     ls = ink_lines(dark)
@@ -107,7 +107,7 @@ def read_box(im, kind):
         l0, l1 = max(0, cols.min() - 4), min(gray.shape[1], cols.max() + 5)
         crop = gray[t0:b0, l0:l1]
         txt, c, wc = ocr_line(crop)
-        if i == 0 and kind == 'QB' and len(ls) > 1:
+        if i == 0 and len(ls) > 1:
             smaller = (b - t) <= 0.85 * np.median(heights[1:])
             if txt.startswith(('(', '[', '{')) or txt.endswith((')', ']', '}')) or smaller:
                 bx = bullets(dark[t:b, l0:l1])

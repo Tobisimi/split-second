@@ -7,7 +7,7 @@ ROOT = '/home/claude/ud'
 
 def main(size, files):
     done = set()
-    for p in glob.glob(f'{ROOT}/solutions/out/*.json'):
+    for p in glob.glob('/home/claude/split-second/bank/solutions/*.json'):
         done |= set(json.load(open(p)))
     todo = []
     for f in files:

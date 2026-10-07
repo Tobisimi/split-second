@@ -133,6 +133,8 @@ def main(d, prefix):
         g = groups[-1] if groups else None
         same = g and g['half'] == half and r['t'] - g['frames'][-1]['t'] < 25 and \
             difflib.SequenceMatcher(None, key(g['best']['q'])[:90], key(r['q'])[:90]).ratio() > 0.6
+        if same and r['options'] and g['best']['options']:   # different options mean a different question
+            same = difflib.SequenceMatcher(None, key(' '.join(r['options'])), key(' '.join(g['best']['options']))).ratio() > 0.6
         if same:
             g['frames'].append(r)
             if r['qconf'] * len(r['q']) > g['best']['qconf'] * len(g['best']['q']): g['best'] = r
