@@ -1,0 +1,447 @@
+{
+"fin1-001": {
+"s": "AM",
+"tp": "Differential equations"
+},
+"fin1-002": {
+"s": "DA",
+"tp": "Correlation"
+},
+"fin1-003": {
+"s": "GK",
+"tp": "History",
+"q": "Which famous explorer is associated with the phrase “Dr. Livingstone, I presume?”"
+},
+"fin1-004": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Nigeria” is to “Africa” as “Brazil” is to:"
+},
+"fin1-005": {
+"s": "AM",
+"tp": "Exponential decay"
+},
+"fin1-006": {
+"s": "DA",
+"tp": "Mean",
+"q": "What is the mean for this dataset: [45, 50, 55, 60, 65]?"
+},
+"fin1-007": {
+"s": "GK",
+"tp": "Geography",
+"q": "The Sahara's annual rainfall in many areas is typically",
+"o": [
+"300–500 mm",
+">800 mm",
+"<100 mm"
+],
+"k": "<100 mm"
+},
+"fin1-008": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Iconoclast” is to “tradition” as “apostate” is to"
+},
+"fin1-009": {
+"s": "DA",
+"tp": "Z-score"
+},
+"fin1-010": {
+"s": "GK",
+"tp": "Geography"
+},
+"fin1-011": {
+"s": "VR",
+"tp": "Arrangement"
+},
+"fin1-012": {
+"s": "AM",
+"tp": "Mechanics",
+"q": "Convert 1.5 kilograms to newtons using g = 9.81 metres per second squared."
+},
+"fin1-013": {
+"s": "AM",
+"tp": "Combinations"
+},
+"fin1-014": {
+"s": "GK",
+"tp": "History"
+},
+"fin1-015": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"fin1-016": {
+"s": "DA",
+"tp": "Z-score",
+"q": "What is the Z score of a student who scored 88 in a test with a mean of 75 and a standard deviation of 5?"
+},
+"fin1-017": {
+"s": "AM",
+"tp": "Counting",
+"o": [
+"1,560,000",
+"1,460,000",
+"1,360,000"
+]
+},
+"fin1-018": {
+"s": "GK",
+"tp": "Science and innovation",
+"k": "Majik Water"
+},
+"fin1-019": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"fin1-020": {
+"s": "AM",
+"tp": "Speed, distance, time",
+"a": "400 m",
+"t": "c",
+"n": "The player said 400 and the show gave the points."
+},
+"fin1-021": {
+"s": "DA",
+"tp": "Standard error",
+"a": "0.8",
+"t": "w"
+},
+"fin1-022": {
+"s": "GK",
+"tp": "Nigeria",
+"drop": "answer not confirmed"
+},
+"fin1-023": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Jurisprudence” is to “Law” as “Epistemology” is to"
+},
+"fin1-024": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "A bookstore's sale revenue follows R(x) = 160x − 4x². Find books to sell for peak revenue."
+},
+"fin1-025": {
+"s": "DA",
+"tp": "Sets and Venn diagrams",
+"q": "In a survey, 50 people like Tea, 40 like Coffee, and 20 like both. How many like only Coffee?"
+},
+"fin1-026": {
+"s": "VR",
+"tp": "Coding",
+"a": "50",
+"t": "c",
+"n": "Imran said 50 and the show gave the points. The rule behind the code isn't clear from the question."
+},
+"fin1-027": {
+"s": "AM",
+"tp": "Scale"
+},
+"fin1-028": {
+"s": "AM",
+"tp": "Permutations"
+},
+"fin1-029": {
+"s": "GK",
+"tp": "Geography"
+},
+"fin1-030": {
+"s": "AM",
+"tp": "Combinations"
+},
+"fin1-031": {
+"s": "AM",
+"tp": "Scale"
+},
+"fin1-032": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "What principal earns ₦18,000 in simple interest at 6% yearly over 4 years?",
+"o": [
+"₦12,000",
+"₦75,000",
+"₦25,000"
+],
+"k": "₦75,000"
+},
+"fin1-033": {
+"s": "GK",
+"tp": "Africa"
+},
+"fin1-034": {
+"s": "VR",
+"tp": "Analogy",
+"a": "Hop",
+"t": "w",
+"q": "“Horse” is to “Gallop” as “Rabbit” is to"
+},
+"fin1-035": {
+"s": "AM",
+"tp": "Density",
+"o": [
+"0.125 kg m⁻³",
+"4 kg m⁻³",
+"100 kg m⁻³"
+],
+"k": "4 kg m⁻³"
+},
+"fin1-036": {
+"s": "DA",
+"tp": "Mean, median, mode",
+"a": "80",
+"t": "w"
+},
+"fin1-037": {
+"s": "GK",
+"tp": "Music"
+},
+"fin1-038": {
+"s": "VR",
+"tp": "Analogy"
+},
+"fin1-039": {
+"s": "AM",
+"tp": "Electricity",
+"o": [
+"0.25W",
+"4W",
+"36W"
+]
+},
+"fin1-040": {
+"s": "AM",
+"tp": "Permutations"
+},
+"fin1-041": {
+"s": "GK",
+"tp": "Culture",
+"k": "Kangas"
+},
+"fin1-042": {
+"s": "VR",
+"tp": "Letter series",
+"q": "What comes next: J, G, D, A, ?"
+},
+"fin1-043": {
+"s": "AM",
+"tp": "Rates"
+},
+"fin1-044": {
+"s": "AM",
+"tp": "Permutations"
+},
+"fin1-045": {
+"s": "GK",
+"tp": "Culture"
+},
+"fin1-046": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"fin1-047": {
+"s": "AM",
+"tp": "Logarithms"
+},
+"fin1-048": {
+"s": "DA",
+"tp": "Quartiles"
+},
+"fin1-049": {
+"s": "GK",
+"tp": "Entertainment"
+},
+"fin1-050": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "If Alex is the son of Blake, but Blake is not Alex's father, how is Blake related to Alex?"
+},
+"fin1-051": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "If bacteria count is 100 and doubles every hour, find count after 6 hours"
+},
+"fin1-052": {
+"s": "DA",
+"tp": "Sets and Venn diagrams"
+},
+"fin1-053": {
+"s": "GK",
+"tp": "Music",
+"q": "Which South African DJ is credited with globalizing Amapiano music?"
+},
+"fin1-054": {
+"s": "AM",
+"tp": "Work rate"
+},
+"fin1-055": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "A toy company's revenue from selling x units is R(x) = 120x − 6x². Find x for maximum revenue."
+},
+"fin1-056": {
+"s": "GK",
+"tp": "Culture"
+},
+"fin1-057": {
+"s": "VR",
+"tp": "Analogy"
+},
+"fin1-058": {
+"s": "AM",
+"tp": "Power"
+},
+"fin1-059": {
+"s": "DA",
+"tp": "Expected value",
+"o": [
+"1.5",
+"2.5",
+"3.5"
+]
+},
+"fin1-060": {
+"s": "AM",
+"tp": "Fractions",
+"o": [
+"1/4",
+"1/8",
+"1/2"
+],
+"k": "1/4"
+},
+"fin1-061": {
+"s": "AM",
+"tp": "Graph theory",
+"n": "4 edges is the fewest a connected 5-vertex graph can have (a tree). Strictly, to guarantee connection you'd need 7, which isn't an option."
+},
+"fin1-062": {
+"s": "DA",
+"tp": "Probability",
+"o": [
+"1/2",
+"1/6",
+"11/41"
+],
+"k": "11/41"
+},
+"fin1-063": {
+"s": "GK",
+"tp": "Music",
+"drop": "answer not confirmed"
+},
+"fin1-064": {
+"s": "VR",
+"tp": "Directions",
+"q": "Facing East, a man turns 180° clockwise. The direction now is"
+},
+"fin1-065": {
+"s": "AM",
+"tp": "Simple interest"
+},
+"fin1-066": {
+"s": "DA",
+"tp": "Mean"
+},
+"fin1-067": {
+"s": "GK",
+"tp": "History"
+},
+"fin1-068": {
+"s": "VR",
+"tp": "Coding"
+},
+"fin1-069": {
+"s": "AM",
+"tp": "Waves",
+"o": [
+"10 m s⁻¹",
+"12 m s⁻¹",
+"15 m s⁻¹"
+],
+"k": "15 m s⁻¹",
+"n": "The show printed the unit as m s⁻²; speed is in m s⁻¹."
+},
+"fin1-070": {
+"s": "DA",
+"tp": "Standard deviation",
+"q": "The variance of student heights is 16 square centimetres. What is the standard deviation?",
+"k": "4 cm"
+},
+"fin1-071": {
+"s": "GK",
+"tp": "Geography"
+},
+"fin1-072": {
+"s": "AM",
+"tp": "Work rate"
+},
+"fin1-073": {
+"s": "AM",
+"tp": "Population growth"
+},
+"fin1-074": {
+"s": "DA",
+"tp": "Probability",
+"o": [
+"1/6",
+"1/4",
+"1/8"
+],
+"a": "1/4",
+"t": "w"
+},
+"fin1-075": {
+"s": "GK",
+"tp": "Culture"
+},
+"fin1-076": {
+"s": "GK",
+"tp": "Biology"
+},
+"fin1-077": {
+"s": "AM",
+"tp": "Electric field"
+},
+"fin1-078": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "Find the simple interest on ₦240,000 at 9% per year for 8 months.",
+"o": [
+"₦26,400",
+"₦12,400",
+"₦14,400"
+],
+"k": "₦14,400"
+},
+"fin1-079": {
+"s": "GK",
+"tp": "Geography",
+"k": "Congo"
+},
+"fin1-080": {
+"s": "VR",
+"tp": "Analogy"
+},
+"fin1-081": {
+"s": "AM",
+"tp": "Geometric series",
+"q": "Find the sum of the infinite geometric series: 5 + 2.5 + 1.25 + ..."
+},
+"fin1-082": {
+"s": "GK",
+"tp": "Geography",
+"o": [
+"Ruzizi II",
+"Bujagali",
+"Inga I"
+]
+},
+"fin1-083": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"fin1-084": {
+"skip": "repeated at the start of part 2"
+}
+}
