@@ -1,0 +1,7 @@
+{"code": "sf1", "video": "_LA5sTVsQQU", "match": "FUTA v UNN", "stage": "sf",
+ "qb_top": "FUTA", "qb_bottom": "UNN", "bm_top": "FUTA", "bm_bottom": "UNN",
+ "bm_subjects": {"1": "VR", "2": "GK", "3": "AM", "4": "DA"},
+ "bm_players": {"3": ["Faith", ""], "4": ["Faith", ""]},
+ "cards": [],
+ "parts": [["bank/raw/26-sf1.json", "bank/review/26-sf1.json"]],
+ "out": "bank/master/26-sf1.json"}

@@ -1,0 +1,758 @@
+{
+  "26-sf1-qb-1295": {
+    "solution": "Joy has 4 of the 9 parts. One part is 4,500 ÷ 9 = 500, so Joy gets 4 × 500 = $2,000.",
+    "trick": "One part is 4,500 ÷ 9 = 500, so Joy's 4 parts are 2,000. Lucy's 5 parts would be $2,500, which is the trap option.",
+    "check": "agree",
+    "computed": "$2,000",
+    "accept": [
+      "2000",
+      "2,000",
+      "$2000"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1299": {
+    "solution": "The ratio 4:3:3 has 4 + 3 + 3 = 10 parts. One part is 360,000 ÷ 10 = 36,000, so the daughter's 4 parts come to 4 × 36,000 = $144,000.",
+    "trick": "The parts add up to 10, so one part is 36,000 (drop a zero). Four parts is 144,000. Neither $130,000 nor $140,000 is a whole number of 36,000s, so only $144,000 can be a share.",
+    "check": "agree",
+    "computed": "$144,000",
+    "accept": [
+      "144000",
+      "144,000",
+      "$144000"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1310": {
+    "solution": "15 out of 20 hit target, and 15 ÷ 20 = 0.75, which is 75%. The question reads this share as the percentile, so the answer is the 75th percentile.",
+    "trick": "Do 15 ÷ 20 = 0.75 and match it to the 75th percentile option. The other two options do not come from these numbers.",
+    "check": "unclear",
+    "computed": "75th percentile (15 ÷ 20)",
+    "accept": [
+      "75",
+      "75th",
+      "75th percentile",
+      "75%"
+    ],
+    "comment": "The wording is loose. A true percentile rank depends on where the person sits among the 20, so the 15 target hitters would range from about the 25th to the 95th percentile. The show just uses 15 out of 20 = 75%, and 75th is the only option that fits the numbers."
+  },
+  "26-sf1-qb-1318": {
+    "solution": "Read this as the percentage increase in size: (new − old) ÷ old × 100. That is (3.0 − 1.2) ÷ 1.2 × 100 = 1.8 ÷ 1.2 × 100 = 150%.",
+    "trick": "Scale both sizes by 10 to get 12 and 30. The rise is 18, and 18 ÷ 12 = 1.5, so 150%. Do not give the size ratio of 2.5 times (250%).",
+    "check": "agree",
+    "computed": "150%",
+    "accept": [
+      "150",
+      "150%",
+      "150 percent"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1330": {
+    "solution": "Volume of a pyramid = ⅓ × base area × height. Taking the base as a square of side 20 m, V = ⅓ × 20 × 20 × 50 = 20,000 ÷ 3 ≈ 6,667 m³.",
+    "trick": "20 × 20 × 50 = 20,000 is the volume of the matching box. A pyramid is a third of its box, so 20,000 ÷ 3 ≈ 6,667.",
+    "check": "agree",
+    "computed": "6,667 m³ (20,000/3)",
+    "accept": [
+      "6667",
+      "6,667",
+      "6666.67",
+      "6666.7",
+      "20000/3",
+      "6667 m³",
+      "6,667 m³",
+      "6667 m3",
+      "6667m³"
+    ],
+    "comment": "Agrees with the worked out 6,667 m³. This assumes a square base of side 20 m. The show's 20,000 m³ left out the one third."
+  },
+  "26-sf1-qb-1341": {
+    "solution": "Three consecutive odd integers are n, n + 2 and n + 4, so their sum is 3n + 6 = 45. That gives 3n = 39 and n = 13. The smallest integer is 13.",
+    "trick": "The middle number is the average: 45 ÷ 3 = 15. The odd neighbours are 13 and 17, so the smallest is 13.",
+    "check": "agree",
+    "computed": "13",
+    "accept": [
+      "13"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1345": {
+    "solution": "For f(x) = ax² + bx + c with a > 0, the minimum is at x = −b ÷ 2a = −4 ÷ 4 = −1. Then f(−1) = 2(1) + 4(−1) − 5 = 2 − 4 − 5 = −7. So the minimum profit is −7.",
+    "trick": "Use minimum = c − b² ÷ 4a = −5 − 16 ÷ 8 = −5 − 2 = −7. Or write it as 2(x + 1)² − 7, whose smallest value is −7.",
+    "check": "agree",
+    "computed": "−7",
+    "accept": [
+      "−7",
+      "-7",
+      "minus 7"
+    ],
+    "comment": "Agrees with the worked out −7 (vertex at x = −1). None of the three options (−9, −10, −18) equals −7, so the options need fixing."
+  },
+  "26-sf1-qb-1359": {
+    "solution": "Power = work ÷ time = 100 J ÷ 5 s = 20 W.",
+    "trick": "Just divide: 100 ÷ 5 = 20. Joules per second is watts.",
+    "check": "agree",
+    "computed": "20 W",
+    "accept": [
+      "20",
+      "20W",
+      "20 W",
+      "20 watts"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1364": {
+    "solution": "The direction of skew follows the sign of (mean − median). Here 50 − 40 = 10 is positive, so the data have a positive (right) skew.",
+    "trick": "Mean above median means positive skew, and mean below median means negative skew. This matches the sign of Pearson's skewness, 3 × (mean − median) ÷ SD.",
+    "check": "agree",
+    "computed": "Positive (right) skew",
+    "accept": [
+      "positive",
+      "positive skew",
+      "right",
+      "right skew",
+      "positively skewed",
+      "right skewed",
+      "skewed to the right",
+      "positive (right) skew"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1368": {
+    "solution": "Permutations are combinations times the ways to order the chosen items: 8P3 = 8C3 × 3! = 56 × 6 = 336.",
+    "trick": "Skip the 56 and multiply the top three numbers: 8 × 7 × 6 = 336.",
+    "check": "agree",
+    "computed": "336",
+    "accept": [
+      "336"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1378": {
+    "solution": "An ogive shows cumulative counts, so 35% of 200 = 0.35 × 200 = 70 students scored below 85. The rest scored above, which is 200 − 70 = 130 students.",
+    "trick": "If 35% are below, then 65% are above. 65% of 200 is 2 × 65 = 130.",
+    "check": "agree",
+    "computed": "130 students",
+    "accept": [
+      "130",
+      "130 students"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1385": {
+    "solution": "25% remaining means 75% has drained, which is 0.75 × 20,000 = 15,000 L. Time = volume ÷ rate = 15,000 ÷ 300 = 50 minutes.",
+    "trick": "Three quarters of 20,000 is 15,000, and 15,000 ÷ 300 = 150 ÷ 3 = 50. Check the options: 20 minutes drains only 6,000 L and 15 minutes only 4,500 L.",
+    "check": "agree",
+    "computed": "50 minutes",
+    "accept": [
+      "50",
+      "50 minutes",
+      "50 min",
+      "50 mins"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1409": {
+    "solution": "Pick 3 bulbs from 12 without replacement. P(all 3 defective) = 4/12 × 3/11 × 2/10 = 24/1320 = 1/55.",
+    "trick": "Count groups instead: only 4 ways to choose 3 of the 4 defectives, and 12C3 = 12 × 11 × 10 ÷ 6 = 220 groups in all. So 4/220 = 1/55.",
+    "check": "agree",
+    "computed": "1/55",
+    "accept": [
+      "1/55",
+      "0.018",
+      "0.0182",
+      "1.8%"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1416": {
+    "solution": "Differentiate once: f'(x) = 4x. Differentiate again: f''(x) = 4. The second derivative is 4.",
+    "trick": "For ax² + bx + c the second derivative is just 2a. Here a = 2, so the answer is 4.",
+    "check": "agree",
+    "computed": "4",
+    "accept": [
+      "4",
+      "f''(x) = 4",
+      "f''(x)=4"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1421": {
+    "solution": "Revenue peaks where R'(x) = 300 − 30x = 0, so x = 10. R''(x) = −30 is negative, so this is a maximum. The optimal production is 10 units.",
+    "trick": "R = 15x(20 − x) is zero at x = 0 and x = 20, and the peak sits halfway between them: x = 10.",
+    "check": "agree",
+    "computed": "10 units",
+    "accept": [
+      "10",
+      "10 units",
+      "x = 10",
+      "x=10"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1434": {
+    "solution": "The ladder is the hypotenuse, so height² = 20² − 16² = 400 − 256 = 144. Height = √144 = 12 ft.",
+    "trick": "16 and 20 are 4 × 4 and 4 × 5, so this is a 3, 4, 5 triangle scaled by 4. The missing side is 4 × 3 = 12.",
+    "check": "agree",
+    "computed": "12 ft",
+    "accept": [
+      "12",
+      "12ft",
+      "12 ft",
+      "12 feet"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1443": {
+    "solution": "Body diagonal = √(l² + w² + h²) = √(8² + 9² + 12²) = √(64 + 81 + 144) = √289 = 17 m.",
+    "trick": "Add the squares: 64 + 81 = 145, and 145 + 144 = 289. Recall that 17² = 289, so the diagonal is 17 m.",
+    "check": "agree",
+    "computed": "17 m",
+    "accept": [
+      "17",
+      "17m",
+      "17 m",
+      "17 metres",
+      "17 meters"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1446": {
+    "solution": "Work done = force × distance = mgh. Using g = 9.8 m/s², W = 5 × 9.8 × 2 = 98 J.",
+    "trick": "5 × 2 = 10, so the work is 10 × g = 10 × 9.8 = 98 J. Just move the decimal point. If a question says g = 10, the same route gives 100 J.",
+    "check": "unclear",
+    "computed": "98 J (using g = 9.8 m/s²)",
+    "accept": [
+      "98",
+      "98 J",
+      "98J",
+      "98.1",
+      "98.1 J",
+      "98 joules"
+    ],
+    "comment": "The question does not give g. With g = 9.8 m/s² the work is 98 J (the show's answer), but with g = 10 m/s² it is 100 J, and both values appear among the options."
+  },
+  "26-sf1-qb-1449": {
+    "solution": "A 3D cube inside a 5D cube is fixed by choosing which 3 of the 5 directions it spans, then setting the other 2 coordinates to 0 or 1. That gives 5C3 × 2² = 10 × 4 = 40 cubes.",
+    "trick": "Pick the 3 free directions (5C3 = 10 ways), then fix each of the other 2 coordinates at 0 or 1 (2 × 2 = 4 ways). 10 × 4 = 40. The option 10 is the count of 4D pieces instead.",
+    "check": "agree",
+    "computed": "40",
+    "accept": [
+      "40"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1453": {
+    "solution": "Expected returns = n × p = 50 × 0.15 = 7.5.",
+    "trick": "15% of 50 is half of 15, because 50 is half of 100. So 7.5.",
+    "check": "agree",
+    "computed": "7.5",
+    "accept": [
+      "7.5",
+      "7.5 returns",
+      "15/2"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1460": {
+    "solution": "The diagonal is the hypotenuse, so the other side² = 50² − 30² = 2,500 − 900 = 1,600. The other side is √1,600 = 40 m.",
+    "trick": "30 and 50 are 3 × 10 and 5 × 10, a 3, 4, 5 triangle scaled by 10. The missing side is 4 × 10 = 40 m.",
+    "check": "agree",
+    "computed": "40 meters",
+    "accept": [
+      "40",
+      "40m",
+      "40 m",
+      "40 meters",
+      "40 metres"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1464": {
+    "solution": "Revenue peaks where R'(x) = 360 − 18x = 0, so x = 20. R''(x) = −18 is negative, so this is a maximum. The best number to bake is 20 loaves.",
+    "trick": "R = 9x(40 − x) is zero at x = 0 and x = 40, and the peak sits halfway between them: x = 20.",
+    "check": "agree",
+    "computed": "20 loaves",
+    "accept": [
+      "20",
+      "20 loaves",
+      "x = 20",
+      "x=20"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1468": {
+    "solution": "24 hours is 24 ÷ 8 = 3 half-lives. The fraction left is (1/2)³ = 1/8 = 0.125, which is 12.5%.",
+    "trick": "Halve three times, starting from 100%: 50%, 25%, 12.5%.",
+    "check": "agree",
+    "computed": "12.5%",
+    "accept": [
+      "12.5",
+      "12.5%",
+      "12.5 percent",
+      "1/8",
+      "0.125"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1483": {
+    "solution": "The culture triples once every 4 hours, so in 24 hours there are 24 ÷ 4 = 6 tripling periods. The final size would be 3⁶ = 729 times the start, but the question counts the triplings, so the answer is 6 times.",
+    "trick": "24 ÷ 4 = 6. Read the question as how many times it triples.",
+    "check": "unclear",
+    "computed": "6 times (24 ÷ 4 triplings; the overall growth factor is 3⁶ = 729)",
+    "accept": [
+      "6",
+      "6 times",
+      "six",
+      "six times"
+    ],
+    "comment": "How many times will it grow is ambiguous. The options only fit the number of tripling periods (6), but the actual growth factor is 3⁶ = 729, which is not offered."
+  },
+  "26-sf1-qb-1492": {
+    "solution": "V = x³, so a small percentage error in x is multiplied by 3 in V. That gives 3 × 2% = 6%, a close approximation (1.02³ = 1.0612 exactly). The error in the volume is about 6%.",
+    "trick": "The power on x is 3, so triple the percentage: 2% becomes 6%.",
+    "check": "agree",
+    "computed": "6%",
+    "accept": [
+      "6",
+      "6%",
+      "6 percent",
+      "about 6%"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1495": {
+    "solution": "One lap is the circumference 2πr = 2 × π × 45 = 90π m. Three laps cover 3 × 90π = 270π m.",
+    "trick": "Circumference is 2 × 45 = 90, times π. Three laps is 3 × 90 = 270, so 270π. The 540π option is twice that.",
+    "check": "agree",
+    "computed": "270π m",
+    "accept": [
+      "270π",
+      "270π m",
+      "270pi",
+      "270 pi",
+      "270pi m",
+      "848.2",
+      "848.23",
+      "848"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1505": {
+    "solution": "Lucy's share is 5/9 × 4,500 = $2,500. She gives half of it away, which is $1,250, so she keeps 2,500 − 1,250 = $1,250.",
+    "trick": "One part is 4,500 ÷ 9 = 500. Lucy has 5 parts and gives away half of them, so she keeps 2.5 parts: 2.5 × 500 = 1,250.",
+    "check": "agree",
+    "computed": "$1,250",
+    "accept": [
+      "1250",
+      "1,250",
+      "$1250",
+      "$1,250"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1512": {
+    "solution": "Range = largest value − smallest value = 50 − 10 = 40.",
+    "trick": "Spot only the biggest (50) and the smallest (10): 50 − 10 = 40.",
+    "check": "agree",
+    "computed": "40",
+    "accept": [
+      "40"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1516": {
+    "solution": "6 minutes = 6 × 60 = 360 s. One full swing takes 1.5 s, so the number of swings is 360 ÷ 1.5 = 240.",
+    "trick": "Double both numbers to avoid the decimal: 360 ÷ 1.5 = 720 ÷ 3 = 240.",
+    "check": "agree",
+    "computed": "240 swings",
+    "accept": [
+      "240",
+      "240 swings"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1522": {
+    "solution": "Actual distance = map distance × scale factor = 8 cm × 25,000 = 200,000 cm. Since 100,000 cm = 1 km, that is 2 km.",
+    "trick": "At 1:25,000, 4 cm on the map is 1 km (4 × 25,000 = 100,000 cm). So 8 cm is 2 km.",
+    "check": "agree",
+    "computed": "2 km",
+    "accept": [
+      "2",
+      "2km",
+      "2 km",
+      "2 kilometres",
+      "2 kilometers",
+      "2000 m",
+      "2000m",
+      "2,000 m"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1528": {
+    "solution": "152 = 160 − 8 and 168 = 160 + 8, so the interval is exactly 1 standard deviation either side of the mean. About 68% of a normal distribution lies within 1 SD (68.27% to two decimals), so the proportion is 68%.",
+    "trick": "Rewrite 152 and 168 as mean ± 8. That is ±1 SD, which is the 68% of the 68, 95, 99.7 rule.",
+    "check": "agree",
+    "computed": "68%",
+    "accept": [
+      "68",
+      "68%",
+      "68.3%",
+      "68.27%",
+      "0.68",
+      "0.6827"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1536": {
+    "solution": "The share of variation explained is the coefficient of determination, r². With r = 0.75, r² = 0.75² = 0.5625, which is 56.25%.",
+    "trick": "r = 3/4, so r² = 9/16 = 0.5625. You can also use 75 × 75 = 5,625 and place the decimal point.",
+    "check": "agree",
+    "computed": "56.25%",
+    "accept": [
+      "56.25",
+      "56.25%",
+      "0.5625",
+      "9/16"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1543": {
+    "solution": "Only the total number of people matters: 6 + 5 = 11. The number of committees is 11C3 = (11 × 10 × 9) ÷ (3 × 2 × 1) = 990 ÷ 6 = 165.",
+    "trick": "Multiply 11 × 10 × 9 = 990, then divide by 6 to get 165.",
+    "check": "agree",
+    "computed": "165 ways",
+    "accept": [
+      "165",
+      "165 ways"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1553": {
+    "solution": "For independent events, P(rain and traffic) = P(rain) × P(traffic) = 0.4 × 0.7 = 0.28.",
+    "trick": "4 × 7 = 28, and there are two decimal places in total, so 0.28.",
+    "check": "agree",
+    "computed": "0.28",
+    "accept": [
+      "0.28",
+      ".28",
+      "28%",
+      "7/25"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1570": {
+    "solution": "tan(angle of elevation) = height ÷ distance, so height = 30 × tan 45° = 30 × 1 = 30 m.",
+    "trick": "tan 45° = 1, so the height equals the distance: 30 m.",
+    "check": "agree",
+    "computed": "30 meters",
+    "accept": [
+      "30",
+      "30m",
+      "30 m",
+      "30 meters",
+      "30 metres"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1573": {
+    "solution": "Model length = real length ÷ 18 = 4.5 m ÷ 18 = 0.25 m = 25 cm.",
+    "trick": "4.5 m is 450 cm, and 450 ÷ 18 = 25 because 18 × 25 = 450.",
+    "check": "agree",
+    "computed": "25 cm",
+    "accept": [
+      "25",
+      "25cm",
+      "25 cm",
+      "0.25 m",
+      "0.25m"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1579": {
+    "solution": "Use the chain rule: d/dx (cos u) = −sin u × du/dx. With u = 3x, du/dx = 3, so the derivative is −3 sin 3x.",
+    "trick": "Cos turns into minus sin, the 3x stays inside, and the 3 comes out front: −3 sin 3x. The minus sign is the part people lose.",
+    "check": "agree",
+    "computed": "−3 sin 3x",
+    "accept": [
+      "−3 sin 3x",
+      "-3 sin 3x",
+      "−3sin3x",
+      "-3sin3x",
+      "−3 sin(3x)",
+      "-3 sin(3x)",
+      "−3sin(3x)",
+      "-3sin(3x)",
+      "minus 3 sin 3x"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1584": {
+    "solution": "Convert 72 km/h to m/s by multiplying by 5/18: 72 × 5/18 = 20 m/s. Distance = speed × time = 20 × 25 = 500 m.",
+    "trick": "72 ÷ 3.6 = 20 m/s, then 20 × 25 = 500 m.",
+    "check": "agree",
+    "computed": "500 m",
+    "accept": [
+      "500",
+      "500m",
+      "500 m",
+      "500 meters",
+      "500 metres"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1595": {
+    "solution": "The sound travels to the surface and back, so the one way time is 0.8 ÷ 2 = 0.4 s. Distance = speed × time = 340 × 0.4 = 136 m.",
+    "trick": "Halve the time first to get 0.4 s. Then 340 × 0.4 = 136, since 34 × 4 = 136.",
+    "check": "agree",
+    "computed": "136 meters",
+    "accept": [
+      "136",
+      "136m",
+      "136 m",
+      "136 meters",
+      "136 metres"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1606": {
+    "solution": "Total 4 member committees from 8 people: 8C4 = 70. Fewer than 2 girls means exactly 1 girl and 3 boys (0 girls would need 4 boys, but there are only 3): 5C1 × 3C3 = 5. So at least 2 girls: 70 − 5 = 65.",
+    "trick": "Use the complement. 8C4 = 70, and the only bad committee has 1 girl and all 3 boys, which can be picked in 5 ways. 70 − 5 = 65.",
+    "check": "agree",
+    "computed": "65",
+    "accept": [
+      "65"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1617": {
+    "solution": "The 90th percentile means 90% of the scores are at or below that score. So 90% of 1,000 = 900 students scored equal or lower.",
+    "trick": "Percentile means percent at or below: 90% of 1,000 is 900.",
+    "check": "agree",
+    "computed": "900 students",
+    "accept": [
+      "900",
+      "900 students"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1623": {
+    "solution": "The 20 g of reactants is not needed. Percentage yield = actual ÷ theoretical × 100 = 36 ÷ 40 × 100 = 90%.",
+    "trick": "36 is 4 less than 40, and 4 is 10% of 40, so the yield is 90%.",
+    "check": "agree",
+    "computed": "90%",
+    "accept": [
+      "90",
+      "90%",
+      "90 percent"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1631": {
+    "solution": "Substitute t = 4 into s(t) = 3t² − 6t. Then s(4) = 3 × 16 − 6 × 4 = 48 − 24 = 24 m.",
+    "trick": "Factorise: s = 3t(t − 2). At t = 4 that is 3 × 4 × 2 = 24.",
+    "check": "agree",
+    "computed": "24 meters",
+    "accept": [
+      "24",
+      "24m",
+      "24 m",
+      "24 meters",
+      "24 metres"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1640": {
+    "solution": "The moles of NaOH stay the same: 0.4 M × 0.200 L = 0.08 mol. The new volume is 200 + 300 = 500 mL = 0.5 L, so the molarity is 0.08 ÷ 0.5 = 0.16 M.",
+    "trick": "The volume goes from 200 to 500 mL, so the concentration is multiplied by 2/5. Then 0.4 × 2/5 = 0.16.",
+    "check": "agree",
+    "computed": "0.16 M",
+    "accept": [
+      "0.16",
+      ".16",
+      "0.16M",
+      "0.16 M",
+      "0.16 mol/L",
+      "0.16 mol/dm³"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1649": {
+    "solution": "Total revenue is the integral of MR. ∫ from 0 to 4 of (100 − 2x) dx = [100x − x²] from 0 to 4 = (400 − 16) − 0 = 384.",
+    "trick": "MR is a straight line from 100 down to 92, so its average is 96. Then 96 × 4 = 384.",
+    "check": "agree",
+    "computed": "384",
+    "accept": [
+      "384"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1661": {
+    "solution": "Standard deviation measures spread around the mean. If every value is 40, the mean is 40 and every deviation is 0, so the standard deviation is 0.",
+    "trick": "No spread means SD = 0. The number 40 is only a distraction.",
+    "check": "agree",
+    "computed": "0",
+    "accept": [
+      "0",
+      "zero"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1664": {
+    "solution": "The reaction is 2H₂ + O₂ → 2H₂O. 3 mol H₂ needs 1.5 mol O₂, so both are used up and 3 mol of water forms. Mass = 3 mol × 18 g/mol = 54 g.",
+    "trick": "In 2H₂ + O₂ → 2H₂O, moles of water equal moles of H₂, and 3 mol of H₂ needs exactly 1.5 mol of O₂. So 3 × 18 = 54 g.",
+    "check": "agree",
+    "computed": "54 g",
+    "accept": [
+      "54",
+      "54g",
+      "54 g",
+      "54 grams"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1676": {
+    "solution": "Quartile deviation = (Q3 − Q1) ÷ 2, and the interquartile range is Q3 − Q1. So IQR = 2 × quartile deviation = 2 × 8 = 16.",
+    "trick": "The quartile deviation is half the IQR, so double it: 2 × 8 = 16.",
+    "check": "agree",
+    "computed": "16",
+    "accept": [
+      "16"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1679": {
+    "solution": "Volume of a cuboid = length × width × height = 20 × 15 × 10 = 3,000 cm³.",
+    "trick": "20 × 15 = 300, then times 10 gives 3,000.",
+    "check": "agree",
+    "computed": "3,000 cm³",
+    "accept": [
+      "3000",
+      "3,000",
+      "3000 cm³",
+      "3,000 cm³",
+      "3000 cm3",
+      "3000cm3"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1707": {
+    "solution": "Expected value = (200 × 0.3) + (−100 × 0.7) = 60 − 70 = −10. So the expected value is −₦10.",
+    "trick": "Work in tens: 20 × 0.3 = 6 and 10 × 0.7 = 7, so 6 − 7 = −1 ten, which is −₦10.",
+    "check": "agree",
+    "computed": "−₦10",
+    "accept": [
+      "−10",
+      "-10",
+      "−₦10",
+      "-₦10",
+      "−N10",
+      "-N10",
+      "minus 10",
+      "minus ₦10"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1716": {
+    "solution": "Real length = plan length × 100 = 8 cm × 100 = 800 cm = 8 m.",
+    "trick": "At 1:100, 1 cm stands for 1 m. So 8 cm is 8 m.",
+    "check": "agree",
+    "computed": "8 m",
+    "accept": [
+      "8",
+      "8m",
+      "8 m",
+      "8 meters",
+      "8 metres"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1719": {
+    "solution": "Density = mass ÷ volume = 40 ÷ 0.05 = 800 kg/m³.",
+    "trick": "Dividing by 0.05 is the same as multiplying by 20, so 40 × 20 = 800.",
+    "check": "agree",
+    "computed": "800 kg/m³",
+    "accept": [
+      "800",
+      "800 kg/m³",
+      "800kg/m³",
+      "800 kg/m3",
+      "800kg/m3"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1725": {
+    "solution": "Expected winners = n × p = 3,000 × 0.002 = 6.",
+    "trick": "0.002 is 2 in a thousand, so 3,000 players gives 3 × 2 = 6.",
+    "check": "agree",
+    "computed": "6",
+    "accept": [
+      "6",
+      "6 players",
+      "6 winners"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1733": {
+    "solution": "Total magnification = objective × eyepiece = 40 × 10 = 400x.",
+    "trick": "Multiplying by 10 just adds a zero, so 40 becomes 400.",
+    "check": "agree",
+    "computed": "400x",
+    "accept": [
+      "400",
+      "400x",
+      "400 x",
+      "400×",
+      "400 times"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1737": {
+    "solution": "Expected owners = n × p = 250 × 0.30 = 75.",
+    "trick": "10% of 250 is 25, so 30% is 3 × 25 = 75.",
+    "check": "agree",
+    "computed": "75",
+    "accept": [
+      "75",
+      "75 people",
+      "75 owners"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1754": {
+    "solution": "Expected winners = n × p = 5,000 × 0.003 = 15.",
+    "trick": "0.003 is 3 in a thousand, so 5,000 tickets gives 5 × 3 = 15.",
+    "check": "agree",
+    "computed": "15 winners",
+    "accept": [
+      "15",
+      "15 winners"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1758": {
+    "solution": "15 days ÷ 5 days = 3 half-lives. The fraction left is (1/2)³ = 1/8.",
+    "trick": "Halve three times: 1, then 1/2, then 1/4, then 1/8.",
+    "check": "agree",
+    "computed": "1/8",
+    "accept": [
+      "1/8",
+      "0.125",
+      "12.5%"
+    ],
+    "comment": ""
+  },
+  "26-sf1-qb-1763": {
+    "solution": "The ladder is the hypotenuse, so base² = 13² − 12² = 169 − 144 = 25. The base is √25 = 5 ft from the building.",
+    "trick": "5, 12, 13 is a well known right triangle, so the missing side is 5 ft.",
+    "check": "agree",
+    "computed": "5 feet",
+    "accept": [
+      "5",
+      "5ft",
+      "5 ft",
+      "5 feet"
+    ],
+    "comment": ""
+  }
+}

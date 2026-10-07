@@ -1,0 +1,1054 @@
+{
+"sf1-001": {
+"s": "AM",
+"tp": "Ratio",
+"q": "Lucy and Joy share an inheritance of $4,500 in a ratio 5:4. How much does Joy get?"
+},
+"sf1-002": {
+"s": "AM",
+"tp": "Ratio",
+"r": "?"
+},
+"sf1-003": {
+"s": "DA",
+"tp": "Percentiles",
+"q": "In a team of 20 where 15 hit targets, what percentile does a target-achieving salesperson represent?"
+},
+"sf1-004": {
+"s": "GK",
+"tp": "Africa"
+},
+"sf1-005": {
+"s": "AM",
+"tp": "Percentages"
+},
+"sf1-006": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“HTML” is to “Structure” as “CSS” is to ___",
+"k": "Style",
+"n": "HTML gives a web page its structure; CSS gives it its style."
+},
+"sf1-007": {
+"s": "AM",
+"tp": "Volume",
+"q": "What is the volume of an Egyptian pyramid with a length of 20 m and a vertical height of 50 m?",
+"k": "20,000 m³",
+"a": "6,667 m³ (20,000/3)",
+"t": "d",
+"n": "A pyramid's volume is one third of base area × height: ⅓ × 20 × 20 × 50 ≈ 6,667 m³. The show's 20,000 m³ leaves out the one third."
+},
+"sf1-008": {
+"s": "AM",
+"tp": "Algebra"
+},
+"sf1-009": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The profit function f(x) = 2x² + 4x − 5 models earnings. What is the minimum achievable profit?",
+"o": [
+"−9",
+"−10",
+"−18"
+],
+"k": "−9",
+"a": "−7",
+"t": "d",
+"n": "The minimum is at x = −1, where f(−1) = 2 − 4 − 5 = −7. None of the options is right; the show's −9 looks like a slip."
+},
+"sf1-010": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Elephants” are to “Parade” as “Crows” are to",
+"n": "A group of elephants is a parade; a group of crows is a murder."
+},
+"sf1-011": {
+"s": "AM",
+"tp": "Power",
+"q": "Find the power used if 100 J of work is done in 5 s."
+},
+"sf1-012": {
+"s": "DA",
+"tp": "Skewness",
+"k": "Positive (right) skew"
+},
+"sf1-013": {
+"s": "AM",
+"tp": "Permutations"
+},
+"sf1-014": {
+"s": "DA",
+"tp": "Ogives"
+},
+"sf1-015": {
+"s": "AM",
+"tp": "Rates"
+},
+"sf1-016": {
+"s": "VR",
+"tp": "Directions",
+"a": "North-East",
+"t": "d",
+"n": "405° is a full turn plus 45°. Turning 45° anticlockwise from East points North-East, which isn't an option. The show's South-East would be right for a clockwise turn."
+},
+"sf1-017": {
+"s": "GK",
+"tp": "Culture",
+"q": "Which African country is known for the traditional sport of “Savika”, a form of bull riding?"
+},
+"sf1-018": {
+"skip": "same question shown twice"
+},
+"sf1-019": {
+"s": "DA",
+"tp": "Probability",
+"o": [
+"1/23",
+"1/45",
+"1/55"
+],
+"k": "1/55"
+},
+"sf1-020": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Given f(x) = 2x² + 3, what is the second derivative of f(x)?"
+},
+"sf1-021": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "A tech firm's smartphone revenue is R(x) = 300x − 15x². Calculate optimal production.",
+"r": "?"
+},
+"sf1-022": {
+"s": "AM",
+"tp": "Pythagoras"
+},
+"sf1-023": {
+"s": "AM",
+"tp": "3D geometry"
+},
+"sf1-024": {
+"s": "AM",
+"tp": "Work",
+"o": [
+"200 J",
+"98 J",
+"100 J"
+],
+"k": "98 J",
+"n": "The show used g = 9.8 m/s²; with g = 10 the work would be 100 J, which is also an option."
+},
+"sf1-025": {
+"s": "AM",
+"tp": "Geometry"
+},
+"sf1-026": {
+"s": "DA",
+"tp": "Expected value",
+"q": "A store finds 15% of customers return items. In 50 sales, what's the expected number of returns?",
+"k": "7.5"
+},
+"sf1-027": {
+"s": "AM",
+"tp": "Pythagoras"
+},
+"sf1-028": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "The bakery's bread revenue is R(x) = 360x − 9x². Find best loaves to bake."
+},
+"sf1-029": {
+"s": "AM",
+"tp": "Half-life"
+},
+"sf1-030": {
+"s": "GK",
+"tp": "Culture"
+},
+"sf1-031": {
+"s": "AM",
+"tp": "Exponential growth",
+"n": "It triples 6 times (24 ÷ 4), so the culture ends up 3⁶ = 729 times its starting size."
+},
+"sf1-032": {
+"s": "GK",
+"tp": "Music",
+"q": "Which Tanzanian artist is known as the “King of Bongo Flava”?"
+},
+"sf1-033": {
+"s": "AM",
+"tp": "Errors"
+},
+"sf1-034": {
+"s": "AM",
+"tp": "Circles",
+"o": [
+"540π m",
+"270π m",
+"150π m"
+],
+"k": "270π m"
+},
+"sf1-035": {
+"s": "GK",
+"tp": "History",
+"q": "Which leader declared Tanzania's policy of Ujamaa (African socialism)?"
+},
+"sf1-036": {
+"s": "AM",
+"tp": "Ratio"
+},
+"sf1-037": {
+"s": "DA",
+"tp": "Range"
+},
+"sf1-038": {
+"s": "AM",
+"tp": "Rates"
+},
+"sf1-039": {
+"s": "AM",
+"tp": "Scale",
+"o": [
+"0.5km",
+"2km",
+"4km"
+],
+"k": "2km"
+},
+"sf1-040": {
+"s": "DA",
+"tp": "Normal distribution",
+"q": "In a normal distribution with mean 160cm and SD of 8cm, calculate the proportion of data between 152cm and 168cm."
+},
+"sf1-041": {
+"s": "DA",
+"tp": "Correlation"
+},
+"sf1-042": {
+"s": "AM",
+"tp": "Combinations"
+},
+"sf1-043": {
+"s": "DA",
+"tp": "Probability"
+},
+"sf1-044": {
+"skip": "same question repeated at the start of the next quarter"
+},
+"sf1-045": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "The angle of elevation from 30m away to a tower's top is 45°. What is the tower's height?"
+},
+"sf1-046": {
+"s": "AM",
+"tp": "Scale"
+},
+"sf1-047": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The derivative of f(x) = cos 3x is ___",
+"k": "−3 sin 3x"
+},
+"sf1-048": {
+"s": "AM",
+"tp": "Speed, distance, time"
+},
+"sf1-049": {
+"s": "AM",
+"tp": "Sound"
+},
+"sf1-050": {
+"s": "AM",
+"tp": "Combinations"
+},
+"sf1-051": {
+"s": "DA",
+"tp": "Percentiles",
+"q": "A student is at the 90th percentile. Out of 1,000 students, how many scored equal or lower?"
+},
+"sf1-052": {
+"s": "AM",
+"tp": "Chemistry calculations"
+},
+"sf1-053": {
+"s": "GK",
+"tp": "Music"
+},
+"sf1-054": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A car's distance is s(t) = 3t² − 6t. Find distance at t = 4."
+},
+"sf1-055": {
+"s": "AM",
+"tp": "Dilution",
+"k": "0.16 M"
+},
+"sf1-056": {
+"s": "AM",
+"tp": "Integration"
+},
+"sf1-057": {
+"s": "DA",
+"tp": "Standard deviation",
+"k": "0"
+},
+"sf1-058": {
+"s": "AM",
+"tp": "Stoichiometry",
+"q": "If 3 moles of H₂ react with 1.5 moles of O₂ to form water, how many grams of H₂O are produced?",
+"o": [
+"54g",
+"18g",
+"36g"
+],
+"k": "54g"
+},
+"sf1-059": {
+"s": "DA",
+"tp": "Quartiles"
+},
+"sf1-060": {
+"s": "AM",
+"tp": "Volume",
+"k": "3,000 cm³"
+},
+"sf1-061": {
+"skip": "same question repeated at the start of the next quarter"
+},
+"sf1-062": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Fish” is to “Aquarium” as “Painting” is to:",
+"n": "A fish is kept in an aquarium; a painting is kept in a frame."
+},
+"sf1-063": {
+"s": "DA",
+"tp": "Expected value",
+"q": "Find the expected value for a game: win ₦200 with P = 0.3, lose ₦100 with P = 0.7",
+"o": [
+"−₦40",
+"−₦10",
+"−₦28"
+],
+"k": "−₦10"
+},
+"sf1-064": {
+"s": "AM",
+"tp": "Scale"
+},
+"sf1-065": {
+"s": "AM",
+"tp": "Density",
+"q": "A beam has a mass of 40kg and a volume of 0.05m³. Find its density.",
+"k": "800 kg/m³"
+},
+"sf1-066": {
+"s": "DA",
+"tp": "Expected value"
+},
+"sf1-067": {
+"s": "AM",
+"tp": "Optics"
+},
+"sf1-068": {
+"s": "DA",
+"tp": "Expected value"
+},
+"sf1-069": {
+"s": "VR",
+"tp": "Number series",
+"n": "The gaps double: 8, 16, 32, 64, so the next gap is 128 and 125 + 128 = 253."
+},
+"sf1-070": {
+"s": "DA",
+"tp": "Expected value"
+},
+"sf1-071": {
+"s": "AM",
+"tp": "Half-life",
+"o": [
+"1/3",
+"1/4",
+"1/8"
+],
+"k": "1/8"
+},
+"sf1-072": {
+"s": "AM",
+"tp": "Pythagoras"
+},
+"sf1-073": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Find the inflection point of f(x) = x³ − 6x².",
+"o": [
+"(2, −16)",
+"(4, −32)",
+"(1, −8)"
+],
+"k": "(2, −16)"
+},
+"sf1-074": {
+"s": "DA",
+"tp": "Expected value",
+"q": "A medical test has a 1% false positive rate. If 1,000 healthy people are tested, how many will falsely test positive?"
+},
+"sf1-075": {
+"s": "AM",
+"tp": "Half-life"
+},
+"sf1-076": {
+"s": "GK",
+"tp": "Geography"
+},
+"sf1-077": {
+"s": "AM",
+"tp": "Scale"
+},
+"sf1-078": {
+"s": "VR",
+"tp": "Coding",
+"q": "If “BREAD” = 30 and “BUTTER” = 86, then “JAM” = __",
+"n": "Add letter positions: J = 10, A = 1, M = 13, so JAM = 24."
+},
+"sf1-079": {
+"s": "AM",
+"tp": "Vectors"
+},
+"sf1-080": {
+"s": "DA",
+"tp": "Probability",
+"o": [
+"7/25",
+"5/27",
+"7/50"
+],
+"k": "7/50"
+},
+"sf1-081": {
+"s": "AM",
+"tp": "Scaling"
+},
+"sf1-082": {
+"s": "AM",
+"tp": "Geometry"
+},
+"sf1-083": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Raven” is to “Flock” as “Lion” is to",
+"r": "?"
+},
+"sf1-084": {
+"s": "VR",
+"tp": "Riddles"
+},
+"sf1-085": {
+"s": "VR",
+"tp": "Odd one out",
+"q": "Identify the item that does not belong: Schizophrenia, Depression, Diabetes, Anxiety",
+"n": "The others are mental health conditions; diabetes is a physical one."
+},
+"sf1-086": {
+"s": "VR",
+"tp": "Riddles"
+},
+"sf1-087": {
+"skip": "same question shown twice"
+},
+"sf1-088": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Introducing a boy, a girl says, “He is the son of my mother's only child.” How is the girl related to the boy?",
+"n": "Her mother's only child is the girl herself, so the boy is her son.",
+"r": "?"
+},
+"sf1-089": {
+"s": "VR",
+"tp": "Directions",
+"o": [
+"10 km",
+"20 km",
+"10√2 km"
+],
+"k": "10√2 km",
+"n": "The two legs are at right angles, so the distance is √(10² + 10²) = 10√2 km."
+},
+"sf1-090": {
+"s": "VR",
+"tp": "Directions",
+"o": [
+"10 m",
+"5√2 m",
+"5 m"
+],
+"a": "5√2 m",
+"t": "w",
+"n": "√(5² + 5²) = 5√2 m."
+},
+"sf1-091": {
+"s": "VR",
+"tp": "Blood relations",
+"r": "?"
+},
+"sf1-092": {
+"s": "VR",
+"tp": "Analogy",
+"q": "Corrode is to metal as erode is to",
+"r": "?"
+},
+"sf1-093": {
+"s": "VR",
+"tp": "Analogy",
+"q": "Find the missing term: Cat : Kitten :: Dog : ___"
+},
+"sf1-094": {
+"s": "VR",
+"tp": "Directions",
+"n": "45° left gives North-West, 90° right gives North-East, then 135° left gives West."
+},
+"sf1-095": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "A and B are siblings. C is A's daughter. D is C's husband. How is D related to B?",
+"k": "Nephew-in-law / Son-in-law"
+},
+"sf1-096": {
+"s": "VR",
+"tp": "Letter positions"
+},
+"sf1-097": {
+"s": "VR",
+"tp": "Directions",
+"r": "?"
+},
+"sf1-098": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Pointing to a woman, a man says, “She is the wife of my uncle.” Who is the woman to the man?",
+"r": "?"
+},
+"sf1-099": {
+"s": "VR",
+"tp": "Letter series",
+"q": "What comes next in the sequence: O, T, T, F, F, S, S, ___?",
+"k": "E",
+"n": "These are the first letters of One, Two, Three, Four, Five, Six, Seven, so next comes E for Eight."
+},
+"sf1-100": {
+"s": "VR",
+"tp": "Analogy",
+"k": "Computing",
+"n": "Kafka is a giant of literature; Turing is a founder of computing."
+},
+"sf1-101": {
+"s": "VR",
+"tp": "Riddles",
+"k": "A ring"
+},
+"sf1-102": {
+"s": "VR",
+"tp": "Computing",
+"q": "Which programming paradigm is primarily associated with the concept of “immutable state”?"
+},
+"sf1-103": {
+"s": "VR",
+"tp": "Analogy",
+"k": "Human Development"
+},
+"sf1-104": {
+"s": "VR",
+"tp": "Directions"
+},
+"sf1-105": {
+"s": "VR",
+"tp": "Ordering"
+},
+"sf1-106": {
+"s": "VR",
+"tp": "Arrangement"
+},
+"sf1-107": {
+"s": "VR",
+"tp": "Blood relations"
+},
+"sf1-108": {
+"s": "VR",
+"tp": "Ordering"
+},
+"sf1-109": {
+"s": "VR",
+"tp": "Letter positions",
+"o": [
+"H",
+"J",
+"K"
+],
+"k": "J"
+},
+"sf1-110": {
+"s": "VR",
+"tp": "Riddles",
+"q": "What word begins and ends with an “E” but only has one letter?"
+},
+"sf1-111": {
+"s": "VR",
+"tp": "Ordering",
+"n": "Nissan, then Ford, then Toyota, then Honda.",
+"r": "?"
+},
+"sf1-112": {
+"s": "GK",
+"tp": "Film"
+},
+"sf1-113": {
+"s": "GK",
+"tp": "Economics"
+},
+"sf1-114": {
+"s": "GK",
+"tp": "Science",
+"q": "Kalology is the study of human ___"
+},
+"sf1-115": {
+"s": "GK",
+"tp": "Science",
+"o": [
+"10 Hz",
+"1.2 Hz",
+"0.189 Hz"
+],
+"k": "0.189 Hz"
+},
+"sf1-116": {
+"s": "GK",
+"tp": "Science"
+},
+"sf1-117": {
+"s": "GK",
+"tp": "Science"
+},
+"sf1-118": {
+"skip": "same question shown twice"
+},
+"sf1-119": {
+"s": "GK",
+"tp": "History",
+"q": "Which “A” term describes the study of human history using material remains?"
+},
+"sf1-120": {
+"s": "GK",
+"tp": "Geography"
+},
+"sf1-121": {
+"s": "GK",
+"tp": "History",
+"k": "Violations of human rights"
+},
+"sf1-122": {
+"s": "GK",
+"tp": "Science",
+"q": "Petrol engines rely on which cycle?"
+},
+"sf1-123": {
+"s": "GK",
+"tp": "Science"
+},
+"sf1-124": {
+"s": "GK",
+"tp": "Nature"
+},
+"sf1-125": {
+"s": "GK",
+"tp": "Literature",
+"q": "___ is a phrase that uses two contradictory words to create a new meaning."
+},
+"sf1-126": {
+"s": "GK",
+"tp": "Geography"
+},
+"sf1-127": {
+"s": "GK",
+"tp": "Literature",
+"q": "___ is a literary device in which a word or object stands for a closely related word or object."
+},
+"sf1-128": {
+"s": "GK",
+"tp": "History"
+},
+"sf1-129": {
+"s": "GK",
+"tp": "Science",
+"k": "Cells"
+},
+"sf1-130": {
+"s": "GK",
+"tp": "Geography"
+},
+"sf1-131": {
+"s": "GK",
+"tp": "Nature"
+},
+"sf1-132": {
+"s": "GK",
+"tp": "Nature",
+"q": "Which African animal is known as the “laughing predator”?"
+},
+"sf1-133": {
+"s": "GK",
+"tp": "Science"
+},
+"sf1-134": {
+"s": "GK",
+"tp": "Geography"
+},
+"sf1-135": {
+"s": "GK",
+"tp": "Health",
+"r": "?"
+},
+"sf1-136": {
+"s": "AM",
+"tp": "Linear algebra",
+"k": "−5",
+"r": "?"
+},
+"sf1-137": {
+"s": "AM",
+"tp": "Trigonometry"
+},
+"sf1-138": {
+"s": "AM",
+"tp": "Errors",
+"q": "The relative error for a measurement of 400 ± 0.5 cm is:",
+"o": [
+"12.5%",
+"0.125%",
+"1.25%"
+],
+"k": "0.125%"
+},
+"sf1-139": {
+"s": "AM",
+"tp": "Units",
+"q": "The acceleration due to gravity, g, is 10 m/s². What is this value in km/h²?",
+"o": [
+"35,280 km/h²",
+"129,600 km/h²",
+"352,800 km/h²"
+],
+"k": "129,600 km/h²"
+},
+"sf1-140": {
+"skip": "same question shown twice"
+},
+"sf1-141": {
+"s": "AM",
+"tp": "Energy",
+"o": [
+"27 MJ",
+"270 MJ",
+"2,700 MJ"
+],
+"k": "270 MJ",
+"r": "?"
+},
+"sf1-142": {
+"s": "AM",
+"tp": "Complex numbers",
+"q": "What is the modulus of the complex number z = 11 + 60i?"
+},
+"sf1-143": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "The height of a rocket is given by h(t) = −5t² + 100t. When does it hit the ground?",
+"o": [
+"10s",
+"20s",
+"40s"
+],
+"k": "20s"
+},
+"sf1-144": {
+"s": "AM",
+"tp": "Dilution",
+"r": "?"
+},
+"sf1-145": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Calculate the derivative of y = 5x³ at x = 1.",
+"o": [
+"15",
+"10",
+"5"
+],
+"r": "?"
+},
+"sf1-146": {
+"s": "AM",
+"tp": "Calculus",
+"q": "If y = 2x² + 4x, find dy/dx when x = 1."
+},
+"sf1-147": {
+"s": "AM",
+"tp": "Binomial probability"
+},
+"sf1-148": {
+"s": "AM",
+"tp": "Half-life"
+},
+"sf1-149": {
+"s": "AM",
+"tp": "Chemistry calculations",
+"k": "1,680g"
+},
+"sf1-150": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The cost function is C(x) = 2x³ − 4x² + 10. What is the marginal cost at x = 2?",
+"o": [
+"8",
+"12",
+"10"
+]
+},
+"sf1-151": {
+"s": "AM",
+"tp": "Numerical methods",
+"q": "Using the Newton-Raphson method to solve x² − 4 = 0, start with x₀ = 2.5. What is the next approximation?"
+},
+"sf1-152": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The velocity of a particle is v(t) = t³ − 6t. Find its acceleration at t = 2 s.",
+"o": [
+"18 m/s²",
+"6 m/s²",
+"12 m/s²"
+],
+"k": "6 m/s²"
+},
+"sf1-153": {
+"s": "AM",
+"tp": "Rates"
+},
+"sf1-154": {
+"s": "AM",
+"tp": "Vectors",
+"q": "A vector has a magnitude of 25 and a direction of 90°. What is its vertical component?",
+"o": [
+"0",
+"25",
+"50"
+],
+"k": "25"
+},
+"sf1-155": {
+"s": "AM",
+"tp": "Pythagoras"
+},
+"sf1-156": {
+"s": "AM",
+"tp": "Vectors",
+"q": "A vector is given by v = 5i − 12j. What is its magnitude?"
+},
+"sf1-157": {
+"s": "AM",
+"tp": "Trigonometry",
+"o": [
+"50√3 m",
+"50m",
+"100m"
+],
+"k": "50√3 m"
+},
+"sf1-158": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Find the time t for the inflexion point in the rate function R(t) = 2t³ − 9t² + 12t + 1.",
+"o": [
+"2.5",
+"1.5",
+"3.5"
+]
+},
+"sf1-159": {
+"s": "AM",
+"tp": "Ratio",
+"q": "A civil engineer needs to create 4,500kg of concrete with a cement : sand : gravel ratio of 1:4:5. What mass of sand is required?",
+"k": "1,800kg"
+},
+"sf1-160": {
+"s": "AM",
+"tp": "Units",
+"q": "The density of lead is 11,300 kg/m³. Express this in g/cm³.",
+"o": [
+"1.13 g/cm³",
+"11.3 g/cm³",
+"113 g/cm³"
+],
+"k": "11.3 g/cm³"
+},
+"sf1-161": {
+"s": "AM",
+"tp": "Numerical methods",
+"q": "The Newton-Raphson method is used to find a root of x² − 4 = 0. Starting with x₀ = 3, what is the value of x₁?",
+"o": [
+"13/6",
+"11/15",
+"9/11"
+],
+"k": "13/6",
+"r": "?"
+},
+"sf1-162": {
+"s": "DA",
+"tp": "Z-score",
+"k": "−1"
+},
+"sf1-163": {
+"s": "DA",
+"tp": "Hypothesis testing"
+},
+"sf1-164": {
+"s": "DA",
+"tp": "Sets"
+},
+"sf1-165": {
+"s": "DA",
+"tp": "Range"
+},
+"sf1-166": {
+"s": "DA",
+"tp": "Quartiles",
+"q": "For the dataset 4, 6, 8, 10, 12, 14, 16, the third quartile is",
+"r": "?"
+},
+"sf1-167": {
+"s": "DA",
+"tp": "Z-score",
+"r": "?"
+},
+"sf1-168": {
+"s": "DA",
+"tp": "Units",
+"k": "208 weeks"
+},
+"sf1-169": {
+"s": "DA",
+"tp": "Box plots",
+"o": [
+"Mean ± SD",
+"Q1 and Q3",
+"Minimum and maximum values"
+]
+},
+"sf1-170": {
+"s": "DA",
+"tp": "Probability"
+},
+"sf1-171": {
+"s": "DA",
+"tp": "Simple interest",
+"q": "What is the simple interest on ₦5,000 at 8% per annum for 5 years?",
+"o": [
+"₦16,000",
+"₦2,000",
+"₦8,000"
+],
+"k": "₦2,000"
+},
+"sf1-172": {
+"s": "DA",
+"tp": "Percentages",
+"o": [
+"15%",
+"20%",
+"30%"
+]
+},
+"sf1-173": {
+"s": "DA",
+"tp": "Combinations",
+"q": "There are 20 points in a plane. How many triangles can be formed by these points if 5 are collinear?",
+"r": "?"
+},
+"sf1-174": {
+"s": "DA",
+"tp": "Median",
+"q": "The response times (in seconds) for a website are 5, 8, 4, 9 and 6. What is the median response time?",
+"r": "?"
+},
+"sf1-175": {
+"s": "DA",
+"tp": "Conditional probability"
+},
+"sf1-176": {
+"s": "DA",
+"tp": "Quartiles"
+},
+"sf1-177": {
+"s": "DA",
+"tp": "Simple interest",
+"q": "How many years for ₦8,000 to earn ₦1,600 at 5% simple interest?"
+},
+"sf1-178": {
+"s": "DA",
+"tp": "Permutations"
+},
+"sf1-179": {
+"s": "DA",
+"tp": "Standard deviation",
+"k": "0",
+"o": [
+"1",
+"4",
+"0"
+]
+},
+"sf1-180": {
+"s": "DA",
+"tp": "Statistical terms",
+"q": "Which of the following is classified as an unknown or exact value that represents the whole population?"
+},
+"sf1-181": {
+"s": "DA",
+"tp": "Probability"
+},
+"sf1-182": {
+"s": "DA",
+"tp": "Skewness",
+"k": "Mean < Median"
+},
+"sf1-183": {
+"s": "DA",
+"tp": "Range",
+"q": "What is the range of student startup funding rounds ($K): 150, 220, 180, 300, 250, 190?",
+"o": [
+"$200K",
+"$130K",
+"$150K"
+],
+"k": "$150K",
+"r": "?"
+},
+"sf1-184": {
+"s": "DA",
+"tp": "Probability"
+},
+"sf1-185": {
+"s": "DA",
+"tp": "Median",
+"q": "A farmer collects the number of eggs per day from her hens: 12, 15, 10, 20, 30 and 25. What is the median number of eggs?"
+},
+"sf1-186": {
+"s": "DA",
+"tp": "Combinations",
+"r": "?"
+}
+}

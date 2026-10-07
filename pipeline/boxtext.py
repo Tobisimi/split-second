@@ -156,19 +156,23 @@ def read_key(im, kind):
     keep = np.zeros_like(white)
     for i in range(1, n):
         x, y, w, h, area = st[i]
-        if area < 5: continue                                # specks
-        if h <= 4 and w >= 12: continue                      # horizontal outline segment
+        if area < 3: continue                                # specks
+        if h <= 4 and w >= 12 and (y <= 4 or y + h >= H - 4 or w >= 40): continue   # outline segment, not a minus sign
         if w <= 4 and h >= H - 6: continue                   # vertical outline segment
         if x <= 4: continue                                  # the bar's slanted left edge
         if w > 8 * h: continue                               # long thin line
         keep[lab == i] = 1
     cols = np.where(keep.any(axis=0))[0]; rows = np.where(keep.any(axis=1))[0]
     if not len(cols): return '', 0.0
-    run_end = cols[0]
+    # split into runs of columns separated by wide gaps and keep the heaviest run (the text,
+    # which can be left-aligned or centred depending on the layout)
+    runs, start, prev = [], cols[0], cols[0]
     for c in cols[1:]:
-        if c - run_end > 28: break
-        run_end = c
-    sub = keep[max(0, rows.min() - 2):rows.max() + 3, max(0, cols[0] - 3):run_end + 4]
+        if c - prev > 28: runs.append((start, prev)); start = c
+        prev = c
+    runs.append((start, prev))
+    a0, a1 = max(runs, key=lambda r: keep[:, r[0]:r[1] + 1].sum())
+    sub = keep[max(0, rows.min() - 2):rows.max() + 3, max(0, a0 - 3):a1 + 4]
     g = np.where(sub > 0, 0, 255).astype(np.uint8)
     best = ('', 0.0)
     for psm in (7, 8, 10):
