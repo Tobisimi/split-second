@@ -1230,7 +1230,8 @@
   "tag": "confirmed",
   "result": "right",
   "player": "Faith",
-  "school": "FUTA"
+  "school": "FUTA",
+  "solution": "Nigeria is a country in Africa, and Brazil is a country in South America."
  },
  {
   "id": "26-fin-qb-0948",
@@ -1252,7 +1253,8 @@
   "tag": "confirmed",
   "result": "right",
   "player": "Akinola",
-  "school": "FUTA"
+  "school": "FUTA",
+  "solution": "An iconoclast attacks tradition; an apostate abandons a religion."
  },
  {
   "id": "26-fin-qb-0961",
@@ -1274,7 +1276,8 @@
   "tag": "confirmed",
   "result": "wrong",
   "player": "Quayum",
-  "school": "OAU"
+  "school": "OAU",
+  "solution": "Order from left: C, A, B, D, E. B is in the middle."
  },
  {
   "id": "26-fin-qb-0982",
@@ -1296,7 +1299,8 @@
   "tag": "confirmed",
   "result": "wrong",
   "player": "Faith",
-  "school": "FUTA"
+  "school": "FUTA",
+  "solution": "Sagacious and prudent both mean wise; foolish is the opposite."
  },
  {
   "id": "26-fin-qb-1009",
@@ -1318,7 +1322,8 @@
   "tag": "confirmed",
   "result": "right",
   "player": "Akinola",
-  "school": "FUTA"
+  "school": "FUTA",
+  "solution": "A sonnet and a limerick are kinds of poem; a palette is an artist's board."
  },
  {
   "id": "26-fin-qb-1024",
@@ -1340,7 +1345,8 @@
   "tag": "confirmed",
   "result": "right",
   "player": "Faith",
-  "school": "FUTA"
+  "school": "FUTA",
+  "solution": "Jurisprudence is the theory of law; epistemology is the theory of knowledge."
  },
  {
   "id": "26-fin-qb-1186",
@@ -1383,7 +1389,8 @@
   "answer": "Hop",
   "tag": "worked_out",
   "result": "right",
-  "school": "OAU"
+  "school": "OAU",
+  "solution": "A horse gallops; a rabbit hops."
  },
  {
   "id": "26-fin-qb-1231",
@@ -1405,7 +1412,8 @@
   "tag": "confirmed",
   "result": "right",
   "player": "Lekan",
-  "school": "OAU"
+  "school": "OAU",
+  "solution": "Something ominous suggests a threat; feeling euphoric means feeling joy."
  },
  {
   "id": "26-fin-qb-1244",
@@ -1427,7 +1435,8 @@
   "tag": "confirmed",
   "result": "wrong",
   "player": "Quayum",
-  "school": "OAU"
+  "school": "OAU",
+  "solution": "Each letter goes back 3 places: J, G, D, A, then wrap round to X."
  },
  {
   "id": "26-fin-qb-1263",
@@ -1448,7 +1457,8 @@
   "answer": "Rapturous",
   "tag": "confirmed",
   "result": "right",
-  "school": "FUTA"
+  "school": "FUTA",
+  "solution": "Dolorous and melancholic both mean sad; rapturous means delighted."
  },
  {
   "id": "26-fin-qb-1280",
@@ -1470,7 +1480,8 @@
   "tag": "confirmed",
   "result": "wrong",
   "player": "Imran",
-  "school": "OAU"
+  "school": "OAU",
+  "solution": "Blake is Alex's parent but not the father, so Blake is the mother."
  },
  {
   "id": "26-fin-qb-1467",
@@ -1492,7 +1503,8 @@
   "tag": "confirmed",
   "result": "right",
   "player": "Imran",
-  "school": "OAU"
+  "school": "OAU",
+  "solution": "A group of fish is a shoal; a group of wolves is a pack."
  },
  {
   "id": "26-fin-qb-1501",
@@ -1514,7 +1526,8 @@
   "tag": "confirmed",
   "result": "right",
   "player": "Quayum",
-  "school": "OAU"
+  "school": "OAU",
+  "solution": "Turning 180° reverses direction, so East becomes West."
  },
  {
   "id": "26-fin-qb-1516",
@@ -1536,7 +1549,8 @@
   "tag": "confirmed",
   "result": "right",
   "player": "Akinola",
-  "school": "FUTA"
+  "school": "FUTA",
+  "solution": "Add letter positions: C = 3, A = 1, T = 20, so CAT = 24."
  },
  {
   "id": "26-fin-qb-1564",
@@ -1558,7 +1572,8 @@
   "tag": "confirmed",
   "result": "wrong",
   "player": "Lekan",
-  "school": "OAU"
+  "school": "OAU",
+  "solution": "TCP guarantees reliable delivery; UDP is connectionless."
  },
  {
   "id": "26-fin-qb-1793",
@@ -1580,7 +1595,8 @@
   "tag": "confirmed",
   "result": "wrong",
   "player": "Lekan",
-  "school": "OAU"
+  "school": "OAU",
+  "solution": "Pragmatic and theoretical describe two ways of approaching a problem (practice and theory); dogmatic describes rigid belief."
  },
  {
   "id": "26-fin-qb-0929",

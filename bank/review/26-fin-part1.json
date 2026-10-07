@@ -15,7 +15,8 @@
 "fin1-004": {
 "s": "VR",
 "tp": "Analogy",
-"q": "“Nigeria” is to “Africa” as “Brazil” is to:"
+"q": "“Nigeria” is to “Africa” as “Brazil” is to:",
+"n": "Nigeria is a country in Africa, and Brazil is a country in South America."
 },
 "fin1-005": {
 "s": "AM",
@@ -40,7 +41,8 @@
 "fin1-008": {
 "s": "VR",
 "tp": "Analogy",
-"q": "“Iconoclast” is to “tradition” as “apostate” is to"
+"q": "“Iconoclast” is to “tradition” as “apostate” is to",
+"n": "An iconoclast attacks tradition; an apostate abandons a religion."
 },
 "fin1-009": {
 "s": "DA",
@@ -52,7 +54,8 @@
 },
 "fin1-011": {
 "s": "VR",
-"tp": "Arrangement"
+"tp": "Arrangement",
+"n": "Order from left: C, A, B, D, E. B is in the middle."
 },
 "fin1-012": {
 "s": "AM",
@@ -69,7 +72,8 @@
 },
 "fin1-015": {
 "s": "VR",
-"tp": "Odd one out"
+"tp": "Odd one out",
+"n": "Sagacious and prudent both mean wise; foolish is the opposite."
 },
 "fin1-016": {
 "s": "DA",
@@ -92,7 +96,8 @@
 },
 "fin1-019": {
 "s": "VR",
-"tp": "Odd one out"
+"tp": "Odd one out",
+"n": "A sonnet and a limerick are kinds of poem; a palette is an artist's board."
 },
 "fin1-020": {
 "s": "AM",
@@ -115,7 +120,8 @@
 "fin1-023": {
 "s": "VR",
 "tp": "Analogy",
-"q": "“Jurisprudence” is to “Law” as “Epistemology” is to"
+"q": "“Jurisprudence” is to “Law” as “Epistemology” is to",
+"n": "Jurisprudence is the theory of law; epistemology is the theory of knowledge."
 },
 "fin1-024": {
 "s": "AM",
@@ -174,7 +180,8 @@
 "tp": "Analogy",
 "a": "Hop",
 "t": "w",
-"q": "“Horse” is to “Gallop” as “Rabbit” is to"
+"q": "“Horse” is to “Gallop” as “Rabbit” is to",
+"n": "A horse gallops; a rabbit hops."
 },
 "fin1-035": {
 "s": "AM",
@@ -198,7 +205,8 @@
 },
 "fin1-038": {
 "s": "VR",
-"tp": "Analogy"
+"tp": "Analogy",
+"n": "Something ominous suggests a threat; feeling euphoric means feeling joy."
 },
 "fin1-039": {
 "s": "AM",
@@ -221,7 +229,8 @@
 "fin1-042": {
 "s": "VR",
 "tp": "Letter series",
-"q": "What comes next: J, G, D, A, ?"
+"q": "What comes next: J, G, D, A, ?",
+"n": "Each letter goes back 3 places: J, G, D, A, then wrap round to X."
 },
 "fin1-043": {
 "s": "AM",
@@ -237,7 +246,8 @@
 },
 "fin1-046": {
 "s": "VR",
-"tp": "Odd one out"
+"tp": "Odd one out",
+"n": "Dolorous and melancholic both mean sad; rapturous means delighted."
 },
 "fin1-047": {
 "s": "AM",
@@ -254,7 +264,8 @@
 "fin1-050": {
 "s": "VR",
 "tp": "Blood relations",
-"q": "If Alex is the son of Blake, but Blake is not Alex's father, how is Blake related to Alex?"
+"q": "If Alex is the son of Blake, but Blake is not Alex's father, how is Blake related to Alex?",
+"n": "Blake is Alex's parent but not the father, so Blake is the mother."
 },
 "fin1-051": {
 "s": "AM",
@@ -285,7 +296,8 @@
 },
 "fin1-057": {
 "s": "VR",
-"tp": "Analogy"
+"tp": "Analogy",
+"n": "A group of fish is a shoal; a group of wolves is a pack."
 },
 "fin1-058": {
 "s": "AM",
@@ -333,7 +345,8 @@
 "fin1-064": {
 "s": "VR",
 "tp": "Directions",
-"q": "Facing East, a man turns 180° clockwise. The direction now is"
+"q": "Facing East, a man turns 180° clockwise. The direction now is",
+"n": "Turning 180° reverses direction, so East becomes West."
 },
 "fin1-065": {
 "s": "AM",
@@ -349,7 +362,8 @@
 },
 "fin1-068": {
 "s": "VR",
-"tp": "Coding"
+"tp": "Coding",
+"n": "Add letter positions: C = 3, A = 1, T = 20, so CAT = 24."
 },
 "fin1-069": {
 "s": "AM",
@@ -421,7 +435,8 @@
 },
 "fin1-080": {
 "s": "VR",
-"tp": "Analogy"
+"tp": "Analogy",
+"n": "TCP guarantees reliable delivery; UDP is connectionless."
 },
 "fin1-081": {
 "s": "AM",
@@ -439,7 +454,8 @@
 },
 "fin1-083": {
 "s": "VR",
-"tp": "Odd one out"
+"tp": "Odd one out",
+"n": "Pragmatic and theoretical describe two ways of approaching a problem (practice and theory); dogmatic describes rigid belief."
 },
 "fin1-084": {
 "skip": "repeated at the start of part 2"
