@@ -18,6 +18,12 @@ from collections import Counter, defaultdict
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LEVEL = {'group': 1, 'qf': 2, 'sf': 3, 'third': 3, 'final': 3}
+STAGE_ORDER = {'group': 0, 'qf': 1, 'third': 2, 'sf': 3, 'final': 4}
+STAGE_LABEL = {'group': 'Group stage', 'qf': 'Quarter-final', 'sf': 'Semi-final', 'third': 'Third place', 'final': 'Final'}
+
+def dedup_key(q):
+    norm = lambda t: re.sub(r'[^a-z0-9]', '', (t or '').lower())
+    return norm(q['q'])[:160] + '|' + '|'.join(sorted(norm(o) for o in (q.get('options') or [])))
 STATUS = {'confirmed': 'Confirmed by the show', 'disputed': "Show's answer looks wrong", 'worked_out': 'Not confirmed (worked out)'}
 SUBJECTS = ['AM', 'DA', 'VR', 'GK']
 
@@ -45,10 +51,21 @@ def main():
     sols = {}
     for _, d in load('bank/solutions/*.json'): sols.update(d)
     bank, dropped, problems = [], [], []
-    for path, m in load('bank/master/*.json'):
-        for q in m['questions']:
+    # The show reuses questions across matches. Keep one copy (from the latest stage), note where else it was asked,
+    # and let a copy borrow the solution written for any of its twins.
+    allq = [(m, q) for _, m in load('bank/master/*.json') for q in m['questions']]
+    allq.sort(key=lambda mq: (-STAGE_ORDER[mq[1]['stage']], mq[1]['video'], mq[1]['t']))
+    seen, twins = {}, {}
+    for m, q in allq:
+        k = dedup_key(q); twins.setdefault(k, []).append(q)
+    for path, m in [(None, None)]:
+        for m, q in allq:
+            k = dedup_key(q)
+            if k in seen: continue
+            seen[k] = q['id']
+            others = [t for t in twins[k] if t['id'] != q['id']]
             level = LEVEL[q['stage']]
-            s = sols.get(q['id'], {})
+            s = sols.get(q['id']) or next((sols[t['id']] for t in others if t['id'] in sols), {})
             tag, answer, show_key, note = q['tag'], q['answer'], q.get('showKey', ''), q.get('note', '')
             if s.get('check') == 'disagree' and tag != 'disputed':
                 problems.append(f"{q['id']}: solver disagrees ({s.get('computed')}) with {answer}: {s.get('comment', '')}")
@@ -69,8 +86,13 @@ def main():
                 'trick': (s.get('trick') if q['subject'] in ('AM', 'DA') else None) or None,
             }
             if q['subject'] in ('AM', 'DA') and note: item['showNote'] = ' '.join(x for x in (item['showNote'], note) if x)
-            bank.append({k: v for k, v in item.items() if v is not None})
-        dropped += m.get('dropped', [])
+            if others:
+                also = sorted({f"{STAGE_LABEL[t['stage']]} ({t['match']})" for t in others if t['match'] != q['match'] or t['stage'] != q['stage']})
+                if also: item['alsoIn'] = also
+            # a disputed answer that isn't among the options: ask it as a typed question instead
+            if tag == 'disputed' and item['options'] and answer not in item['options']: item['options'] = None
+            bank.append({kk: v for kk, v in item.items() if v is not None})
+    for _, m in load('bank/master/*.json'): dropped += m.get('dropped', [])
     ids = Counter(q['id'] for q in bank)
     dup = [i for i, n in ids.items() if n > 1]
     if dup: sys.exit(f'duplicate ids: {dup}')

@@ -1,0 +1,606 @@
+{
+  "26-third-bm-2902": {
+    "solution": "Permeability μ comes from B = μH, with B in tesla (Wb/m²) and H in A/m, so μ is in Wb/(A m). One henry is one weber per ampere, so the unit is Henry/meter.",
+    "trick": "Weber is flux and the darcy is for rock, so only Henry/meter is left (and μ₀ = 4π × 10⁻⁷ H/m).",
+    "check": "agree",
+    "computed": "Henry/meter (H/m)",
+    "accept": [
+      "H/m",
+      "Henry per meter",
+      "Henry per metre",
+      "Henry/metre",
+      "henries per meter",
+      "henries per metre"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2906": {
+    "solution": "Interest = 22,500 − 18,000 = ₦4,500, and simple interest I = P × R × T. So R = 4,500 ÷ (18,000 × 4) = 4,500 ÷ 72,000 = 0.0625, which is 6.25% a year.",
+    "trick": "The interest of 4,500 is a quarter of 18,000, which is 25% over 4 years, so 25 ÷ 4 = 6.25% a year.",
+    "check": "agree",
+    "computed": "6.25%",
+    "accept": [
+      "6.25",
+      "6.25%",
+      "6.25 percent",
+      "0.0625"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2911": {
+    "solution": "Set v = 0: 3t² − 12t = 3t(t − 4) = 0, so t = 0 (the start) or t = 4. Of the options, v(2) = −12 and v(6) = 36 are not zero. So the velocity is zero at t = 4 s.",
+    "trick": "Cancel 3t from 3t² = 12t to leave t = 4 (t = 0 also works, but it is not offered).",
+    "check": "agree",
+    "computed": "4 s",
+    "accept": [
+      "4",
+      "4s",
+      "4 s",
+      "4 sec",
+      "4 seconds"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2916": {
+    "solution": "Growth at a rate proportional to P gives P = P₀ e^(kt). Here kt = 0.05 × 20 = 1, so P = 1,000 × e¹ = 1,000 × 2.718 ≈ 2,718.",
+    "trick": "0.05 × 20 = 1, so it is just 1,000 × e, and e ≈ 2.718 gives 2,718.",
+    "check": "agree",
+    "computed": "2,718",
+    "accept": [
+      "2718",
+      "2,718",
+      "2718.3",
+      "2718.28",
+      "2,718.28",
+      "1000e",
+      "1000 e"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2921": {
+    "solution": "Convert the speed: 72 km/h = 72 ÷ 3.6 = 20 m/s. The deceleration is a = 20 ÷ 4 = 5 m/s², so F = ma = 1,200 × 5 = 6,000 N.",
+    "trick": "72 ÷ 3.6 = 20 m/s, then F = m × Δv ÷ t = 1,200 × 20 ÷ 4 = 1,200 × 5 = 6,000.",
+    "check": "agree",
+    "computed": "6,000 N",
+    "accept": [
+      "6000",
+      "6,000",
+      "6000N",
+      "6000 N",
+      "6,000 N",
+      "6 kN",
+      "6kN"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2926": {
+    "solution": "Read it as no rain on either of the two days. P(dry on one day) = 1 − 0.6 = 0.4, and the days are independent. So P(dry on both days) = 0.4 × 0.4 = 0.16.",
+    "trick": "Dry is 1 − 0.6 = 0.4, and 4 × 4 = 16, so 0.16. The option 0.4 is only one day, and 12 cannot be a probability.",
+    "check": "agree",
+    "computed": "0.16",
+    "accept": [
+      "0.16",
+      ".16",
+      "16%",
+      "4/25"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2931": {
+    "solution": "Differentiate term by term: f′(x) = 15x² − 4, because the constant 7 disappears. Then f′(2) = 15 × 4 − 4 = 60 − 4 = 56.",
+    "trick": "The 7 vanishes, 5x³ gives 15x² and −4x gives −4. At x = 2 that is 60 − 4 = 56.",
+    "check": "agree",
+    "computed": "56",
+    "accept": [
+      "56"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2935": {
+    "solution": "The man, his shadow and the sun's ray form a right triangle with equal legs. So tan θ = height ÷ shadow = 1, which gives θ = 45°.",
+    "trick": "Equal legs make an isosceles right triangle, so the angles are 45° each.",
+    "check": "agree",
+    "computed": "45°",
+    "accept": [
+      "45",
+      "45°",
+      "45 degrees",
+      "45deg"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2940": {
+    "solution": "Ohm's law, V = IR, ties together voltage, current and resistance. Pascal's law is about fluid pressure and Faraday's law is about induced voltage, so the answer is Ohm's law.",
+    "trick": "V = IR has all three quantities, so it is Ohm's.",
+    "check": "agree",
+    "computed": "Ohm's law",
+    "accept": [
+      "Ohm",
+      "Ohms",
+      "Ohm's law",
+      "Ohms law",
+      "Ohm law"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2943": {
+    "solution": "The continuity equation expresses conservation of mass: for steady flow ρ₁A₁v₁ = ρ₂A₂v₂, so what flows in must flow out. The proper term is mass conservation, and the only option about mass is Mass concentration, so that is the answer.",
+    "trick": "Continuity means conservation, mass in equals mass out, and only one option mentions mass.",
+    "check": "unclear",
+    "computed": "Conservation of mass (shown as 'Mass concentration')",
+    "accept": [
+      "Mass concentration",
+      "mass conservation",
+      "conservation of mass",
+      "mass is conserved"
+    ],
+    "comment": "The continuity equation states conservation of mass, so the option should read 'Mass conservation'. 'Mass concentration' is the mass of a substance per unit volume of a mixture, which is a different idea, but it is the only option about mass, so it is treated as the intended answer."
+  },
+  "26-third-bm-2947": {
+    "solution": "Copper : tin = 4 : 6, so there are 4 + 6 = 10 parts in all and tin is 6 of them. Tin = 6/10 × 150 = 90 kg.",
+    "trick": "One part is 150 ÷ 10 = 15 kg, so tin is 6 × 15 = 90.",
+    "check": "agree",
+    "computed": "90 kg",
+    "accept": [
+      "90",
+      "90kg",
+      "90 kg"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2953": {
+    "solution": "Simple interest = P × R × T ÷ 100 = 10,000 × 5 × 3 ÷ 100 = ₦1,500. He pays back the loan plus the interest: 10,000 + 1,500 = ₦11,500.",
+    "trick": "Repayment must be more than the ₦10,000 borrowed, so only ₦11,500 can be right. Check: 5% is 500 a year, and 10,000 + 3 × 500 = 11,500.",
+    "check": "agree",
+    "computed": "₦11,500",
+    "accept": [
+      "11500",
+      "11,500",
+      "₦11500",
+      "₦11,500",
+      "N11500",
+      "N11,500"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2957": {
+    "solution": "The Jacobian determinant tells you how much a small area or volume is stretched when you change coordinates, as in dx dy = r dr dθ for polar coordinates. So it is a scale factor.",
+    "trick": "Think of polar coordinates, where the Jacobian r is the area stretch, so it is a scale factor.",
+    "check": "agree",
+    "computed": "Scale factor",
+    "accept": [
+      "scale factor",
+      "scaling factor",
+      "the scale factor",
+      "scaling"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2960": {
+    "solution": "The Reynolds number Re = ρvD/μ compares inertial forces with viscous forces, and its size tells you whether flow is laminar or turbulent. So it identifies the flow regime.",
+    "trick": "Re is the laminar versus turbulent number, which is the flow regime.",
+    "check": "agree",
+    "computed": "Flow regime",
+    "accept": [
+      "flow regime",
+      "the flow regime",
+      "flow type",
+      "type of flow",
+      "laminar or turbulent"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2962": {
+    "solution": "Rotation is measured by the curl, not the divergence. Divergence ∇·F is the net outward flux per unit volume at a point, so it measures flux density.",
+    "trick": "Divergence is flux out per unit volume, and curl is the one for rotation.",
+    "check": "agree",
+    "computed": "Flux density",
+    "accept": [
+      "flux density",
+      "flux per unit volume",
+      "outward flux density",
+      "net outward flux per unit volume"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2966": {
+    "solution": "Compressive stress comes from pushing and tensile stress from pulling. Twisting a shaft produces shear stress across its section (τ = Tr/J), which is called torsional stress.",
+    "trick": "Twisting is torsion, so the answer is torsional stress.",
+    "check": "agree",
+    "computed": "Torsional stress",
+    "accept": [
+      "torsional stress",
+      "torsional",
+      "torsion",
+      "torsional shear stress"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2970": {
+    "solution": "Solve det(A − λI) = (5 − λ)² − 2² = 0, so 5 − λ = ±2 and λ = 3 or 7. Check: 3 + 7 = 10 is the trace, and 3 × 7 = 21 is the determinant 25 − 4. The eigenvalues are 3 and 7.",
+    "trick": "For a matrix [[a, b], [b, a]] the eigenvalues are a + b and a − b, so 5 + 2 = 7 and 5 − 2 = 3.",
+    "check": "agree",
+    "computed": "3 and 7",
+    "accept": [
+      "3 and 7",
+      "3, 7",
+      "3,7",
+      "7 and 3",
+      "7, 3",
+      "3 7"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2974": {
+    "solution": "A constant field F = (a, b, c) has constant components, and divergence is ∂a/∂x + ∂b/∂y + ∂c/∂z, where every term is the derivative of a constant. So the divergence is 0.",
+    "trick": "Divergence is a sum of derivatives, and the derivative of a constant is zero.",
+    "check": "agree",
+    "computed": "0",
+    "accept": [
+      "0",
+      "zero",
+      "0.0"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2977": {
+    "solution": "The convolution theorem says the transform of a convolution equals the product of the two transforms, F(s) × G(s) for Laplace. The Fourier transform does this too, but it is not listed, so the answer is Laplace.",
+    "trick": "Convolution theorem: only Laplace in this list turns convolution into a product.",
+    "check": "agree",
+    "computed": "Laplace",
+    "accept": [
+      "Laplace",
+      "Laplace transform",
+      "the Laplace transform"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2980": {
+    "solution": "Sand : cement = 3 : 1, so 3 parts of sand go with 1 part of cement. 9 kg of sand means each part is 9 ÷ 3 = 3 kg, so the cement needed is 3 kg.",
+    "trick": "Divide the sand by 3: 9 ÷ 3 = 3.",
+    "check": "agree",
+    "computed": "3 kg",
+    "accept": [
+      "3",
+      "3kg",
+      "3 kg"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2985": {
+    "solution": "For a linear system x′ = Ax, each mode behaves like e^(λt), so real negative eigenvalues make every mode die away to zero. That means the system is stable.",
+    "trick": "Negative real eigenvalues mean everything decays, so it settles down: Stable.",
+    "check": "agree",
+    "computed": "Stable",
+    "accept": [
+      "stable",
+      "asymptotically stable",
+      "stable node"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2989": {
+    "solution": "The car does 240 ÷ 20 = 12 km per litre. On 15 litres it travels 12 × 15 = 180 km.",
+    "trick": "15 is three quarters of 20, so take three quarters of 240: 60 × 3 = 180.",
+    "check": "agree",
+    "computed": "180 km",
+    "accept": [
+      "180",
+      "180km",
+      "180 km",
+      "180 kilometres",
+      "180 kilometers"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-2993": {
+    "solution": "Work done lifting = weight × height = mgh. So W = 8 × 9.8 × 3 = 235.2 J, which is about 235 J.",
+    "trick": "8 × 3 = 24, and 24 × 9.8 = 240 − 4.8 = 235.2, so about 235.",
+    "check": "agree",
+    "computed": "235.2 J (about 235 J)",
+    "accept": [
+      "235",
+      "235J",
+      "235 J",
+      "235.2",
+      "235.2J",
+      "235.2 J",
+      "235 joules",
+      "235.2 joules"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3008": {
+    "solution": "Cumulative frequency up to 70 adds the frequencies of all scores up to and including 70. So it is 8 + 12 = 20.",
+    "trick": "60 and 70 are the only scores, so it is just everyone: 8 + 12 = 20.",
+    "check": "agree",
+    "computed": "20",
+    "accept": [
+      "20"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3013": {
+    "solution": "The values are already in order and there are 7 of them, so the median is the (7 + 1) ÷ 2 = 4th value. The 4th value is 8.",
+    "trick": "Cross off one number from each end until one is left: 3 and 12, 5 and 10, 6 and 9. That leaves 8.",
+    "check": "agree",
+    "computed": "8",
+    "accept": [
+      "8"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3016": {
+    "solution": "Total cost = price × quantity = ₦250 × 12 = ₦3,000.",
+    "trick": "250 × 4 = 1,000 and 12 is three fours, so 3 × 1,000 = ₦3,000.",
+    "check": "agree",
+    "computed": "₦3,000",
+    "accept": [
+      "3000",
+      "3,000",
+      "₦3000",
+      "₦3,000",
+      "N3000",
+      "N3,000"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3021": {
+    "solution": "Variance = 225, so the standard deviation σ = √225 = 15. Then z = (x − μ) ÷ σ = (130 − 100) ÷ 15 = 30 ÷ 15 = 2.",
+    "trick": "Take √225 = 15 first, because 225 is the variance. 130 is 30 above the mean, which is two lots of 15.",
+    "check": "agree",
+    "computed": "2",
+    "accept": [
+      "2",
+      "2.0",
+      "+2"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3027": {
+    "solution": "The 50% for ResearchGate is not needed. Only LinkedIn = all LinkedIn users − those who use both = 80% − 30% = 50%.",
+    "trick": "Take the overlap out of the LinkedIn circle: 80 − 30 = 50.",
+    "check": "agree",
+    "computed": "50%",
+    "accept": [
+      "50",
+      "50%",
+      "50 percent",
+      "0.5"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3034": {
+    "solution": "Half the class are girls, so half are boys. P(Maths) = 0.5 × 0.4 + 0.5 × 0.6 = 0.2 + 0.3 = 0.5.",
+    "trick": "The two groups are equal in size, so just average the rates: (40% + 60%) ÷ 2 = 50%.",
+    "check": "agree",
+    "computed": "0.5",
+    "accept": [
+      "0.5",
+      ".5",
+      "50%",
+      "1/2",
+      "half"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3041": {
+    "solution": "A positive skew has its long tail on the right, which pulls the mean up the most, so from smallest to largest the usual order is mode, median, mean. The largest is the mean.",
+    "trick": "The tail drags the mean furthest, so with positive skew the mean is the biggest (with negative skew it is the smallest).",
+    "check": "agree",
+    "computed": "Mean",
+    "accept": [
+      "mean",
+      "the mean",
+      "arithmetic mean",
+      "average"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3045": {
+    "solution": "P(first red | second red) = P(both red) ÷ P(second red). P(both red) = 3/10 × 2/9 = 6/90 and P(second red) = 6/90 + 7/10 × 3/9 = 27/90, so the answer is 6/27 = 2/9.",
+    "trick": "Fix the second ball as red. The first ball then comes from the other 9, and 2 of those 9 are red, so 2/9.",
+    "check": "agree",
+    "computed": "2/9",
+    "accept": [
+      "2/9",
+      "0.22",
+      "0.222",
+      "0.2222",
+      "22.2%",
+      "22.22%"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3051": {
+    "solution": "Simple interest = P × R × T ÷ 100 = 10,000 × 12 × 3 ÷ 100 = ₦3,600.",
+    "trick": "12% of 10,000 is 1,200 a year, so 3 years is 3,600.",
+    "check": "agree",
+    "computed": "₦3,600",
+    "accept": [
+      "3600",
+      "3,600",
+      "₦3600",
+      "₦3,600",
+      "N3600",
+      "N3,600"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3056": {
+    "solution": "There are 7 values, so the median is the 4th (20). Leaving the median out, the lower half 8, 12, 16 has median Q1 = 12 and the upper half 24, 28, 32 has median Q3 = 28. So IQR = Q3 − Q1 = 28 − 12 = 16.",
+    "trick": "With 7 values, Q1 is the 2nd value (12) and Q3 is the 6th (28), which are 4 steps of 4 apart, so 16.",
+    "check": "agree",
+    "computed": "16",
+    "accept": [
+      "16"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3060": {
+    "solution": "The 75th percentile is the value that 75% of the data fall below. So 75% scored below 45.",
+    "trick": "Percentile means percent below, so the 75th percentile is 75% below.",
+    "check": "agree",
+    "computed": "75% scored below 45",
+    "accept": [
+      "75% scored below 45",
+      "75% below 45",
+      "75% scored below",
+      "75% below",
+      "75 percent below 45"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3065": {
+    "solution": "Expected total = number of graduates × applications each = 500 × 15 = 7,500.",
+    "trick": "500 × 15 is half of 1,000 × 15, so 15,000 ÷ 2 = 7,500.",
+    "check": "agree",
+    "computed": "7,500",
+    "accept": [
+      "7500",
+      "7,500"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3069": {
+    "solution": "The numbers are 234, 243, 324, 342, 423 and 432. That is 3 × 2 × 1 = 3! = 6 numbers.",
+    "trick": "Three different digits in every order is 3! = 6.",
+    "check": "agree",
+    "computed": "6",
+    "accept": [
+      "6",
+      "six"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3073": {
+    "solution": "A confusion matrix counts correct and wrong predictions for each class (true and false positives and negatives), while regression predicts numbers, not classes. So it is used in classification.",
+    "trick": "Right or wrong labels per class means classification.",
+    "check": "agree",
+    "computed": "Classification",
+    "accept": [
+      "classification",
+      "classification problems",
+      "classification models"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3077": {
+    "solution": "Each player is equally likely to serve, so P(proper) = 0.5 × 0.8 + 0.5 × 0.9 = 0.40 + 0.45 = 0.85.",
+    "trick": "The chances are equal, so average 0.8 and 0.9 to get 0.85.",
+    "check": "agree",
+    "computed": "0.85",
+    "accept": [
+      "0.85",
+      ".85",
+      "85%",
+      "17/20"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3083": {
+    "solution": "Order the nine values: 4, 5, 9, 11, 13, 15, 15, 17, 18. The 5th value is the median, 13, and the value that appears most often is 15 (twice). So the median is 13 and the mode is 15.",
+    "trick": "Spot the repeat first: only 15 appears twice, so the mode is 15, and only the option '13, 15' ends in 15.",
+    "check": "agree",
+    "computed": "Median 13, mode 15",
+    "accept": [
+      "13, 15",
+      "13,15",
+      "13 and 15",
+      "median 13, mode 15",
+      "median = 13, mode = 15",
+      "13 15"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3091": {
+    "solution": "Standard deviation measures how far values spread from their mean. Using the population formula, the first set has SD 0, the third about 0.4 and the second about 3.4. So the largest SD is in the set 2, 5, 8, 11.",
+    "trick": "No sums needed: the set with the widest spread, 2 to 11, has the largest SD.",
+    "check": "agree",
+    "computed": "2, 5, 8, 11",
+    "accept": [
+      "2, 5, 8, 11",
+      "2,5,8,11",
+      "2 5 8 11"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3097": {
+    "solution": "Adding 5 to every value slides the whole data set along the number line without changing how spread out it is. Only multiplying or dividing the values would change the SD. The question gives 2 for the original, although the population SD of 10, 12, 14, 16 works out to √5 ≈ 2.24. Either way the new SD equals the old one, so it is 2.",
+    "trick": "Adding a constant never changes the SD, so it is the same as the original: 2.",
+    "check": "agree",
+    "computed": "2",
+    "accept": [
+      "2"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3102": {
+    "solution": "The sum becomes 1.5 times itself, so the interest is 0.5 of the principal over 5 years. Rate = 0.5 ÷ 5 = 0.1 per year, which is 10% a year.",
+    "trick": "The extra is 50% of the sum over 5 years, so 50 ÷ 5 = 10% a year, which is 0.1.",
+    "check": "agree",
+    "computed": "0.1 (10% per annum)",
+    "accept": [
+      "0.1",
+      ".1",
+      "10%",
+      "10",
+      "10 percent",
+      "1/10"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3107": {
+    "solution": "Mean = total ÷ number of days = (400 + 200 + 400 + 800) ÷ 4 = 1,800 ÷ 4 = $450.",
+    "trick": "Start from 400. The differences are 0, −200, 0 and +400, which add to +200, and 200 ÷ 4 = 50, so the mean is 450.",
+    "check": "agree",
+    "computed": "$450",
+    "accept": [
+      "450",
+      "$450",
+      "450 dollars",
+      "$450.00"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3114": {
+    "solution": "A sample is the part of a population being studied, and a number is just a single value. The information collected for a statistical investigation is called data.",
+    "trick": "Collected information is data.",
+    "check": "agree",
+    "computed": "Data",
+    "accept": [
+      "data",
+      "the data",
+      "raw data"
+    ],
+    "comment": ""
+  },
+  "26-third-bm-3119": {
+    "solution": "Two percentiles cannot prove it, but a median of 55 against a 60th percentile of 68 suggests the upper values are spread out into a long right tail. So the likely shape is positive.",
+    "trick": "Nothing is given for the lower side, so go with the side that looks stretched out, the upper one: Positive, as a best guess.",
+    "check": "unclear",
+    "computed": "Positive (likely, but not provable from two percentiles)",
+    "accept": [
+      "positive",
+      "positively skewed",
+      "positive skew",
+      "right skewed",
+      "skewed to the right"
+    ],
+    "comment": "Skewness cannot be settled from the median and one percentile, because the lower side (for example the 40th percentile) is not given. Positive is the likely intended answer, since the upper values look stretched out."
+  },
+  "26-third-bm-3124": {
+    "solution": "The marbles are replaced, so the two draws are independent and P(red) = 3/5 each time. So P(both red) = 3/5 × 3/5 = 9/25.",
+    "trick": "The chance is the same each time because the marble goes back, so square 3/5 to get 9/25.",
+    "check": "agree",
+    "computed": "9/25",
+    "accept": [
+      "9/25",
+      "0.36",
+      "36%",
+      "(3/5)²",
+      "(3/5)^2"
+    ],
+    "comment": ""
+  }
+}

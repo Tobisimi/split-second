@@ -29,6 +29,7 @@ export interface Question {
   school?: string;
   solution?: string;
   trick?: string;
+  alsoIn?: string[];      // other matches where the show asked the same question
 }
 
 export type Result = 'right' | 'wrong' | 'none' | 'skip';

@@ -202,7 +202,7 @@ function ReviewItem({ it, onFlag, flagged }: { it: ItemRec; onFlag: (q: Question
   const label = { right: 'Right', wrong: 'Wrong', none: 'No answer', skip: 'Skipped' }[it.r];
   return (
     <li className={`rev ${it.r}`}>
-      <div className="rev-head"><span className={`badge ${it.r}`}>{label}</span><span className="rev-meta">{SUBJECT_NAMES[q.subject]} · {STAGE_NAMES[q.stage]} · {q.match}</span></div>
+      <div className="rev-head"><span className={`badge ${it.r}`}>{label}</span><span className="rev-meta">{SUBJECT_NAMES[q.subject]} · {STAGE_NAMES[q.stage]} · {q.match}{q.alsoIn ? ` · also asked in ${q.alsoIn.join(', ')}` : ''}</span></div>
       <div className="rev-q"><MathText text={q.q} /></div>
       {q.options && <div className="rev-opts">{q.options.map(o => <span key={o} className={o === q.answer ? 'right' : o === it.given ? 'wrong' : ''}><MathText text={o} /></span>)}</div>}
       <div className="rev-a"><b>Answer:</b> <MathText text={q.answer} />{it.given && it.r === 'wrong' && !q.options && <> · you: <s>{it.given}</s></>}</div>

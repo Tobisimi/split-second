@@ -1,0 +1,600 @@
+{
+ "26-third-qb-1316": {
+  "solution": "Simple interest = P × R × T ÷ 100 = 15,000 × 6 × 4 ÷ 100 = ₦3,600. The amount is the principal plus the interest, so 15,000 + 3,600 = ₦18,600.",
+  "trick": "Four years at 6% adds 24%, so the amount is 124% of 15,000. That is 15,000 + 3,000 (20%) + 600 (4%) = 18,600.",
+  "check": "agree",
+  "computed": "₦18,600",
+  "accept": [
+   "18600",
+   "18,600",
+   "₦18600",
+   "₦18,600",
+   "N18600",
+   "N18,600"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1337": {
+  "solution": "Correlation r = covariance ÷ (σX × σY), so σX × σY = 40 ÷ 0.8 = 50. The question means the standard deviation of Y, because X's is already given as 5. So σY = 50 ÷ 5 = 10.",
+  "trick": "40 ÷ 0.8 is 400 ÷ 8 = 50, which is the product of the two standard deviations. Then 50 ÷ 5 = 10.",
+  "check": "agree",
+  "computed": "10",
+  "accept": [
+   "10",
+   "10.0"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1352": {
+  "solution": "Range = highest − lowest, so lowest = highest − range = 42 − 24 = 18.",
+  "trick": "Subtract in two steps: 42 − 20 = 22, then 22 − 4 = 18.",
+  "check": "agree",
+  "computed": "18",
+  "accept": [
+   "18"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1365": {
+  "solution": "The order of toppings does not matter, so use combinations: 10C4 = (10 × 9 × 8 × 7) ÷ (4 × 3 × 2 × 1) = 5,040 ÷ 24 = 210.",
+  "trick": "Cancel before multiplying: 8 cancels with 4 × 2, and 9 cancels with 3, which leaves 10 × 3 × 7 = 210.",
+  "check": "agree",
+  "computed": "210",
+  "accept": [
+   "210"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1382": {
+  "solution": "For a binomial distribution, standard deviation = √(npq). Here n = 400, p = 0.5 and q = 0.5, so √(400 × 0.5 × 0.5) = √100 = 10.",
+  "trick": "When p = 0.5, npq = n ÷ 4, so the standard deviation is √n ÷ 2. √400 = 20, and half of 20 is 10. The option 20 forgets to halve.",
+  "check": "agree",
+  "computed": "10",
+  "accept": [
+   "10",
+   "10.0"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1403": {
+  "solution": "Interquartile range = Q3 − Q1, so Q3 = Q1 + IQR = 20 + 10 = 30.",
+  "trick": "Q3 is just Q1 plus the IQR: 20 + 10 = 30.",
+  "check": "agree",
+  "computed": "30",
+  "accept": [
+   "30"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1423": {
+  "solution": "A full circle is 360°, so the share is 144 ÷ 360 × 100% = 40%.",
+  "trick": "Every 36° is 10% of the circle, and 144 ÷ 36 = 4, so the sector is 40%.",
+  "check": "agree",
+  "computed": "40%",
+  "accept": [
+   "40%",
+   "40",
+   "0.4",
+   "40 percent",
+   "2/5"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1589": {
+  "solution": "ALPHA has 5 letters, and the letter A appears twice. Using every letter once, there are 5! = 120 orders, but swapping the two As gives the same word. So divide by 2!: 120 ÷ 2 = 60.",
+  "trick": "5! ÷ 2! is just 5 × 4 × 3, because the 2 × 1 cancels. That is 60.",
+  "check": "agree",
+  "computed": "60",
+  "accept": [
+   "60"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1605": {
+  "solution": "Standard deviation measures how far values sit from the mean. Adding 10 to every value moves the mean up by 10 as well, so every distance from the mean stays the same. The standard deviation is still 5.",
+  "trick": "Adding the same number to every value slides the data along without changing its spread, so it stays 5. Only multiplying or dividing would change it.",
+  "check": "agree",
+  "computed": "5",
+  "accept": [
+   "5",
+   "5.0"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1624": {
+  "solution": "Own a car or a bike = 60 + 40 − 25 = 75%, because the 25% who own both were counted twice. Neither = 100% − 75% = 25%, which is 0.25 as a fraction.",
+  "trick": "60 + 40 = 100, so the group who own neither is the same size as the group who own both: 25%.",
+  "check": "agree",
+  "computed": "25% (0.25)",
+  "accept": [
+   "0.25",
+   "25%",
+   "25",
+   "1/4",
+   "25 percent"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1640": {
+  "solution": "Cumulative frequency up to 60 counts everyone who scored 60 or less. That is the 10 who scored 50 plus the 15 who scored 60, so 10 + 15 = 25 students.",
+  "trick": "Add the frequencies up to 60 and ignore the 70s: 10 + 15 = 25.",
+  "check": "agree",
+  "computed": "25 students",
+  "accept": [
+   "25",
+   "25 students"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1658": {
+  "solution": "Range = maximum − minimum = 25 − 5 = 20.",
+  "trick": "Highest bar minus lowest bar: 25 − 5 = 20.",
+  "check": "agree",
+  "computed": "20",
+  "accept": [
+   "20"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1692": {
+  "solution": "The dominant phenotype covers p² + 2pq = 0.64, so the recessive phenotype is q² = 1 − 0.64 = 0.36. Check: q = 0.6 gives p = 0.4, and p² + 2pq = 0.16 + 0.48 = 0.64. So the recessive allele frequency is q = √0.36 = 0.6.",
+  "trick": "Subtract from 100 first: 100 − 64 = 36, so q² = 0.36 and q = 0.6. Beware 0.4, which is the dominant allele p, not q.",
+  "check": "agree",
+  "computed": "0.6",
+  "accept": [
+   "0.6",
+   "60%",
+   "6/10",
+   "3/5"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1715": {
+  "solution": "Binomial variance = npq = np(1 − p). Here that is 50 × 0.7 × 0.3 = 50 × 0.21 = 10.5.",
+  "trick": "A binomial variance can never exceed n ÷ 4 = 12.5, because pq is at most 0.25. That rules out 35 and 65 and leaves 10.5.",
+  "check": "agree",
+  "computed": "10.5",
+  "accept": [
+   "10.5",
+   "10.50",
+   "21/2"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1745": {
+  "solution": "A normal distribution is symmetric about its mean, and its mean, median and mode all sit at the same centre. So the symmetry point is the mean, 50.",
+  "trick": "The bell curve mirrors itself about its mean, so the answer is the mean you were given: 50.",
+  "check": "agree",
+  "computed": "50",
+  "accept": [
+   "50",
+   "x = 50",
+   "x=50"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1762": {
+  "solution": "LEVEL has 5 letters: L twice, E twice and V once. The number of distinct arrangements is 5! ÷ (2! × 2!) = 120 ÷ 4 = 30.",
+  "trick": "L and E each appear twice, so halve 120 twice: 120 to 60 to 30. Stopping at 60 is the trap.",
+  "check": "agree",
+  "computed": "30",
+  "accept": [
+   "30"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1777": {
+  "solution": "Standard deviation = √(npq) = √(256 × 0.5 × 0.5) = √64 = 8.",
+  "trick": "When p = 0.5, the standard deviation is √n ÷ 2. √256 = 16, and half of 16 is 8. The option 16 forgets to halve.",
+  "check": "agree",
+  "computed": "8",
+  "accept": [
+   "8",
+   "8.0"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1791": {
+  "solution": "First law of thermodynamics: ΔU = Q − W, where Q is heat added to the system and W is work done by the system. So ΔU = 200 − 50 = 150 J.",
+  "trick": "200 J goes in as heat and 50 J leaves as work, so 150 J stays inside.",
+  "check": "agree",
+  "computed": "150 J",
+  "accept": [
+   "150",
+   "150 J",
+   "150J",
+   "150 joules",
+   "150 joule"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1796": {
+  "solution": "Lowest = highest − range = 42 − 24 = 18. Midrange = (highest + lowest) ÷ 2 = (42 + 18) ÷ 2 = 30.",
+  "trick": "Midrange is the maximum minus half the range: 42 − 12 = 30.",
+  "check": "agree",
+  "computed": "30",
+  "accept": [
+   "30"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1813": {
+  "solution": "Magnification = image size ÷ real size, so real size = image size ÷ magnification = 12 mm ÷ 60 = 0.2 mm.",
+  "trick": "12 ÷ 60 is one fifth, which is 0.2. The real object must be smaller than its enlarged image.",
+  "check": "agree",
+  "computed": "0.2 mm",
+  "accept": [
+   "0.2",
+   "0.2mm",
+   "0.2 mm",
+   "0.2 millimetres",
+   "0.2 millimeters",
+   "1/5 mm"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1815": {
+  "solution": "The mean is (10 + 20 + 30 + 40 + 50) ÷ 5 = 30. The distances from the mean are 20, 10, 0, 10 and 20, which add up to 60. So the mean absolute deviation is 60 ÷ 5 = 12.",
+  "trick": "The mean is the middle value, 30. The gaps are 20, 10, 0, 10, 20, which total 60, and 60 ÷ 5 = 12.",
+  "check": "agree",
+  "computed": "12",
+  "accept": [
+   "12",
+   "12.0"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1832": {
+  "solution": "Use M₁V₁ = M₂V₂, taking the volumes to add. The final volume is 200 + 300 = 500 mL, so M₂ = 2.5 × 200 ÷ 500 = 1 M.",
+  "trick": "The 200 mL is 2/5 of the final 500 mL, so the concentration falls to 2/5 of 2.5, which is 1 M.",
+  "check": "agree",
+  "computed": "1 M",
+  "accept": [
+   "1",
+   "1 M",
+   "1M",
+   "1 molar",
+   "1.0 M",
+   "1 mol/L",
+   "1.0"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1843": {
+  "solution": "Mean = sum ÷ number of values = (10 + 20 + 30 + 40 + 50) ÷ 5 = 150 ÷ 5 = 30.",
+  "trick": "The ages are evenly spaced, so the mean is the middle one: 30.",
+  "check": "agree",
+  "computed": "30",
+  "accept": [
+   "30",
+   "30 years",
+   "30 yrs"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-1858": {
+  "solution": "For a recessive disorder, q² = 1 ÷ 2,500, so q = √(1 ÷ 2,500) = 1 ÷ 50 = 0.02. Carriers are 2pq = 2 × 0.98 × 0.02 = 0.0392. That is about 4%.",
+  "trick": "√2,500 = 50, so q = 1 in 50, which is 2%. Carriers are about 2q = 4%, because p is almost 1.",
+  "check": "agree",
+  "computed": "about 4% (exactly 3.92%)",
+  "accept": [
+   "4%",
+   "4",
+   "0.04",
+   "1/25",
+   "1 in 25",
+   "3.92%",
+   "3.92",
+   "0.0392",
+   "3.9%",
+   "4 percent"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2102": {
+  "solution": "The colours do not matter, so choose 3 from 4 + 5 + 6 = 15 marbles. 15C3 = (15 × 14 × 13) ÷ (3 × 2 × 1) = 2,730 ÷ 6 = 455.",
+  "trick": "Cancel first: 15 ÷ 3 = 5 and 14 ÷ 2 = 7, so the answer is 5 × 7 × 13 = 455.",
+  "check": "agree",
+  "computed": "455",
+  "accept": [
+   "455"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2111": {
+  "solution": "Students who speak at least one language = 30 + 25 − 15 = 40, because the 15 who speak both were counted twice. So neither = 50 − 40 = 10.",
+  "trick": "30 + 25 − 15 = 40 speak something, and 50 − 40 = 10 speak neither.",
+  "check": "agree",
+  "computed": "10",
+  "accept": [
+   "10",
+   "10 students"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2118": {
+  "solution": "North and east are at right angles, so the distance is √(300² + 400²) = √(90,000 + 160,000) = √250,000 = 500 km.",
+  "trick": "300 and 400 are 3 and 4 scaled up by 100, so this is a 3, 4, 5 triangle and the distance is 500 km.",
+  "check": "agree",
+  "computed": "500 km",
+  "accept": [
+   "500",
+   "500km",
+   "500 km",
+   "500 kilometres",
+   "500 kilometers"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2121": {
+  "solution": "Mean = (3 + 5 + 7 + 9 + 11) ÷ 5 = 35 ÷ 5 = 7 kg.",
+  "trick": "The weights are evenly spaced, so the mean is the middle one: 7 kg.",
+  "check": "agree",
+  "computed": "7 kg",
+  "accept": [
+   "7",
+   "7kg",
+   "7 kg",
+   "7 kilograms"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2134": {
+  "solution": "Midpoint = (lower edge + upper edge) ÷ 2 = (15 + 20) ÷ 2 = 35 ÷ 2 = 17.5 kg.",
+  "trick": "The bin is 5 wide, so go halfway: 15 + 2.5 = 17.5.",
+  "check": "agree",
+  "computed": "17.5 kg",
+  "accept": [
+   "17.5",
+   "17.5 kg",
+   "17.5kg",
+   "17.5 kilograms",
+   "35/2"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2149": {
+  "solution": "10 minutes = 10 × 60 = 600 seconds. One swing takes one period, 1.5 seconds. So the number of swings is 600 ÷ 1.5 = 400.",
+  "trick": "1.5 seconds per swing means 2 swings every 3 seconds. 600 seconds holds 200 lots of 3 seconds, so 400 swings.",
+  "check": "agree",
+  "computed": "400",
+  "accept": [
+   "400",
+   "400 swings"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2154": {
+  "solution": "Students who like at least one subject = 18 + 12 − 5 = 25, because the 5 who like both were counted twice. So neither = 30 − 25 = 5 students.",
+  "trick": "18 + 12 = 30 is the whole class, so neither is the same size as both: 5.",
+  "check": "agree",
+  "computed": "5 students",
+  "accept": [
+   "5",
+   "5 students"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2166": {
+  "solution": "The tank is 40% full, so it needs the other 100% − 40% = 60% to be full. 60% of 14,000 = 0.6 × 14,000 = 8,400 litres.",
+  "trick": "10% of 14,000 is 1,400, so 60% is 6 × 1,400 = 8,400. The 5,600 option is the 40% already in the tank.",
+  "check": "agree",
+  "computed": "8,400 litres",
+  "accept": [
+   "8400",
+   "8,400",
+   "8400 litres",
+   "8,400 litres",
+   "8400 L",
+   "8,400 L"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2171": {
+  "solution": "Expected false positives = false positive rate × number of healthy people = 5% × 200 = 0.05 × 200 = 10.",
+  "trick": "1% of 200 is 2, so 5% is 10.",
+  "check": "agree",
+  "computed": "10",
+  "accept": [
+   "10",
+   "10 people"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2185": {
+  "solution": "Let the numbers be x and y, with x + y = 150 and x − y = 30. Adding the equations gives 2x = 180, so x = 90, and then y = 150 − 90 = 60. The numbers are 90 and 60.",
+  "trick": "Check the gaps in the options. 80 and 70 differ by 10, 100 and 50 differ by 50, and only 90 and 60 differ by 30.",
+  "check": "agree",
+  "computed": "90 and 60",
+  "accept": [
+   "90 and 60",
+   "60 and 90",
+   "90, 60",
+   "60, 90",
+   "90,60",
+   "60,90",
+   "90 60",
+   "60 90"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2190": {
+  "solution": "IQR = Q3 − Q1 = 16 − 10 = 6. The upper outlier threshold is Q3 + 1.5 × IQR = 16 + 1.5 × 6 = 16 + 9 = 25.",
+  "trick": "The IQR is 6, and 1.5 × 6 = 9. Add that to Q3: 16 + 9 = 25.",
+  "check": "agree",
+  "computed": "25",
+  "accept": [
+   "25"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2198": {
+  "solution": "Convert to decimal using place values 32, 16, 8, 4, 2, 1. 101101 = 32 + 8 + 4 + 1 = 45 and 11010 = 16 + 8 + 2 = 26. So 45 − 26 = 19.",
+  "trick": "Read off the place values to get 45 and 26, then subtract: 45 − 26 = 19.",
+  "check": "agree",
+  "computed": "19",
+  "accept": [
+   "19"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2203": {
+  "solution": "Heart rate in beats per minute = 60 ÷ RR interval in seconds. So 60 ÷ 80 = 0.75 bpm.",
+  "trick": "Beats per minute is 60 ÷ seconds per beat. 80 seconds per beat is slower than one beat a minute, so only 0.75 bpm fits.",
+  "check": "agree",
+  "computed": "0.75 bpm",
+  "accept": [
+   "0.75",
+   "0.75 bpm",
+   "0.75bpm",
+   "3/4 bpm",
+   "3/4"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2205": {
+  "solution": "Range = largest − smallest = 75 − 45 = 30 kg.",
+  "trick": "The list is in order, so take the last minus the first: 75 − 45 = 30.",
+  "check": "agree",
+  "computed": "30 kg",
+  "accept": [
+   "30",
+   "30kg",
+   "30 kg",
+   "30 kilograms"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2226": {
+  "solution": "Work done = force × distance moved in the direction of the force = 10 N × 15 m = 150 J.",
+  "trick": "Just multiply: 10 × 15 = 150. The other two options are half and double that.",
+  "check": "agree",
+  "computed": "150 J",
+  "accept": [
+   "150",
+   "150J",
+   "150 J",
+   "150 joules",
+   "150 joule"
+  ],
+  "comment": ""
+ },
+ "26-third-qb-2232": {
+  "solution": "Coefficient of variation = standard deviation ÷ mean × 100%. So standard deviation = 40% × 650 = 0.4 × 650 = 260.",
+  "trick": "10% of 650 is 65, so 40% is 4 × 65 = 260.",
+  "check": "agree",
+  "computed": "260",
+  "accept": [
+   "260"
+  ],
+  "comment": ""
+ },
+ "26-third-bm-2866": {
+  "solution": "Axial and bulk stresses push or pull straight into a surface, at right angles to it. Stress that acts parallel to a surface, trying to slide one layer over the next, is shear stress.",
+  "trick": "Parallel to the surface means sliding along it, and sliding is shear. The other two act straight into the surface.",
+  "check": "agree",
+  "computed": "Shear",
+  "accept": [
+   "Shear",
+   "shear",
+   "shear stress"
+  ],
+  "comment": ""
+ },
+ "26-third-bm-2868": {
+  "solution": "Let u = ax, so dx = du ÷ a. Then ∫cos(ax) dx = (1 ÷ a) ∫cos u du = (1 ÷ a) sin u + C. Putting u = ax back gives sin(ax)/a + C, so the answer is sin(ax)/a.",
+  "trick": "Differentiating sin(ax) brings out a factor a, so integrating must divide by a to undo it. The options with a on top are wrong.",
+  "check": "agree",
+  "computed": "sin(ax)/a",
+  "accept": [
+   "sin(ax)/a",
+   "(1/a)sin(ax)",
+   "(1/a) sin(ax)",
+   "sin(ax)/a + C",
+   "sin(ax)/a+C",
+   "(sin(ax))/a",
+   "sin ax / a",
+   "sin(ax) ÷ a",
+   "1/a sin(ax)"
+  ],
+  "comment": ""
+ },
+ "26-third-bm-2873": {
+  "solution": "A solenoidal field is defined as one with no sources or sinks, which means ∇·F = 0. The magnetic field B is the standard example. So its divergence is 0.",
+  "trick": "Solenoidal means divergence free, so the answer is 0. Do not mix it up with irrotational, which means the curl is 0.",
+  "check": "agree",
+  "computed": "0",
+  "accept": [
+   "0",
+   "zero"
+  ],
+  "comment": ""
+ },
+ "26-third-bm-2877": {
+  "solution": "Ohm's law: V = IR, so R = V ÷ I = 120 ÷ 0.25 = 480 Ω.",
+  "trick": "0.25 is a quarter, so dividing by 0.25 is the same as multiplying by 4: 120 × 4 = 480.",
+  "check": "agree",
+  "computed": "480 Ω",
+  "accept": [
+   "480",
+   "480 Ω",
+   "480Ω",
+   "480 ohm",
+   "480 ohms"
+  ],
+  "comment": ""
+ },
+ "26-third-bm-2883": {
+  "solution": "Differentiate twice. The velocity is (6t − 4)i + 6t²j, so the acceleration is 6i + 12t j. At t = 1, a = 6i + 12j, so |a| = √(6² + 12²) = √180 = 6√5 m/s².",
+  "trick": "At t = 1 the acceleration is 6i + 12j = 6(i + 2j), so its size is 6√(1 + 4) = 6√5. The j component alone is 12, which already rules out √5 and 3√5.",
+  "check": "agree",
+  "computed": "6√5 m/s²",
+  "accept": [
+   "6√5",
+   "6√5 m/s²",
+   "6sqrt5",
+   "6sqrt(5)",
+   "6*sqrt(5)",
+   "6 root 5",
+   "13.4",
+   "13.42",
+   "13.416"
+  ],
+  "comment": ""
+ },
+ "26-third-bm-2888": {
+  "solution": "Let the sides be 3k and 4k. The perimeter is 2(3k + 4k) = 14k = 56, so k = 4. The sides are 12 cm and 16 cm, so the area is 12 × 16 = 192 cm².",
+  "trick": "Half the perimeter is 28, shared 3 to 4 in 7 parts of 4 each. That gives sides 12 and 16, and 12 × 16 = 192.",
+  "check": "agree",
+  "computed": "192 cm²",
+  "accept": [
+   "192",
+   "192 cm²",
+   "192cm²",
+   "192 cm2",
+   "192cm2",
+   "192 square cm",
+   "192 sq cm",
+   "192 square centimetres"
+  ],
+  "comment": ""
+ },
+ "26-third-bm-2896": {
+  "solution": "Heat flow rate = k × area × temperature difference ÷ thickness, so k = W × m ÷ (m² × K) = W/(m·K). J/K is the unit of heat capacity and N·m is the unit of torque or energy. So the unit of thermal conductivity is W/mK.",
+  "trick": "Thermal conductivity is watts per metre per kelvin, and W/mK is the only option with watts in it.",
+  "check": "agree",
+  "computed": "W/mK",
+  "accept": [
+   "W/mK",
+   "W/(mK)",
+   "W/m·K",
+   "W/(m·K)",
+   "W/m/K",
+   "W/m K",
+   "W m⁻¹ K⁻¹",
+   "watts per metre kelvin",
+   "watt per metre kelvin"
+  ],
+  "comment": ""
+ }
+}

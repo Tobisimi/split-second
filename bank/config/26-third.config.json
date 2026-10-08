@@ -1,0 +1,6 @@
+{"code": "third", "video": "w3veN1z8SOM", "match": "UNN v UI", "stage": "third",
+ "qb_top": "UNN", "qb_bottom": "UI", "bm_top": "UNN", "bm_bottom": "UI",
+ "bm_subjects": {"1": "GK", "2": "VR", "3": "AM", "4": "DA"},
+ "cards": [],
+ "parts": [["bank/raw/26-third.json", "bank/review/26-third.json"]],
+ "out": "bank/master/26-third.json"}

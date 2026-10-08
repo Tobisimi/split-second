@@ -1,0 +1,1169 @@
+{
+"third-001": {
+"s": "AM",
+"tp": "Scale"
+},
+"third-002": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "₦15,000 invested at 6% simple interest grows to what amount in 4 years?",
+"k": "₦18,600"
+},
+"third-003": {
+"s": "GK",
+"tp": "Languages",
+"q": "Which of these words means “friend” in the Kenyan language?"
+},
+"third-004": {
+"s": "VR",
+"tp": "Coding",
+"n": "The show's answer is 50; the rule behind the code isn't clear from the question."
+},
+"third-005": {
+"s": "AM",
+"tp": "Scale",
+"q": "Find the actual distance in kilometres between two towns 3 centimetres apart on a 1:50,000 map."
+},
+"third-006": {
+"s": "DA",
+"tp": "Correlation"
+},
+"third-007": {
+"s": "GK",
+"tp": "Food",
+"q": "In South Africa, pap is made from"
+},
+"third-008": {
+"s": "AM",
+"tp": "Combinations"
+},
+"third-009": {
+"s": "AM",
+"tp": "Density",
+"o": [
+"0.125 kg m⁻³",
+"4 kg m⁻³",
+"100 kg m⁻³"
+],
+"k": "4 kg m⁻³"
+},
+"third-010": {
+"s": "DA",
+"tp": "Range"
+},
+"third-011": {
+"s": "GK",
+"tp": "Geography"
+},
+"third-012": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Horse” is to “Gallop” as “Rabbit” is to",
+"n": "A horse gallops; a rabbit hops."
+},
+"third-013": {
+"s": "AM",
+"tp": "Electricity",
+"o": [
+"0.25W",
+"4W",
+"36W"
+]
+},
+"third-014": {
+"s": "AM",
+"tp": "Combinations"
+},
+"third-015": {
+"s": "GK",
+"tp": "Music"
+},
+"third-016": {
+"s": "VR",
+"tp": "Analogy",
+"n": "Something ominous suggests a threat; feeling euphoric means feeling joy."
+},
+"third-017": {
+"s": "AM",
+"tp": "Rates"
+},
+"third-018": {
+"s": "DA",
+"tp": "Binomial distribution"
+},
+"third-019": {
+"s": "GK",
+"tp": "Climate",
+"q": "A key cause of East Africa's severe 2019 to 2023 locust upsurge was linked to",
+"k": "IOD Event"
+},
+"third-020": {
+"s": "VR",
+"tp": "Letter series",
+"n": "Each letter goes back 3 places: J, G, D, A, then wrap round to X."
+},
+"third-021": {
+"s": "AM",
+"tp": "Logarithms",
+"q": "An earthquake's amplitude is 1,000 times stronger than a reference quake. What is its Richter scale value?"
+},
+"third-022": {
+"s": "DA",
+"tp": "Quartiles"
+},
+"third-023": {
+"s": "GK",
+"tp": "Geography"
+},
+"third-024": {
+"s": "VR",
+"tp": "Odd one out",
+"n": "Dolorous and melancholic both mean sad; rapturous means delighted."
+},
+"third-025": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "If bacteria count is 100 and doubles every hour, find count after 6 hours",
+"r": "?"
+},
+"third-026": {
+"s": "DA",
+"tp": "Charts",
+"q": "A pie chart's largest sector is 144 degrees. What percentage of the total does it represent?"
+},
+"third-027": {
+"s": "GK",
+"tp": "History"
+},
+"third-028": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "If Alex is the son of Blake, but Blake is not Alex's father, how is Blake related to Alex?",
+"n": "Blake is Alex's parent but not the father, so Blake is the mother."
+},
+"third-029": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "A toy company's revenue from selling x units is R(x) = 120x − 6x². Find x for maximum revenue.",
+"r": "?"
+},
+"third-030": {
+"s": "AM",
+"tp": "Permutations",
+"q": "How many 5 letter words can be formed from ALPHA without repeating letters?"
+},
+"third-031": {
+"s": "GK",
+"tp": "Culture"
+},
+"third-032": {
+"s": "VR",
+"tp": "Directions",
+"q": "Facing East, a man turns 180° clockwise. The direction now is",
+"o": [
+"East",
+"West",
+"South"
+],
+"k": "West",
+"n": "Turning 180° reverses direction, so East becomes West."
+},
+"third-033": {
+"s": "AM",
+"tp": "Population growth"
+},
+"third-034": {
+"s": "DA",
+"tp": "Standard deviation"
+},
+"third-035": {
+"s": "GK",
+"tp": "Culture"
+},
+"third-036": {
+"s": "VR",
+"tp": "Coding",
+"n": "Add letter positions: C = 3, A = 1, T = 20, so CAT = 24."
+},
+"third-037": {
+"s": "AM",
+"tp": "Electric field",
+"k": "60 N/C"
+},
+"third-038": {
+"s": "DA",
+"tp": "Sets and Venn diagrams",
+"o": [
+"0.15",
+"0.2",
+"0.25"
+],
+"k": "0.25"
+},
+"third-039": {
+"s": "GK",
+"tp": "Culture",
+"q": "The Fulani women are famous for their"
+},
+"third-040": {
+"s": "AM",
+"tp": "Work rate"
+},
+"third-041": {
+"s": "DA",
+"tp": "Cumulative frequency",
+"q": "Test score frequencies: 10 scored 50, 15 scored 60, 5 scored 70. Find the cumulative frequency ≤60."
+},
+"third-042": {
+"s": "GK",
+"tp": "Agriculture",
+"q": "Which staple crop is vital to Guinea-Bissau's economy and food systems?"
+},
+"third-043": {
+"s": "GK",
+"tp": "Biology"
+},
+"third-044": {
+"s": "AM",
+"tp": "Electricity",
+"o": [
+"2Ω",
+"5Ω",
+"6Ω"
+],
+"k": "5Ω"
+},
+"third-045": {
+"s": "DA",
+"tp": "Range"
+},
+"third-046": {
+"s": "GK",
+"tp": "Health"
+},
+"third-047": {
+"s": "VR",
+"tp": "Analogy",
+"n": "TCP guarantees reliable delivery; UDP is connectionless."
+},
+"third-048": {
+"s": "AM",
+"tp": "Vectors",
+"q": "If A = 2i + 5j and B = i − 3j, what is A dot B?",
+"o": [
+"−13",
+"15",
+"−16"
+],
+"k": "−13"
+},
+"third-049": {
+"s": "GK",
+"tp": "Innovation",
+"q": "Which Nigerian tech inventor created the world's first gaming robot?"
+},
+"third-050": {
+"s": "VR",
+"tp": "Odd one out",
+"n": "Pragmatic and theoretical describe two ways of approaching a problem (practice and theory); dogmatic describes rigid belief."
+},
+"third-051": {
+"s": "DA",
+"tp": "Confidence intervals",
+"o": [
+"(67, 73)",
+"(76, 83)",
+"(70, 73)"
+],
+"k": "(67, 73)"
+},
+"third-052": {
+"s": "AM",
+"tp": "Genetics"
+},
+"third-053": {
+"s": "GK",
+"tp": "History",
+"q": "Which country was formerly known as the “French Sudan” before gaining independence?"
+},
+"third-054": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Bird” is to “Nest” as “Spider” is to:",
+"n": "A bird lives in a nest; a spider lives in a web."
+},
+"third-055": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The rate of a reaction is modelled by R(t) = 3t² − 6t. At what time t is the rate minimized?",
+"o": [
+"1s",
+"2s",
+"3s"
+]
+},
+"third-056": {
+"s": "DA",
+"tp": "Binomial distribution"
+},
+"third-057": {
+"s": "GK",
+"tp": "History",
+"o": [
+"Nkosazana Dlamini-Zuma",
+"Alpha Oumar Konaré",
+"Moussa Faki Mahamat"
+],
+"k": "Alpha Oumar Konaré"
+},
+"third-058": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "A man says, “My daughter's only brother is the son of your mother's only child.” Who is the man to you?",
+"a": "Himself",
+"t": "d",
+"n": "The man's daughter's only brother is his son, and the son of your mother's only child is your son. So the man's son is your son, which only works if the man is you. The show's answer was Father."
+},
+"third-059": {
+"s": "AM",
+"tp": "Percentages",
+"o": [
+"1,200%",
+"340%",
+"1,400%"
+]
+},
+"third-060": {
+"s": "DA",
+"tp": "Normal distribution"
+},
+"third-061": {
+"s": "GK",
+"tp": "Geography"
+},
+"third-062": {
+"s": "VR",
+"tp": "Odd one out",
+"n": "Synecdoche and anaphora are devices of meaning and repetition; onomatopoeia is a word that imitates a sound."
+},
+"third-063": {
+"s": "AM",
+"tp": "Half-life"
+},
+"third-064": {
+"s": "AM",
+"tp": "Permutations",
+"q": "How many distinct permutations can be made from “LEVEL”?"
+},
+"third-065": {
+"s": "GK",
+"tp": "Geography",
+"q": "What is the main infrastructure issue in Sierra Leone's Freetown?"
+},
+"third-066": {
+"s": "AM",
+"tp": "Series"
+},
+"third-067": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The profit P(q) = 4q² + 240q − 100. Find the quantity for the minimum profit.",
+"k": "−30",
+"n": "The turning point of 4q² + 240q − 100 is at q = −240 ÷ 8 = −30. A negative quantity makes little sense in real life, but −30 is the answer the show gave."
+},
+"third-068": {
+"s": "DA",
+"tp": "Binomial distribution"
+},
+"third-069": {
+"s": "GK",
+"tp": "History"
+},
+"third-070": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Dentist” is to “Teeth” as “Chiropodist” is to",
+"n": "A dentist treats teeth; a chiropodist treats feet."
+},
+"third-071": {
+"s": "AM",
+"tp": "Thermodynamics",
+"k": "150 J"
+},
+"third-072": {
+"s": "DA",
+"tp": "Midrange",
+"q": "A dataset's range is 24, and its maximum is 42. What is the midrange?",
+"r": "?"
+},
+"third-073": {
+"s": "GK",
+"tp": "Film",
+"o": [
+"Souleymane Cissé",
+"Abderrahmane Sissako",
+"Mahamat-Saleh Haroun"
+],
+"r": "?"
+},
+"third-074": {
+"s": "VR",
+"tp": "Arrangement",
+"n": "The clues don't fix the whole order; the show's answer is Box 2."
+},
+"third-075": {
+"s": "AM",
+"tp": "Magnification",
+"q": "An object appears as 12 millimetres on an image magnified 60 times. Determine the object's real size."
+},
+"third-076": {
+"s": "DA",
+"tp": "Mean absolute deviation"
+},
+"third-077": {
+"s": "GK",
+"tp": "Film"
+},
+"third-078": {
+"s": "AM",
+"tp": "Clock angles"
+},
+"third-079": {
+"s": "AM",
+"tp": "Dilution",
+"k": "1 M"
+},
+"third-080": {
+"s": "DA",
+"tp": "Mean"
+},
+"third-081": {
+"s": "GK",
+"tp": "History",
+"k": "AEC"
+},
+"third-082": {
+"s": "VR",
+"tp": "Analogy",
+"q": "Heisenberg's Uncertainty Principle is to Quantum Mechanics as Gödel's Incompleteness is to",
+"n": "Heisenberg's principle is a result in quantum mechanics; Gödel's incompleteness theorems are results in mathematical logic."
+},
+"third-083": {
+"s": "AM",
+"tp": "Genetics",
+"k": "4%",
+"r": "?"
+},
+"third-084": {
+"s": "AM",
+"tp": "Combinations"
+},
+"third-085": {
+"s": "GK",
+"tp": "Innovation"
+},
+"third-086": {
+"s": "DA",
+"tp": "Sets and Venn diagrams"
+},
+"third-087": {
+"s": "AM",
+"tp": "Pythagoras"
+},
+"third-088": {
+"s": "DA",
+"tp": "Mean",
+"q": "Pumpkin weights (kilograms): 3, 5, 7, 9, 11. What is the mean weight?"
+},
+"third-089": {
+"s": "GK",
+"tp": "Geography"
+},
+"third-090": {
+"s": "VR",
+"tp": "Coding",
+"q": "In a code, “BLUE” = 12, “RED” = 9, then “GREEN” =",
+"n": "Each letter counts 3: BLUE has 4 letters (12), RED has 3 (9), so GREEN with 5 letters is 15."
+},
+"third-091": {
+"s": "DA",
+"tp": "Histograms",
+"q": "A histogram bin covers 15 to 20 kilogram weights. What's its midpoint?",
+"k": "17.5 kg"
+},
+"third-092": {
+"s": "GK",
+"tp": "Nature",
+"q": "What is the name of South Africa's national bird?"
+},
+"third-093": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Galileo” is to “telescope” as “Leeuwenhoek” is to",
+"n": "Galileo is linked with the telescope; Leeuwenhoek with the microscope."
+},
+"third-094": {
+"s": "AM",
+"tp": "Rates"
+},
+"third-095": {
+"s": "DA",
+"tp": "Sets and Venn diagrams",
+"q": "In a class of 30 students, 18 like math, 12 like physics, and 5 like both. Find how many like neither."
+},
+"third-096": {
+"s": "GK",
+"tp": "Geography",
+"n": "Rankings vary by source and by how the urban area is drawn; Cairo and Kinshasa are also often listed as larger."
+},
+"third-097": {
+"s": "VR",
+"tp": "Antonyms",
+"q": "Choose the antonym of “Ubiquitous”"
+},
+"third-098": {
+"s": "AM",
+"tp": "Percentages"
+},
+"third-099": {
+"s": "DA",
+"tp": "Expected value"
+},
+"third-100": {
+"s": "GK",
+"tp": "Culture"
+},
+"third-101": {
+"s": "VR",
+"tp": "Directions",
+"n": "180° clockwise from North faces South; 90° anticlockwise from South faces East."
+},
+"third-102": {
+"s": "AM",
+"tp": "Algebra"
+},
+"third-103": {
+"s": "DA",
+"tp": "Outliers"
+},
+"third-104": {
+"s": "GK",
+"tp": "Geography"
+},
+"third-105": {
+"s": "AM",
+"tp": "Binary numbers"
+},
+"third-106": {
+"s": "AM",
+"tp": "Rates"
+},
+"third-107": {
+"s": "DA",
+"tp": "Range"
+},
+"third-108": {
+"s": "GK",
+"tp": "History",
+"q": "Who is Monrovia, the capital of Liberia, named after?"
+},
+"third-109": {
+"s": "VR",
+"tp": "Directions",
+"n": "Driving west then turning right means driving north, so you end up north-west of the start."
+},
+"third-110": {
+"s": "AM",
+"tp": "Work",
+"o": [
+"75J",
+"300J",
+"150J"
+],
+"k": "150J"
+},
+"third-111": {
+"s": "DA",
+"tp": "Coefficient of variation"
+},
+"third-112": {
+"s": "GK",
+"tp": "Health",
+"drop": "answer not confirmed"
+},
+"third-113": {
+"s": "GK",
+"tp": "History",
+"q": "The Karnak Temple Complex, a major archaeological site, is in"
+},
+"third-114": {
+"s": "GK",
+"tp": "Geography",
+"o": [
+"Burkina Faso",
+"Togo",
+"Côte d'Ivoire"
+],
+"k": "Côte d'Ivoire"
+},
+"third-115": {
+"s": "GK",
+"tp": "History"
+},
+"third-116": {
+"s": "GK",
+"tp": "History"
+},
+"third-117": {
+"s": "GK",
+"tp": "Africa",
+"q": "Kigali, Rwanda, is notable for being Africa's cleanest city due to strict policies on"
+},
+"third-118": {
+"s": "GK",
+"tp": "Energy"
+},
+"third-119": {
+"s": "GK",
+"tp": "Culture"
+},
+"third-120": {
+"s": "GK",
+"tp": "Film",
+"k": "The Gods Must Be Crazy"
+},
+"third-121": {
+"s": "GK",
+"tp": "Food",
+"q": "Which African country is known for the traditional fermented milk drink called “Amasi”?"
+},
+"third-122": {
+"s": "GK",
+"tp": "Film"
+},
+"third-123": {
+"s": "GK",
+"tp": "Mathematics history"
+},
+"third-124": {
+"s": "GK",
+"tp": "Culture"
+},
+"third-125": {
+"s": "GK",
+"tp": "Health",
+"n": "This is the show's answer. Most stomach ulcers are actually caused by H. pylori infection or long-term use of NSAID painkillers; acid plays a part but is usually not the root cause."
+},
+"third-126": {
+"s": "GK",
+"tp": "History"
+},
+"third-127": {
+"s": "GK",
+"tp": "History"
+},
+"third-128": {
+"s": "GK",
+"tp": "Energy"
+},
+"third-129": {
+"s": "GK",
+"tp": "Music"
+},
+"third-130": {
+"s": "GK",
+"tp": "Energy",
+"q": "Senegal's utility-scale wind project near Dakar is",
+"k": "Taiba N'Diaye"
+},
+"third-131": {
+"s": "GK",
+"tp": "Film",
+"q": "Which Ghanaian actress is popularly known for her role in “Perfect Picture” and “Adams Apples”?",
+"k": "Joselyn Dumas"
+},
+"third-132": {
+"s": "GK",
+"tp": "Nature"
+},
+"third-133": {
+"s": "GK",
+"tp": "Languages"
+},
+"third-134": {
+"s": "GK",
+"tp": "History",
+"r": "?"
+},
+"third-135": {
+"s": "VR",
+"tp": "Arrangement",
+"q": "Five friends face north. A is left of B, C is right of A, D is between A and C, and E is right of C. Who is in the centre?"
+},
+"third-136": {
+"s": "VR",
+"tp": "Blood relations",
+"n": "C is A's uncle, so C's daughter D is A's cousin."
+},
+"third-137": {
+"s": "VR",
+"tp": "Riddles"
+},
+"third-138": {
+"s": "VR",
+"tp": "Analogy",
+"q": "If “POND” is to “LAKE” as “STREAM” is to",
+"n": "A pond is a smaller lake; a stream is a smaller river."
+},
+"third-139": {
+"s": "VR",
+"tp": "Odd one out",
+"q": "Find the odd number: 125, 216, 343, 512, 600",
+"n": "125, 216, 343 and 512 are cubes (5³, 6³, 7³, 8³); 600 is not."
+},
+"third-140": {
+"s": "VR",
+"tp": "Odd one out",
+"q": "Find the odd one: Eagle, Parrot, Sparrow, Shark",
+"n": "The others are birds; a shark is a fish."
+},
+"third-141": {
+"s": "VR",
+"tp": "Logic",
+"k": "Southern Hemisphere",
+"n": "This is the show's answer. At 3 PM the sun is in the west, so shadows point roughly east in either hemisphere; the question is shaky."
+},
+"third-142": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "M is N's daughter. O is N's husband. P is O's brother. How is P related to M?",
+"n": "O is M's father, so O's brother P is M's uncle."
+},
+"third-143": {
+"s": "VR",
+"tp": "Binary",
+"n": "7 = 4 + 2 + 1, which is 111 in binary."
+},
+"third-144": {
+"s": "VR",
+"tp": "Directions",
+"n": "Turning 90° left and then 90° right brings you back to East."
+},
+"third-145": {
+"s": "VR",
+"tp": "Blood relations",
+"n": "T is the sister of S's father, so T is S's aunt."
+},
+"third-146": {
+"s": "VR",
+"tp": "Arrangement",
+"q": "A is left of B, C is right of B, and D is right of C. Who is farthest right?"
+},
+"third-147": {
+"s": "VR",
+"tp": "Letters",
+"q": "If every alternate letter in the word “KNOWLEDGE” is removed, which word is formed?",
+"n": "Keep the 1st, 3rd, 5th, 7th and 9th letters: K, O, L, D, E."
+},
+"third-148": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Pointing to a man, a boy said, “He is my uncle's brother but not my father.” Who is he?"
+},
+"third-149": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "M is N's sister. O is M's mother. P is O's father. Q is P's mother. How is Q related to N?",
+"n": "P is N's grandfather, so P's mother Q is N's great-grandmother."
+},
+"third-150": {
+"s": "VR",
+"tp": "Analogy",
+"n": "Bitbucket is a tool for repositories; Slack is a tool for communication."
+},
+"third-151": {
+"s": "VR",
+"tp": "Science",
+"k": "Doppler Effect"
+},
+"third-152": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "X said: “This girl is my mother's brother's daughter.” How is X related to the girl?",
+"n": "The girl is X's uncle's daughter, so they are cousins."
+},
+"third-153": {
+"s": "VR",
+"tp": "Analogy",
+"n": "A recipe leads to a meal; an algorithm leads to a solution."
+},
+"third-154": {
+"s": "VR",
+"tp": "Letter positions",
+"o": [
+"J",
+"H",
+"I"
+],
+"k": "H",
+"a": "Y",
+"t": "d",
+"n": "Counting from the right, the 5th letter is V, and the 3rd letter after it is Y. The show's H is the 8th letter from the left, so the show seems to have meant 'from the left'."
+},
+"third-155": {
+"s": "VR",
+"tp": "Calendar",
+"a": "Wednesday",
+"t": "w",
+"n": "100 days is 14 weeks and 2 days, so it is two days after Monday.",
+"r": "?"
+},
+"third-156": {
+"s": "AM",
+"tp": "Mechanics of materials"
+},
+"third-157": {
+"s": "AM",
+"tp": "Integration",
+"o": [
+"a sin(ax)",
+"sin(ax)/a",
+"a cos(ax)"
+],
+"k": "sin(ax)/a"
+},
+"third-158": {
+"s": "AM",
+"tp": "Vector calculus",
+"o": [
+"0",
+"1",
+"∞"
+],
+"k": "0"
+},
+"third-159": {
+"s": "AM",
+"tp": "Electricity",
+"k": "480 Ω"
+},
+"third-160": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "Given the position vector r(t) = (3t² − 4t)i + (2t³)j m, find the acceleration magnitude at t = 1 second",
+"o": [
+"6√5 m/s²",
+"√5 m/s²",
+"3√5 m/s²"
+],
+"k": "6√5 m/s²"
+},
+"third-161": {
+"s": "AM",
+"tp": "Geometry",
+"k": "192 cm²"
+},
+"third-162": {
+"s": "AM",
+"tp": "Units",
+"o": [
+"J/K",
+"N·m",
+"W/mK"
+],
+"k": "W/mK"
+},
+"third-163": {
+"s": "AM",
+"tp": "Units",
+"k": "Henry/meter"
+},
+"third-164": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "₦18,000 grows to ₦22,500 in 4 years with simple interest. What is the annual rate?",
+"o": [
+"4.5%",
+"2.45%",
+"6.25%"
+]
+},
+"third-165": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "The velocity of a particle is v(t) = 3t² − 12t. At what time t is the velocity zero?",
+"o": [
+"4s",
+"2s",
+"6s"
+],
+"k": "4s"
+},
+"third-166": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "The population P of bacteria grows at a rate dP/dt = 0.05P. If P₀ = 1000, what is the population after 20 hours?",
+"o": [
+"3,124",
+"2,000",
+"2,718"
+],
+"k": "2,718"
+},
+"third-167": {
+"s": "AM",
+"tp": "Mechanics",
+"o": [
+"1,200N",
+"6,000N",
+"8,000N"
+]
+},
+"third-168": {
+"s": "AM",
+"tp": "Probability",
+"q": "Rain chance per day = 0.6. The probability that it doesn't rain two days in a row is",
+"o": [
+"0.4",
+"0.16",
+"12"
+],
+"k": "0.16"
+},
+"third-169": {
+"s": "AM",
+"tp": "Calculus",
+"q": "If f(x) = 5x³ − 4x + 7, find f′(2)",
+"o": [
+"56",
+"38",
+"48"
+]
+},
+"third-170": {
+"s": "AM",
+"tp": "Trigonometry"
+},
+"third-171": {
+"s": "AM",
+"tp": "Electricity",
+"q": "Which law relates current, voltage and resistance?",
+"o": [
+"Pascal",
+"Faraday",
+"Ohm's"
+],
+"k": "Ohm's"
+},
+"third-172": {
+"s": "AM",
+"tp": "Fluid mechanics",
+"n": "The continuity equation expresses conservation of mass; the show's option reads 'Mass concentration'."
+},
+"third-173": {
+"s": "AM",
+"tp": "Ratio",
+"q": "An alloy of bronze is composed of copper and tin in a 4:6 ratio. To produce 150kg of bronze, what mass of tin is needed?",
+"k": "90kg"
+},
+"third-174": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "A man borrowed ₦10,000 at 5% simple interest per annum. How much will he pay after 3 years?",
+"o": [
+"₦3,500",
+"₦9,000",
+"₦11,500"
+],
+"k": "₦11,500"
+},
+"third-175": {
+"s": "AM",
+"tp": "Calculus",
+"q": "What does the Jacobian represent in coordinate transformations?"
+},
+"third-176": {
+"s": "AM",
+"tp": "Fluid mechanics",
+"k": "flow regime"
+},
+"third-177": {
+"s": "AM",
+"tp": "Vector calculus"
+},
+"third-178": {
+"s": "AM",
+"tp": "Mechanics of materials"
+},
+"third-179": {
+"s": "AM",
+"tp": "Linear algebra",
+"q": "Find the eigenvalues of the matrix [[5, 2], [2, 5]].",
+"o": [
+"3 and 7",
+"4 and 6",
+"5 and 5"
+],
+"k": "3 and 7"
+},
+"third-180": {
+"s": "AM",
+"tp": "Vector calculus",
+"o": [
+"0",
+"2",
+"1"
+],
+"k": "0"
+},
+"third-181": {
+"s": "AM",
+"tp": "Transforms"
+},
+"third-182": {
+"s": "AM",
+"tp": "Ratio"
+},
+"third-183": {
+"s": "AM",
+"tp": "Stability"
+},
+"third-184": {
+"s": "AM",
+"tp": "Rates"
+},
+"third-185": {
+"s": "AM",
+"tp": "Work",
+"q": "How much work is done lifting 8 kilograms through 3 metres? (g = 9.8 m/s²)",
+"k": "235J",
+"r": "?"
+},
+"third-186": {
+"s": "DA",
+"tp": "Cumulative frequency"
+},
+"third-187": {
+"s": "DA",
+"tp": "Median",
+"q": "Calculate the median of these values: 3, 5, 6, 8, 9, 10, 12."
+},
+"third-188": {
+"s": "DA",
+"tp": "Arithmetic",
+"q": "What is the total cost if each book costs ₦250 and 12 are bought?",
+"o": [
+"₦4,000",
+"₦3,000",
+"₦1,200"
+],
+"k": "₦3,000"
+},
+"third-189": {
+"s": "DA",
+"tp": "Z-score",
+"q": "IQ is distributed with a mean of 100 and a variance of 225. What is the standard score for an IQ of 130?"
+},
+"third-190": {
+"s": "DA",
+"tp": "Sets and Venn diagrams"
+},
+"third-191": {
+"s": "DA",
+"tp": "Probability"
+},
+"third-192": {
+"s": "DA",
+"tp": "Skewness",
+"a": "Mean",
+"t": "d",
+"n": "In a positive (right) skew the long right tail pulls the mean up, so mean > median > mode. The show gave Mode."
+},
+"third-193": {
+"s": "DA",
+"tp": "Conditional probability"
+},
+"third-194": {
+"s": "DA",
+"tp": "Simple interest",
+"q": "Calculate the simple interest on ₦10,000 at 12% per annum for 3 years.",
+"o": [
+"₦1,600",
+"₦3,600",
+"₦4,800"
+],
+"k": "₦3,600"
+},
+"third-195": {
+"s": "DA",
+"tp": "Quartiles"
+},
+"third-196": {
+"s": "DA",
+"tp": "Percentiles",
+"q": "In a cumulative frequency graph, the 75th percentile corresponds to a value = 45. This means"
+},
+"third-197": {
+"s": "DA",
+"tp": "Expected value"
+},
+"third-198": {
+"s": "DA",
+"tp": "Permutations"
+},
+"third-199": {
+"s": "DA",
+"tp": "Machine learning"
+},
+"third-200": {
+"s": "DA",
+"tp": "Probability"
+},
+"third-201": {
+"s": "DA",
+"tp": "Mean, median, mode",
+"o": [
+"13, 18",
+"15, 18",
+"13, 15"
+],
+"k": "13, 15"
+},
+"third-202": {
+"s": "DA",
+"tp": "Standard deviation",
+"o": [
+"2, 2, 2, 2",
+"2, 5, 8, 11",
+"5, 5, 6, 5"
+],
+"k": "2, 5, 8, 11"
+},
+"third-203": {
+"s": "DA",
+"tp": "Standard deviation"
+},
+"third-204": {
+"s": "DA",
+"tp": "Simple interest"
+},
+"third-205": {
+"s": "DA",
+"tp": "Mean",
+"q": "Calculate the mean daily revenue for a food truck with daily earnings: 400, 200, 400 and 800"
+},
+"third-206": {
+"s": "DA",
+"tp": "Statistical terms"
+},
+"third-207": {
+"s": "DA",
+"tp": "Skewness",
+"k": "Positive"
+},
+"third-208": {
+"s": "DA",
+"tp": "Probability",
+"r": "?"
+}
+}

@@ -215,7 +215,10 @@
   "player": "Faith",
   "school": "FUTA",
   "solution": "Actual length = map length × scale number = 4 × 50,000 = 200,000 cm. 100,000 cm = 1 km, so 200,000 cm = 2 km. The river is 2 km (200,000 cm) long.",
-  "trick": "On a 1:50,000 map, 1 cm stands for 50,000 cm, which is 0.5 km. So 4 cm is 4 × 0.5 = 2 km."
+  "trick": "On a 1:50,000 map, 1 cm stands for 50,000 cm, which is 0.5 km. So 4 cm is 4 × 0.5 = 2 km.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1192",
@@ -264,7 +267,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "Choose which 5 of the 10 bit positions hold a 1: 10C5 = (10 × 9 × 8 × 7 × 6) ÷ (5 × 4 × 3 × 2 × 1) = 30,240 ÷ 120 = 252. So 252 numbers have exactly five 1's.",
-  "trick": "Remember 10C5 = 252. It is the biggest number in row 10 of Pascal's triangle (1, 10, 45, 120, 210, 252), and 210 is just the one next to it."
+  "trick": "Remember 10C5 = 252. It is the biggest number in row 10 of Pascal's triangle (1, 10, 45, 120, 210, 252), and 210 is just the one next to it.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1206",
@@ -291,7 +297,10 @@
   "player": "Lekan",
   "school": "OAU",
   "solution": "Actual distance = 3 × 50,000 = 150,000 cm. 150,000 cm ÷ 100,000 = 1.5 km. The distance is 1.5 km.",
-  "trick": "On a 1:50,000 map, 1 cm is 0.5 km, so 3 cm is half of 3: 1.5 km."
+  "trick": "On a 1:50,000 map, 1 cm is 0.5 km, so 3 cm is half of 3: 1.5 km.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1211",
@@ -352,7 +361,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "Density = mass ÷ volume = 20 ÷ 5 = 4. The density is 4 kg m⁻³.",
-  "trick": "Divide mass by volume: 20 ÷ 5 = 4. The option 100 comes from multiplying 20 × 5 by mistake."
+  "trick": "Divide mass by volume: 20 ÷ 5 = 4. The option 100 comes from multiplying 20 × 5 by mistake.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1233",
@@ -381,7 +393,10 @@
   "player": "Faith",
   "school": "FUTA",
   "solution": "Power P = V × I = 12 × 3 = 36. The power is 36 W.",
-  "trick": "Power is volts times amps, so multiply: 12 × 3 = 36. The other two options are the divisions, 12 ÷ 3 = 4 and 3 ÷ 12 = 0.25."
+  "trick": "Power is volts times amps, so multiply: 12 × 3 = 36. The other two options are the divisions, 12 ÷ 3 = 4 and 3 ÷ 12 = 0.25.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1236",
@@ -436,7 +451,10 @@
   "player": "Faith",
   "school": "FUTA",
   "solution": "2 hours = 2 × 3,600 = 7,200 seconds. Volume = rate × time = 0.5 × 7,200 = 3,600. The pipe delivers 3,600 L.",
-  "trick": "Half a litre per second means half as many litres as seconds. 2 hours is 7,200 seconds, and half of 7,200 is 3,600."
+  "trick": "Half a litre per second means half as many litres as seconds. 2 hours is 7,200 seconds, and half of 7,200 is 3,600.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1255",
@@ -485,7 +503,10 @@
   "player": "Faith",
   "school": "FUTA",
   "solution": "Richter magnitude M = log₁₀(A ÷ A₀), where A ÷ A₀ is the amplitude ratio. The ratio is 1,000, so M = log₁₀(1,000) = 3. The Richter value is 3.",
-  "trick": "Count the zeros in 1,000. There are three, so log₁₀(1,000) = 3."
+  "trick": "Count the zeros in 1,000. There are three, so log₁₀(1,000) = 3.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1284",
@@ -507,7 +528,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "Count after n hours = 100 × 2ⁿ. With n = 6, 2⁶ = 64. So the count is 100 × 64 = 6,400.",
-  "trick": "2⁶ = 64, then add two zeros for the 100: 6,400."
+  "trick": "2⁶ = 64, then add two zeros for the 100: 6,400.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1296",
@@ -557,7 +581,10 @@
   "player": "Faith",
   "school": "FUTA",
   "solution": "R(x) = 120x − 6x² is a downward parabola, so the peak is where dR/dx = 120 − 12x = 0. That gives x = 120 ÷ 12 = 10. The peak revenue is R(10) = 1,200 − 600 = 600. So x = 10 units.",
-  "trick": "The revenue is zero at x = 0 and at x = 120 ÷ 6 = 20, and the peak is halfway between them: 10."
+  "trick": "The revenue is zero at x = 0 and at x = 120 ÷ 6 = 20, and the peak is halfway between them: 10.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1471",
@@ -736,7 +763,10 @@
   "player": "Faith",
   "school": "FUTA",
   "solution": "3 machines make 3 widgets in 3 minutes, so one machine makes 1 widget in 3 minutes. 100 machines make 100 widgets in 3 minutes. For 150 widgets the time is 150 ÷ 100 × 3 = 4.5 minutes. The answer is 4.5 minutes.",
-  "trick": "100 machines make 100 widgets in 3 minutes. 150 widgets is one and a half times that, so it takes one and a half times 3 minutes: 4.5."
+  "trick": "100 machines make 100 widgets in 3 minutes. 150 widgets is one and a half times that, so it takes one and a half times 3 minutes: 4.5.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1532",
@@ -764,7 +794,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "Births in one year = 1,000,000 × 20 ÷ 1,000 = 20,000. New population = 1,000,000 + 20,000 = 1,020,000. The population is 1,020,000.",
-  "trick": "20 per 1,000 is 2%. 2% of 1,000,000 is 20,000, so add it on: 1,020,000."
+  "trick": "20 per 1,000 is 2%. 2% of 1,000,000 is 20,000, so add it on: 1,020,000.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1551",
@@ -788,7 +821,10 @@
   "player": "Faith",
   "school": "FUTA",
   "solution": "Electric field E = F ÷ q = 180 ÷ 3 = 60. The electric field is 60 N/C.",
-  "trick": "18 ÷ 3 = 6, so 180 ÷ 3 = 60."
+  "trick": "18 ÷ 3 = 6, so 180 ÷ 3 = 60.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1555",
@@ -876,7 +912,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "Ohm's law says V = I × R, so R = V ÷ I = 10 ÷ 2 = 5. The resistance is 5 Ω.",
-  "trick": "Dividing by 2 is halving, and half of 10 is 5."
+  "trick": "Dividing by 2 is halving, and half of 10 is 5.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1815",
@@ -905,7 +944,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "The dot product multiplies matching parts and adds them. A · B = (2 × 1) + (5 × (−3)) = 2 − 15 = −13. The answer is −13.",
-  "trick": "The i parts give 2 and the j parts give −15, so all you need is 2 − 15 = −13."
+  "trick": "The i parts give 2 and the j parts give −15, so all you need is 2 − 15 = −13.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1852",
@@ -936,7 +978,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "The rate is lowest where its derivative is zero. dR/dt = 6t − 6 = 0, so t = 1. The second derivative is 6, which is positive, so this is a minimum. The rate is minimized at t = 1 s.",
-  "trick": "R = 3t(t − 2) is a parabola that is zero at t = 0 and t = 2, so its lowest point is halfway between them, at t = 1."
+  "trick": "R = 3t(t − 2) is a parabola that is zero at t = 0 and t = 2, so its lowest point is halfway between them, at t = 1.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1862",
@@ -963,7 +1008,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "The sum of the first n odd numbers is n². For n = 20 that is 20² = 400. The sum is 400.",
-  "trick": "The first n odd numbers always add up to n², so 20 × 20 = 400."
+  "trick": "The first n odd numbers always add up to n², so 20 × 20 = 400.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1864",
@@ -994,7 +1042,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "Read this as the percentage increase in size: (new − old) ÷ old × 100 = (1.5 − 0.1) ÷ 0.1 × 100 = 1.4 ÷ 0.1 × 100 = 14 × 100. The percentage magnification is 1,400%.",
-  "trick": "The image grew by 1.4 mm, which is 14 times the original 0.1 mm, so 14 × 100% = 1,400%."
+  "trick": "The image grew by 1.4 mm, which is 14 times the original 0.1 mm, so 14 × 100% = 1,400%.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1876",
@@ -1022,7 +1073,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "12.5% = 1/8 = (1/2)³, so the dose halved 3 times in 24 hours. Half life = 24 ÷ 3 = 8. The half life is 8 hours.",
-  "trick": "Halve three times: 100%, 50%, 25%, 12.5%. Three halvings in 24 hours means 8 hours each."
+  "trick": "Halve three times: 100%, 50%, 25%, 12.5%. Three halvings in 24 hours means 8 hours each.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1893",
@@ -1049,7 +1103,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "P(q) = 4q² + 240q − 100 is an upward parabola, so its lowest point is the turning point q = −b ÷ (2a). That gives q = −240 ÷ (2 × 4) = −240 ÷ 8 = −30. A negative quantity is odd in real life, but it is the turning point the question asks for. The answer is q = −30.",
-  "trick": "The turning point is at −b ÷ 2a: 240 ÷ 8 = 30, and with the minus sign that is −30."
+  "trick": "The turning point is at −b ÷ 2a: 240 ÷ 8 = 30, and with the minus sign that is −30.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1907",
@@ -1077,7 +1134,10 @@
   "player": "Quayum",
   "school": "OAU",
   "solution": "At 4:20 the hour hand is at 4 × 30° + 20 × 0.5° = 130°. The minute hand is at 20 × 6° = 120°. The angle between them is 130° − 120° = 10°.",
-  "trick": "Use 30 × hours − 5.5 × minutes = 120 − 110 = 10°, ignoring any minus sign. If that comes out over 180°, take it away from 360°."
+  "trick": "Use 30 × hours − 5.5 × minutes = 120 − 110 = 10°, ignoring any minus sign. If that comes out over 180°, take it away from 360°.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-bm-2150",
@@ -2042,11 +2102,6 @@
   "topic": "Quadratics",
   "level": 3,
   "q": "The profit function f(x) = 2x² + 4x − 5 models earnings. What is the minimum achievable profit?",
-  "options": [
-   "−9",
-   "−10",
-   "−18"
-  ],
   "answer": "−7",
   "accept": [
    "-7",
@@ -3886,6 +3941,1288 @@
   "trick": "For x² − a, average x₀ and a ÷ x₀: (3 + 4/3) ÷ 2 = (13/3) ÷ 2 = 13/6. Also x₁ must be between 2 and 3, and only 13/6 is."
  },
  {
+  "id": "26-third-qb-1316",
+  "video": "w3veN1z8SOM",
+  "t": 1316,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Simple interest",
+  "level": 3,
+  "q": "₦15,000 invested at 6% simple interest grows to what amount in 4 years?",
+  "answer": "₦18,600",
+  "accept": [
+   "18600",
+   "18,600",
+   "₦18600",
+   "N18600",
+   "N18,600"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Simple interest = P × R × T ÷ 100 = 15,000 × 6 × 4 ÷ 100 = ₦3,600. The amount is the principal plus the interest, so 15,000 + 3,600 = ₦18,600.",
+  "trick": "Four years at 6% adds 24%, so the amount is 124% of 15,000. That is 15,000 + 3,000 (20%) + 600 (4%) = 18,600."
+ },
+ {
+  "id": "26-third-qb-1365",
+  "video": "w3veN1z8SOM",
+  "t": 1365,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Combinations",
+  "level": 3,
+  "q": "A pizza shop offers 10 toppings. How many 4-topping pizzas are possible?",
+  "answer": "210",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "The order of toppings does not matter, so use combinations: 10C4 = (10 × 9 × 8 × 7) ÷ (4 × 3 × 2 × 1) = 5,040 ÷ 24 = 210.",
+  "trick": "Cancel before multiplying: 8 cancels with 4 × 2, and 9 cancels with 3, which leaves 10 × 3 × 7 = 210."
+ },
+ {
+  "id": "26-third-qb-1589",
+  "video": "w3veN1z8SOM",
+  "t": 1589,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Permutations",
+  "level": 3,
+  "q": "How many 5 letter words can be formed from ALPHA without repeating letters?",
+  "answer": "60",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "ALPHA has 5 letters, and the letter A appears twice. Using every letter once, there are 5! = 120 orders, but swapping the two As gives the same word. So divide by 2!: 120 ÷ 2 = 60.",
+  "trick": "5! ÷ 2! is just 5 × 4 × 3, because the 2 × 1 cancels. That is 60."
+ },
+ {
+  "id": "26-third-qb-1692",
+  "video": "w3veN1z8SOM",
+  "t": 1692,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Genetics",
+  "level": 3,
+  "q": "If 64% show the dominant phenotype, find the recessive allele frequency (Hardy-Weinberg).",
+  "options": [
+   "0.2",
+   "0.4",
+   "0.6"
+  ],
+  "answer": "0.6",
+  "accept": [
+   "60%",
+   "6/10",
+   "3/5"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "The dominant phenotype covers p² + 2pq = 0.64, so the recessive phenotype is q² = 1 − 0.64 = 0.36. Check: q = 0.6 gives p = 0.4, and p² + 2pq = 0.16 + 0.48 = 0.64. So the recessive allele frequency is q = √0.36 = 0.6.",
+  "trick": "Subtract from 100 first: 100 − 64 = 36, so q² = 0.36 and q = 0.6. Beware 0.4, which is the dominant allele p, not q."
+ },
+ {
+  "id": "26-third-qb-1762",
+  "video": "w3veN1z8SOM",
+  "t": 1762,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Permutations",
+  "level": 3,
+  "q": "How many distinct permutations can be made from “LEVEL”?",
+  "options": [
+   "60",
+   "90",
+   "30"
+  ],
+  "answer": "30",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "LEVEL has 5 letters: L twice, E twice and V once. The number of distinct arrangements is 5! ÷ (2! × 2!) = 120 ÷ 4 = 30.",
+  "trick": "L and E each appear twice, so halve 120 twice: 120 to 60 to 30. Stopping at 60 is the trap."
+ },
+ {
+  "id": "26-third-qb-1791",
+  "video": "w3veN1z8SOM",
+  "t": 1791,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Thermodynamics",
+  "level": 3,
+  "q": "If 200 Joules of heat is added to a system that does 50 Joules of work, what is the internal energy change?",
+  "answer": "150 J",
+  "accept": [
+   "150",
+   "150J",
+   "150 joules",
+   "150 joule"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "First law of thermodynamics: ΔU = Q − W, where Q is heat added to the system and W is work done by the system. So ΔU = 200 − 50 = 150 J.",
+  "trick": "200 J goes in as heat and 50 J leaves as work, so 150 J stays inside."
+ },
+ {
+  "id": "26-third-qb-1813",
+  "video": "w3veN1z8SOM",
+  "t": 1813,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Magnification",
+  "level": 3,
+  "q": "An object appears as 12 millimetres on an image magnified 60 times. Determine the object's real size.",
+  "answer": "0.2mm",
+  "accept": [
+   "0.2",
+   "0.2 mm",
+   "0.2 millimetres",
+   "0.2 millimeters",
+   "1/5 mm"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "Magnification = image size ÷ real size, so real size = image size ÷ magnification = 12 mm ÷ 60 = 0.2 mm.",
+  "trick": "12 ÷ 60 is one fifth, which is 0.2. The real object must be smaller than its enlarged image."
+ },
+ {
+  "id": "26-third-qb-1832",
+  "video": "w3veN1z8SOM",
+  "t": 1832,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Dilution",
+  "level": 3,
+  "q": "If you mix 200 millilitres of a 2.5 molar KCl solution with 300 millilitres of water, what is the final molarity of the solution?",
+  "answer": "1 M",
+  "accept": [
+   "1",
+   "1M",
+   "1 molar",
+   "1.0 M",
+   "1 mol/L",
+   "1.0"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Godswil",
+  "school": "UNN",
+  "solution": "Use M₁V₁ = M₂V₂, taking the volumes to add. The final volume is 200 + 300 = 500 mL, so M₂ = 2.5 × 200 ÷ 500 = 1 M.",
+  "trick": "The 200 mL is 2/5 of the final 500 mL, so the concentration falls to 2/5 of 2.5, which is 1 M."
+ },
+ {
+  "id": "26-third-qb-1858",
+  "video": "w3veN1z8SOM",
+  "t": 1858,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Genetics",
+  "level": 3,
+  "q": "A recessive disorder affects 1 in 2,500 people. What is the carrier frequency?",
+  "answer": "4%",
+  "accept": [
+   "4",
+   "0.04",
+   "1/25",
+   "1 in 25",
+   "3.92%",
+   "3.92",
+   "0.0392",
+   "3.9%",
+   "4 percent"
+  ],
+  "tag": "confirmed",
+  "player": "Godswil",
+  "school": "UNN",
+  "solution": "For a recessive disorder, q² = 1 ÷ 2,500, so q = √(1 ÷ 2,500) = 1 ÷ 50 = 0.02. Carriers are 2pq = 2 × 0.98 × 0.02 = 0.0392. That is about 4%.",
+  "trick": "√2,500 = 50, so q = 1 in 50, which is 2%. Carriers are about 2q = 4%, because p is almost 1."
+ },
+ {
+  "id": "26-third-qb-2102",
+  "video": "w3veN1z8SOM",
+  "t": 2102,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Combinations",
+  "level": 3,
+  "q": "From 4 red, 5 green, and 6 yellow marbles, how many ways can 3 marbles be chosen?",
+  "options": [
+   "285",
+   "455",
+   "180"
+  ],
+  "answer": "455",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Emma",
+  "school": "UNN",
+  "solution": "The colours do not matter, so choose 3 from 4 + 5 + 6 = 15 marbles. 15C3 = (15 × 14 × 13) ÷ (3 × 2 × 1) = 2,730 ÷ 6 = 455.",
+  "trick": "Cancel first: 15 ÷ 3 = 5 and 14 ÷ 2 = 7, so the answer is 5 × 7 × 13 = 455."
+ },
+ {
+  "id": "26-third-qb-2118",
+  "video": "w3veN1z8SOM",
+  "t": 2118,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Pythagoras",
+  "level": 3,
+  "q": "After flying 300 kilometres north, then 400 kilometres east, determine the straight line distance between the starting and ending points.",
+  "answer": "500km",
+  "accept": [
+   "500",
+   "500 km",
+   "500 kilometres",
+   "500 kilometers"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "North and east are at right angles, so the distance is √(300² + 400²) = √(90,000 + 160,000) = √250,000 = 500 km.",
+  "trick": "300 and 400 are 3 and 4 scaled up by 100, so this is a 3, 4, 5 triangle and the distance is 500 km."
+ },
+ {
+  "id": "26-third-qb-2149",
+  "video": "w3veN1z8SOM",
+  "t": 2149,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Rates",
+  "level": 3,
+  "q": "A pendulum has a period of 1.5 seconds. How many swings occur in 10 minutes?",
+  "answer": "400",
+  "accept": [
+   "400 swings"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "10 minutes = 10 × 60 = 600 seconds. One swing takes one period, 1.5 seconds. So the number of swings is 600 ÷ 1.5 = 400.",
+  "trick": "1.5 seconds per swing means 2 swings every 3 seconds. 600 seconds holds 200 lots of 3 seconds, so 400 swings."
+ },
+ {
+  "id": "26-third-qb-2166",
+  "video": "w3veN1z8SOM",
+  "t": 2166,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Percentages",
+  "level": 3,
+  "q": "A 14,000 litres tank is 40% full. How many litres are needed to fill it to the brim?",
+  "options": [
+   "2,800 litres",
+   "5,600 litres",
+   "8,400 litres"
+  ],
+  "answer": "8,400 litres",
+  "accept": [
+   "8400",
+   "8,400",
+   "8400 litres",
+   "8400 L",
+   "8,400 L"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "The tank is 40% full, so it needs the other 100% − 40% = 60% to be full. 60% of 14,000 = 0.6 × 14,000 = 8,400 litres.",
+  "trick": "10% of 14,000 is 1,400, so 60% is 6 × 1,400 = 8,400. The 5,600 option is the 40% already in the tank."
+ },
+ {
+  "id": "26-third-qb-2185",
+  "video": "w3veN1z8SOM",
+  "t": 2185,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Algebra",
+  "level": 3,
+  "q": "If the sum of two numbers is 150, and their difference is 30. Find the numbers?",
+  "options": [
+   "80 and 70",
+   "100 and 50",
+   "90 and 60"
+  ],
+  "answer": "90 and 60",
+  "accept": [
+   "60 and 90",
+   "90, 60",
+   "60, 90",
+   "90,60",
+   "60,90",
+   "90 60",
+   "60 90"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "Let the numbers be x and y, with x + y = 150 and x − y = 30. Adding the equations gives 2x = 180, so x = 90, and then y = 150 − 90 = 60. The numbers are 90 and 60.",
+  "trick": "Check the gaps in the options. 80 and 70 differ by 10, 100 and 50 differ by 50, and only 90 and 60 differ by 30."
+ },
+ {
+  "id": "26-third-qb-2198",
+  "video": "w3veN1z8SOM",
+  "t": 2198,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Binary numbers",
+  "level": 3,
+  "q": "The binary number 11010 is subtracted from 101101. What is the result in decimal?",
+  "options": [
+   "27",
+   "19",
+   "23"
+  ],
+  "answer": "19",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Convert to decimal using place values 32, 16, 8, 4, 2, 1. 101101 = 32 + 8 + 4 + 1 = 45 and 11010 = 16 + 8 + 2 = 26. So 45 − 26 = 19.",
+  "trick": "Read off the place values to get 45 and 26, then subtract: 45 − 26 = 19."
+ },
+ {
+  "id": "26-third-qb-2203",
+  "video": "w3veN1z8SOM",
+  "t": 2203,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Rates",
+  "level": 3,
+  "q": "What is the heart rate of a person with an R-R interval of 80 seconds?",
+  "options": [
+   "20 bpm",
+   "4,800 bpm",
+   "0.75 bpm"
+  ],
+  "answer": "0.75 bpm",
+  "accept": [
+   "0.75",
+   "0.75bpm",
+   "3/4 bpm",
+   "3/4"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Abayomi",
+  "school": "UI",
+  "solution": "Heart rate in beats per minute = 60 ÷ RR interval in seconds. So 60 ÷ 80 = 0.75 bpm.",
+  "trick": "Beats per minute is 60 ÷ seconds per beat. 80 seconds per beat is slower than one beat a minute, so only 0.75 bpm fits."
+ },
+ {
+  "id": "26-third-qb-2226",
+  "video": "w3veN1z8SOM",
+  "t": 2226,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "AM",
+  "topic": "Work",
+  "level": 3,
+  "q": "What is the work done when a 10 Newton force moves an object through 15 metres?",
+  "options": [
+   "75J",
+   "300J",
+   "150J"
+  ],
+  "answer": "150J",
+  "accept": [
+   "150",
+   "150 J",
+   "150 joules",
+   "150 joule"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Abayomi",
+  "school": "UI",
+  "solution": "Work done = force × distance moved in the direction of the force = 10 N × 15 m = 150 J.",
+  "trick": "Just multiply: 10 × 15 = 150. The other two options are half and double that."
+ },
+ {
+  "id": "26-third-bm-2866",
+  "video": "w3veN1z8SOM",
+  "t": 2866,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Mechanics of materials",
+  "level": 3,
+  "q": "What type of stress acts parallel to a surface?",
+  "options": [
+   "Shear",
+   "Bulk",
+   "Axial"
+  ],
+  "answer": "Shear",
+  "accept": [
+   "shear",
+   "shear stress"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Axial and bulk stresses push or pull straight into a surface, at right angles to it. Stress that acts parallel to a surface, trying to slide one layer over the next, is shear stress.",
+  "trick": "Parallel to the surface means sliding along it, and sliding is shear. The other two act straight into the surface."
+ },
+ {
+  "id": "26-third-bm-2868",
+  "video": "w3veN1z8SOM",
+  "t": 2868,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Integration",
+  "level": 3,
+  "q": "The integral of cos(ax) dx is",
+  "options": [
+   "a sin(ax)",
+   "sin(ax)/a",
+   "a cos(ax)"
+  ],
+  "answer": "sin(ax)/a",
+  "accept": [
+   "(1/a)sin(ax)",
+   "(1/a) sin(ax)",
+   "sin(ax)/a + C",
+   "sin(ax)/a+C",
+   "(sin(ax))/a",
+   "sin ax / a",
+   "sin(ax) ÷ a",
+   "1/a sin(ax)"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Let u = ax, so dx = du ÷ a. Then ∫cos(ax) dx = (1 ÷ a) ∫cos u du = (1 ÷ a) sin u + C. Putting u = ax back gives sin(ax)/a + C, so the answer is sin(ax)/a.",
+  "trick": "Differentiating sin(ax) brings out a factor a, so integrating must divide by a to undo it. The options with a on top are wrong."
+ },
+ {
+  "id": "26-third-bm-2873",
+  "video": "w3veN1z8SOM",
+  "t": 2873,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Vector calculus",
+  "level": 3,
+  "q": "Divergence of a solenoidal field is",
+  "options": [
+   "0",
+   "1",
+   "∞"
+  ],
+  "answer": "0",
+  "accept": [
+   "zero"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "A solenoidal field is defined as one with no sources or sinks, which means ∇·F = 0. The magnetic field B is the standard example. So its divergence is 0.",
+  "trick": "Solenoidal means divergence free, so the answer is 0. Do not mix it up with irrotational, which means the curl is 0."
+ },
+ {
+  "id": "26-third-bm-2877",
+  "video": "w3veN1z8SOM",
+  "t": 2877,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Electricity",
+  "level": 3,
+  "q": "If a device draws 0.25 Ampere from a 120 Volt source, what is the resistance?",
+  "answer": "480 Ω",
+  "accept": [
+   "480",
+   "480Ω",
+   "480 ohm",
+   "480 ohms"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Ohm's law: V = IR, so R = V ÷ I = 120 ÷ 0.25 = 480 Ω.",
+  "trick": "0.25 is a quarter, so dividing by 0.25 is the same as multiplying by 4: 120 × 4 = 480."
+ },
+ {
+  "id": "26-third-bm-2883",
+  "video": "w3veN1z8SOM",
+  "t": 2883,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Kinematics",
+  "level": 3,
+  "q": "Given the position vector r(t) = (3t² − 4t)i + (2t³)j m, find the acceleration magnitude at t = 1 second",
+  "options": [
+   "6√5 m/s²",
+   "√5 m/s²",
+   "3√5 m/s²"
+  ],
+  "answer": "6√5 m/s²",
+  "accept": [
+   "6√5",
+   "6sqrt5",
+   "6sqrt(5)",
+   "6*sqrt(5)",
+   "6 root 5",
+   "13.4",
+   "13.42",
+   "13.416"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Differentiate twice. The velocity is (6t − 4)i + 6t²j, so the acceleration is 6i + 12t j. At t = 1, a = 6i + 12j, so |a| = √(6² + 12²) = √180 = 6√5 m/s².",
+  "trick": "At t = 1 the acceleration is 6i + 12j = 6(i + 2j), so its size is 6√(1 + 4) = 6√5. The j component alone is 12, which already rules out √5 and 3√5."
+ },
+ {
+  "id": "26-third-bm-2888",
+  "video": "w3veN1z8SOM",
+  "t": 2888,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Geometry",
+  "level": 3,
+  "q": "A rectangle has side lengths in a 3:4 ratio. If its perimeter is 56cm, what is its area?",
+  "answer": "192 cm²",
+  "accept": [
+   "192",
+   "192cm²",
+   "192 cm2",
+   "192cm2",
+   "192 square cm",
+   "192 sq cm",
+   "192 square centimetres"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Let the sides be 3k and 4k. The perimeter is 2(3k + 4k) = 14k = 56, so k = 4. The sides are 12 cm and 16 cm, so the area is 12 × 16 = 192 cm².",
+  "trick": "Half the perimeter is 28, shared 3 to 4 in 7 parts of 4 each. That gives sides 12 and 16, and 12 × 16 = 192."
+ },
+ {
+  "id": "26-third-bm-2896",
+  "video": "w3veN1z8SOM",
+  "t": 2896,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Units",
+  "level": 3,
+  "q": "The unit of thermal conductivity is",
+  "options": [
+   "J/K",
+   "N·m",
+   "W/mK"
+  ],
+  "answer": "W/mK",
+  "accept": [
+   "W/(mK)",
+   "W/m·K",
+   "W/(m·K)",
+   "W/m/K",
+   "W/m K",
+   "W m⁻¹ K⁻¹",
+   "watts per metre kelvin",
+   "watt per metre kelvin"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN",
+  "solution": "Heat flow rate = k × area × temperature difference ÷ thickness, so k = W × m ÷ (m² × K) = W/(m·K). J/K is the unit of heat capacity and N·m is the unit of torque or energy. So the unit of thermal conductivity is W/mK.",
+  "trick": "Thermal conductivity is watts per metre per kelvin, and W/mK is the only option with watts in it."
+ },
+ {
+  "id": "26-third-bm-2902",
+  "video": "w3veN1z8SOM",
+  "t": 2902,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Units",
+  "level": 3,
+  "q": "What is the unit of magnetic permeability?",
+  "options": [
+   "Henry/meter",
+   "Darcy",
+   "Weber"
+  ],
+  "answer": "Henry/meter",
+  "accept": [
+   "H/m",
+   "Henry per meter",
+   "Henry per metre",
+   "Henry/metre",
+   "henries per meter",
+   "henries per metre"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Permeability μ comes from B = μH, with B in tesla (Wb/m²) and H in A/m, so μ is in Wb/(A m). One henry is one weber per ampere, so the unit is Henry/meter.",
+  "trick": "Weber is flux and the darcy is for rock, so only Henry/meter is left (and μ₀ = 4π × 10⁻⁷ H/m)."
+ },
+ {
+  "id": "26-third-bm-2906",
+  "video": "w3veN1z8SOM",
+  "t": 2906,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Simple interest",
+  "level": 3,
+  "q": "₦18,000 grows to ₦22,500 in 4 years with simple interest. What is the annual rate?",
+  "options": [
+   "4.5%",
+   "2.45%",
+   "6.25%"
+  ],
+  "answer": "6.25%",
+  "accept": [
+   "6.25",
+   "6.25 percent",
+   "0.0625"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Interest = 22,500 − 18,000 = ₦4,500, and simple interest I = P × R × T. So R = 4,500 ÷ (18,000 × 4) = 4,500 ÷ 72,000 = 0.0625, which is 6.25% a year.",
+  "trick": "The interest of 4,500 is a quarter of 18,000, which is 25% over 4 years, so 25 ÷ 4 = 6.25% a year."
+ },
+ {
+  "id": "26-third-bm-2911",
+  "video": "w3veN1z8SOM",
+  "t": 2911,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Kinematics",
+  "level": 3,
+  "q": "The velocity of a particle is v(t) = 3t² − 12t. At what time t is the velocity zero?",
+  "options": [
+   "4s",
+   "2s",
+   "6s"
+  ],
+  "answer": "4s",
+  "accept": [
+   "4",
+   "4 s",
+   "4 sec",
+   "4 seconds"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Set v = 0: 3t² − 12t = 3t(t − 4) = 0, so t = 0 (the start) or t = 4. Of the options, v(2) = −12 and v(6) = 36 are not zero. So the velocity is zero at t = 4 s.",
+  "trick": "Cancel 3t from 3t² = 12t to leave t = 4 (t = 0 also works, but it is not offered)."
+ },
+ {
+  "id": "26-third-bm-2916",
+  "video": "w3veN1z8SOM",
+  "t": 2916,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Exponential growth",
+  "level": 3,
+  "q": "The population P of bacteria grows at a rate dP/dt = 0.05P. If P₀ = 1000, what is the population after 20 hours?",
+  "options": [
+   "3,124",
+   "2,000",
+   "2,718"
+  ],
+  "answer": "2,718",
+  "accept": [
+   "2718",
+   "2718.3",
+   "2718.28",
+   "2,718.28",
+   "1000e",
+   "1000 e"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN",
+  "solution": "Growth at a rate proportional to P gives P = P₀ e^(kt). Here kt = 0.05 × 20 = 1, so P = 1,000 × e¹ = 1,000 × 2.718 ≈ 2,718.",
+  "trick": "0.05 × 20 = 1, so it is just 1,000 × e, and e ≈ 2.718 gives 2,718."
+ },
+ {
+  "id": "26-third-bm-2921",
+  "video": "w3veN1z8SOM",
+  "t": 2921,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Mechanics",
+  "level": 3,
+  "q": "A 1,200 kilogram vehicle slows from 72 kilometres per hour to rest in 4 seconds. Calculate the magnitude of the average braking force.",
+  "options": [
+   "1,200N",
+   "6,000N",
+   "8,000N"
+  ],
+  "answer": "6,000N",
+  "accept": [
+   "6000",
+   "6,000",
+   "6000N",
+   "6000 N",
+   "6,000 N",
+   "6 kN",
+   "6kN"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Convert the speed: 72 km/h = 72 ÷ 3.6 = 20 m/s. The deceleration is a = 20 ÷ 4 = 5 m/s², so F = ma = 1,200 × 5 = 6,000 N.",
+  "trick": "72 ÷ 3.6 = 20 m/s, then F = m × Δv ÷ t = 1,200 × 20 ÷ 4 = 1,200 × 5 = 6,000."
+ },
+ {
+  "id": "26-third-bm-2926",
+  "video": "w3veN1z8SOM",
+  "t": 2926,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Probability",
+  "level": 3,
+  "q": "Rain chance per day = 0.6. The probability that it doesn't rain two days in a row is",
+  "options": [
+   "0.4",
+   "0.16",
+   "12"
+  ],
+  "answer": "0.16",
+  "accept": [
+   ".16",
+   "16%",
+   "4/25"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Read it as no rain on either of the two days. P(dry on one day) = 1 − 0.6 = 0.4, and the days are independent. So P(dry on both days) = 0.4 × 0.4 = 0.16.",
+  "trick": "Dry is 1 − 0.6 = 0.4, and 4 × 4 = 16, so 0.16. The option 0.4 is only one day, and 12 cannot be a probability."
+ },
+ {
+  "id": "26-third-bm-2931",
+  "video": "w3veN1z8SOM",
+  "t": 2931,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Calculus",
+  "level": 3,
+  "q": "If f(x) = 5x³ − 4x + 7, find f′(2)",
+  "options": [
+   "56",
+   "38",
+   "48"
+  ],
+  "answer": "56",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Differentiate term by term: f′(x) = 15x² − 4, because the constant 7 disappears. Then f′(2) = 15 × 4 − 4 = 60 − 4 = 56.",
+  "trick": "The 7 vanishes, 5x³ gives 15x² and −4x gives −4. At x = 2 that is 60 − 4 = 56."
+ },
+ {
+  "id": "26-third-bm-2935",
+  "video": "w3veN1z8SOM",
+  "t": 2935,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Trigonometry",
+  "level": 3,
+  "q": "If a man's height is equal to the length of his shadow, what is the angle of elevation of the sun?",
+  "options": [
+   "45°",
+   "60°",
+   "90°"
+  ],
+  "answer": "45°",
+  "accept": [
+   "45",
+   "45 degrees",
+   "45deg"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "The man, his shadow and the sun's ray form a right triangle with equal legs. So tan θ = height ÷ shadow = 1, which gives θ = 45°.",
+  "trick": "Equal legs make an isosceles right triangle, so the angles are 45° each."
+ },
+ {
+  "id": "26-third-bm-2940",
+  "video": "w3veN1z8SOM",
+  "t": 2940,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Electricity",
+  "level": 3,
+  "q": "Which law relates current, voltage and resistance?",
+  "options": [
+   "Pascal",
+   "Faraday",
+   "Ohm's"
+  ],
+  "answer": "Ohm's",
+  "accept": [
+   "Ohm",
+   "Ohms",
+   "Ohm's law",
+   "Ohms law",
+   "Ohm law"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Ohm's law, V = IR, ties together voltage, current and resistance. Pascal's law is about fluid pressure and Faraday's law is about induced voltage, so the answer is Ohm's law.",
+  "trick": "V = IR has all three quantities, so it is Ohm's."
+ },
+ {
+  "id": "26-third-bm-2943",
+  "video": "w3veN1z8SOM",
+  "t": 2943,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Fluid mechanics",
+  "level": 3,
+  "q": "In fluid mechanics, the continuity equation ensures what?",
+  "options": [
+   "Mass concentration",
+   "Heat Concentration",
+   "Power"
+  ],
+  "answer": "Mass concentration",
+  "accept": [
+   "mass conservation",
+   "conservation of mass",
+   "mass is conserved"
+  ],
+  "tag": "confirmed",
+  "showNote": "The continuity equation states conservation of mass, so the option should read 'Mass conservation'. 'Mass concentration' is the mass of a substance per unit volume of a mixture, which is a different idea, but it is the only option about mass, so it is treated as the intended answer. The continuity equation expresses conservation of mass; the show's option reads 'Mass concentration'.",
+  "result": "wrong",
+  "school": "UNN",
+  "solution": "The continuity equation expresses conservation of mass: for steady flow ρ₁A₁v₁ = ρ₂A₂v₂, so what flows in must flow out. The proper term is mass conservation, and the only option about mass is Mass concentration, so that is the answer.",
+  "trick": "Continuity means conservation, mass in equals mass out, and only one option mentions mass."
+ },
+ {
+  "id": "26-third-bm-2947",
+  "video": "w3veN1z8SOM",
+  "t": 2947,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Ratio",
+  "level": 3,
+  "q": "An alloy of bronze is composed of copper and tin in a 4:6 ratio. To produce 150kg of bronze, what mass of tin is needed?",
+  "answer": "90kg",
+  "accept": [
+   "90",
+   "90 kg"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Copper : tin = 4 : 6, so there are 4 + 6 = 10 parts in all and tin is 6 of them. Tin = 6/10 × 150 = 90 kg.",
+  "trick": "One part is 150 ÷ 10 = 15 kg, so tin is 6 × 15 = 90."
+ },
+ {
+  "id": "26-third-bm-2953",
+  "video": "w3veN1z8SOM",
+  "t": 2953,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Simple interest",
+  "level": 3,
+  "q": "A man borrowed ₦10,000 at 5% simple interest per annum. How much will he pay after 3 years?",
+  "options": [
+   "₦3,500",
+   "₦9,000",
+   "₦11,500"
+  ],
+  "answer": "₦11,500",
+  "accept": [
+   "11500",
+   "11,500",
+   "₦11500",
+   "N11500",
+   "N11,500"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Simple interest = P × R × T ÷ 100 = 10,000 × 5 × 3 ÷ 100 = ₦1,500. He pays back the loan plus the interest: 10,000 + 1,500 = ₦11,500.",
+  "trick": "Repayment must be more than the ₦10,000 borrowed, so only ₦11,500 can be right. Check: 5% is 500 a year, and 10,000 + 3 × 500 = 11,500."
+ },
+ {
+  "id": "26-third-bm-2957",
+  "video": "w3veN1z8SOM",
+  "t": 2957,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Calculus",
+  "level": 3,
+  "q": "What does the Jacobian represent in coordinate transformations?",
+  "options": [
+   "Time",
+   "Force",
+   "Scale factor"
+  ],
+  "answer": "Scale factor",
+  "accept": [
+   "scale factor",
+   "scaling factor",
+   "the scale factor",
+   "scaling"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "The Jacobian determinant tells you how much a small area or volume is stretched when you change coordinates, as in dx dy = r dr dθ for polar coordinates. So it is a scale factor.",
+  "trick": "Think of polar coordinates, where the Jacobian r is the area stretch, so it is a scale factor."
+ },
+ {
+  "id": "26-third-bm-2960",
+  "video": "w3veN1z8SOM",
+  "t": 2960,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Fluid mechanics",
+  "level": 3,
+  "q": "Reynolds number identifies",
+  "options": [
+   "mass",
+   "pressure",
+   "flow regime"
+  ],
+  "answer": "flow regime",
+  "accept": [
+   "the flow regime",
+   "flow type",
+   "type of flow",
+   "laminar or turbulent"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "The Reynolds number Re = ρvD/μ compares inertial forces with viscous forces, and its size tells you whether flow is laminar or turbulent. So it identifies the flow regime.",
+  "trick": "Re is the laminar versus turbulent number, which is the flow regime."
+ },
+ {
+  "id": "26-third-bm-2962",
+  "video": "w3veN1z8SOM",
+  "t": 2962,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Vector calculus",
+  "level": 3,
+  "q": "Divergence is a measure of what?",
+  "options": [
+   "Rotation",
+   "Flux density",
+   "Length"
+  ],
+  "answer": "Flux density",
+  "accept": [
+   "flux density",
+   "flux per unit volume",
+   "outward flux density",
+   "net outward flux per unit volume"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Rotation is measured by the curl, not the divergence. Divergence ∇·F is the net outward flux per unit volume at a point, so it measures flux density.",
+  "trick": "Divergence is flux out per unit volume, and curl is the one for rotation."
+ },
+ {
+  "id": "26-third-bm-2966",
+  "video": "w3veN1z8SOM",
+  "t": 2966,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Mechanics of materials",
+  "level": 3,
+  "q": "What type of stress occurs due to twisting?",
+  "options": [
+   "Compressive stress",
+   "Tensile stress",
+   "Torsional stress"
+  ],
+  "answer": "Torsional stress",
+  "accept": [
+   "torsional stress",
+   "torsional",
+   "torsion",
+   "torsional shear stress"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN",
+  "solution": "Compressive stress comes from pushing and tensile stress from pulling. Twisting a shaft produces shear stress across its section (τ = Tr/J), which is called torsional stress.",
+  "trick": "Twisting is torsion, so the answer is torsional stress."
+ },
+ {
+  "id": "26-third-bm-2970",
+  "video": "w3veN1z8SOM",
+  "t": 2970,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Linear algebra",
+  "level": 3,
+  "q": "Find the eigenvalues of the matrix [[5, 2], [2, 5]].",
+  "options": [
+   "3 and 7",
+   "4 and 6",
+   "5 and 5"
+  ],
+  "answer": "3 and 7",
+  "accept": [
+   "3, 7",
+   "3,7",
+   "7 and 3",
+   "7, 3",
+   "3 7"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Solve det(A − λI) = (5 − λ)² − 2² = 0, so 5 − λ = ±2 and λ = 3 or 7. Check: 3 + 7 = 10 is the trace, and 3 × 7 = 21 is the determinant 25 − 4. The eigenvalues are 3 and 7.",
+  "trick": "For a matrix [[a, b], [b, a]] the eigenvalues are a + b and a − b, so 5 + 2 = 7 and 5 − 2 = 3."
+ },
+ {
+  "id": "26-third-bm-2974",
+  "video": "w3veN1z8SOM",
+  "t": 2974,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Vector calculus",
+  "level": 3,
+  "q": "What is the divergence of a constant vector field?",
+  "options": [
+   "0",
+   "2",
+   "1"
+  ],
+  "answer": "0",
+  "accept": [
+   "zero",
+   "0.0"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "A constant field F = (a, b, c) has constant components, and divergence is ∂a/∂x + ∂b/∂y + ∂c/∂z, where every term is the derivative of a constant. So the divergence is 0.",
+  "trick": "Divergence is a sum of derivatives, and the derivative of a constant is zero."
+ },
+ {
+  "id": "26-third-bm-2977",
+  "video": "w3veN1z8SOM",
+  "t": 2977,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Transforms",
+  "level": 3,
+  "q": "Which transform converts convolution to multiplication?",
+  "options": [
+   "Taylor",
+   "Laplace",
+   "Gauss"
+  ],
+  "answer": "Laplace",
+  "accept": [
+   "Laplace transform",
+   "the Laplace transform"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "The convolution theorem says the transform of a convolution equals the product of the two transforms, F(s) × G(s) for Laplace. The Fourier transform does this too, but it is not listed, so the answer is Laplace.",
+  "trick": "Convolution theorem: only Laplace in this list turns convolution into a product."
+ },
+ {
+  "id": "26-third-bm-2980",
+  "video": "w3veN1z8SOM",
+  "t": 2980,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Ratio",
+  "level": 3,
+  "q": "A student mixes sand and cement in a ratio of 3:1. If he uses 9kg of sand, how much cement is required?",
+  "answer": "3kg",
+  "accept": [
+   "3",
+   "3 kg"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Sand : cement = 3 : 1, so 3 parts of sand go with 1 part of cement. 9 kg of sand means each part is 9 ÷ 3 = 3 kg, so the cement needed is 3 kg.",
+  "trick": "Divide the sand by 3: 9 ÷ 3 = 3."
+ },
+ {
+  "id": "26-third-bm-2985",
+  "video": "w3veN1z8SOM",
+  "t": 2985,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Stability",
+  "level": 3,
+  "q": "When all eigenvalues are real, negative, and distinct, the system is",
+  "options": [
+   "Unstable",
+   "Stable",
+   "Random"
+  ],
+  "answer": "Stable",
+  "accept": [
+   "stable",
+   "asymptotically stable",
+   "stable node"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN",
+  "solution": "For a linear system x′ = Ax, each mode behaves like e^(λt), so real negative eigenvalues make every mode die away to zero. That means the system is stable.",
+  "trick": "Negative real eigenvalues mean everything decays, so it settles down: Stable."
+ },
+ {
+  "id": "26-third-bm-2989",
+  "video": "w3veN1z8SOM",
+  "t": 2989,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Rates",
+  "level": 3,
+  "q": "A car travels 240 kilometres on 20 litres of petrol. How far, in kilometre, can it travel on 15 litres?",
+  "answer": "180km",
+  "accept": [
+   "180",
+   "180 km",
+   "180 kilometres",
+   "180 kilometers"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "The car does 240 ÷ 20 = 12 km per litre. On 15 litres it travels 12 × 15 = 180 km.",
+  "trick": "15 is three quarters of 20, so take three quarters of 240: 60 × 3 = 180."
+ },
+ {
+  "id": "26-third-bm-2993",
+  "video": "w3veN1z8SOM",
+  "t": 2993,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "AM",
+  "topic": "Work",
+  "level": 3,
+  "q": "How much work is done lifting 8 kilograms through 3 metres? (g = 9.8 m/s²)",
+  "answer": "235J",
+  "accept": [
+   "235",
+   "235 J",
+   "235.2",
+   "235.2J",
+   "235.2 J",
+   "235 joules",
+   "235.2 joules"
+  ],
+  "tag": "confirmed",
+  "school": "UNN",
+  "solution": "Work done lifting = weight × height = mgh. So W = 8 × 9.8 × 3 = 235.2 J, which is about 235 J.",
+  "trick": "8 × 3 = 24, and 24 × 9.8 = 240 − 4.8 = 235.2, so about 235."
+ },
+ {
   "id": "26-fin-qb-0926",
   "video": "MmCQhh6aGrE",
   "t": 926,
@@ -4321,7 +5658,10 @@
   "result": "right",
   "school": "OAU",
   "solution": "Confidence interval = mean ± margin of error = 70 ± 3. The lower end is 70 − 3 = 67 and the upper end is 70 + 3 = 73. The interval is (67, 73).",
-  "trick": "The ends sit 3 either side of 70, so 67 and 73. Only (67, 73) is centred on 70."
+  "trick": "The ends sit 3 either side of 70, so 67 and 73. Only (67, 73) is centred on 70.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1835",
@@ -6349,6 +7689,1169 @@
   "trick": "Use C(11, 4) and cancel early: 8 ÷ 4 = 2, 9 ÷ 3 = 3, 10 ÷ 2 = 5, leaving 11 × 5 × 3 × 2 = 330. The 1,820 option is for boxes that may be empty, so it is out."
  },
  {
+  "id": "26-third-qb-1337",
+  "video": "w3veN1z8SOM",
+  "t": 1337,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Correlation",
+  "level": 3,
+  "q": "If covariance is 40 and correlation is 0.8, with X's standard deviation 5, what is the standard deviation?",
+  "answer": "10",
+  "accept": [
+   "10.0"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Abayomi",
+  "school": "UI",
+  "solution": "Correlation r = covariance ÷ (σX × σY), so σX × σY = 40 ÷ 0.8 = 50. The question means the standard deviation of Y, because X's is already given as 5. So σY = 50 ÷ 5 = 10.",
+  "trick": "40 ÷ 0.8 is 400 ÷ 8 = 50, which is the product of the two standard deviations. Then 50 ÷ 5 = 10."
+ },
+ {
+  "id": "26-third-qb-1352",
+  "video": "w3veN1z8SOM",
+  "t": 1352,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Range",
+  "level": 3,
+  "q": "The range of a dataset is 24, and the highest value is 42. What is the lowest?",
+  "answer": "18",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Range = highest − lowest, so lowest = highest − range = 42 − 24 = 18.",
+  "trick": "Subtract in two steps: 42 − 20 = 22, then 22 − 4 = 18."
+ },
+ {
+  "id": "26-third-qb-1382",
+  "video": "w3veN1z8SOM",
+  "t": 1382,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Binomial distribution",
+  "level": 3,
+  "q": "A binomial distribution has n = 400 trials and p = 0.5 success probability. Calculate the standard deviation.",
+  "options": [
+   "20",
+   "40",
+   "10"
+  ],
+  "answer": "10",
+  "accept": [
+   "10.0"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "For a binomial distribution, standard deviation = √(npq). Here n = 400, p = 0.5 and q = 0.5, so √(400 × 0.5 × 0.5) = √100 = 10.",
+  "trick": "When p = 0.5, npq = n ÷ 4, so the standard deviation is √n ÷ 2. √400 = 20, and half of 20 is 10. The option 20 forgets to halve."
+ },
+ {
+  "id": "26-third-qb-1403",
+  "video": "w3veN1z8SOM",
+  "t": 1403,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Quartiles",
+  "level": 3,
+  "q": "The interquartile range of exam scores is 10. If the first quartile is 20, what is the third quartile?",
+  "answer": "30",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Abayomi",
+  "school": "UI",
+  "solution": "Interquartile range = Q3 − Q1, so Q3 = Q1 + IQR = 20 + 10 = 30.",
+  "trick": "Q3 is just Q1 plus the IQR: 20 + 10 = 30."
+ },
+ {
+  "id": "26-third-qb-1423",
+  "video": "w3veN1z8SOM",
+  "t": 1423,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Charts",
+  "level": 3,
+  "q": "A pie chart's largest sector is 144 degrees. What percentage of the total does it represent?",
+  "answer": "40%",
+  "accept": [
+   "40",
+   "0.4",
+   "40 percent",
+   "2/5"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "A full circle is 360°, so the share is 144 ÷ 360 × 100% = 40%.",
+  "trick": "Every 36° is 10% of the circle, and 144 ÷ 36 = 4, so the sector is 40%."
+ },
+ {
+  "id": "26-third-qb-1605",
+  "video": "w3veN1z8SOM",
+  "t": 1605,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Standard deviation",
+  "level": 3,
+  "q": "A dataset has a standard deviation of 5. If each value is increased by 10, what is the new standard deviation?",
+  "answer": "5",
+  "accept": [
+   "5.0"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Abayomi",
+  "school": "UNN",
+  "solution": "Standard deviation measures how far values sit from the mean. Adding 10 to every value moves the mean up by 10 as well, so every distance from the mean stays the same. The standard deviation is still 5.",
+  "trick": "Adding the same number to every value slides the data along without changing its spread, so it stays 5. Only multiplying or dividing would change it."
+ },
+ {
+  "id": "26-third-qb-1624",
+  "video": "w3veN1z8SOM",
+  "t": 1624,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Sets and Venn diagrams",
+  "level": 3,
+  "q": "If 60% own cars, 40% bikes, and 25% both, what percent own neither?",
+  "options": [
+   "0.15",
+   "0.2",
+   "0.25"
+  ],
+  "answer": "0.25",
+  "accept": [
+   "25%",
+   "25",
+   "1/4",
+   "25 percent"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "Own a car or a bike = 60 + 40 − 25 = 75%, because the 25% who own both were counted twice. Neither = 100% − 75% = 25%, which is 0.25 as a fraction.",
+  "trick": "60 + 40 = 100, so the group who own neither is the same size as the group who own both: 25%."
+ },
+ {
+  "id": "26-third-qb-1640",
+  "video": "w3veN1z8SOM",
+  "t": 1640,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Cumulative frequency",
+  "level": 3,
+  "q": "Test score frequencies: 10 scored 50, 15 scored 60, 5 scored 70. Find the cumulative frequency ≤60.",
+  "answer": "25 students",
+  "accept": [
+   "25"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Abayomi",
+  "school": "UI",
+  "solution": "Cumulative frequency up to 60 counts everyone who scored 60 or less. That is the 10 who scored 50 plus the 15 who scored 60, so 10 + 15 = 25 students.",
+  "trick": "Add the frequencies up to 60 and ignore the 70s: 10 + 15 = 25."
+ },
+ {
+  "id": "26-third-qb-1658",
+  "video": "w3veN1z8SOM",
+  "t": 1658,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Range",
+  "level": 3,
+  "q": "From a bar chart with maximum height = 25 and minimum height = 5, find the range.",
+  "answer": "20",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "Range = maximum − minimum = 25 − 5 = 20.",
+  "trick": "Highest bar minus lowest bar: 25 − 5 = 20."
+ },
+ {
+  "id": "26-third-qb-1715",
+  "video": "w3veN1z8SOM",
+  "t": 1715,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Binomial distribution",
+  "level": 3,
+  "q": "If n = 50 and p = 0.7, what is the variance?",
+  "options": [
+   "35",
+   "10.5",
+   "65"
+  ],
+  "answer": "10.5",
+  "accept": [
+   "10.50",
+   "21/2"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "Binomial variance = npq = np(1 − p). Here that is 50 × 0.7 × 0.3 = 50 × 0.21 = 10.5.",
+  "trick": "A binomial variance can never exceed n ÷ 4 = 12.5, because pq is at most 0.25. That rules out 35 and 65 and leaves 10.5."
+ },
+ {
+  "id": "26-third-qb-1745",
+  "video": "w3veN1z8SOM",
+  "t": 1745,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Normal distribution",
+  "level": 3,
+  "q": "If a dataset follows a normal distribution with mean 50, what is its symmetry point?",
+  "answer": "50",
+  "accept": [
+   "x = 50",
+   "x=50"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Abayomi",
+  "school": "UNN",
+  "solution": "A normal distribution is symmetric about its mean, and its mean, median and mode all sit at the same centre. So the symmetry point is the mean, 50.",
+  "trick": "The bell curve mirrors itself about its mean, so the answer is the mean you were given: 50."
+ },
+ {
+  "id": "26-third-qb-1777",
+  "video": "w3veN1z8SOM",
+  "t": 1777,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Binomial distribution",
+  "level": 3,
+  "q": "A binomial experiment has n = 256, p = 0.5. What is the standard deviation?",
+  "options": [
+   "16",
+   "8",
+   "64"
+  ],
+  "answer": "8",
+  "accept": [
+   "8.0"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "Standard deviation = √(npq) = √(256 × 0.5 × 0.5) = √64 = 8.",
+  "trick": "When p = 0.5, the standard deviation is √n ÷ 2. √256 = 16, and half of 16 is 8. The option 16 forgets to halve."
+ },
+ {
+  "id": "26-third-qb-1796",
+  "video": "w3veN1z8SOM",
+  "t": 1796,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Midrange",
+  "level": 3,
+  "q": "A dataset's range is 24, and its maximum is 42. What is the midrange?",
+  "options": [
+   "15",
+   "20",
+   "30"
+  ],
+  "answer": "30",
+  "tag": "confirmed",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "Lowest = highest − range = 42 − 24 = 18. Midrange = (highest + lowest) ÷ 2 = (42 + 18) ÷ 2 = 30.",
+  "trick": "Midrange is the maximum minus half the range: 42 − 12 = 30."
+ },
+ {
+  "id": "26-third-qb-1815",
+  "video": "w3veN1z8SOM",
+  "t": 1815,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Mean absolute deviation",
+  "level": 3,
+  "q": "A dataset has values: 10, 20, 30, 40, 50. What is the mean absolute deviation?",
+  "options": [
+   "6",
+   "18",
+   "12"
+  ],
+  "answer": "12",
+  "accept": [
+   "12.0"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "The mean is (10 + 20 + 30 + 40 + 50) ÷ 5 = 30. The distances from the mean are 20, 10, 0, 10 and 20, which add up to 60. So the mean absolute deviation is 60 ÷ 5 = 12.",
+  "trick": "The mean is the middle value, 30. The gaps are 20, 10, 0, 10, 20, which total 60, and 60 ÷ 5 = 12."
+ },
+ {
+  "id": "26-third-qb-1843",
+  "video": "w3veN1z8SOM",
+  "t": 1843,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Mean",
+  "level": 3,
+  "q": "The ages of five siblings are 10, 20, 30, 40, and 50. What is their average age?",
+  "answer": "30",
+  "accept": [
+   "30 years",
+   "30 yrs"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Abayomi",
+  "school": "UI",
+  "solution": "Mean = sum ÷ number of values = (10 + 20 + 30 + 40 + 50) ÷ 5 = 150 ÷ 5 = 30.",
+  "trick": "The ages are evenly spaced, so the mean is the middle one: 30."
+ },
+ {
+  "id": "26-third-qb-2111",
+  "video": "w3veN1z8SOM",
+  "t": 2111,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Sets and Venn diagrams",
+  "level": 3,
+  "q": "In a group of 50 students, 30 speak Yoruba, 25 speak Igbo, and 15 speak both. How many speak neither language?",
+  "options": [
+   "5",
+   "10",
+   "15"
+  ],
+  "answer": "10",
+  "accept": [
+   "10 students"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Students who speak at least one language = 30 + 25 − 15 = 40, because the 15 who speak both were counted twice. So neither = 50 − 40 = 10.",
+  "trick": "30 + 25 − 15 = 40 speak something, and 50 − 40 = 10 speak neither."
+ },
+ {
+  "id": "26-third-qb-2121",
+  "video": "w3veN1z8SOM",
+  "t": 2121,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Mean",
+  "level": 3,
+  "q": "Pumpkin weights (kilograms): 3, 5, 7, 9, 11. What is the mean weight?",
+  "answer": "7kg",
+  "accept": [
+   "7",
+   "7 kg",
+   "7 kilograms"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Abayomi",
+  "school": "UI",
+  "solution": "Mean = (3 + 5 + 7 + 9 + 11) ÷ 5 = 35 ÷ 5 = 7 kg.",
+  "trick": "The weights are evenly spaced, so the mean is the middle one: 7 kg."
+ },
+ {
+  "id": "26-third-qb-2134",
+  "video": "w3veN1z8SOM",
+  "t": 2134,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Histograms",
+  "level": 3,
+  "q": "A histogram bin covers 15 to 20 kilogram weights. What's its midpoint?",
+  "answer": "17.5 kg",
+  "accept": [
+   "17.5",
+   "17.5kg",
+   "17.5 kilograms",
+   "35/2"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Midpoint = (lower edge + upper edge) ÷ 2 = (15 + 20) ÷ 2 = 35 ÷ 2 = 17.5 kg.",
+  "trick": "The bin is 5 wide, so go halfway: 15 + 2.5 = 17.5."
+ },
+ {
+  "id": "26-third-qb-2154",
+  "video": "w3veN1z8SOM",
+  "t": 2154,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Sets and Venn diagrams",
+  "level": 3,
+  "q": "In a class of 30 students, 18 like math, 12 like physics, and 5 like both. Find how many like neither.",
+  "answer": "5 students",
+  "accept": [
+   "5"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Abayomi",
+  "school": "UI",
+  "solution": "Students who like at least one subject = 18 + 12 − 5 = 25, because the 5 who like both were counted twice. So neither = 30 − 25 = 5 students.",
+  "trick": "18 + 12 = 30 is the whole class, so neither is the same size as both: 5."
+ },
+ {
+  "id": "26-third-qb-2171",
+  "video": "w3veN1z8SOM",
+  "t": 2171,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Expected value",
+  "level": 3,
+  "q": "A test has a 5% false positive rate. If 200 healthy people are tested, how many will test positive falsely?",
+  "answer": "10",
+  "accept": [
+   "10 people"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Expected false positives = false positive rate × number of healthy people = 5% × 200 = 0.05 × 200 = 10.",
+  "trick": "1% of 200 is 2, so 5% is 10."
+ },
+ {
+  "id": "26-third-qb-2190",
+  "video": "w3veN1z8SOM",
+  "t": 2190,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Outliers",
+  "level": 3,
+  "q": "If the first quartile and third quartile are 10 and 16 respectively, what is the upper outlier threshold?",
+  "options": [
+   "20",
+   "25",
+   "45"
+  ],
+  "answer": "25",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "IQR = Q3 − Q1 = 16 − 10 = 6. The upper outlier threshold is Q3 + 1.5 × IQR = 16 + 1.5 × 6 = 16 + 9 = 25.",
+  "trick": "The IQR is 6, and 1.5 × 6 = 9. Add that to Q3: 16 + 9 = 25."
+ },
+ {
+  "id": "26-third-qb-2205",
+  "video": "w3veN1z8SOM",
+  "t": 2205,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Range",
+  "level": 3,
+  "q": "The weights (in kilograms) of 7 students are: 45,50, 55, 60, 65, 70, 75. What is the range?",
+  "answer": "30kg",
+  "accept": [
+   "30",
+   "30 kg",
+   "30 kilograms"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Abayomi",
+  "school": "UI",
+  "solution": "Range = largest − smallest = 75 − 45 = 30 kg.",
+  "trick": "The list is in order, so take the last minus the first: 75 − 45 = 30."
+ },
+ {
+  "id": "26-third-qb-2232",
+  "video": "w3veN1z8SOM",
+  "t": 2232,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "DA",
+  "topic": "Coefficient of variation",
+  "level": 3,
+  "q": "The coefficient of variation is 40% for a mean = 650. What is the standard deviation?",
+  "answer": "260",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Abayomi",
+  "school": "UI",
+  "solution": "Coefficient of variation = standard deviation ÷ mean × 100%. So standard deviation = 40% × 650 = 0.4 × 650 = 260.",
+  "trick": "10% of 650 is 65, so 40% is 4 × 65 = 260."
+ },
+ {
+  "id": "26-third-bm-3008",
+  "video": "w3veN1z8SOM",
+  "t": 3008,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Cumulative frequency",
+  "level": 3,
+  "q": "Frequency: 8 students scored 60, and 12 scored 70. What is the cumulative frequency for scores less than or equal to 70?",
+  "options": [
+   "15",
+   "20",
+   "30"
+  ],
+  "answer": "20",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Cumulative frequency up to 70 adds the frequencies of all scores up to and including 70. So it is 8 + 12 = 20.",
+  "trick": "60 and 70 are the only scores, so it is just everyone: 8 + 12 = 20."
+ },
+ {
+  "id": "26-third-bm-3013",
+  "video": "w3veN1z8SOM",
+  "t": 3013,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Median",
+  "level": 3,
+  "q": "Calculate the median of these values: 3, 5, 6, 8, 9, 10, 12.",
+  "answer": "8",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "The values are already in order and there are 7 of them, so the median is the (7 + 1) ÷ 2 = 4th value. The 4th value is 8.",
+  "trick": "Cross off one number from each end until one is left: 3 and 12, 5 and 10, 6 and 9. That leaves 8."
+ },
+ {
+  "id": "26-third-bm-3016",
+  "video": "w3veN1z8SOM",
+  "t": 3016,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Arithmetic",
+  "level": 3,
+  "q": "What is the total cost if each book costs ₦250 and 12 are bought?",
+  "options": [
+   "₦4,000",
+   "₦3,000",
+   "₦1,200"
+  ],
+  "answer": "₦3,000",
+  "accept": [
+   "3000",
+   "3,000",
+   "₦3000",
+   "N3000",
+   "N3,000"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Total cost = price × quantity = ₦250 × 12 = ₦3,000.",
+  "trick": "250 × 4 = 1,000 and 12 is three fours, so 3 × 1,000 = ₦3,000."
+ },
+ {
+  "id": "26-third-bm-3021",
+  "video": "w3veN1z8SOM",
+  "t": 3021,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Z-score",
+  "level": 3,
+  "q": "IQ is distributed with a mean of 100 and a variance of 225. What is the standard score for an IQ of 130?",
+  "options": [
+   "1",
+   "2",
+   "3"
+  ],
+  "answer": "2",
+  "accept": [
+   "2.0",
+   "+2"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "Variance = 225, so the standard deviation σ = √225 = 15. Then z = (x − μ) ÷ σ = (130 − 100) ÷ 15 = 30 ÷ 15 = 2.",
+  "trick": "Take √225 = 15 first, because 225 is the variance. 130 is 30 above the mean, which is two lots of 15."
+ },
+ {
+  "id": "26-third-bm-3027",
+  "video": "w3veN1z8SOM",
+  "t": 3027,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Sets and Venn diagrams",
+  "level": 3,
+  "q": "Find what percentage uses only LinkedIn if 80% use LinkedIn, 50% use ResearchGate, and 30% use both.",
+  "options": [
+   "80%",
+   "30%",
+   "50%"
+  ],
+  "answer": "50%",
+  "accept": [
+   "50",
+   "50 percent",
+   "0.5"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "The 50% for ResearchGate is not needed. Only LinkedIn = all LinkedIn users − those who use both = 80% − 30% = 50%.",
+  "trick": "Take the overlap out of the LinkedIn circle: 80 − 30 = 50."
+ },
+ {
+  "id": "26-third-bm-3034",
+  "video": "w3veN1z8SOM",
+  "t": 3034,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Probability",
+  "level": 3,
+  "q": "If 40% of boys choose Maths and 60% of girls do, and half the class are girls, what's P(a random student chose Maths)?",
+  "options": [
+   "0.5",
+   "0.7",
+   "0.6"
+  ],
+  "answer": "0.5",
+  "accept": [
+   ".5",
+   "50%",
+   "1/2",
+   "half"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Half the class are girls, so half are boys. P(Maths) = 0.5 × 0.4 + 0.5 × 0.6 = 0.2 + 0.3 = 0.5.",
+  "trick": "The two groups are equal in size, so just average the rates: (40% + 60%) ÷ 2 = 50%."
+ },
+ {
+  "id": "26-third-bm-3041",
+  "video": "w3veN1z8SOM",
+  "t": 3041,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Skewness",
+  "level": 3,
+  "q": "In a positively skewed distribution, which is largest?",
+  "options": [
+   "Median",
+   "Mean",
+   "Mode"
+  ],
+  "answer": "Mean",
+  "accept": [
+   "mean",
+   "the mean",
+   "arithmetic mean",
+   "average"
+  ],
+  "tag": "disputed",
+  "showKey": "Mode",
+  "showNote": "In a positive (right) skew the long right tail pulls the mean up, so mean > median > mode. The show gave Mode.",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "A positive skew has its long tail on the right, which pulls the mean up the most, so from smallest to largest the usual order is mode, median, mean. The largest is the mean.",
+  "trick": "The tail drags the mean furthest, so with positive skew the mean is the biggest (with negative skew it is the smallest)."
+ },
+ {
+  "id": "26-third-bm-3045",
+  "video": "w3veN1z8SOM",
+  "t": 3045,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Conditional probability",
+  "level": 3,
+  "q": "A bag has 3 red and 7 black balls. Two balls are drawn without replacement. If the second ball is red, find the probability that the first ball is also red.",
+  "options": [
+   "1/9",
+   "2/9",
+   "4/13"
+  ],
+  "answer": "2/9",
+  "accept": [
+   "0.22",
+   "0.222",
+   "0.2222",
+   "22.2%",
+   "22.22%"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "P(first red | second red) = P(both red) ÷ P(second red). P(both red) = 3/10 × 2/9 = 6/90 and P(second red) = 6/90 + 7/10 × 3/9 = 27/90, so the answer is 6/27 = 2/9.",
+  "trick": "Fix the second ball as red. The first ball then comes from the other 9, and 2 of those 9 are red, so 2/9."
+ },
+ {
+  "id": "26-third-bm-3051",
+  "video": "w3veN1z8SOM",
+  "t": 3051,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Simple interest",
+  "level": 3,
+  "q": "Calculate the simple interest on ₦10,000 at 12% per annum for 3 years.",
+  "options": [
+   "₦1,600",
+   "₦3,600",
+   "₦4,800"
+  ],
+  "answer": "₦3,600",
+  "accept": [
+   "3600",
+   "3,600",
+   "₦3600",
+   "N3600",
+   "N3,600"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Simple interest = P × R × T ÷ 100 = 10,000 × 12 × 3 ÷ 100 = ₦3,600.",
+  "trick": "12% of 10,000 is 1,200 a year, so 3 years is 3,600."
+ },
+ {
+  "id": "26-third-bm-3056",
+  "video": "w3veN1z8SOM",
+  "t": 3056,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Quartiles",
+  "level": 3,
+  "q": "For the data: 8, 12, 16, 20, 24, 28, 32, determine the interquartile range.",
+  "options": [
+   "8",
+   "16",
+   "32"
+  ],
+  "answer": "16",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "There are 7 values, so the median is the 4th (20). Leaving the median out, the lower half 8, 12, 16 has median Q1 = 12 and the upper half 24, 28, 32 has median Q3 = 28. So IQR = Q3 − Q1 = 28 − 12 = 16.",
+  "trick": "With 7 values, Q1 is the 2nd value (12) and Q3 is the 6th (28), which are 4 steps of 4 apart, so 16."
+ },
+ {
+  "id": "26-third-bm-3060",
+  "video": "w3veN1z8SOM",
+  "t": 3060,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Percentiles",
+  "level": 3,
+  "q": "In a cumulative frequency graph, the 75th percentile corresponds to a value = 45. This means",
+  "options": [
+   "25% scored below 45",
+   "75% scored above 45",
+   "75% scored below 45"
+  ],
+  "answer": "75% scored below 45",
+  "accept": [
+   "75% below 45",
+   "75% scored below",
+   "75% below",
+   "75 percent below 45"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "The 75th percentile is the value that 75% of the data fall below. So 75% scored below 45.",
+  "trick": "Percentile means percent below, so the 75th percentile is 75% below."
+ },
+ {
+  "id": "26-third-bm-3065",
+  "video": "w3veN1z8SOM",
+  "t": 3065,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Expected value",
+  "level": 3,
+  "q": "Find the expected total job applications if each of 500 graduates applies for 15 jobs.",
+  "options": [
+   "15,000",
+   "5,000",
+   "7,500"
+  ],
+  "answer": "7,500",
+  "accept": [
+   "7500"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Expected total = number of graduates × applications each = 500 × 15 = 7,500.",
+  "trick": "500 × 15 is half of 1,000 × 15, so 15,000 ÷ 2 = 7,500."
+ },
+ {
+  "id": "26-third-bm-3069",
+  "video": "w3veN1z8SOM",
+  "t": 3069,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Permutations",
+  "level": 3,
+  "q": "How many 3-digit numbers can be formed using digits 2, 3, 4 without repetition?",
+  "options": [
+   "8",
+   "6",
+   "12"
+  ],
+  "answer": "6",
+  "accept": [
+   "six"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "The numbers are 234, 243, 324, 342, 423 and 432. That is 3 × 2 × 1 = 3! = 6 numbers.",
+  "trick": "Three different digits in every order is 3! = 6."
+ },
+ {
+  "id": "26-third-bm-3073",
+  "video": "w3veN1z8SOM",
+  "t": 3073,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Machine learning",
+  "level": 3,
+  "q": "A confusion matrix is used in",
+  "options": [
+   "Clustering",
+   "Classification",
+   "Regression"
+  ],
+  "answer": "Classification",
+  "accept": [
+   "classification",
+   "classification problems",
+   "classification models"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN",
+  "solution": "A confusion matrix counts correct and wrong predictions for each class (true and false positives and negatives), while regression predicts numbers, not classes. So it is used in classification.",
+  "trick": "Right or wrong labels per class means classification."
+ },
+ {
+  "id": "26-third-bm-3077",
+  "video": "w3veN1z8SOM",
+  "t": 3077,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Probability",
+  "level": 3,
+  "q": "Players A and B serve properly with probs 0.8 and 0.9. If server is equally likely, what's P(serve proper)?",
+  "options": [
+   "0.85",
+   "0.65",
+   "0.75"
+  ],
+  "answer": "0.85",
+  "accept": [
+   ".85",
+   "85%",
+   "17/20"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Each player is equally likely to serve, so P(proper) = 0.5 × 0.8 + 0.5 × 0.9 = 0.40 + 0.45 = 0.85.",
+  "trick": "The chances are equal, so average 0.8 and 0.9 to get 0.85."
+ },
+ {
+  "id": "26-third-bm-3083",
+  "video": "w3veN1z8SOM",
+  "t": 3083,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Mean, median, mode",
+  "level": 3,
+  "q": "Find median and mode of the messages received on 9 consecutive days 15, 11, 9, 5, 18, 4, 15, 13, 17.",
+  "options": [
+   "13, 18",
+   "15, 18",
+   "13, 15"
+  ],
+  "answer": "13, 15",
+  "accept": [
+   "13,15",
+   "13 and 15",
+   "median 13, mode 15",
+   "median = 13, mode = 15",
+   "13 15"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Order the nine values: 4, 5, 9, 11, 13, 15, 15, 17, 18. The 5th value is the median, 13, and the value that appears most often is 15 (twice). So the median is 13 and the mode is 15.",
+  "trick": "Spot the repeat first: only 15 appears twice, so the mode is 15, and only the option '13, 15' ends in 15."
+ },
+ {
+  "id": "26-third-bm-3091",
+  "video": "w3veN1z8SOM",
+  "t": 3091,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Standard deviation",
+  "level": 3,
+  "q": "Which dataset has the largest standard deviation?",
+  "options": [
+   "2, 2, 2, 2",
+   "2, 5, 8, 11",
+   "5, 5, 6, 5"
+  ],
+  "answer": "2, 5, 8, 11",
+  "accept": [
+   "2,5,8,11",
+   "2 5 8 11"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Standard deviation measures how far values spread from their mean. Using the population formula, the first set has SD 0, the third about 0.4 and the second about 3.4. So the largest SD is in the set 2, 5, 8, 11.",
+  "trick": "No sums needed: the set with the widest spread, 2 to 11, has the largest SD."
+ },
+ {
+  "id": "26-third-bm-3097",
+  "video": "w3veN1z8SOM",
+  "t": 3097,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Standard deviation",
+  "level": 3,
+  "q": "Data: 10,12,14,16. Each value increased by 5. If original SD = 2, what is the new SD?",
+  "options": [
+   "2",
+   "4",
+   "7"
+  ],
+  "answer": "2",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Adding 5 to every value slides the whole data set along the number line without changing how spread out it is. Only multiplying or dividing the values would change the SD. The question gives 2 for the original, although the population SD of 10, 12, 14, 16 works out to √5 ≈ 2.24. Either way the new SD equals the old one, so it is 2.",
+  "trick": "Adding a constant never changes the SD, so it is the same as the original: 2."
+ },
+ {
+  "id": "26-third-bm-3102",
+  "video": "w3veN1z8SOM",
+  "t": 3102,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Simple interest",
+  "level": 3,
+  "q": "A sum of money becomes 1.5 times itself in 5 years at simple interest. What is the rate of interest per annum?",
+  "options": [
+   "0.12",
+   "0.1",
+   "0.15"
+  ],
+  "answer": "0.1",
+  "accept": [
+   ".1",
+   "10%",
+   "10",
+   "10 percent",
+   "1/10"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN",
+  "solution": "The sum becomes 1.5 times itself, so the interest is 0.5 of the principal over 5 years. Rate = 0.5 ÷ 5 = 0.1 per year, which is 10% a year.",
+  "trick": "The extra is 50% of the sum over 5 years, so 50 ÷ 5 = 10% a year, which is 0.1."
+ },
+ {
+  "id": "26-third-bm-3107",
+  "video": "w3veN1z8SOM",
+  "t": 3107,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Mean",
+  "level": 3,
+  "q": "Calculate the mean daily revenue for a food truck with daily earnings: 400, 200, 400 and 800",
+  "options": [
+   "$500",
+   "$350",
+   "$450"
+  ],
+  "answer": "$450",
+  "accept": [
+   "450",
+   "450 dollars",
+   "$450.00"
+  ],
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Mean = total ÷ number of days = (400 + 200 + 400 + 800) ÷ 4 = 1,800 ÷ 4 = $450.",
+  "trick": "Start from 400. The differences are 0, −200, 0 and +400, which add to +200, and 200 ÷ 4 = 50, so the mean is 450."
+ },
+ {
+  "id": "26-third-bm-3114",
+  "video": "w3veN1z8SOM",
+  "t": 3114,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Statistical terms",
+  "level": 3,
+  "q": "The information collected for statistical investigation is called",
+  "options": [
+   "Number",
+   "Sample",
+   "Data"
+  ],
+  "answer": "Data",
+  "accept": [
+   "data",
+   "the data",
+   "raw data"
+  ],
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "A sample is the part of a population being studied, and a number is just a single value. The information collected for a statistical investigation is called data.",
+  "trick": "Collected information is data."
+ },
+ {
+  "id": "26-third-bm-3119",
+  "video": "w3veN1z8SOM",
+  "t": 3119,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Skewness",
+  "level": 3,
+  "q": "If the 60th percentile is 68 and the median is 55, what is likely shape of distribution?",
+  "options": [
+   "Positive",
+   "Zero",
+   "Negative"
+  ],
+  "answer": "Positive",
+  "accept": [
+   "positive",
+   "positively skewed",
+   "positive skew",
+   "right skewed",
+   "skewed to the right"
+  ],
+  "tag": "confirmed",
+  "showNote": "Skewness cannot be settled from the median and one percentile, because the lower side (for example the 40th percentile) is not given. Positive is the likely intended answer, since the upper values look stretched out.",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Two percentiles cannot prove it, but a median of 55 against a 60th percentile of 68 suggests the upper values are spread out into a long right tail. So the likely shape is positive.",
+  "trick": "Nothing is given for the lower side, so go with the side that looks stretched out, the upper one: Positive, as a best guess."
+ },
+ {
+  "id": "26-third-bm-3124",
+  "video": "w3veN1z8SOM",
+  "t": 3124,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "DA",
+  "topic": "Probability",
+  "level": 3,
+  "q": "A bag has 3 red and 2 blue marbles. Two marbles are drawn with replacement. What is the probability both are red?",
+  "answer": "9/25",
+  "accept": [
+   "0.36",
+   "36%",
+   "(3/5)²",
+   "(3/5)^2"
+  ],
+  "tag": "confirmed",
+  "school": "UNN",
+  "solution": "The marbles are replaced, so the two draws are independent and P(red) = 3/5 each time. So P(both red) = 3/5 × 3/5 = 9/25.",
+  "trick": "The chance is the same each time because the marble goes back, so square 3/5 to get 9/25."
+ },
+ {
   "id": "26-fin-qb-0936",
   "video": "MmCQhh6aGrE",
   "t": 936,
@@ -6506,7 +9009,10 @@
   "tag": "confirmed",
   "result": "right",
   "school": "OAU",
-  "solution": "Imran said 50 and the show gave the points. The rule behind the code isn't clear from the question."
+  "solution": "Imran said 50 and the show gave the points. The rule behind the code isn't clear from the question.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1219",
@@ -6528,7 +9034,10 @@
   "tag": "worked_out",
   "result": "right",
   "school": "OAU",
-  "solution": "A horse gallops; a rabbit hops."
+  "solution": "A horse gallops; a rabbit hops.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1231",
@@ -6551,7 +9060,10 @@
   "result": "right",
   "player": "Lekan",
   "school": "OAU",
-  "solution": "Something ominous suggests a threat; feeling euphoric means feeling joy."
+  "solution": "Something ominous suggests a threat; feeling euphoric means feeling joy.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1244",
@@ -6574,7 +9086,10 @@
   "result": "wrong",
   "player": "Quayum",
   "school": "OAU",
-  "solution": "Each letter goes back 3 places: J, G, D, A, then wrap round to X."
+  "solution": "Each letter goes back 3 places: J, G, D, A, then wrap round to X.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1263",
@@ -6596,7 +9111,10 @@
   "tag": "confirmed",
   "result": "right",
   "school": "FUTA",
-  "solution": "Dolorous and melancholic both mean sad; rapturous means delighted."
+  "solution": "Dolorous and melancholic both mean sad; rapturous means delighted.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1280",
@@ -6619,7 +9137,10 @@
   "result": "wrong",
   "player": "Imran",
   "school": "OAU",
-  "solution": "Blake is Alex's parent but not the father, so Blake is the mother."
+  "solution": "Blake is Alex's parent but not the father, so Blake is the mother.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1467",
@@ -6665,7 +9186,10 @@
   "result": "right",
   "player": "Quayum",
   "school": "OAU",
-  "solution": "Turning 180° reverses direction, so East becomes West."
+  "solution": "Turning 180° reverses direction, so East becomes West.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1516",
@@ -6688,7 +9212,10 @@
   "result": "right",
   "player": "Akinola",
   "school": "FUTA",
-  "solution": "Add letter positions: C = 3, A = 1, T = 20, so CAT = 24."
+  "solution": "Add letter positions: C = 3, A = 1, T = 20, so CAT = 24.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1564",
@@ -6711,7 +9238,10 @@
   "result": "wrong",
   "player": "Lekan",
   "school": "OAU",
-  "solution": "TCP guarantees reliable delivery; UDP is connectionless."
+  "solution": "TCP guarantees reliable delivery; UDP is connectionless.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1793",
@@ -6734,7 +9264,10 @@
   "result": "wrong",
   "player": "Lekan",
   "school": "OAU",
-  "solution": "Pragmatic and theoretical describe two ways of approaching a problem (practice and theory); dogmatic describes rigid belief."
+  "solution": "Pragmatic and theoretical describe two ways of approaching a problem (practice and theory); dogmatic describes rigid belief.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1812",
@@ -6757,7 +9290,10 @@
   "result": "right",
   "player": "Quayum",
   "school": "OAU",
-  "solution": "A bird lives in a nest; a spider lives in a web."
+  "solution": "A bird lives in a nest; a spider lives in a web.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1826",
@@ -6781,7 +9317,10 @@
   "result": "wrong",
   "player": "Akinola",
   "school": "FUTA",
-  "solution": "The man's daughter's only brother is his son, and the son of your mother's only child is your son. So the man's son is your son, which only works if the man is you. The show's answer was Father, and Akinola lost points for saying Himself."
+  "solution": "The man's daughter's only brother is his son, and the son of your mother's only child is your son. So the man's son is your son, which only works if the man is you. The show's answer was Father, and Akinola lost points for saying Himself.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1847",
@@ -6804,7 +9343,10 @@
   "result": "wrong",
   "player": "Imran",
   "school": "OAU",
-  "solution": "Synecdoche and anaphora are devices of meaning and repetition; onomatopoeia is a word that imitates a sound."
+  "solution": "Synecdoche and anaphora are devices of meaning and repetition; onomatopoeia is a word that imitates a sound.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1873",
@@ -6827,7 +9369,10 @@
   "result": "right",
   "player": "Lekan",
   "school": "OAU",
-  "solution": "A dentist treats teeth; a chiropodist treats feet."
+  "solution": "A dentist treats teeth; a chiropodist treats feet.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1889",
@@ -6850,7 +9395,10 @@
   "result": "wrong",
   "player": "Mathew",
   "school": "FUTA",
-  "solution": "The clues don't fix the whole order; the show's answer is Box 2."
+  "solution": "The clues don't fix the whole order; the show's answer is Box 2.",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-bm-2393",
@@ -7428,11 +9976,6 @@
   "topic": "Directions",
   "level": 3,
   "q": "Facing East, you turn 405° anticlockwise. Your final direction is",
-  "options": [
-   "South-East",
-   "North",
-   "West"
-  ],
   "answer": "North-East",
   "tag": "disputed",
   "showKey": "South-East",
@@ -8097,6 +10640,588 @@
   "solution": "Nissan, then Ford, then Toyota, then Honda."
  },
  {
+  "id": "26-third-qb-1851",
+  "video": "w3veN1z8SOM",
+  "t": 1851,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "VR",
+  "topic": "Analogy",
+  "level": 3,
+  "q": "Heisenberg's Uncertainty Principle is to Quantum Mechanics as Gödel's Incompleteness is to",
+  "options": [
+   "Mathematical Logic",
+   "Algebra",
+   "Topology"
+  ],
+  "answer": "Mathematical Logic",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Emma",
+  "school": "UNN",
+  "solution": "Heisenberg's principle is a result in quantum mechanics; Gödel's incompleteness theorems are results in mathematical logic."
+ },
+ {
+  "id": "26-third-qb-2128",
+  "video": "w3veN1z8SOM",
+  "t": 2128,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "VR",
+  "topic": "Coding",
+  "level": 3,
+  "q": "In a code, “BLUE” = 12, “RED” = 9, then “GREEN” =",
+  "options": [
+   "18",
+   "15",
+   "25"
+  ],
+  "answer": "15",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "Each letter counts 3: BLUE has 4 letters (12), RED has 3 (9), so GREEN with 5 letters is 15."
+ },
+ {
+  "id": "26-third-qb-2142",
+  "video": "w3veN1z8SOM",
+  "t": 2142,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "VR",
+  "topic": "Analogy",
+  "level": 3,
+  "q": "“Galileo” is to “telescope” as “Leeuwenhoek” is to",
+  "options": [
+   "Stethoscope",
+   "Thermometer",
+   "Microscope"
+  ],
+  "answer": "Microscope",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Emma",
+  "school": "UNN",
+  "solution": "Galileo is linked with the telescope; Leeuwenhoek with the microscope."
+ },
+ {
+  "id": "26-third-qb-2161",
+  "video": "w3veN1z8SOM",
+  "t": 2161,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "VR",
+  "topic": "Antonyms",
+  "level": 3,
+  "q": "Choose the antonym of “Ubiquitous”",
+  "options": [
+   "Frequent",
+   "Rare",
+   "Everywhere"
+  ],
+  "answer": "Rare",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-2180",
+  "video": "w3veN1z8SOM",
+  "t": 2180,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "VR",
+  "topic": "Directions",
+  "level": 3,
+  "q": "Facing North, you turn 180 degrees clockwise, then 90 degrees anticlockwise. Which direction are you facing?",
+  "options": [
+   "East",
+   "South",
+   "North"
+  ],
+  "answer": "East",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN",
+  "solution": "180° clockwise from North faces South; 90° anticlockwise from South faces East."
+ },
+ {
+  "id": "26-third-qb-2215",
+  "video": "w3veN1z8SOM",
+  "t": 2215,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "VR",
+  "topic": "Directions",
+  "level": 3,
+  "q": "A car drives 15km West, turns 90° right, then drives 20km. Its direction from the start is",
+  "options": [
+   "Northwest",
+   "Southwest",
+   "Northeast"
+  ],
+  "answer": "Northwest",
+  "tag": "confirmed",
+  "result": "none",
+  "solution": "Driving west then turning right means driving north, so you end up north-west of the start."
+ },
+ {
+  "id": "26-third-bm-2659",
+  "video": "w3veN1z8SOM",
+  "t": 2659,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Arrangement",
+  "level": 3,
+  "q": "Five friends face north. A is left of B, C is right of A, D is between A and C, and E is right of C. Who is in the centre?",
+  "options": [
+   "C",
+   "A",
+   "B"
+  ],
+  "answer": "C",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2666",
+  "video": "w3veN1z8SOM",
+  "t": 2666,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Blood relations",
+  "level": 3,
+  "q": "A's father is B. C is B's brother. D is C's daughter. How is D related to A?",
+  "options": [
+   "Aunt",
+   "Sister",
+   "Cousin"
+  ],
+  "answer": "Cousin",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "C is A's uncle, so C's daughter D is A's cousin."
+ },
+ {
+  "id": "26-third-bm-2674",
+  "video": "w3veN1z8SOM",
+  "t": 2674,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Riddles",
+  "level": 3,
+  "q": "A woman gives a coin to a man, making them both richer. What is the coin?",
+  "options": [
+   "Money",
+   "Knowledge",
+   "Advice"
+  ],
+  "answer": "Knowledge",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2682",
+  "video": "w3veN1z8SOM",
+  "t": 2682,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Analogy",
+  "level": 3,
+  "q": "If “POND” is to “LAKE” as “STREAM” is to",
+  "options": [
+   "River",
+   "Ocean",
+   "Brook"
+  ],
+  "answer": "River",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN",
+  "solution": "A pond is a smaller lake; a stream is a smaller river."
+ },
+ {
+  "id": "26-third-bm-2686",
+  "video": "w3veN1z8SOM",
+  "t": 2686,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Odd one out",
+  "level": 3,
+  "q": "Find the odd number: 125, 216, 343, 512, 600",
+  "options": [
+   "600",
+   "125",
+   "343"
+  ],
+  "answer": "600",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "125, 216, 343 and 512 are cubes (5³, 6³, 7³, 8³); 600 is not."
+ },
+ {
+  "id": "26-third-bm-2695",
+  "video": "w3veN1z8SOM",
+  "t": 2695,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Odd one out",
+  "level": 3,
+  "q": "Find the odd one: Eagle, Parrot, Sparrow, Shark",
+  "options": [
+   "Parrot",
+   "Shark",
+   "Sparrow"
+  ],
+  "answer": "Shark",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "The others are birds; a shark is a fish."
+ },
+ {
+  "id": "26-third-bm-2698",
+  "video": "w3veN1z8SOM",
+  "t": 2698,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Logic",
+  "level": 3,
+  "q": "At 3 PM, the shadow of a tree falls directly to the east. In which hemisphere is this located?",
+  "options": [
+   "Equator",
+   "Northern Hemisphere",
+   "Southern Hemisphere"
+  ],
+  "answer": "Southern Hemisphere",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN",
+  "solution": "This is the show's answer. At 3 PM the sun is in the west, so shadows point roughly east in either hemisphere; the question is shaky."
+ },
+ {
+  "id": "26-third-bm-2704",
+  "video": "w3veN1z8SOM",
+  "t": 2704,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Blood relations",
+  "level": 3,
+  "q": "M is N's daughter. O is N's husband. P is O's brother. How is P related to M?",
+  "options": [
+   "Father",
+   "Uncle",
+   "Cousin"
+  ],
+  "answer": "Uncle",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI",
+  "solution": "O is M's father, so O's brother P is M's uncle."
+ },
+ {
+  "id": "26-third-bm-2711",
+  "video": "w3veN1z8SOM",
+  "t": 2711,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Binary",
+  "level": 3,
+  "q": "In binary, 1100 represents 12. What represents 7?",
+  "options": [
+   "1000",
+   "1110",
+   "111"
+  ],
+  "answer": "111",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "7 = 4 + 2 + 1, which is 111 in binary."
+ },
+ {
+  "id": "26-third-bm-2718",
+  "video": "w3veN1z8SOM",
+  "t": 2718,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Directions",
+  "level": 3,
+  "q": "Facing East, turn 90° left, then 90° right. Which direction?",
+  "options": [
+   "South",
+   "North",
+   "East"
+  ],
+  "answer": "East",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Turning 90° left and then 90° right brings you back to East."
+ },
+ {
+  "id": "26-third-bm-2724",
+  "video": "w3veN1z8SOM",
+  "t": 2724,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Blood relations",
+  "level": 3,
+  "q": "R is the father of S. T is the sister of R. How is T related to S?",
+  "options": [
+   "Mother",
+   "Cousin",
+   "Aunt"
+  ],
+  "answer": "Aunt",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "T is the sister of S's father, so T is S's aunt."
+ },
+ {
+  "id": "26-third-bm-2730",
+  "video": "w3veN1z8SOM",
+  "t": 2730,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Arrangement",
+  "level": 3,
+  "q": "A is left of B, C is right of B, and D is right of C. Who is farthest right?",
+  "options": [
+   "C",
+   "D",
+   "B"
+  ],
+  "answer": "D",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2736",
+  "video": "w3veN1z8SOM",
+  "t": 2736,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Letters",
+  "level": 3,
+  "q": "If every alternate letter in the word “KNOWLEDGE” is removed, which word is formed?",
+  "options": [
+   "KOLDE",
+   "KOWDG",
+   "NWE"
+  ],
+  "answer": "KOLDE",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Keep the 1st, 3rd, 5th, 7th and 9th letters: K, O, L, D, E."
+ },
+ {
+  "id": "26-third-bm-2746",
+  "video": "w3veN1z8SOM",
+  "t": 2746,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Blood relations",
+  "level": 3,
+  "q": "Pointing to a man, a boy said, “He is my uncle's brother but not my father.” Who is he?",
+  "options": [
+   "Uncle",
+   "Brother",
+   "Grandfather"
+  ],
+  "answer": "Uncle",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2751",
+  "video": "w3veN1z8SOM",
+  "t": 2751,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Blood relations",
+  "level": 3,
+  "q": "M is N's sister. O is M's mother. P is O's father. Q is P's mother. How is Q related to N?",
+  "options": [
+   "Grandmother",
+   "Great-grandmother",
+   "Aunt"
+  ],
+  "answer": "Great-grandmother",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN",
+  "solution": "P is N's grandfather, so P's mother Q is N's great-grandmother."
+ },
+ {
+  "id": "26-third-bm-2759",
+  "video": "w3veN1z8SOM",
+  "t": 2759,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Analogy",
+  "level": 3,
+  "q": "Bitbucket is to Repository as Slack is to",
+  "options": [
+   "Deployment",
+   "Communication",
+   "Analytics"
+  ],
+  "answer": "Communication",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI",
+  "solution": "Bitbucket is a tool for repositories; Slack is a tool for communication."
+ },
+ {
+  "id": "26-third-bm-2764",
+  "video": "w3veN1z8SOM",
+  "t": 2764,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Science",
+  "level": 3,
+  "q": "In physics, what is the term for the apparent change in frequency of a wave due to the motion of the source or observer?",
+  "options": [
+   "Doppler Effect",
+   "Photoelectric effect",
+   "Hubble's law"
+  ],
+  "answer": "Doppler Effect",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2771",
+  "video": "w3veN1z8SOM",
+  "t": 2771,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Blood relations",
+  "level": 3,
+  "q": "X said: “This girl is my mother's brother's daughter.” How is X related to the girl?",
+  "options": [
+   "Sister",
+   "Cousin",
+   "Niece"
+  ],
+  "answer": "Cousin",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "The girl is X's uncle's daughter, so they are cousins."
+ },
+ {
+  "id": "26-third-bm-2777",
+  "video": "w3veN1z8SOM",
+  "t": 2777,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Analogy",
+  "level": 3,
+  "q": "Recipe is to meal as algorithm is to",
+  "options": [
+   "Solution",
+   "Code",
+   "Problem"
+  ],
+  "answer": "Solution",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN",
+  "solution": "A recipe leads to a meal; an algorithm leads to a solution."
+ },
+ {
+  "id": "26-third-bm-2782",
+  "video": "w3veN1z8SOM",
+  "t": 2782,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Letter positions",
+  "level": 3,
+  "q": "Which letter is 3rd after the 5th letter from the right in the English alphabet?",
+  "answer": "Y",
+  "tag": "disputed",
+  "showKey": "H",
+  "result": "right",
+  "school": "UNN",
+  "solution": "Counting from the right, the 5th letter is V, and the 3rd letter after it is Y. The show's H is the 8th letter from the left, so the show seems to have meant 'from the left'."
+ },
+ {
+  "id": "26-third-bm-2790",
+  "video": "w3veN1z8SOM",
+  "t": 2790,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "VR",
+  "topic": "Calendar",
+  "level": 3,
+  "q": "If today is Monday, 100 days later will be?",
+  "answer": "Wednesday",
+  "tag": "worked_out",
+  "school": "UNN",
+  "solution": "100 days is 14 weeks and 2 days, so it is two days after Monday."
+ },
+ {
   "id": "26-fin-qb-0929",
   "video": "MmCQhh6aGrE",
   "t": 929,
@@ -8459,7 +11584,10 @@
   "tag": "confirmed",
   "result": "right",
   "player": "Quayum",
-  "school": "OAU"
+  "school": "OAU",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-qb-1560",
@@ -8670,7 +11798,10 @@
   "tag": "confirmed",
   "result": "right",
   "player": "Imran",
-  "school": "OAU"
+  "school": "OAU",
+  "alsoIn": [
+   "Third place (UNN v UI)"
+  ]
  },
  {
   "id": "26-fin-bm-2751",
@@ -9807,6 +12938,1057 @@
   ],
   "answer": "Excessive bleeding",
   "tag": "confirmed",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1321",
+  "video": "w3veN1z8SOM",
+  "t": 1321,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Languages",
+  "level": 3,
+  "q": "Which of these words means “friend” in the Kenyan language?",
+  "options": [
+   "Rafiki",
+   "Matata",
+   "Hakuna"
+  ],
+  "answer": "Rafiki",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1341",
+  "video": "w3veN1z8SOM",
+  "t": 1341,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Food",
+  "level": 3,
+  "q": "In South Africa, pap is made from",
+  "options": [
+   "Rice",
+   "Maize",
+   "Millet"
+  ],
+  "answer": "Maize",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1356",
+  "video": "w3veN1z8SOM",
+  "t": 1356,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Geography",
+  "level": 3,
+  "q": "Which is the largest urban centre in Sudan?",
+  "options": [
+   "Port Sudan",
+   "Khartoum",
+   "Omdurman"
+  ],
+  "answer": "Khartoum",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1370",
+  "video": "w3veN1z8SOM",
+  "t": 1370,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Music",
+  "level": 3,
+  "q": "The Algerian-French singer known for the hit Didi is",
+  "options": [
+   "Rachid Taha",
+   "Cheb Khaled",
+   "Faudel"
+  ],
+  "answer": "Cheb Khaled",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1387",
+  "video": "w3veN1z8SOM",
+  "t": 1387,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Climate",
+  "level": 3,
+  "q": "A key cause of East Africa's severe 2019 to 2023 locust upsurge was linked to",
+  "options": [
+   "Ozone hole expansion",
+   "IOD Event",
+   "Atlantic hurricanes"
+  ],
+  "answer": "IOD Event",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1408",
+  "video": "w3veN1z8SOM",
+  "t": 1408,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Geography",
+  "level": 3,
+  "q": "Which African biome is characterized by scattered trees and pronounced wet/dry seasons?",
+  "options": [
+   "Mediterranean shrubland",
+   "Temperate grassland",
+   "Tropical savanna"
+  ],
+  "answer": "Tropical savanna",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1429",
+  "video": "w3veN1z8SOM",
+  "t": 1429,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "The African National Congress (ANC) was founded in",
+  "options": [
+   "1960",
+   "1948",
+   "1912"
+  ],
+  "answer": "1912",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1592",
+  "video": "w3veN1z8SOM",
+  "t": 1592,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Culture",
+  "level": 3,
+  "q": "In Ghana, traditional midwives are locally known as",
+  "options": [
+   "Abafuo",
+   "Maamefo",
+   "Okomfo"
+  ],
+  "answer": "Maamefo",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Godswil",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1610",
+  "video": "w3veN1z8SOM",
+  "t": 1610,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Culture",
+  "level": 3,
+  "q": "Which fabric is used by the Tiv people of Nigeria, often in black and white stripes?",
+  "options": [
+   "Adire",
+   "Ankara",
+   "Anger fabric"
+  ],
+  "answer": "Anger fabric",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1629",
+  "video": "w3veN1z8SOM",
+  "t": 1629,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Culture",
+  "level": 3,
+  "q": "The Fulani women are famous for their",
+  "options": [
+   "Intricate hairstyles",
+   "Fancy clothes",
+   "Height"
+  ],
+  "answer": "Intricate hairstyles",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1645",
+  "video": "w3veN1z8SOM",
+  "t": 1645,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Agriculture",
+  "level": 3,
+  "q": "Which staple crop is vital to Guinea-Bissau's economy and food systems?",
+  "options": [
+   "Coffee",
+   "Cocoa",
+   "Cashew"
+  ],
+  "answer": "Cashew",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1662",
+  "video": "w3veN1z8SOM",
+  "t": 1662,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Health",
+  "level": 3,
+  "q": "Which traditional African remedy uses baobab fruit powder?",
+  "options": [
+   "Insomnia",
+   "Skin rashes",
+   "Diarrhea treatment"
+  ],
+  "answer": "Diarrhea treatment",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1677",
+  "video": "w3veN1z8SOM",
+  "t": 1677,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Innovation",
+  "level": 3,
+  "q": "Which Nigerian tech inventor created the world's first gaming robot?",
+  "options": [
+   "Silas Adekunle",
+   "Jelani Aliyu",
+   "Philip Emeagwali"
+  ],
+  "answer": "Silas Adekunle",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1697",
+  "video": "w3veN1z8SOM",
+  "t": 1697,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "Which country was formerly known as the “French Sudan” before gaining independence?",
+  "options": [
+   "Guinea",
+   "Senegal",
+   "Mali"
+  ],
+  "answer": "Mali",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1728",
+  "video": "w3veN1z8SOM",
+  "t": 1728,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "Who was the first Chairperson of the African Union Commission?",
+  "options": [
+   "Nkosazana Dlamini-Zuma",
+   "Alpha Oumar Konaré",
+   "Moussa Faki Mahamat"
+  ],
+  "answer": "Alpha Oumar Konaré",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1748",
+  "video": "w3veN1z8SOM",
+  "t": 1748,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Geography",
+  "level": 3,
+  "q": "Which of these African countries lies south of the Sahara Desert?",
+  "options": [
+   "Egypt",
+   "Tunisia",
+   "Zimbabwe"
+  ],
+  "answer": "Zimbabwe",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1766",
+  "video": "w3veN1z8SOM",
+  "t": 1766,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Geography",
+  "level": 3,
+  "q": "What is the main infrastructure issue in Sierra Leone's Freetown?",
+  "options": [
+   "Bad rail networks",
+   "Lack of electricity",
+   "Sanitation and overcrowding"
+  ],
+  "answer": "Sanitation and overcrowding",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1782",
+  "video": "w3veN1z8SOM",
+  "t": 1782,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "Which one of the following historical African city-states had a university long before Northern Europe?",
+  "options": [
+   "Elmina",
+   "Luanda",
+   "Timbuktu"
+  ],
+  "answer": "Timbuktu",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1802",
+  "video": "w3veN1z8SOM",
+  "t": 1802,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Film",
+  "level": 3,
+  "q": "Who directed the critically acclaimed African movie Timbuktu?",
+  "options": [
+   "Souleymane Cissé",
+   "Abderrahmane Sissako",
+   "Mahamat-Saleh Haroun"
+  ],
+  "answer": "Abderrahmane Sissako",
+  "tag": "confirmed",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1820",
+  "video": "w3veN1z8SOM",
+  "t": 1820,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Film",
+  "level": 3,
+  "q": "Which African film movement of the 1960s was closely associated with political independence and cultural identity?",
+  "options": [
+   "Third Cinema",
+   "African New Wave",
+   "Afrofuturism"
+  ],
+  "answer": "Third Cinema",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-1846",
+  "video": "w3veN1z8SOM",
+  "t": 1846,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "The Abuja Treaty (1991) established",
+  "options": [
+   "AU",
+   "OAU",
+   "AEC"
+  ],
+  "answer": "AEC",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-2107",
+  "video": "w3veN1z8SOM",
+  "t": 2107,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Innovation",
+  "level": 3,
+  "q": "A major challenge for African innovation ecosystems is:",
+  "options": [
+   "Too much venture capital",
+   "Low number of entrepreneurs",
+   "Limited access to finance"
+  ],
+  "answer": "Limited access to finance",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-2124",
+  "video": "w3veN1z8SOM",
+  "t": 2124,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Geography",
+  "level": 3,
+  "q": "Which of these African countries is so landlocked, it probably dreams of a secret beach?",
+  "options": [
+   "Ethiopia",
+   "Nigeria",
+   "Morocco"
+  ],
+  "answer": "Ethiopia",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-2138",
+  "video": "w3veN1z8SOM",
+  "t": 2138,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Nature",
+  "level": 3,
+  "q": "What is the name of South Africa's national bird?",
+  "options": [
+   "Grey Crowned Crane",
+   "Blue Crane",
+   "Ostrich"
+  ],
+  "answer": "Blue Crane",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-2158",
+  "video": "w3veN1z8SOM",
+  "t": 2158,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Geography",
+  "level": 3,
+  "q": "Which African city is currently the most populous urban area?",
+  "options": [
+   "Lagos",
+   "Kinshasa",
+   "Cairo"
+  ],
+  "answer": "Lagos",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-2176",
+  "video": "w3veN1z8SOM",
+  "t": 2176,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Culture",
+  "level": 3,
+  "q": "In Chad, which fabric dyeing method is still practiced?",
+  "options": [
+   "Tie-dye batik only",
+   "Indigo dyeing",
+   "Kente weaving"
+  ],
+  "answer": "Indigo dyeing",
+  "tag": "confirmed",
+  "result": "wrong",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-2195",
+  "video": "w3veN1z8SOM",
+  "t": 2195,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "Geography",
+  "level": 3,
+  "q": "The Lesotho Highlands Water Project benefits which neighbouring country most?",
+  "options": [
+   "Mozambique",
+   "Botswana",
+   "South Africa"
+  ],
+  "answer": "South Africa",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-qb-2210",
+  "video": "w3veN1z8SOM",
+  "t": 2210,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "QB",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "Who is Monrovia, the capital of Liberia, named after?",
+  "options": [
+   "James Monroe",
+   "Paul Monroe",
+   "Mark Monroe"
+  ],
+  "answer": "James Monroe",
+  "tag": "confirmed",
+  "result": "right",
+  "player": "Solomon",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2554",
+  "video": "w3veN1z8SOM",
+  "t": 2554,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "The Karnak Temple Complex, a major archaeological site, is in",
+  "options": [
+   "Egypt",
+   "Sudan",
+   "Morocco"
+  ],
+  "answer": "Egypt",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2560",
+  "video": "w3veN1z8SOM",
+  "t": 2560,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Geography",
+  "level": 3,
+  "q": "Ghana is bordered to the west by which country?",
+  "options": [
+   "Burkina Faso",
+   "Togo",
+   "Côte d'Ivoire"
+  ],
+  "answer": "Côte d'Ivoire",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2564",
+  "video": "w3veN1z8SOM",
+  "t": 2564,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "Which Comorian island voted to remain under French rule when others chose independence?",
+  "options": [
+   "Anjouan",
+   "Moheli",
+   "Mayotte"
+  ],
+  "answer": "Mayotte",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2569",
+  "video": "w3veN1z8SOM",
+  "t": 2569,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "When did South Sudan gain independence from Sudan?",
+  "options": [
+   "2005",
+   "2011",
+   "2013"
+  ],
+  "answer": "2011",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2573",
+  "video": "w3veN1z8SOM",
+  "t": 2573,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Africa",
+  "level": 3,
+  "q": "Kigali, Rwanda, is notable for being Africa's cleanest city due to strict policies on",
+  "options": [
+   "Oil management",
+   "Plastic waste",
+   "Pollution control"
+  ],
+  "answer": "Plastic waste",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2578",
+  "video": "w3veN1z8SOM",
+  "t": 2578,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Energy",
+  "level": 3,
+  "q": "In Ethiopia, which project is central to both energy production and infrastructure development?",
+  "options": [
+   "GERD",
+   "Inga Dam",
+   "Kariba Dam"
+  ],
+  "answer": "GERD",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2582",
+  "video": "w3veN1z8SOM",
+  "t": 2582,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Culture",
+  "level": 3,
+  "q": "In Botswana, what cultural motif is often embroidered on leteisi fabric?",
+  "options": [
+   "Geometric shapes",
+   "Kente stripes",
+   "Animal cartoons"
+  ],
+  "answer": "Geometric shapes",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2587",
+  "video": "w3veN1z8SOM",
+  "t": 2587,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Film",
+  "level": 3,
+  "q": "Which movie was co-produced in 1980 by South Africa and Botswana?",
+  "options": [
+   "Mr Bones",
+   "Yesterday",
+   "The Gods Must Be Crazy"
+  ],
+  "answer": "The Gods Must Be Crazy",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2592",
+  "video": "w3veN1z8SOM",
+  "t": 2592,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Food",
+  "level": 3,
+  "q": "Which African country is known for the traditional fermented milk drink called “Amasi”?",
+  "options": [
+   "Malawi",
+   "South Africa",
+   "Zambia"
+  ],
+  "answer": "South Africa",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2596",
+  "video": "w3veN1z8SOM",
+  "t": 2596,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Film",
+  "level": 3,
+  "q": "Which South African film won the Academy Award (Oscar) for Best Foreign Language Film in 2006?",
+  "options": [
+   "Sarafina",
+   "Yesterday",
+   "Tsotsi"
+  ],
+  "answer": "Tsotsi",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2599",
+  "video": "w3veN1z8SOM",
+  "t": 2599,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Mathematics history",
+  "level": 3,
+  "q": "The concept of infinity in mathematics was formalized by",
+  "options": [
+   "Cantor",
+   "Leibniz",
+   "Newton"
+  ],
+  "answer": "Cantor",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2602",
+  "video": "w3veN1z8SOM",
+  "t": 2602,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Culture",
+  "level": 3,
+  "q": "The Berber people of North Africa are known for",
+  "options": [
+   "Indigo tie-dye",
+   "Cultural heritage",
+   "Raffia weaving"
+  ],
+  "answer": "Cultural heritage",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2606",
+  "video": "w3veN1z8SOM",
+  "t": 2606,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Health",
+  "level": 3,
+  "q": "Ulcers in the stomach are often caused by",
+  "answer": "Excess stomach acid",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2609",
+  "video": "w3veN1z8SOM",
+  "t": 2609,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "Which African leader is known for his Ujamaa policy?",
+  "options": [
+   "Kenneth Kaunda",
+   "Jomo Kenyatta",
+   "Julius Nyerere"
+  ],
+  "answer": "Julius Nyerere",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2614",
+  "video": "w3veN1z8SOM",
+  "t": 2614,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "History",
+  "level": 3,
+  "q": "Somalia gained independence in 1960 from a union of which two territories?",
+  "options": [
+   "British & Italian Somaliland",
+   "French & Italian Somaliland",
+   "Ethiopian & French Somaliland"
+  ],
+  "answer": "British & Italian Somaliland",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2620",
+  "video": "w3veN1z8SOM",
+  "t": 2620,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Energy",
+  "level": 3,
+  "q": "What is the main renewable energy source for Malawi?",
+  "options": [
+   "Hydropower",
+   "Wind",
+   "Geothermal"
+  ],
+  "answer": "Hydropower",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2626",
+  "video": "w3veN1z8SOM",
+  "t": 2626,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Music",
+  "level": 3,
+  "q": "In 1985, Live Aid rocked the world for African famine relief at which iconic London venue?",
+  "options": [
+   "Royal Albert Hall",
+   "Wembley Stadium",
+   "The 02 Arena"
+  ],
+  "answer": "Wembley Stadium",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2630",
+  "video": "w3veN1z8SOM",
+  "t": 2630,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Energy",
+  "level": 3,
+  "q": "Senegal's utility-scale wind project near Dakar is",
+  "options": [
+   "Kirikiri",
+   "Taiba N’Diaye",
+   "Bidi Bidi"
+  ],
+  "answer": "Taiba N’Diaye",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2635",
+  "video": "w3veN1z8SOM",
+  "t": 2635,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Film",
+  "level": 3,
+  "q": "Which Ghanaian actress is popularly known for her role in “Perfect Picture” and “Adams Apples”?",
+  "options": [
+   "Yvonne Nelson",
+   "Nadia Buari",
+   "Joselyn Dumas"
+  ],
+  "answer": "Joselyn Dumas",
+  "tag": "confirmed",
+  "result": "wrong",
+  "school": "UI"
+ },
+ {
+  "id": "26-third-bm-2640",
+  "video": "w3veN1z8SOM",
+  "t": 2640,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Nature",
+  "level": 3,
+  "q": "What is the national animal of South Africa?",
+  "options": [
+   "Lion",
+   "Elephant",
+   "Springbok"
+  ],
+  "answer": "Springbok",
+  "tag": "confirmed",
+  "result": "right",
+  "school": "UNN"
+ },
+ {
+  "id": "26-third-bm-2643",
+  "video": "w3veN1z8SOM",
+  "t": 2643,
+  "match": "UNN v UI",
+  "stage": "third",
+  "half": "BM",
+  "subject": "GK",
+  "topic": "Languages",
+  "level": 3,
+  "q": "Swahili is not one of the languages in which of these countries?",
+  "options": [
+   "Kenya",
+   "Zanzibar",
+   "Ghana"
+  ],
+  "answer": "Ghana",
+  "tag": "confirmed",
+  "result": "right",
   "school": "UNN"
  }
 ]

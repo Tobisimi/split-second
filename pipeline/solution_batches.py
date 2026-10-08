@@ -9,11 +9,19 @@ def main(size, files):
     done = set()
     for p in glob.glob('/home/claude/split-second/bank/solutions/*.json'):
         done |= set(json.load(open(p)))
-    todo = []
+    import re
+    norm = lambda t: re.sub(r'[^a-z0-9]', '', (t or '').lower())
+    dkey = lambda q: norm(q['q'])[:160] + '|' + '|'.join(sorted(norm(o) for o in (q.get('options') or [])))
+    solved = set()
+    for f in glob.glob('/home/claude/split-second/bank/master/*.json'):
+        for q in json.load(open(f))['questions']:
+            if q['id'] in done: solved.add(dkey(q))
+    todo, queued = [], set()
     for f in files:
         m = json.load(open(f))
         for q in m['questions']:
-            if q['subject'] in ('AM', 'DA') and q['id'] not in done:
+            if q['subject'] in ('AM', 'DA') and q['id'] not in done and dkey(q) not in solved and dkey(q) not in queued:
+                queued.add(dkey(q))
                 item = {'id': q['id'], 'subject': q['subject'], 'topic': q['topic'], 'question': q['q'],
                         'options': q['options'], 'answer': q['answer'],
                         'answer_source': 'shown on the show' if q['tag'] == 'confirmed' else 'worked out, not confirmed'}
