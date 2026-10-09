@@ -1,6 +1,7 @@
 """Pre-fill review entries for questions the show already asked in a match that has been reviewed.
 Usage: python3 auto_review.py bank/raw/<new>.json > draft.json
-Prints a JSON object: {"auto": {raw id: patch}, "todo": [raw ids that still need a human look]}.
+Prints a JSON object: {"auto": {raw id: patch}, "todo": [raw ids that still need a human look],
+"check": [auto ids whose options were read here for the first time, to be cleaned by hand]}.
 
 A new record is matched to a reviewed question when the question text matches (after removing punctuation and
 case) and every number in it is the same, and the options match when both have them. The match copies the
@@ -34,9 +35,13 @@ def load_reviewed(skip_prefix=None):
     return out
 
 def snap(key, options):
+    """The option the key matches. Decimal points, %, / and signs count here: 13.3 and 133 are different answers."""
     if not key or not options: return key
-    best = max(options, key=lambda o: difflib.SequenceMatcher(None, norm(o), norm(key)).ratio())
-    return best if difflib.SequenceMatcher(None, norm(best), norm(key)).ratio() >= 0.6 else key
+    kn = lambda t: re.sub(r'[^a-z0-9.%/<>-]', '', (t or '').lower().replace('−', '-'))
+    for o in options:
+        if kn(o) == kn(key): return o
+    best = max(options, key=lambda o: difflib.SequenceMatcher(None, kn(o), kn(key)).ratio())
+    return best if difflib.SequenceMatcher(None, kn(best), kn(key)).ratio() >= 0.6 else key
 
 def main(raw_path):
     recs = json.load(open(raw_path))
@@ -45,7 +50,7 @@ def main(raw_path):
     reviewed = [x for x in reviewed if not any((x[3].get('raw') or '').startswith(p + '-') for p in prefixes)]
     by_prefix = {}
     for item in reviewed: by_prefix.setdefault(item[0][:12], []).append(item)
-    auto, todo = {}, []
+    auto, todo, check = {}, [], []
     for r in recs:
         k = norm(r['q'])
         cands = by_prefix.get(k[:12], [])
@@ -66,6 +71,10 @@ def main(raw_path):
         expected = mq.get('showKey') or mq['answer']
         p = {'s': mq['subject'], 'tp': mq.get('topic', ''), 'q': mq['q'], 'auto': mq['id']}
         p['o'] = opts or None          # the reviewed copy's options; an options line read here may be left over from the previous question
+        if not opts and r.get('options'):
+            # this time the show gave options the reviewed copy didn't have: keep this match's (OCR) options and
+            # list the record under "check" so a person can clean them
+            p['o'] = r['options']
         if mq.get('note'): p['n'] = mq['note']
         if mq['tag'] == 'disputed': p['a'] = mq['answer']; p['t'] = 'd'
         if not key:
@@ -77,8 +86,9 @@ def main(raw_path):
         else:
             p['k'] = expected if opts is None else key
         auto[r['id']] = p
-    json.dump({'auto': auto, 'todo': todo}, sys.stdout, indent=0, ensure_ascii=False)
-    print(f"\n{len(auto)} matched, {len(todo)} to review", file=sys.stderr)
+        if not opts and r.get('options'): check.append(r['id'])
+    json.dump({'auto': auto, 'todo': todo, 'check': check}, sys.stdout, indent=0, ensure_ascii=False)
+    print(f"\n{len(auto)} matched ({len(check)} with new options to check), {len(todo)} to review", file=sys.stderr)
 
 if __name__ == '__main__':
     main(sys.argv[1])

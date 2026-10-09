@@ -1,0 +1,1121 @@
+{
+"gs01-001": {
+"s": "AM",
+"tp": "Dilution",
+"k": "2.4 M"
+},
+"gs01-002": {
+"s": "AM",
+"tp": "Vectors"
+},
+"gs01-003": {
+"s": "AM",
+"tp": "Electricity"
+},
+"gs01-004": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "If Nigeria's population grows at 2.5% annually, how many years will it take to double?"
+},
+"gs01-005": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The profit function f(x) = −3x² + 12x + 7 models earnings. What is the maximum profit?"
+},
+"gs01-006": {
+"s": "AM",
+"tp": "Genetics",
+"k": "25% or 1/4"
+},
+"gs01-007": {
+"s": "AM",
+"tp": "Integration",
+"k": "x² + x + C"
+},
+"gs01-008": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The cost function C(x) = x³ − 6x² + 15x models production costs. What output x minimizes cost?",
+"n": "C′(x) = 3(x − 2)² + 3 is always positive, so the cost keeps rising with output and has no turning point. The show's x = 2 is where the marginal cost C′(x) is lowest."
+},
+"gs01-009": {
+"s": "AM",
+"tp": "Exponential growth"
+},
+"gs01-010": {
+"s": "AM",
+"tp": "Units",
+"q": "The density of mercury is 13,600 kg/m³. What is its density in g/cm³?",
+"k": "13.6 g/cm³",
+"t": "w"
+},
+"gs01-011": {
+"s": "AM",
+"tp": "Functions",
+"q": "The profit function P(x) = −2x² + 20x − 5000 gives profit from selling x units. Find the profit when x = 5.",
+"k": "−4850",
+"a": "−4950",
+"t": "d",
+"n": "P(5) = −50 + 100 − 5000 = −4,950. The show's answer bar said −4,850."
+},
+"gs01-012": {
+"s": "AM",
+"tp": "Proportion"
+},
+"gs01-013": {
+"s": "AM",
+"tp": "Ratio"
+},
+"gs01-014": {
+"s": "AM",
+"tp": "Complex numbers",
+"q": "If a complex number z = 4 − 3i, find the absolute value of z."
+},
+"gs01-015": {
+"s": "AM",
+"tp": "Vectors",
+"q": "If A = 2i − j and B = −i + 3j, what is A · B?",
+"k": "−5"
+},
+"gs01-016": {
+"s": "AM",
+"tp": "Ratio"
+},
+"gs01-017": {
+"s": "AM",
+"tp": "Trigonometry",
+"k": "arctan(0.75)",
+"n": "tan θ = 15 ÷ 20 = 0.75, so θ = arctan(0.75) ≈ 36.9°."
+},
+"gs01-018": {
+"s": "AM",
+"tp": "Scale"
+},
+"gs01-019": {
+"s": "AM",
+"tp": "Calculus",
+"k": "1/(e − 1)"
+},
+"gs01-020": {
+"s": "AM",
+"tp": "Scale",
+"q": "A map shows 20cm × 15cm at 1:200 scale. What is the real area?",
+"k": "1,200m²"
+},
+"gs01-021": {
+"s": "AM",
+"tp": "Arithmetic"
+},
+"gs01-022": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The profit function is f(x) = −x² + 10x − 9. What is the maximum profit?"
+},
+"gs01-023": {
+"s": "AM",
+"tp": "Percentages",
+"n": "0.75 is a 75% rise: (1,400 − 800) ÷ 800 = 0.75."
+},
+"gs01-024": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A car's acceleration is given by a(t) = 10t − 5. What is the acceleration at t = 3 seconds?",
+"k": "25m/s²"
+},
+"gs01-025": {
+"s": "AM",
+"tp": "Half-life"
+},
+"gs01-026": {
+"s": "AM",
+"tp": "Percentages"
+},
+"gs01-027": {
+"s": "AM",
+"tp": "Scale"
+},
+"gs01-028": {
+"s": "AM",
+"tp": "Proportion",
+"q": "If 5kg of flour costs ₦2,500, how much will 12kg cost?",
+"k": "₦6,000"
+},
+"gs01-029": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "From 80m away, a surveyor records a 45° angle to the top of a lighthouse. Determine the lighthouse's height."
+},
+"gs01-030": {
+"s": "AM",
+"tp": "Half-life"
+},
+"gs01-031": {
+"skip": true
+},
+"gs01-032": {
+"s": "AM",
+"tp": "Logarithms",
+"n": "Each step on the Richter scale is 10 times the wave amplitude; in energy released it is about 32 times."
+},
+"gs01-033": {
+"s": "AM",
+"tp": "Rates"
+},
+"gs01-034": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The average rate of change of the function f(x) = 3x² − x + 7 from x = 2 to x = 6 is"
+},
+"gs01-035": {
+"s": "AM",
+"tp": "Rates",
+"q": "A tank has 25,000L and drains at 500 L/min. How long until 10% remains?"
+},
+"gs01-036": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A rocket follows the height equation h(t) = −5t² + 50t. At what time does it hit the ground?"
+},
+"gs01-037": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The streaming service has revenue R(x) = 30x − 0.5x² (x in 000s). Find the subscriber target."
+},
+"gs01-038": {
+"s": "AM",
+"tp": "Ages"
+},
+"gs01-039": {
+"s": "AM",
+"tp": "Arithmetic"
+},
+"gs01-040": {
+"s": "AM",
+"tp": "Units"
+},
+"gs01-041": {
+"s": "AM",
+"tp": "Calculus",
+"q": "If f(x) = sin(3x² + 2x), then the first derivative of f(x) is",
+"k": "(6x + 2)cos(3x² + 2x)"
+},
+"gs01-042": {
+"s": "AM",
+"tp": "Pressure",
+"k": "29,400Pa",
+"n": "This is the pressure from the water alone (gauge pressure): ρgh = 1,000 × 9.8 × 3 = 29,400 Pa."
+},
+"gs01-043": {
+"s": "AM",
+"tp": "Percentages"
+},
+"gs01-044": {
+"s": "AM",
+"tp": "Scale",
+"n": "Mass goes with volume, so with the cube of the scale: 0.5 kg × 100³ = 500,000 kg."
+},
+"gs01-045": {
+"s": "AM",
+"tp": "Energy",
+"n": "Taking 600 MW as the output: the input is 600 ÷ 0.25 = 2,400 MW, so 1,800 MW is lost as heat, which is 1,800 MWh in an hour."
+},
+"gs01-046": {
+"s": "AM",
+"tp": "Exponential growth"
+},
+"gs01-047": {
+"s": "AM",
+"tp": "Loans",
+"q": "A loan of $8,000 is repaid with monthly payments of $400. How many payments are needed if the interest is 6% annually?"
+},
+"gs01-048": {
+"s": "AM",
+"tp": "Oscillations",
+"k": "2.5 or 5/2 seconds"
+},
+"gs01-049": {
+"s": "AM",
+"tp": "Exponential growth",
+"n": "It doubles 8 times (24 ÷ 3), so the culture ends up 2⁸ = 256 times its starting size."
+},
+"gs01-050": {
+"s": "AM",
+"tp": "Integration",
+"q": "The area under y = 2x + 3 from x = 0 to x = 4 is?",
+"o": [
+"24",
+"26",
+"28"
+]
+},
+"gs01-051": {
+"s": "AM",
+"tp": "Waves",
+"k": "π/2 radians"
+},
+"gs01-052": {
+"s": "AM",
+"tp": "Rates"
+},
+"gs01-053": {
+"s": "AM",
+"tp": "Gas laws",
+"q": "In 50 mins, pressure drops from 250 to 50 kPa as gas escapes at 4 L/min. What is the tank volume?"
+},
+"gs01-054": {
+"s": "AM",
+"tp": "Units"
+},
+"gs01-055": {
+"s": "AM",
+"tp": "Errors"
+},
+"gs01-056": {
+"s": "AM",
+"tp": "Linear algebra",
+"q": "Find the eigenvalues of the matrix [[2, 1], [1, 2]].",
+"k": "1 and 3",
+"t": "w"
+},
+"gs01-057": {
+"s": "DA",
+"tp": "Combinations"
+},
+"gs01-058": {
+"s": "AM",
+"tp": "Scale"
+},
+"gs01-059": {
+"s": "AM",
+"tp": "Ratio"
+},
+"gs01-060": {
+"s": "AM",
+"tp": "Ratio",
+"q": "A team's win-to-loss ratio is 5:2. If they played 28 games, how many did they win?"
+},
+"gs01-061": {
+"s": "AM",
+"tp": "Ratio",
+"k": "40 girls"
+},
+"gs01-062": {
+"s": "AM",
+"tp": "Linear equations"
+},
+"gs01-063": {
+"s": "AM",
+"tp": "Stoichiometry",
+"q": "How many grams of hydrogen are in 85 grams of ammonia, NH₃, if N = 14 and H = 1?"
+},
+"gs01-064": {
+"tp": "Half-life",
+"k": "75mg"
+},
+"gs01-065": {
+"tp": "Genetics"
+},
+"gs01-066": {
+"tp": "Scale"
+},
+"gs01-067": {
+"tp": "Calculus",
+"q": "For the function f(x) = 4x³ − 6x² + 2x − 8, compute its third derivative."
+},
+"gs01-068": {
+"tp": "Percentages"
+},
+"gs01-069": {
+"tp": "Vectors"
+},
+"gs01-070": {
+"tp": "Exponential growth",
+"k": "6,400"
+},
+"gs01-071": {
+"tp": "Calculus",
+"k": "2/3"
+},
+"gs01-072": {
+"tp": "Errors",
+"q": "If the side of a square is measured as 10.0 ± 0.2cm, the area is approximately",
+"k": "100 ± 4 cm²"
+},
+"gs01-073": {
+"tp": "Quadratics",
+"q": "For the quadratic equation 2x² − 5x − 3 = 0, find the sum of its roots.",
+"k": "5/2"
+},
+"gs01-074": {
+"tp": "Percentages",
+"q": "A factory's defect rate is 12%. In a batch of 800 items, the expected number of non-defective items is"
+},
+"gs01-075": {
+"tp": "Rates"
+},
+"gs01-076": {
+"tp": "Kinematics",
+"q": "The distance a car has travelled is given by s(t) = t³ + 2t². How far has it travelled after 3 seconds?"
+},
+"gs01-077": {
+"tp": "Permutations"
+},
+"gs01-078": {
+"tp": "z-scores",
+"q": "A dataset has a mean of 55 and a standard deviation of 4. What is the z-score of 63?"
+},
+"gs01-079": {
+"tp": "Probability"
+},
+"gs01-080": {
+"tp": "Simple interest"
+},
+"gs01-081": {
+"tp": "Skewness"
+},
+"gs01-082": {
+"tp": "Probability",
+"k": "1/2"
+},
+"gs01-083": {
+"tp": "Correlation",
+"q": "For data X: 5, 10, 15; Y: 15, 10, 5, find the correlation coefficient.",
+"k": "−1"
+},
+"gs01-084": {
+"tp": "Sets and Venn diagrams"
+},
+"gs01-085": {
+"tp": "Charts",
+"q": "A line graph is best suited to represent ____ data",
+"k": "Time-series"
+},
+"gs01-086": {
+"tp": "Normal distribution"
+},
+"gs01-087": {
+"tp": "Probability",
+"k": "1/128"
+},
+"gs01-088": {
+"tp": "Uniform distribution",
+"q": "In a discrete uniform distribution on {1, 2, ..., 9}, find its mean.",
+"k": "5"
+},
+"gs01-089": {
+"tp": "Quartiles",
+"n": "With the (n + 1) ÷ 4 rule, Q1 sits at position 5.25, a quarter of the way from the 5th to the 6th value. The show used n ÷ 4 = 5."
+},
+"gs01-090": {
+"tp": "Riddles",
+"k": "A clock"
+},
+"gs01-091": {
+"tp": "Seating arrangements",
+"k": "S",
+"n": "If P sits right between Q and R, then S (next to R) can't be opposite P, and the facts given don't fix who is. The show took S."
+},
+"gs01-092": {
+"tp": "Directions"
+},
+"gs01-093": {
+"tp": "Spelling",
+"q": "Select the word that is spelled incorrectly:",
+"o": [
+"Committment",
+"Acquiesce",
+"Phenomenon"
+],
+"k": "Committment",
+"n": "The correct spelling is \"commitment\"."
+},
+"gs01-094": {
+"tp": "Riddles"
+},
+"gs01-095": {
+"tp": "Directions",
+"k": "West",
+"a": "East",
+"t": "d",
+"n": "Turning 270° to the left is the same as turning 90° to the right, so from north you end up facing east. The show's answer bar said West."
+},
+"gs01-096": {
+"tp": "Riddles"
+},
+"gs01-097": {
+"tp": "Letter positions",
+"q": "Which letter is 5th from the left in \"EXAMINATION\"?",
+"k": "I"
+},
+"gs01-098": {
+"tp": "Letter positions",
+"k": "I"
+},
+"gs01-099": {
+"tp": "Coding",
+"q": "If C = 3, E = 5, G = 7, what is K?",
+"k": "11"
+},
+"gs01-100": {
+"tp": "Clock angles"
+},
+"gs01-101": {
+"tp": "Directions"
+},
+"gs01-102": {
+"tp": "Music"
+},
+"gs01-103": {
+"tp": "Culture",
+"drop": "answer not confirmed"
+},
+"gs01-104": {
+"tp": "Environment"
+},
+"gs01-105": {
+"tp": "Animals",
+"q": "A group of starlings is called ____",
+"k": "Murmuration"
+},
+"gs01-106": {
+"tp": "Economy"
+},
+"gs01-107": {
+"tp": "Geography",
+"drop": "answer not confirmed"
+},
+"gs01-108": {
+"tp": "Geography",
+"k": "Indian Ocean"
+},
+"gs01-109": {
+"tp": "Nature",
+"n": "Hevea brasiliensis is native to South America and grown on plantations in Africa. The rubber tree native to African rainforests is Funtumia elastica."
+},
+"gs01-110": {
+"tp": "Technology"
+},
+"gs01-111": {
+"tp": "Music",
+"q": "The typical bass vocal range is ____",
+"k": "E2–E4"
+},
+"gs01-112": {
+"tp": "Science"
+},
+"gs01-113": {
+"tp": "Animals"
+},
+"gs01-114": {
+"tp": "History"
+},
+"gs01-115": {
+"tp": "Politics",
+"k": "Ian Khama"
+},
+"gs01-116": {
+"tp": "Politics",
+"q": "A form of government in which only a specific ethnic group participates in government, while others are disenfranchised, is"
+},
+"gs01-117": {
+"s": "AM",
+"tp": "Vectors"
+},
+"gs01-118": {
+"s": "AM",
+"tp": "Trigonometry",
+"n": "The 30° is taken as the angle with the ground: 10 × sin 30° = 5 m."
+},
+"gs01-119": {
+"s": "AM",
+"tp": "Energy",
+"q": "A pump lifts 1,000L of water to 15m in 1 minute. What is its power output?",
+"k": "2,450W"
+},
+"gs01-120": {
+"s": "AM",
+"tp": "Concentration",
+"q": "A pharmaceutical solution has 45 mg/mL of active ingredient. How much is in a 120mL bottle?",
+"k": "5,400 mg",
+"t": "w"
+},
+"gs01-121": {
+"s": "AM",
+"tp": "Stoichiometry",
+"q": "How many grams of CO₂ form from complete combustion of 44 g CH₄?",
+"k": "121 g",
+"t": "w"
+},
+"gs01-122": {
+"s": "AM",
+"tp": "Ratio"
+},
+"gs01-123": {
+"s": "AM",
+"tp": "Functions",
+"q": "The profit function is P(x) = −2x² + 400x − 5000. What is the profit when x = 20?"
+},
+"gs01-124": {
+"s": "AM",
+"tp": "Functions"
+},
+"gs01-125": {
+"s": "AM",
+"tp": "Vectors"
+},
+"gs01-126": {
+"s": "AM",
+"tp": "Differential equations",
+"q": "dy/dx + 2y = sin x is an example of which equation?",
+"k": "Linear differential equation"
+},
+"gs01-127": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A runner's distance is modelled by s(t) = 4t² + 10t. How far (in meters) has the runner travelled after 5 seconds?",
+"o": null,
+"k": "150m"
+},
+"gs01-128": {
+"s": "AM",
+"tp": "Half-life"
+},
+"gs01-129": {
+"s": "AM",
+"tp": "Scale"
+},
+"gs01-130": {
+"s": "AM",
+"tp": "Linear equations",
+"q": "A rectangle's length is 5 more than twice its width. If the perimeter is 82cm, find its width."
+},
+"gs01-131": {
+"skip": true
+},
+"gs01-132": {
+"s": "AM",
+"tp": "Errors",
+"q": "A lab machine has an error margin of ±0.3%. What is the absolute error if the reading is 150?"
+},
+"gs01-133": {
+"s": "AM",
+"tp": "Dilution",
+"q": "A chemist needs to dilute 200mL of 8M NaOH to 2M. What is the final volume?"
+},
+"gs01-134": {
+"s": "AM",
+"tp": "Gas laws",
+"q": "A cooker's pressure rises from 1 atm to 2.5 atm. If its volume was 5L, find the new volume at constant temperature."
+},
+"gs01-135": {
+"s": "AM",
+"tp": "Linear equations",
+"q": "A phone plan costs ₦2,000 monthly plus ₦5 per call minute. Evaluate the cost for 250 minutes.",
+"k": "₦3,250"
+},
+"gs01-136": {
+"s": "AM",
+"tp": "Ratio"
+},
+"gs01-137": {
+"s": "AM",
+"tp": "Errors",
+"q": "A measurement is given as 150 with an error margin of ±2%. What is the absolute uncertainty of this measurement?",
+"k": "3"
+},
+"gs01-138": {
+"s": "DA",
+"tp": "z-scores",
+"q": "A normal distribution has a mean of 84 and a standard deviation of 32. Find the z-score for 100."
+},
+"gs01-139": {
+"s": "AM",
+"tp": "Scale",
+"k": "20m or 2,000cm"
+},
+"gs01-140": {
+"s": "AM",
+"tp": "Rates"
+},
+"gs01-141": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The velocity v(t) = 3t² − 6t. Find acceleration at t = 2.",
+"o": [
+"8 m/s²",
+"6 m/s²",
+"2 m/s²"
+],
+"k": "6 m/s²"
+},
+"gs01-142": {
+"s": "AM",
+"tp": "Functions",
+"q": "If f(x) = x + 3 and g(x) = 2x, find (f ∘ g)(x).",
+"o": [
+"2x + 1",
+"3x + 2",
+"2x + 3"
+],
+"k": "2x + 3"
+},
+"gs01-143": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "Two buildings 40m apart. From a 30m roof, the angle of depression to the taller's base is 45°. Find its extra height.",
+"n": "As worded the numbers don't fit: from a 30 m roof 40 m away, the angle of depression to the base is about 37°. The show's 40 m comes from a 45° angle of elevation to the top of the taller building: 40 × tan 45° = 40 m above the roof."
+},
+"gs01-144": {
+"skip": true
+},
+"gs01-145": {
+"s": "AM",
+"tp": "Energy",
+"k": "60J"
+},
+"gs01-146": {
+"s": "DA",
+"tp": "Combinations",
+"q": "How many ways can 8 pairs of shoes be selected from 12 distinct pairs?"
+},
+"gs01-147": {
+"s": "AM",
+"tp": "Complex numbers",
+"q": "Find the argument of z = 1 + i."
+},
+"gs01-148": {
+"s": "AM",
+"tp": "Vectors",
+"q": "If vector A = 3i + 4j and B = i − 2j, what is the dot product A · B?",
+"k": "−5"
+},
+"gs01-149": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "If a man's height equals his shadow's length, what's the sun's angle of elevation?",
+"k": "90°",
+"a": "45°",
+"t": "d",
+"n": "tan θ = height ÷ shadow = 1, so θ = 45°. The show's answer bar said 90°."
+},
+"gs01-150": {
+"s": "AM",
+"tp": "Integration",
+"q": "What is the area under y = 3x + 1 from x = 1 to x = 5?"
+},
+"gs01-151": {
+"s": "AM",
+"tp": "Units",
+"q": "A steel pipe is 1.2m long and weighs 8.4kg. What is its mass per cm?"
+},
+"gs01-152": {
+"s": "AM",
+"tp": "Half-life",
+"o": [
+"1/3",
+"1/2",
+"1/8"
+],
+"k": "1/8",
+"t": "w"
+},
+"gs01-153": {
+"s": "AM",
+"tp": "Mechanics",
+"q": "If a box slides down a frictionless ramp inclined at 30°, what is its acceleration?",
+"o": [
+"5.8 m/s²",
+"4.9 m/s²",
+"6.2 m/s²"
+],
+"k": "4.9 m/s²"
+},
+"gs01-154": {
+"s": "AM",
+"tp": "Electricity"
+},
+"gs01-155": {
+"s": "AM",
+"tp": "Scale"
+},
+"gs01-156": {
+"s": "AM",
+"tp": "Ratio",
+"q": "If Solution A has a molarity of 3/5 and Solution B has a molarity of 5/8, what is the ratio of Solution B to Solution A?"
+},
+"gs01-157": {
+"s": "AM",
+"tp": "Rates",
+"q": "What is the heartbeat of a cyclist who rides for 45 minutes at a constant heart rate of 140 bpm?"
+},
+"gs01-158": {
+"s": "AM",
+"tp": "Ratio"
+},
+"gs01-159": {
+"s": "AM",
+"tp": "Calculus",
+"q": "If f(x) = x³ − 3x², find its critical points.",
+"o": [
+"1 and 2",
+"2 and 4",
+"0 and 2"
+],
+"k": "0 and 2"
+},
+"gs01-160": {
+"s": "AM",
+"tp": "Energy",
+"q": "Completing a task in 5 minutes with an engine running at 400W results in what total work done?",
+"o": [
+"240,000J",
+"480,000J",
+"120,000J"
+],
+"k": "120,000J"
+},
+"gs01-161": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The gym's membership revenue follows R(x) = 640x − 20x². Calculate optimal signups."
+},
+"gs01-162": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The velocity of a particle is given by v(t) = 4t² − 12t + 9 m/s. Find its acceleration at t = 2s.",
+"o": [
+"8 m/s²",
+"10 m/s²",
+"4 m/s²"
+],
+"k": "4 m/s²"
+},
+"gs01-163": {
+"s": "AM",
+"tp": "Vectors",
+"q": "Given a vector with magnitude 25 and a direction of 90°, calculate its vertical component."
+},
+"gs01-164": {
+"s": "AM",
+"tp": "Integration",
+"q": "Given that acceleration a(t) = 12t, and velocity is 0 at t = 0, find the velocity at t = 6."
+},
+"gs01-165": {
+"s": "AM",
+"tp": "Genetics"
+},
+"gs01-166": {
+"s": "AM",
+"tp": "Dilution"
+},
+"gs01-167": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "A company's profit function is P(x) = −x² + 20x − 36. Find maximum profit."
+},
+"gs01-168": {
+"s": "AM",
+"tp": "Integration",
+"k": "112",
+"t": "w",
+"n": "Taking the fixed cost as zero."
+},
+"gs01-169": {
+"s": "AM",
+"tp": "Rates",
+"q": "The speed ratio of Car A to Car B is 4:5. If Car B travels 300km in 4 hours, what is Car A's speed?"
+},
+"gs01-170": {
+"s": "AM",
+"tp": "Half-life",
+"k": "12.5g"
+},
+"gs01-171": {
+"s": "AM",
+"tp": "Scale"
+},
+"gs01-172": {
+"s": "AM",
+"tp": "Trigonometry",
+"o": [
+"5√3 m",
+"5√2 m",
+"5√5 m"
+],
+"k": "5√3 m",
+"n": "The 60° is taken as the angle with the ground: 10 × sin 60° = 5√3 m."
+},
+"gs01-173": {
+"s": "AM",
+"tp": "Functions",
+"k": "44",
+"t": "w"
+},
+"gs01-174": {
+"tp": "Music",
+"k": "Yoruba"
+},
+"gs01-175": {
+"tp": "History",
+"q": "Who was the Egyptian president who was assassinated in 1981?",
+"o": [
+"Mohamed Morsi",
+"Hosni Mubarak",
+"Anwar Sadat"
+]
+},
+"gs01-176": {
+"tp": "Literature"
+},
+"gs01-177": {
+"tp": "History",
+"q": "What does the term \"abacus\" historically refer to?",
+"k": "Counting device"
+},
+"gs01-178": {
+"tp": "History",
+"n": "Guinea-Bissau declared independence in 1973; Portugal recognised it in 1974."
+},
+"gs01-179": {
+"tp": "History"
+},
+"gs01-180": {
+"tp": "Geography"
+},
+"gs01-181": {
+"tp": "Health"
+},
+"gs01-182": {
+"tp": "Politics"
+},
+"gs01-183": {
+"tp": "Culture",
+"n": "Astrology links both Cancer and Pisces with emotional intuition; the show took Cancer."
+},
+"gs01-184": {
+"tp": "Science"
+},
+"gs01-185": {
+"tp": "Geography"
+},
+"gs01-186": {
+"tp": "Energy"
+},
+"gs01-187": {
+"tp": "Music"
+},
+"gs01-188": {
+"tp": "Energy",
+"n": "Hydropower makes almost all of Ethiopia's electricity; firewood and charcoal (biomass) are still the largest part of its total energy use."
+},
+"gs01-189": {
+"tp": "Science"
+},
+"gs01-190": {
+"tp": "z-scores",
+"k": "1.75",
+"t": "w"
+},
+"gs01-191": {
+"tp": "Sets and Venn diagrams"
+},
+"gs01-192": {
+"tp": "Mean"
+},
+"gs01-193": {
+"tp": "Probability",
+"r": "?"
+},
+"gs01-194": {
+"skip": true
+},
+"gs01-195": {
+"skip": true
+},
+"gs01-196": {
+"tp": "Combinations"
+},
+"gs01-197": {
+"tp": "Sets and Venn diagrams",
+"q": "In a class of 60 students, 40 study CHM 101, 30 PHY 101, and 20 both. How many students study only CHM 101?"
+},
+"gs01-198": {
+"tp": "Probability distributions",
+"q": "If the probability of hitting a target is 0.3, find the variance.",
+"n": "For a single shot (a Bernoulli trial) the variance is p(1 − p) = 0.3 × 0.7 = 0.21."
+},
+"gs01-199": {
+"tp": "Random variables",
+"q": "The variable that assigns a real number value to an event in a sample space is called a ____ variable",
+"k": "Random"
+},
+"gs01-200": {
+"tp": "Interquartile range"
+},
+"gs01-201": {
+"tp": "Combinations",
+"q": "Form a committee of 3 men and 2 women from 8 men and 6 women. How many committees are possible?"
+},
+"gs01-202": {
+"tp": "Percentiles",
+"q": "Find the 40th percentile of the data: 5, 10, 15, 20, 25, 30."
+},
+"gs01-203": {
+"tp": "Skewness",
+"k": "Symmetrical",
+"a": "Positively skewed",
+"t": "d",
+"n": "A mean above the median points to a positive (right) skew. None of the options shown is right; the show's answer bar said Symmetrical."
+},
+"gs01-204": {
+"tp": "Probability",
+"q": "In a class of 4 Science, 5 Art, and 6 Medicine students, what is the probability that if 3 are picked, they are all Art?",
+"o": [
+"1/93",
+"2/91",
+"2/17"
+],
+"k": "2/91"
+},
+"gs01-205": {
+"tp": "z-scores",
+"q": "How many SD above the mean is a 4-week project, given that the mean is 4 weeks and the SD is 0.5?",
+"o": [
+"0",
+"1",
+"−1"
+],
+"k": "0"
+},
+"gs01-206": {
+"tp": "Ordering",
+"q": "In a race: A finished before B but after C. D finished before E but after B. F finished after E. Who finished first?",
+"k": "C"
+},
+"gs01-207": {
+"tp": "Coding"
+},
+"gs01-208": {
+"tp": "Blood relations",
+"q": "Peter said, \"This woman is the wife of my father's son.\" Who is the woman?",
+"n": "If Peter has a brother, she is his brother's wife (sister-in-law), which is the show's answer; if the son meant is Peter himself, she is his wife."
+},
+"gs01-209": {
+"tp": "Odd one out"
+},
+"gs01-210": {
+"tp": "Directions",
+"q": "A person faces north, turns 90° right, then 180° left. Which direction now?"
+},
+"gs01-211": {
+"skip": true
+},
+"gs01-212": {
+"skip": true
+},
+"gs01-213": {
+"tp": "Directions"
+},
+"gs01-214": {
+"tp": "Letter positions",
+"o": [
+"I",
+"K",
+"G"
+],
+"k": "G",
+"t": "w"
+},
+"gs01-215": {
+"tp": "Directions"
+},
+"gs01-216": {
+"tp": "Coding",
+"q": "If APPLE = 50, then ORANGE = ____"
+},
+"gs01-217": {
+"tp": "Letter positions",
+"k": "G",
+"t": "w",
+"n": "F, G and H all lie between D and J; G is the one exactly halfway."
+},
+"gs01-218": {
+"tp": "Analogies"
+},
+"gs01-219": {
+"tp": "Coding",
+"q": "If Z = 1, Y = 2, X = 3, then the value of DOG is ____"
+},
+"gs01-220": {
+"tp": "Blood relations"
+},
+"gs01-221": {
+"tp": "Exponential growth"
+},
+"gs01-222": {
+"tp": "Integration",
+"q": "The area under the curve y = 2x² from x = 0 to x = 4 represents the total distance travelled. What is the distance?",
+"o": [
+"9 units",
+"12 units",
+"43 units"
+],
+"n": "The exact area is 128/3 ≈ 42.7, which the show rounded to 43."
+},
+"gs01-223": {
+"tp": "Clock angles"
+},
+"gs01-224": {
+"tp": "Genetics"
+},
+"gs01-225": {
+"tp": "Kinematics",
+"q": "For v(t) = t² − 6t + 8, find the time interval when velocity is negative.",
+"o": [
+"0 < t < 4",
+"2 < t < 4",
+"t > 4"
+],
+"k": "2 < t < 4"
+},
+"gs01-226": {
+"tp": "Dilution",
+"q": "What volume is required to inject 25mg from a solution prepared by diluting a 10 mg/mL stock 5 times?"
+},
+"gs01-227": {
+"tp": "Probability",
+"o": [
+"15/16",
+"1/2",
+"7/8"
+],
+"k": "15/16"
+},
+"gs01-228": {
+"tp": "Units"
+},
+"gs01-229": {
+"tp": "Calculus",
+"q": "Find the derivative of f(x) = x² at x = 2 using h = 4.",
+"n": "This is the difference quotient [f(2 + 4) − f(2)] ÷ 4 = (36 − 4) ÷ 4 = 8. The exact derivative at x = 2 is 4."
+},
+"gs01-230": {
+"tp": "Vectors"
+},
+"gs01-231": {
+"tp": "Logarithms",
+"q": "What is the Richter scale magnitude of an earthquake that releases 10⁶ times more energy than a magnitude 4 earthquake?",
+"n": "The show counts each step on the scale as 10 times more energy. In fact each step is about 32 times more energy (10 times the wave amplitude), which would give magnitude 8."
+},
+"gs01-232": {
+"tp": "Exponential growth",
+"q": "A bacterial culture doubles every 30 minutes. Its growth is best modelled by what?",
+"k": "Exponential function"
+},
+"gs01-233": {
+"tp": "Scale"
+},
+"gs01-234": {
+"tp": "z-scores"
+}
+}

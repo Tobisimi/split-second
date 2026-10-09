@@ -21,9 +21,23 @@ LEVEL = {'group': 1, 'qf': 2, 'sf': 3, 'third': 3, 'final': 3}
 STAGE_ORDER = {'group': 0, 'qf': 1, 'third': 2, 'sf': 3, 'final': 4}
 STAGE_LABEL = {'group': 'Group stage', 'qf': 'Quarter-final', 'sf': 'Semi-final', 'third': 'Third place', 'final': 'Final'}
 
-def dedup_key(q):
-    norm = lambda t: re.sub(r'[^a-z0-9]', '', (t or '').lower())
-    return norm(q['q'])[:160] + '|' + '|'.join(sorted(norm(o) for o in (q.get('options') or [])))
+def _norm(t): return re.sub(r'[^a-z0-9]', '', (t or '').lower())
+
+def dedup_keys(qs):
+    """One key per question: the text plus the options. The show sometimes asked a question with options in one match
+    and without them in another; a copy without options joins the copies that had options when there is only one set
+    of options for that text (a stem like "Select the word that is spelled incorrectly" with several sets stays apart)."""
+    text = lambda q: _norm(q['q'])[:160]
+    opts = lambda q: '|'.join(sorted(_norm(o) for o in (q.get('options') or [])))
+    sets = defaultdict(set)
+    for q in qs:
+        if q.get('options'): sets[text(q)].add(opts(q))
+    keys = {}
+    for q in qs:
+        own = opts(q)
+        if not own and len(sets[text(q)]) == 1: own = next(iter(sets[text(q)]))
+        keys[q['id']] = text(q) + '|' + own
+    return keys
 STATUS = {'confirmed': 'Confirmed by the show', 'disputed': "Show's answer looks wrong", 'worked_out': 'Not confirmed (worked out)'}
 SUBJECTS = ['AM', 'DA', 'VR', 'GK']
 
@@ -54,14 +68,17 @@ def main():
     # The show reuses questions across matches. Keep one copy (from the latest stage), note where else it was asked,
     # and let a copy borrow the solution written for any of its twins.
     allq = [(m, q) for _, m in load('bank/master/*.json') for q in m['questions']]
-    TAG_RANK = {'confirmed': 0, 'disputed': 0, 'worked_out': 1}   # at the same stage, keep a copy whose answer the show confirmed
-    allq.sort(key=lambda mq: (-STAGE_ORDER[mq[1]['stage']], TAG_RANK.get(mq[1]['tag'], 1), mq[1]['video'], mq[1]['t']))
+    # at the same stage, keep a copy whose answer the show confirmed, and then one that came with options
+    TAG_RANK = {'confirmed': 0, 'disputed': 0, 'worked_out': 1}
+    allq.sort(key=lambda mq: (-STAGE_ORDER[mq[1]['stage']], TAG_RANK.get(mq[1]['tag'], 1), 0 if mq[1].get('options') else 1,
+                              mq[1]['video'], mq[1]['t']))
+    keys = dedup_keys([q for _, q in allq])
     seen, twins = {}, {}
     for m, q in allq:
-        k = dedup_key(q); twins.setdefault(k, []).append(q)
+        k = keys[q['id']]; twins.setdefault(k, []).append(q)
     for path, m in [(None, None)]:
         for m, q in allq:
-            k = dedup_key(q)
+            k = keys[q['id']]
             if k in seen: continue
             seen[k] = q['id']
             others = [t for t in twins[k] if t['id'] != q['id']]

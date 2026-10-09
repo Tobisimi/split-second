@@ -1,0 +1,42 @@
+{
+ "code": "md06a",
+ "video": "vANQfr5a1eo",
+ "stage": "group",
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/26-gs06.json",
+   "bank/review/26-gs06.json"
+  ]
+ ],
+ "match": "OAU v KASU",
+ "qb_top": "OAU",
+ "qb_bottom": "KASU",
+ "bm_top": "OAU",
+ "bm_bottom": "KASU",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "GK",
+  "3": "VR",
+  "4": "DA"
+ },
+ "quarter_starts": {
+  "QB": [
+   570,
+   700,
+   950,
+   1100
+  ],
+  "BM": [
+   1275,
+   1390,
+   1500,
+   1610
+  ]
+ },
+ "window": [
+  0,
+  2000
+ ],
+ "out": "bank/master/26-md06a.json"
+}

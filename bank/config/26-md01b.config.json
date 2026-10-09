@@ -1,0 +1,42 @@
+{
+ "code": "md01b",
+ "video": "LNb9hDxcp1o",
+ "stage": "group",
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/26-gs01.json",
+   "bank/review/26-gs01.json"
+  ]
+ ],
+ "match": "CU v UNILORIN",
+ "qb_top": "CU",
+ "qb_bottom": "UNILORIN",
+ "bm_top": "CU",
+ "bm_bottom": "UNILORIN",
+ "bm_subjects": {
+  "1": "GK",
+  "2": "DA",
+  "3": "VR",
+  "4": "AM"
+ },
+ "quarter_starts": {
+  "QB": [
+   2173,
+   2305,
+   2507,
+   2630
+  ],
+  "BM": [
+   2847,
+   2951,
+   3088,
+   3193
+  ]
+ },
+ "window": [
+  2000,
+  4000
+ ],
+ "out": "bank/master/26-md01b.json"
+}

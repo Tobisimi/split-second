@@ -1,0 +1,39 @@
+{
+ "code": "md12b",
+ "video": "eDPgRTMz1J8",
+ "stage": "group",
+ "cards": [],
+ "bm_left_row": 1,
+ "match": "FUTA v UNIBEN",
+ "qb_top": "UNIBEN",
+ "qb_bottom": "FUTA",
+ "bm_top": "UNIBEN",
+ "bm_bottom": "FUTA",
+ "bm_subjects": {
+  "1": "VR",
+  "2": "AM",
+  "3": "DA",
+  "4": "GK"
+ },
+ "quarter_starts": {
+  "QB": [
+   2150,
+   2270,
+   2398,
+   2550
+  ],
+  "BM": [
+   2720,
+   2820,
+   2920,
+   3010
+  ]
+ },
+ "parts": [
+  [
+   "bank/raw/26-gs12-part2.json",
+   "bank/review/26-gs12-part2.json"
+  ]
+ ],
+ "out": "bank/master/26-md12b.json"
+}

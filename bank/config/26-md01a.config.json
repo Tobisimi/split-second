@@ -1,0 +1,42 @@
+{
+ "code": "md01a",
+ "video": "LNb9hDxcp1o",
+ "stage": "group",
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/26-gs01.json",
+   "bank/review/26-gs01.json"
+  ]
+ ],
+ "match": "UNILAG v FUTA",
+ "qb_top": "UNILAG",
+ "qb_bottom": "FUTA",
+ "bm_top": "UNILAG",
+ "bm_bottom": "FUTA",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "DA",
+  "3": "VR",
+  "4": "GK"
+ },
+ "quarter_starts": {
+  "QB": [
+   513,
+   641,
+   835,
+   980
+  ],
+  "BM": [
+   1230,
+   1393,
+   1495,
+   1610
+  ]
+ },
+ "window": [
+  0,
+  2000
+ ],
+ "out": "bank/master/26-md01a.json"
+}

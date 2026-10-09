@@ -5,7 +5,9 @@ Config: {"code": "fin", "video": "...", "match": "Final: FUTA v OAU", "stage": "
          "cards": [[t, top, bottom], ...],            # end-of-quarter score cards (Quick Buzz)
          "parts": [["raw.json", "patch.json"], ...],
          "bm_subjects": {"1": "AM", ...},              # Brain Match quarter -> subject
-         "out": "master/26-fin.json"}
+         "out": "master/26-fin.json",
+         "window": [t0, t1],                           # optional: only records with t0 in [t0, t1)
+         "bm_left_row": 1}                             # optional: the left Brain Match panel scores on the bottom row
 Patch keys per record id: s subject, tp topic, q/o/k corrected question/options/key, a answer (when it is not
 the key), t tag (c confirmed, w worked out, d disputed), n note, drop (reason; kept out of the bank), skip."""
 import json, re, sys, difflib
@@ -41,6 +43,8 @@ def main(cfg_path):
     raws, patch = [], {}
     for raw, pf in cfg['parts']:
         raws += json.load(open(raw)); patch.update(json.load(open(pf)))
+    if cfg.get('window'):                     # a video holding two matches: keep this match's stretch only
+        w0, w1 = cfg['window']; raws = [r for r in raws if w0 <= r['t0'] < w1]
     raws.sort(key=lambda r: r['t0'])
     qn = quarters(raws, cfg.get('quarter_starts'))
     cards = sorted(cfg.get('cards', []))
@@ -62,14 +66,16 @@ def main(cfg_path):
             d = [card[1] - r['before'][0], card[2] - r['before'][1]] if card and None not in r['before'] else None
         player = r.get('player') or ''
         if half == 'BM':
-            # Brain Match: the panel side shows whose turn it is (left = top score, right = bottom score).
-            # A right answer adds the ladder value; a miss adds nothing and resets the ladder.
+            # Brain Match: the panel side shows whose turn it is. Usually the left panel's player scores on the top row
+            # and the right panel's on the bottom row; "bm_left_row": 1 in the config marks a video where it is the
+            # other way round. A right answer adds the ladder value; a miss adds nothing and resets the ladder.
             side = 0 if r.get('side') == 'BML' else 1
-            school = top if side == 0 else bottom
+            row = 1 - side if cfg.get('bm_left_row') == 1 else side
+            school = top if row == 0 else bottom
             names = cfg.get('bm_players', {}).get(str(qn[r['id']]))
             player = names[side] if names else ''
             if d is not None and abs(d[0]) <= 6 and abs(d[1]) <= 6 and min(d) >= 0:
-                result = 'right' if d[side] > 0 else 'wrong'
+                result = 'right' if d[row] > 0 else 'wrong'
         elif d is not None:
             if d[0] == 0 and d[1] == 0: result = 'none'
             else:
@@ -77,6 +83,8 @@ def main(cfg_path):
                 result = 'right' if d[side] > 0 else 'wrong'
                 if not school: school = top if side == 0 else bottom
         if 'r' in p: result = None if p['r'] == '?' else p['r']
+        if school and school not in (top, bottom):     # a name label cut short on screen, e.g. YABATEC
+            school = next((s for s in (top, bottom) if s and s.startswith(school)), school)
         if 'sch' in p: school = p['sch']
         if 'pl' in p: player = p['pl']
         if result in ('none', None) and half == 'QB': player, school = ('', '') if result == 'none' else (player, school)

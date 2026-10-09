@@ -1,0 +1,1541 @@
+{
+"gs06-057": {
+"s": "AM",
+"tp": "Dilution",
+"q": "A technician mixes 200mL of 6M HCl with 300mL of water. What is the final molarity of the diluted solution?",
+"o": [
+"1.2M",
+"2.4M",
+"4.8M"
+],
+"k": "2.4M"
+},
+"gs06-060": {
+"s": "AM",
+"tp": "Electricity",
+"q": "Find the current if 60 V is applied across a 15-ohm resistor.",
+"o": null,
+"k": "4 amperes"
+},
+"gs06-062": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The profit function f(x) = −3x² + 12x + 7 models earnings. What is the maximum profit?",
+"o": null,
+"k": "19"
+},
+"gs06-067": {
+"s": "AM",
+"tp": "Units",
+"q": "The density of mercury is 13,600 kg/m³. What is its density in g/cm³?",
+"o": null,
+"k": "13.6 g/cm³"
+},
+"gs06-068": {
+"s": "AM",
+"tp": "Functions",
+"q": "The profit function P(x) = −2x² + 20x − 5000 gives profit from selling x units. Find the profit when x = 5.",
+"o": null,
+"n": "P(5) = −50 + 100 − 5000 = −4,950. The show's answer bar said −4,850.",
+"a": "−4950",
+"t": "d",
+"k": "−4850"
+},
+"gs06-069": {
+"s": "AM",
+"tp": "Proportion",
+"q": "A 5-meter pole casts a 3-meter shadow. How tall is a tree that casts a 12-meter shadow?",
+"o": null,
+"k": "20m"
+},
+"gs06-071": {
+"s": "AM",
+"tp": "Ratio",
+"q": "A 160L mixture has milk and water in a 5:3 ratio. To make it 2:3, how much water must be added?",
+"o": [
+"50L",
+"70L",
+"90L"
+],
+"k": "90L"
+},
+"gs06-079": {
+"tp": "Genetics",
+"q": "In H-W equilibrium 9% are recessive. What is the heterozygote genotype frequency?",
+"o": [
+"0.5",
+"0.42",
+"0.21"
+],
+"k": "0.42"
+},
+"gs06-080": {
+"tp": "Scale",
+"q": "A model of a tower is 8.5cm tall at a scale of 1:400. What is the actual height of the tower in meters?",
+"o": [
+"34m",
+"40m",
+"25m"
+],
+"k": "34m"
+},
+"gs06-082": {
+"tp": "Exponential growth",
+"q": "What is the population after three doublings starting from 100 individuals?",
+"o": [
+"200",
+"400",
+"800"
+],
+"k": "800"
+},
+"gs06-084": {
+"tp": "Clock angles",
+"q": "What is the angle between the hands of a clock at 10:20?",
+"o": null,
+"k": "170°"
+},
+"gs06-086": {
+"tp": "Errors",
+"q": "If the side of a square is measured as 10.0 ± 0.2cm, the area is approximately",
+"o": [
+"100 ± 8 cm²",
+"100 ± 0.4 cm²",
+"100 ± 4 cm²"
+],
+"k": "100 ± 4 cm²"
+},
+"gs06-088": {
+"tp": "Percentages",
+"q": "A factory's defect rate is 12%. In a batch of 800 items, the expected number of non-defective items is",
+"o": null,
+"k": "704"
+},
+"gs06-089": {
+"tp": "Rates",
+"q": "A car travels 120km in 2 hours. How far will it travel in 7 hours at the same speed?",
+"o": null,
+"a": "420km",
+"t": "c",
+"n": "Confirmed when the show used this question in another match."
+},
+"gs06-090": {
+"tp": "Kinematics",
+"q": "The distance a car has travelled is given by s(t) = t³ + 2t². How far has it travelled after 3 seconds?",
+"o": [
+"15 units",
+"45 units",
+"25 units"
+],
+"k": "45 units"
+},
+"gs06-094": {
+"tp": "Genetics",
+"q": "In H-W equilibrium with recessive allele a = 0.3, what is the heterozygote frequency?",
+"o": [
+"0.09",
+"0.21",
+"0.42"
+],
+"k": "0.42"
+},
+"gs06-096": {
+"tp": "Dilution",
+"q": "What volume is required to inject 25mg from a solution prepared by diluting a 10 mg/mL stock 5 times?",
+"o": [
+"10mL",
+"12.5mL",
+"25mL"
+],
+"k": "12.5mL"
+},
+"gs06-148": {
+"s": "AM",
+"tp": "Scale",
+"q": "A map scale is 1:50,000. If two towns are 4cm apart on the map, what is the actual distance in km?",
+"o": null,
+"k": "2km"
+},
+"gs06-151": {
+"s": "AM",
+"tp": "Scale",
+"q": "A map shows 20cm × 15cm at 1:200 scale. What is the real area?",
+"o": [
+"1,200m²",
+"600m²",
+"2,400m²"
+],
+"k": "1,200m²"
+},
+"gs06-152": {
+"s": "AM",
+"tp": "Arithmetic",
+"q": "A box has 60 cans of 1.5kg each. If the total weight is 100kg, what is the weight of the packaging?",
+"o": null,
+"k": "10kg"
+},
+"gs06-155": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The profit function is f(x) = −x² + 10x − 9. What is the maximum profit?",
+"o": [
+"16",
+"32",
+"18"
+],
+"k": "16"
+},
+"gs06-159": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A car's acceleration is given by a(t) = 10t − 5. What is the acceleration at t = 3 seconds?",
+"o": null,
+"k": "25m/s²"
+},
+"gs06-160": {
+"s": "AM",
+"tp": "Half-life",
+"q": "A patient is given 300mg of a drug that loses 50% of its potency per hour. How much remains after 2 hours?",
+"o": [
+"25mg",
+"75mg",
+"45mg"
+],
+"k": "75mg"
+},
+"gs06-161": {
+"s": "AM",
+"tp": "Percentages",
+"q": "Shirts cost $20 each. If a customer buys 8 and gets a 10% discount, what is the total cost after discount?",
+"o": [
+"$144",
+"$160",
+"$155"
+],
+"k": "$144"
+},
+"gs06-162": {
+"s": "AM",
+"tp": "Scale",
+"q": "An engineer scales a model bridge with a 1:100 ratio. If the model's height is 15cm, what is the actual height?",
+"o": [
+"15m",
+"150m",
+"0.15m"
+],
+"k": "15m"
+},
+"gs06-165": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "From 80m away, a surveyor records a 45° angle to the top of a lighthouse. Determine the lighthouse's height.",
+"o": null,
+"k": "80m"
+},
+"gs06-166": {
+"s": "AM",
+"tp": "Half-life",
+"q": "The half-life of a substance is 5 days. If the initial mass is 80g, what remains after 15 days?",
+"o": null,
+"k": "10g"
+},
+"gs06-168": {
+"s": "AM",
+"tp": "Logarithms",
+"q": "The Richter scale measures an earthquake as 6.0. How much stronger is a 7.0 quake?",
+"o": null,
+"n": "Each step on the Richter scale is 10 times the wave amplitude; in energy released it is about 32 times.",
+"k": "10 times"
+},
+"gs06-172": {
+"s": "AM",
+"tp": "Rates",
+"q": "One pipe fills a tank in 3 hrs, another empties it in 4 hrs. If both work together, how long to fill the tank?",
+"o": [
+"7 hours",
+"12 hours",
+"5 hours"
+],
+"k": "12 hours"
+},
+"gs06-175": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The average rate of change of the function f(x) = 3x² − x + 7 from x = 2 to x = 6 is",
+"o": [
+"42",
+"23",
+"55"
+],
+"k": "23"
+},
+"gs06-177": {
+"s": "AM",
+"tp": "Rates",
+"q": "A tank has 25,000L and drains at 500 L/min. How long until 10% remains?",
+"o": [
+"15 minutes",
+"90 minutes",
+"45 minutes"
+],
+"k": "45 minutes"
+},
+"gs06-178": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A rocket follows the height equation h(t) = −5t² + 50t. At what time does it hit the ground?",
+"o": [
+"20s",
+"12s",
+"10s"
+],
+"k": "10s"
+},
+"gs06-182": {
+"s": "AM",
+"tp": "Ages",
+"q": "Luke is 20 years old and Mary is 30 years old. How many years ago was the ratio of their ages 3:5?",
+"o": null,
+"k": "5 years"
+},
+"gs06-183": {
+"s": "AM",
+"tp": "Arithmetic",
+"q": "A trader has 36,000 oranges to pack into crates of half a dozen oranges each. How many crates can he fill?",
+"o": null,
+"k": "6,000 crates"
+},
+"gs06-184": {
+"s": "AM",
+"tp": "Units",
+"q": "An F1 car travels 3,000 kilometres in 10 hours. How many metres does it travel per hour?",
+"o": null,
+"k": "300,000 m/hr"
+},
+"gs06-185": {
+"s": "AM",
+"tp": "Calculus",
+"q": "If f(x) = sin(3x² + 2x), then the first derivative of f(x) is",
+"o": [
+"6x cos(3x² + 2x)",
+"(6x + 2)sin(3x² + 2x)",
+"(6x + 2)cos(3x² + 2x)"
+],
+"k": "(6x + 2)cos(3x² + 2x)"
+},
+"gs06-191": {
+"s": "AM",
+"tp": "Percentages",
+"q": "During a sale, a $8000 television receives a 25% discount. What's the final sale price?",
+"o": null,
+"a": "$6,000",
+"t": "c",
+"n": "Confirmed when the show used this question in another match."
+},
+"gs06-192": {
+"s": "AM",
+"tp": "Scale",
+"q": "What mass should engineers expect for the production vehicle when its 1:100 scale model weighs 0.5kg?",
+"o": null,
+"n": "Mass goes with volume, so with the cube of the scale: 0.5 kg × 100³ = 500,000 kg.",
+"k": "500,000kg"
+},
+"gs06-195": {
+"s": "AM",
+"tp": "Energy",
+"q": "A 600 MW power plant operates at 25% efficiency. How much thermal energy is wasted per hour?",
+"o": [
+"1,600 MWh",
+"1,800 MWh",
+"1,200 MWh"
+],
+"n": "Taking 600 MW as the output: the input is 600 ÷ 0.25 = 2,400 MW, so 1,800 MW is lost as heat, which is 1,800 MWh in an hour.",
+"k": "1,800 MWh"
+},
+"gs06-197": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "A bacterial culture doubles every 2 hours. How long until it grows 10-fold?",
+"o": [
+"6.64 hours",
+"2.64 hours",
+"8.64 hours"
+],
+"k": "6.64 hours"
+},
+"gs06-198": {
+"s": "AM",
+"tp": "Loans",
+"q": "A loan of $8,000 is repaid with monthly payments of $400. How many payments are needed if the interest is 6% annually?",
+"o": [
+"12 payments",
+"22 payments",
+"18 payments"
+],
+"k": "22 payments"
+},
+"gs06-200": {
+"tp": "Percentages",
+"q": "The price of an item is first increased by 20% and then decreased by 20%. What is the net percentage change?",
+"o": [
+"-2%",
+"-4%",
+"-8%"
+],
+"k": "-4%"
+},
+"gs06-201": {
+"tp": "Vectors",
+"q": "A force of 100N is applied at an angle of 30° to the horizontal. What is the magnitude of its horizontal component?",
+"o": [
+"86.6N",
+"50N",
+"100N"
+],
+"k": "86.6N"
+},
+"gs06-202": {
+"tp": "Exponential growth",
+"q": "A bacterial culture doubles every hour. Starting with 100, how many after 6 hours?",
+"o": [
+"600",
+"320",
+"6,400"
+],
+"k": "6,400"
+},
+"gs06-204": {
+"tp": "Units",
+"q": "A vehicle's fuel consumption is 12km per litre. What is this consumption in meters per millilitre?",
+"o": [
+"0.012 m/mL",
+"0.12 m/mL",
+"12 m/mL"
+],
+"k": "12 m/mL"
+},
+"gs06-205": {
+"skip": true
+},
+"gs06-206": {
+"skip": true
+},
+"gs06-207": {
+"tp": "Exponential growth",
+"q": "A bacterial culture doubles every 30 minutes. Its growth is best modelled by what?",
+"o": [
+"Linear function",
+"Exponential function",
+"Logarithmic function"
+],
+"k": "Exponential function"
+},
+"gs06-208": {
+"tp": "Scale",
+"q": "A scale model of a building is 8cm tall. If the scale is 1:500, what is the actual height of the building in meters?",
+"o": null,
+"k": "40m"
+},
+"gs06-209": {
+"skip": true
+},
+"gs06-210": {
+"skip": true
+},
+"gs06-001": {
+"s": "AM",
+"tp": "Genetics"
+},
+"gs06-002": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "A loan of ₦900,000 repays ₦1,080,000 after 4 years. Compute the annual rate.",
+"o": [
+"5%",
+"20%",
+"15%"
+],
+"k": "5%",
+"t": "w",
+"n": "Taking simple interest: ₦180,000 of interest over 4 years is ₦45,000 a year, which is 5% of ₦900,000."
+},
+"gs06-003": {
+"s": "GK",
+"tp": "Geography"
+},
+"gs06-004": {
+"s": "GK",
+"tp": "Music",
+"q": "Who is Ghana's most decorated rapper, often called \"Obidi\"?"
+},
+"gs06-005": {
+"s": "AM",
+"tp": "Series",
+"q": "The sum of the first n natural numbers is 210. What is the value of n?"
+},
+"gs06-006": {
+"s": "AM",
+"tp": "Exponential growth"
+},
+"gs06-007": {
+"s": "GK",
+"tp": "Politics"
+},
+"gs06-008": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Given f(x) = ln(x² + 1), find the first derivative when x = 2.",
+"o": [
+"1/3",
+"4/5",
+"1/6"
+],
+"k": "4/5"
+},
+"gs06-009": {
+"s": "AM",
+"tp": "Vectors",
+"n": "This is the scalar projection: (A · B) ÷ |B| = 100 ÷ 5 = 20."
+},
+"gs06-010": {
+"s": "AM",
+"tp": "Mixtures"
+},
+"gs06-011": {
+"s": "AM",
+"tp": "Errors",
+"q": "A measurement error of ±0.5cm occurs in a 20cm rod. What is the relative error?",
+"k": "2.5% or 0.025"
+},
+"gs06-012": {
+"s": "DA",
+"tp": "Interquartile range"
+},
+"gs06-013": {
+"s": "AM",
+"tp": "Clock angles"
+},
+"gs06-014": {
+"s": "VR",
+"tp": "Idioms"
+},
+"gs06-015": {
+"s": "AM",
+"tp": "Functions",
+"n": "As written V(t) = 300 + 4t goes up over time, so it isn't depreciation; the show just worked out V(2) = 308."
+},
+"gs06-016": {
+"s": "GK",
+"tp": "Geography"
+},
+"gs06-017": {
+"s": "DA",
+"tp": "Regression",
+"q": "A regression line has equation y = 1.2x + 5. Estimate y when x = 10."
+},
+"gs06-018": {
+"s": "DA",
+"tp": "Charts"
+},
+"gs06-019": {
+"s": "VR",
+"tp": "Synonyms",
+"q": "Which is a synonym of 'Iconoclast'?"
+},
+"gs06-020": {
+"s": "AM",
+"tp": "Vectors",
+"k": "i + 9j"
+},
+"gs06-021": {
+"s": "DA",
+"tp": "Covariance"
+},
+"gs06-022": {
+"s": "AM",
+"tp": "Units",
+"n": "The real speed of sound in air is about 343 m/s; the question uses 1,200 m/s just for the conversion."
+},
+"gs06-023": {
+"s": "GK",
+"tp": "Health"
+},
+"gs06-024": {
+"s": "AM",
+"tp": "Mensuration",
+"n": "4 × 2π × 70 = 560π ≈ 1,759 m, exactly 1,760 m with π = 22/7."
+},
+"gs06-025": {
+"s": "DA",
+"tp": "Combinations"
+},
+"gs06-026": {
+"s": "AM",
+"tp": "Mensuration"
+},
+"gs06-027": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "A ₦300K loan at 12% simple interest for 6 years. What is the total repayment?",
+"o": [
+"₦104,000",
+"₦516,000",
+"₦206,000"
+],
+"k": "₦516,000"
+},
+"gs06-028": {
+"s": "AM",
+"tp": "Percentages",
+"q": "A phone's price drops 25% yearly. If it costs $800 now, what was its price 2 years ago?"
+},
+"gs06-029": {
+"s": "GK",
+"tp": "History"
+},
+"gs06-030": {
+"s": "AM",
+"tp": "Percentages"
+},
+"gs06-031": {
+"s": "DA",
+"tp": "z-scores",
+"k": "1",
+"t": "w"
+},
+"gs06-032": {
+"s": "AM",
+"tp": "Linear equations",
+"q": "Rectangular in shape, a park has a length triple its width. Given an 88-meter perimeter, determine its width."
+},
+"gs06-033": {
+"s": "GK",
+"tp": "History"
+},
+"gs06-034": {
+"s": "GK",
+"tp": "Culture"
+},
+"gs06-035": {
+"s": "DA",
+"tp": "Skewness",
+"q": "If Bowley's skewness = 0.2, Q1 = 40, Q3 = 80, what is the median?"
+},
+"gs06-036": {
+"s": "GK",
+"tp": "Music",
+"q": "Who was the South African jazz musician known as the \"Father of South African jazz\"?"
+},
+"gs06-037": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "From an 80m tower, the angle of depression to a car is 45°. How far is the car?"
+},
+"gs06-038": {
+"s": "AM",
+"tp": "Waves",
+"k": "2,000nm"
+},
+"gs06-039": {
+"s": "AM",
+"tp": "Mensuration",
+"q": "The diagonal of a rectangular field measures 50m and one side is 30m. Find the length of the remaining side."
+},
+"gs06-040": {
+"s": "AM",
+"tp": "Percentages",
+"q": "If 80% of light is absorbed from an initial intensity of 400 W/m², what intensity is transmitted?",
+"k": "80W/m²"
+},
+"gs06-041": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "The height h (in meters) of a projectile is h(t) = −5t² + 20t. What is the maximum height?"
+},
+"gs06-042": {
+"s": "AM",
+"tp": "Linear equations"
+},
+"gs06-043": {
+"s": "AM",
+"tp": "Concentration"
+},
+"gs06-044": {
+"s": "AM",
+"tp": "Complex numbers",
+"q": "Evaluate (2 + 3i)(1 − i).",
+"k": "5 + i"
+},
+"gs06-045": {
+"s": "AM",
+"tp": "Percentages",
+"q": "If a car depreciates 20% annually, what is its value after 3 years if it costs ₦1,000,000?",
+"o": [
+"₦324,000",
+"₦640,000",
+"₦512,000"
+],
+"k": "₦512,000"
+},
+"gs06-046": {
+"s": "AM",
+"tp": "Units",
+"k": "133 km/mins",
+"a": "0.133 km/mins",
+"t": "d",
+"n": "30 km ÷ 225 minutes = 0.133 km per minute. The show's answer bar said 133 km/mins."
+},
+"gs06-047": {
+"s": "AM",
+"tp": "Ratio",
+"q": "The salary ratio of a manager to an assistant is 5:2. If the assistant earns ₦80,000, what is the manager's salary?",
+"k": "₦200,000"
+},
+"gs06-048": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "A man sees a tower at an angle of elevation 45°. If he stands 50m away, how tall is the tower?",
+"k": "50m",
+"t": "w"
+},
+"gs06-049": {
+"s": "AM",
+"tp": "Oscillations",
+"n": "This counts each full back-and-forth as one swing (300 s ÷ 2 s). Counting each one-way swing would give 300."
+},
+"gs06-050": {
+"s": "AM",
+"tp": "Percentages"
+},
+"gs06-051": {
+"s": "AM",
+"tp": "Rates"
+},
+"gs06-052": {
+"s": "GK",
+"tp": "Politics"
+},
+"gs06-053": {
+"s": "DA",
+"tp": "Stem-and-leaf",
+"k": "21, 23, 25"
+},
+"gs06-054": {
+"s": "GK",
+"tp": "Agriculture"
+},
+"gs06-055": {
+"s": "GK",
+"tp": "History",
+"q": "In 1985, which Guinean leader was overthrown in a coup after the death of Ahmed Sékou Touré?",
+"n": "The coup was in April 1984, a week after Sékou Touré died; Louis Lansana Beavogui was the acting president."
+},
+"gs06-056": {
+"s": "GK",
+"tp": "Music"
+},
+"gs06-058": {
+"s": "AM",
+"tp": "Vectors",
+"k": "5N"
+},
+"gs06-059": {
+"s": "VR",
+"tp": "Deductions"
+},
+"gs06-061": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "If Nigeria's population grows at 2.5% annually, how many years will it take to double?",
+"o": [
+"40",
+"28",
+"35"
+],
+"k": "28"
+},
+"gs06-063": {
+"s": "AM",
+"tp": "Genetics",
+"o": [
+"55%",
+"25%",
+"95%"
+],
+"k": "25%"
+},
+"gs06-064": {
+"s": "AM",
+"tp": "Integration",
+"q": "What is the antiderivative of (2x + 1) dx?",
+"k": "x² + x + C"
+},
+"gs06-065": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The cost function C(x) = x³ − 6x² + 15x models production costs. What output x minimises cost?",
+"o": [
+"2",
+"3",
+"4"
+],
+"k": "2",
+"n": "C′(x) = 3(x − 2)² + 3 is always positive, so the cost keeps rising with output and has no turning point. The show's x = 2 is where the marginal cost C′(x) is lowest."
+},
+"gs06-066": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "A bacterial colony starts with 500 cells and doubles every 20 minutes. How many cells will there be after 3 hours?",
+"o": [
+"356,000 cells",
+"146,000 cells",
+"256,000 cells"
+],
+"k": "256,000 cells"
+},
+"gs06-070": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "₦18,000 earns ₦3,600 in simple interest over 4 years. What is the rate?"
+},
+"gs06-072": {
+"s": "AM",
+"tp": "Complex numbers",
+"q": "If a complex number z = 4 − 3i, find the absolute value of z.",
+"o": [
+"7",
+"6",
+"5"
+],
+"k": "5"
+},
+"gs06-073": {
+"s": "AM",
+"tp": "Vectors",
+"q": "If A = 2i − j and B = −i + 3j, what is A · B?",
+"k": "−5"
+},
+"gs06-074": {
+"s": "GK",
+"tp": "Geography",
+"q": "Algeria's Hoggar (Ahaggar) Mountains are in the"
+},
+"gs06-075": {
+"s": "GK",
+"tp": "Environment",
+"q": "Desert locust invasions mostly affect ____"
+},
+"gs06-076": {
+"s": "AM",
+"tp": "Ratio",
+"o": [
+"3",
+"4",
+"2"
+],
+"k": "4"
+},
+"gs06-077": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "How long will it take ₦8,000 to double at 5% simple interest?",
+"k": "20 years",
+"n": "Confirmed when the show used this question in another match."
+},
+"gs06-078": {
+"tp": "Half-life",
+"q": "Drug with an 8-hour half-life is dosed at 600mg. What remains after 24 hours?",
+"o": [
+"75mg",
+"150mg",
+"300mg"
+]
+},
+"gs06-081": {
+"tp": "Calculus",
+"q": "For the function f(x) = 4x³ − 6x² + 2x − 8, compute its third derivative.",
+"k": "24"
+},
+"gs06-083": {
+"tp": "Integration",
+"q": "The area under the curve y = 2x² from x = 0 to x = 4 represents the total distance travelled. What is the distance?",
+"o": [
+"9 units",
+"12 units",
+"43 units"
+],
+"k": "43 units",
+"n": "The exact area is 128/3 ≈ 42.7, which the show rounded to 43."
+},
+"gs06-085": {
+"tp": "Calculus",
+"q": "For f(x) = ln(2x − 1), what is the first derivative of f(x) at x = 2?",
+"o": [
+"1/3",
+"2/3",
+"1/2"
+],
+"k": "2/3"
+},
+"gs06-087": {
+"tp": "Quadratics",
+"q": "For the quadratic equation 2x² − 5x − 3 = 0, find the sum of its roots.",
+"o": [
+"1/3",
+"5/2",
+"3/2"
+],
+"k": "5/2"
+},
+"gs06-091": {
+"tp": "Errors"
+},
+"gs06-092": {
+"tp": "Energy",
+"q": "A 750-MW plant runs at 80% of a 55% Carnot limit. How much heat is dumped to the environment per day?",
+"o": [
+"2.36 × 10¹³ J",
+"8.25 × 10¹³ J",
+"4.81 × 10¹³ J"
+],
+"k": "8.25 × 10¹³ J"
+},
+"gs06-093": {
+"tp": "Ratio"
+},
+"gs06-095": {
+"tp": "Kinematics",
+"q": "For v(t) = t² − 6t + 8, find the time interval when velocity is negative.",
+"o": [
+"0 < t < 4",
+"2 < t < 4",
+"t > 4"
+],
+"k": "2 < t < 4"
+},
+"gs06-097": {
+"tp": "Logic",
+"q": "____ axioms are taken to be true within the system of logic they define and are often shown in symbolic form."
+},
+"gs06-098": {
+"tp": "Agriculture"
+},
+"gs06-099": {
+"tp": "Geography",
+"q": "What is the name of the semiarid sandy desert in Southern Africa covering 900,000 km²?"
+},
+"gs06-100": {
+"tp": "Sport"
+},
+"gs06-101": {
+"skip": true
+},
+"gs06-102": {
+"tp": "Geography"
+},
+"gs06-103": {
+"tp": "History"
+},
+"gs06-104": {
+"tp": "Culture"
+},
+"gs06-105": {
+"tp": "Culture"
+},
+"gs06-106": {
+"tp": "Health"
+},
+"gs06-107": {
+"tp": "Geography"
+},
+"gs06-108": {
+"tp": "History"
+},
+"gs06-109": {
+"tp": "Geography"
+},
+"gs06-110": {
+"tp": "History"
+},
+"gs06-111": {
+"tp": "Geography"
+},
+"gs06-112": {
+"tp": "Health"
+},
+"gs06-113": {
+"tp": "Film"
+},
+"gs06-114": {
+"tp": "Politics"
+},
+"gs06-115": {
+"tp": "Arrangements"
+},
+"gs06-116": {
+"tp": "Directions",
+"q": "If a man walks 5 km North, then 3 km East, where is he from the start?",
+"o": [
+"√34 km NE",
+"8 km East",
+"5 km North"
+],
+"k": "√34 km NE"
+},
+"gs06-117": {
+"tp": "Rates",
+"q": "A project was 75% done after 9 days. What were the total project days?"
+},
+"gs06-118": {
+"tp": "Ordering",
+"n": "From cheapest: Acer, Lenovo, HP, Dell. Lenovo is second cheapest (HP is second most expensive)."
+},
+"gs06-119": {
+"tp": "Analogies"
+},
+"gs06-120": {
+"tp": "Blood relations"
+},
+"gs06-121": {
+"tp": "Directions"
+},
+"gs06-122": {
+"tp": "Series",
+"q": "Complete the series: A, C, E, G, ?",
+"o": [
+"I",
+"H",
+"J"
+],
+"k": "I"
+},
+"gs06-123": {
+"tp": "Arrangements",
+"n": "The clues don't fix whether Green or Yellow sits diagonally opposite Red; the show took Yellow."
+},
+"gs06-124": {
+"tp": "Odd one out"
+},
+"gs06-125": {
+"tp": "Riddles",
+"q": "A man dies of thirst in his own house. How is this possible?",
+"o": [
+"He is shipwrecked and surrounded by salt water",
+"He is in a desert",
+"He is in a sauna"
+],
+"k": "He is shipwrecked and surrounded by salt water"
+},
+"gs06-126": {
+"tp": "Blood relations",
+"q": "Paul is Sam's son. Tim is Sam's brother. How is Tim related to Paul?"
+},
+"gs06-127": {
+"tp": "Spelling",
+"n": "The correct spelling is \"embarrass\"."
+},
+"gs06-128": {
+"tp": "Blood relations",
+"k": "Father-in-law",
+"n": "T is the father-in-law of P's sister R, which is how the show's answer bar put it: Father-in-law (of sister)."
+},
+"gs06-129": {
+"tp": "Blood relations",
+"q": "If A is the mother of B, and B is the father of D, how is A related to D?"
+},
+"gs06-130": {
+"tp": "z-scores",
+"k": "2",
+"t": "w"
+},
+"gs06-131": {
+"tp": "Charts",
+"q": "A circle graph shows renewables = 25% of 1,000 MW. How many megawatts are NOT from renewables?",
+"o": [
+"750MW",
+"700MW",
+"800MW"
+],
+"k": "750MW"
+},
+"gs06-132": {
+"tp": "Standard deviation",
+"q": "If every value in a dataset is multiplied by 3, the standard deviation will ____"
+},
+"gs06-133": {
+"tp": "Permutations"
+},
+"gs06-134": {
+"skip": true
+},
+"gs06-135": {
+"skip": true
+},
+"gs06-136": {
+"tp": "Probability",
+"k": "9/11",
+"a": "9/44",
+"t": "d",
+"n": "Red first is 3/12 and blue next is 9/11, so red then blue is 3/12 × 9/11 = 9/44. The show's 9/11 is only the chance of blue second once a red has come out; 9/44 wasn't among the options."
+},
+"gs06-137": {
+"tp": "Permutations",
+"q": "In a race with 8 runners, how many ways can gold, silver, and bronze medals be awarded?"
+},
+"gs06-138": {
+"tp": "Mean",
+"q": "What is the mean of the ebook downloads: 25, 50, 75 and 90?"
+},
+"gs06-139": {
+"tp": "Median",
+"q": "A bar chart shows heights: A = 5, B = 8, C = 6. Which bar corresponds to the median height?",
+"k": "C"
+},
+"gs06-140": {
+"tp": "Probability",
+"q": "If a wife's selection chance is 3/7 and her husband's is 2/3, what is the probability that neither is selected?",
+"o": [
+"1/21",
+"3/21",
+"4/21"
+],
+"k": "4/21"
+},
+"gs06-141": {
+"tp": "Permutations",
+"q": "Find the sum of all four-digit numbers that can be formed by the digits 1, 3, 5, 7, 9 without repetition."
+},
+"gs06-142": {
+"tp": "Conditional probability",
+"q": "When two coins are tossed, let E = no tail appears and F = no head appears. Find P(E | F).",
+"o": [
+"1",
+"0",
+"0.5"
+],
+"k": "0"
+},
+"gs06-143": {
+"tp": "Permutations"
+},
+"gs06-144": {
+"tp": "Standard deviation"
+},
+"gs06-145": {
+"tp": "Charts"
+},
+"gs06-146": {
+"tp": "Mean",
+"q": "If a student's monthly mobile data usage over 5 months was 10, 20, 40, 60, 80, what is the mean monthly data usage?"
+},
+"gs06-147": {
+"tp": "Probability",
+"q": "If a coin is flipped 3 times, what is the probability of 2 heads?"
+},
+"gs06-149": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "How long will it take ₦8,000 to double at 5% simple interest?"
+},
+"gs06-150": {
+"s": "AM",
+"tp": "Calculus",
+"o": [
+"e − 1",
+"2e",
+"1/(e − 1)"
+],
+"k": "1/(e − 1)"
+},
+"gs06-153": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "If Zara's paternal aunt's only brother is my maternal grandfather, who am I to Zara?",
+"n": "The aunt's only brother is Zara's father, so my mother is Zara's sister and I am Zara's niece (or nephew)."
+},
+"gs06-154": {
+"s": "GK",
+"tp": "Culture"
+},
+"gs06-156": {
+"s": "AM",
+"tp": "Percentages",
+"o": [
+"70%",
+"60%",
+"75%"
+],
+"k": "75%"
+},
+"gs06-157": {
+"s": "DA",
+"tp": "Charts",
+"q": "A pie chart's largest sector is 60°. What percentage represents the other sectors?"
+},
+"gs06-158": {
+"s": "DA",
+"tp": "Covariance",
+"q": "Covariance is 48, standard deviation of X = 8, correlation 0.6. Find the standard deviation of Y."
+},
+"gs06-163": {
+"s": "DA",
+"tp": "Skewness",
+"q": "A factory's daily output has a mean of 600 units and a median of 4,800 units. What is the direction of the skewness?"
+},
+"gs06-164": {
+"s": "AM",
+"tp": "Proportion",
+"q": "If 5kg of flour costs ₦2,500, how much will 12kg cost?",
+"k": "₦6,000"
+},
+"gs06-167": {
+"s": "GK",
+"tp": "Health",
+"q": "In Seychelles, which traditional plant is often used for digestive issues?"
+},
+"gs06-169": {
+"s": "GK",
+"tp": "Agriculture",
+"q": "A widely used climate-smart agriculture practice in the Sahel is ____"
+},
+"gs06-170": {
+"s": "DA",
+"tp": "Sets and Venn diagrams",
+"q": "In a group, 60% own a car, 40% own a bike, and 30% own both. What percentage owns neither?"
+},
+"gs06-171": {
+"s": "GK",
+"tp": "Geography"
+},
+"gs06-173": {
+"s": "VR",
+"tp": "Anagrams"
+},
+"gs06-174": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "What principal will earn ₦2,000 at 10% simple interest in 2 years?",
+"k": "₦10,000"
+},
+"gs06-176": {
+"s": "GK",
+"tp": "Geography",
+"o": [
+"Ghana (Kumasi)",
+"Tanzania (Dodoma)",
+"Namibia (Walvis Bay)"
+],
+"k": "Tanzania (Dodoma)"
+},
+"gs06-179": {
+"s": "GK",
+"tp": "Technology",
+"q": "Youth innovation hubs in Kenya are mostly located in:"
+},
+"gs06-180": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The streaming service has revenue R(x) = 30x − 0.5x² (x in 000s). Find the subscriber target.",
+"k": "30,000 subscribers"
+},
+"gs06-181": {
+"s": "DA",
+"tp": "Probability"
+},
+"gs06-186": {
+"s": "DA",
+"tp": "Probability",
+"q": "If P(Math) = 0.25 and P(English) = 0.45 and they are independent, what's P(pass both)?"
+},
+"gs06-187": {
+"s": "DA",
+"tp": "Covariance",
+"q": "Two variables have covariance 36 and correlation 0.6. If X's standard deviation is 6, what is Y's standard deviation?"
+},
+"gs06-188": {
+"s": "DA",
+"tp": "Probability",
+"q": "A 5-bit binary string is chosen at random. What is the probability that it contains exactly three 0's?",
+"o": [
+"5/16",
+"3/16",
+"7/16"
+],
+"k": "5/16"
+},
+"gs06-189": {
+"s": "DA",
+"tp": "Interquartile range"
+},
+"gs06-190": {
+"s": "AM",
+"tp": "Pressure",
+"k": "29,400Pa",
+"n": "This is the pressure from the water alone (gauge pressure): ρgh = 1,000 × 9.8 × 3 = 29,400 Pa."
+},
+"gs06-193": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "If A is the son of B, C is the daughter of A, D is the brother of B, how is D related to C?",
+"o": null,
+"k": "Grand-uncle",
+"n": "D is the brother of C's grandparent B. The options shown (Grandfather, Father, Cousin) didn't include the show's answer."
+},
+"gs06-194": {
+"s": "VR",
+"tp": "Analogies",
+"q": "Find the missing word Earth: 9.8 m/s² :: Moon : ____",
+"o": [
+"5.88 m/s²",
+"2.16 m/s²",
+"1.62 m/s²"
+],
+"k": "1.62 m/s²"
+},
+"gs06-196": {
+"s": "AM",
+"tp": "Rates"
+},
+"gs06-199": {
+"s": "DA",
+"tp": "Variance",
+"n": "This is the population variance (divide by 5); the sample variance (divide by 4) would be 10."
+},
+"gs06-203": {
+"tp": "Probability",
+"q": "A fair coin is tossed 4 times. What is the probability of getting at least one head?",
+"o": [
+"15/16",
+"1/2",
+"7/8"
+],
+"k": "15/16"
+},
+"gs06-211": {
+"tp": "Functions",
+"q": "The growth of a plant is modelled by y = 3x² − 2x + 7. What is the height when x = 4?",
+"k": "47"
+},
+"gs06-212": {
+"tp": "Scale",
+"q": "A 6cm model bridge is at a 1:250 scale. What is its real length in meters?",
+"k": "15m"
+},
+"gs06-213": {
+"tp": "Rates"
+},
+"gs06-214": {
+"tp": "Trigonometry"
+},
+"gs06-215": {
+"tp": "Integration",
+"q": "If the first derivative of C(q) is 6q − 12 and the fixed cost is ₦200, what is the total cost to produce q = 10 units?",
+"o": [
+"₦80",
+"₦280",
+"₦380"
+],
+"k": "₦380"
+},
+"gs06-216": {
+"tp": "Linear algebra",
+"q": "What is the determinant of the matrix [[2, 3], [1, 4]]?",
+"k": "5"
+},
+"gs06-217": {
+"tp": "Genetics",
+"k": "3:1"
+},
+"gs06-218": {
+"tp": "Energy",
+"q": "Lifting an object that weighs 30N to a window 10 meters high requires how much energy?",
+"o": [
+"16J",
+"300J",
+"600J"
+],
+"k": "300J"
+},
+"gs06-219": {
+"tp": "Proportion"
+},
+"gs06-220": {
+"tp": "Directions",
+"k": "Southern Hemisphere",
+"a": "Northern Hemisphere",
+"t": "d",
+"n": "A shadow points away from the sun. A noon shadow pointing north means the sun is to the south, as it is in the Northern Hemisphere (north of the tropics). The show's answer bar said Southern Hemisphere."
+},
+"gs06-221": {
+"tp": "Analogies",
+"q": "Retina is to eye as cochlea is to..."
+},
+"gs06-222": {
+"tp": "Ordering"
+},
+"gs06-223": {
+"tp": "Directions"
+},
+"gs06-224": {
+"tp": "Odd one out",
+"q": "Find the odd one out: 12, 25, 37, 49, 51",
+"n": "37 is the only prime number in the list."
+},
+"gs06-225": {
+"tp": "Blood relations",
+"k": "Her Son",
+"a": "Her nephew",
+"t": "d",
+"n": "Her mother's only son is her brother, so the man in the photo is her brother's son: her nephew. None of the options fits; the show's answer bar said Her Son."
+},
+"gs06-226": {
+"tp": "Blood relations"
+},
+"gs06-227": {
+"tp": "Seating arrangements",
+"q": "8 people sit in two rows facing each other. A is facing B, C is to the right of A, and D is to the left of B. Who faces D?"
+},
+"gs06-228": {
+"tp": "Ordering",
+"q": "Five boxes, P, Q, R, S, T, are in a stack. Q is just above S, R is at the bottom, and T is above all. Which is in the middle?",
+"n": "S can be second or third from the bottom, so the middle box could be Q or S; the show took Q."
+},
+"gs06-229": {
+"tp": "Directions",
+"q": "If a man walks North 10 km, then South 10 km, where is he?"
+},
+"gs06-230": {
+"tp": "Analogies",
+"k": "Hat",
+"t": "w",
+"n": "Hat is the usual answer; a helmet and a cap also cover the head."
+},
+"gs06-231": {
+"tp": "Analogies"
+},
+"gs06-232": {
+"tp": "Directions",
+"k": "South-West",
+"a": "South",
+"t": "d",
+"n": "225° clockwise from north faces south-west; turning back 45° anticlockwise faces south. The show's answer bar said South-West, and South wasn't among the options."
+},
+"gs06-233": {
+"tp": "Permutations",
+"q": "The number of permutations of the word \"BALLOON\" is ____"
+},
+"gs06-234": {
+"tp": "Machine learning"
+},
+"gs06-235": {
+"tp": "Probability"
+},
+"gs06-236": {
+"tp": "Simple interest"
+},
+"gs06-237": {
+"tp": "Mean"
+},
+"gs06-238": {
+"tp": "Summary statistics"
+},
+"gs06-239": {
+"tp": "Sets and Venn diagrams"
+},
+"gs06-240": {
+"tp": "Summary statistics"
+},
+"gs06-241": {
+"tp": "Research methods"
+},
+"gs06-242": {
+"tp": "Probability"
+},
+"gs06-243": {
+"tp": "Normal distribution",
+"q": "In a normal distribution, approximately 95% of data lies within ____"
+},
+"gs06-244": {
+"tp": "Sampling",
+"q": "Any population which we want to study is referred to as?"
+},
+"gs06-245": {
+"tp": "Permutations",
+"q": "How many award arrangements are possible for 6 clubs competing for 1st, 2nd, and 3rd places?"
+},
+"gs06-246": {
+"tp": "Normal distribution",
+"n": "P(Z < 6) is about 0.999999999; 0.99 is the nearest option."
+},
+"gs06-247": {
+"tp": "Probability distributions",
+"k": "Probability Distribution"
+},
+"gs06-248": {
+"tp": "Probability"
+},
+"gs06-249": {
+"tp": "Geography",
+"q": "Which forest is called the \"Lungs of Africa\"?"
+},
+"gs06-250": {
+"tp": "Health"
+},
+"gs06-251": {
+"tp": "Science",
+"drop": "answer not confirmed"
+},
+"gs06-252": {
+"tp": "History"
+},
+"gs06-253": {
+"tp": "Technology",
+"o": [
+"Electric motor",
+"Combustion engine",
+"Hybrid motor"
+]
+},
+"gs06-254": {
+"tp": "Film",
+"q": "Which Nigerian actor starred in the blockbuster \"King of Boys\"?",
+"drop": "answer not confirmed"
+},
+"gs06-255": {
+"tp": "Politics"
+},
+"gs06-256": {
+"tp": "Geography"
+},
+"gs06-257": {
+"tp": "Science",
+"q": "Which element, used in making semiconductors, is obtained mainly from quartz?",
+"k": "Silicon"
+},
+"gs06-258": {
+"tp": "Energy"
+},
+"gs06-259": {
+"tp": "History",
+"q": "Which is known as the \"Father of Geometry\"?"
+},
+"gs06-260": {
+"tp": "Culture"
+},
+"gs06-261": {
+"tp": "Politics",
+"k": "Léopold Sédar Senghor"
+},
+"gs06-262": {
+"tp": "History",
+"q": "Aristotle's father was a ____"
+},
+"gs06-263": {
+"tp": "Geography",
+"k": "Seychelles"
+},
+"gs06-264": {
+"tp": "Energy",
+"q": "Which African nation is actively turning agricultural waste into biomass pellets for power?"
+}
+}

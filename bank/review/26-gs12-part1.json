@@ -1,0 +1,735 @@
+{
+"gs12a-039": {
+"s": "AM",
+"tp": "Genetics",
+"q": "What is the expected frequency of homozygous recessives if q = 0.3 in the Hardy-Weinberg population?",
+"o": [
+"6%",
+"9%",
+"3%"
+],
+"k": "9%"
+},
+"gs12a-040": {
+"s": "AM",
+"tp": "Series",
+"q": "The sum of the first n natural numbers is 210. What is the value of n?",
+"o": [
+"19",
+"20",
+"21"
+],
+"k": "20"
+},
+"gs12a-041": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "A bacterial culture doubles every hour. Starting with 500 cells, how many after 5 hours?",
+"o": null,
+"k": "16,000 cells"
+},
+"gs12a-051": {
+"s": "AM",
+"tp": "Vectors",
+"q": "Find the projection of vector A = (12, 16) onto B = (3, 4).",
+"o": null,
+"n": "This is the scalar projection: (A · B) ÷ |B| = 100 ÷ 5 = 20.",
+"k": "20"
+},
+"gs12a-052": {
+"s": "AM",
+"tp": "Mixtures",
+"q": "To create 30kg of trail mix worth $7/kg, how many $9/kg nuts and $4/kg dried fruit should be combined?",
+"o": [
+"11kg and 12kg",
+"14kg and 24kg",
+"18kg and 12kg"
+],
+"k": "18kg and 12kg"
+},
+"gs12a-053": {
+"s": "AM",
+"tp": "Errors",
+"q": "A measurement error of ±0.5cm occurs in a 20cm rod. What is the relative error?",
+"o": null,
+"k": "2.5% or 0.025"
+},
+"gs12a-056": {
+"s": "AM",
+"tp": "Functions",
+"q": "A company models depreciation as V(t) = 300 + 4t. What is the car's value after 2 years?",
+"o": null,
+"n": "As written V(t) = 300 + 4t goes up over time, so it isn't depreciation; the show just worked out V(2) = 308.",
+"k": "308"
+},
+"gs12a-057": {
+"s": "DA",
+"tp": "Regression",
+"q": "A regression line has equation y = 1.2x + 5. Estimate y when x = 10.",
+"o": null,
+"k": "17"
+},
+"gs12a-062": {
+"s": "AM",
+"tp": "Units",
+"q": "The speed of sound in air is approximately 1,200 meters per second. How many kilometres per minute is this?",
+"o": [
+"144 km/mins",
+"72 km/mins",
+"36 km/mins"
+],
+"n": "The real speed of sound in air is about 343 m/s; the question uses 1,200 m/s just for the conversion.",
+"k": "72 km/mins"
+},
+"gs12a-065": {
+"s": "AM",
+"tp": "Mensuration",
+"q": "What is the length of the longest straight line that can fit inside a rectangular box measuring 15cm x 10cm x 6cm?",
+"o": null,
+"k": "19cm"
+},
+"gs12a-069": {
+"s": "AM",
+"tp": "Percentages",
+"q": "A light filter blocks 40% of light per cm. What percentage passes through a 3cm filter?",
+"o": [
+"21.6%",
+"48.5%",
+"56%"
+],
+"k": "21.6%"
+},
+"gs12a-116": {
+"tp": "Directions",
+"q": "Facing North, turn 270° left. Which direction are you?",
+"o": [
+"South-West",
+"East",
+"South"
+],
+"k": "East"
+},
+"gs12a-001": {
+"skip": true
+},
+"gs12a-017": {
+"skip": true
+},
+"gs12a-071": {
+"skip": true
+},
+"gs12a-072": {
+"skip": true
+},
+"gs12a-073": {
+"skip": true
+},
+"gs12a-074": {
+"skip": true
+},
+"gs12a-075": {
+"skip": true
+},
+"gs12a-133": {
+"skip": true
+},
+"gs12a-002": {
+"s": "DA",
+"tp": "Percentiles"
+},
+"gs12a-003": {
+"s": "GK",
+"tp": "Film"
+},
+"gs12a-004": {
+"s": "AM",
+"tp": "Scale"
+},
+"gs12a-005": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "Following the path h = −16t² + 192t, when does the launched firework return to earth?"
+},
+"gs12a-006": {
+"s": "DA",
+"tp": "Charts"
+},
+"gs12a-007": {
+"s": "DA",
+"tp": "z-scores",
+"q": "Find the z-score for x = 17 if the mean = 15 and the standard deviation σ = 2."
+},
+"gs12a-008": {
+"s": "DA",
+"tp": "Charts",
+"q": "A bar graph shows Company X's profit is 150% of Company Y's. If Y's profit is ₦200,000, what is X's?",
+"k": "₦300,000"
+},
+"gs12a-009": {
+"s": "AM",
+"tp": "Concentration"
+},
+"gs12a-010": {
+"s": "GK",
+"tp": "Environment",
+"q": "The \"Green Sahara\" periods in prehistory were driven largely by ____"
+},
+"gs12a-011": {
+"s": "DA",
+"tp": "Normal distribution",
+"q": "In a normal distribution, mean = 50, SD = 5. What percentage lies between 45 and 55?"
+},
+"gs12a-012": {
+"s": "VR",
+"tp": "Directions"
+},
+"gs12a-013": {
+"s": "AM",
+"tp": "Energy",
+"q": "Using a 100W bulb for 6 hours results in how much energy consumption in kilojoules?",
+"k": "2,160,000J or 2,160kJ"
+},
+"gs12a-014": {
+"s": "AM",
+"tp": "Percentages",
+"q": "A lecturer earns ₦500,000 weekly and saves ₦70,000 for a car. What percentage of his earnings is saved?"
+},
+"gs12a-015": {
+"s": "DA",
+"tp": "Probability",
+"q": "A bag contains 4 red, 5 blue, and 3 green balls. If 2 are drawn without replacement, what's the chance both are red?",
+"o": [
+"3/11",
+"1/11",
+"2/11"
+],
+"k": "1/11",
+"t": "w"
+},
+"gs12a-016": {
+"skip": true
+},
+"gs12a-018": {
+"s": "AM",
+"tp": "Percentages"
+},
+"gs12a-019": {
+"s": "AM",
+"tp": "Mensuration"
+},
+"gs12a-020": {
+"s": "GK",
+"tp": "Science",
+"q": "South Africa's Karoo skies and climate help with ____"
+},
+"gs12a-021": {
+"s": "AM",
+"tp": "Genetics",
+"k": "0.49"
+},
+"gs12a-022": {
+"s": "AM",
+"tp": "Energy",
+"q": "A motor delivers 20J in 4 mins. What is its power in watts?",
+"o": [
+"1/12 W",
+"1/14 W",
+"1/24 W"
+],
+"k": "1/12 W"
+},
+"gs12a-023": {
+"skip": true
+},
+"gs12a-024": {
+"skip": true
+},
+"gs12a-025": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "C says to D, \"You are the daughter of my mother's only daughter.\" How is D related to C?",
+"o": null,
+"k": "Daughter",
+"n": "This takes C to be a woman (her mother's only daughter is herself); if C is a man, D is his niece. The screen showed the previous question's options with this one."
+},
+"gs12a-026": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "Estimate the time for a bacterial population to grow from 1,000 to 8,000 if it doubles every 2 hours."
+},
+"gs12a-027": {
+"s": "AM",
+"tp": "Vectors",
+"q": "Two forces F₁ = 5i + 2j, F₂ = −3i + 4j. Find the resultant vector.",
+"k": "2i + 6j"
+},
+"gs12a-028": {
+"s": "AM",
+"tp": "Simple interest"
+},
+"gs12a-029": {
+"s": "AM",
+"tp": "Energy",
+"k": "60J"
+},
+"gs12a-030": {
+"s": "DA",
+"tp": "Outliers",
+"q": "A dataset has Q1 = 15 and Q3 = 45. Calculate the lower outlier threshold using the 1.5 × IQR rule.",
+"k": "30",
+"a": "−30",
+"t": "d",
+"n": "Q1 − 1.5 × IQR = 15 − 1.5 × 30 = −30. The show's answer bar said 30, which drops the minus sign."
+},
+"gs12a-031": {
+"s": "GK",
+"tp": "Agriculture"
+},
+"gs12a-032": {
+"s": "DA",
+"tp": "Correlation",
+"n": "The show read r = 0.78 as 78%. The share of the variation in scores that study hours explain is r² ≈ 61%."
+},
+"gs12a-033": {
+"s": "VR",
+"tp": "Syllogisms",
+"q": "If some X are Y and all Y are Z, then ____"
+},
+"gs12a-034": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"GPS\" is to \"Location\" as \"Gyroscope\" is to ____"
+},
+"gs12a-035": {
+"s": "AM",
+"tp": "Scale",
+"k": "10km or 10,000m"
+},
+"gs12a-036": {
+"s": "AM",
+"tp": "Clock angles"
+},
+"gs12a-037": {
+"s": "GK",
+"tp": "Technology",
+"q": "Which sorting algorithm has the worst-case time complexity O(n²)?"
+},
+"gs12a-038": {
+"s": "AM",
+"tp": "Integration",
+"q": "Find the total area under the curve y = 3x between x = 1 and x = 4."
+},
+"gs12a-042": {
+"s": "DA",
+"tp": "Relative frequency",
+"k": "10%"
+},
+"gs12a-043": {
+"s": "DA",
+"tp": "Permutations"
+},
+"gs12a-044": {
+"s": "VR",
+"tp": "Analogies",
+"q": "If 'VERBAL' is to 'ORAL', then 'WRITTEN' is to:"
+},
+"gs12a-045": {
+"skip": true
+},
+"gs12a-046": {
+"skip": true
+},
+"gs12a-047": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Given f(x) = ln(x² + 1), find the first derivative when x = 2.",
+"o": [
+"1/3",
+"4/5",
+"1/6"
+],
+"k": "4/5"
+},
+"gs12a-048": {
+"s": "VR",
+"tp": "Directions",
+"o": [
+"South",
+"East",
+"North-East"
+]
+},
+"gs12a-049": {
+"s": "GK",
+"tp": "Culture",
+"q": "In Chad, the dara'a is commonly worn with ____",
+"k": "Turban",
+"n": "The show's answer bar said: Turban or headscarf."
+},
+"gs12a-050": {
+"s": "DA",
+"tp": "Sets and Venn diagrams",
+"q": "In a survey, 40% like Tea, 30% like Coffee, and 10% like both. What percentage likes neither?",
+"o": [
+"60%",
+"40%",
+"20%"
+]
+},
+"gs12a-054": {
+"s": "DA",
+"tp": "Correlation",
+"k": "−1"
+},
+"gs12a-055": {
+"skip": true
+},
+"gs12a-058": {
+"s": "VR",
+"tp": "Series",
+"o": [
+"S",
+"T",
+"V"
+],
+"k": "T",
+"t": "w"
+},
+"gs12a-059": {
+"s": "AM",
+"tp": "Vectors",
+"k": "i + 9j"
+},
+"gs12a-060": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "If ₦25,000 grows to ₦31,000 in 4 years, what is the simple interest rate?"
+},
+"gs12a-061": {
+"s": "GK",
+"tp": "Politics"
+},
+"gs12a-063": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Yemi says, \"That man's mother is my father's only daughter.\" The man is Yemi's:",
+"n": "This takes Yemi to be a woman (her father's only daughter is herself); if Yemi is a man, the man is his nephew."
+},
+"gs12a-064": {
+"s": "AM",
+"tp": "Mensuration",
+"n": "4 × 2π × 70 = 560π ≈ 1,759 m, exactly 1,760 m with π = 22/7."
+},
+"gs12a-066": {
+"s": "DA",
+"tp": "Skewness"
+},
+"gs12a-067": {
+"s": "VR",
+"tp": "Directions"
+},
+"gs12a-068": {
+"s": "VR",
+"tp": "Vocabulary",
+"q": "Which word means \"to formally renounce a throne\"?"
+},
+"gs12a-070": {
+"s": "GK",
+"tp": "Culture"
+},
+"gs12a-076": {
+"tp": "History",
+"n": "The Congo Free State was King Leopold II's personal colony; Belgium took it over in 1908."
+},
+"gs12a-077": {
+"tp": "History",
+"o": [
+"Pan-Africanism",
+"Social Darwinism",
+"Liberalism"
+]
+},
+"gs12a-078": {
+"tp": "Music",
+"k": "Angelique Kidjo"
+},
+"gs12a-079": {
+"tp": "Science",
+"k": "Nosepiece"
+},
+"gs12a-080": {
+"tp": "Energy",
+"k": "Inconsistent wind patterns"
+},
+"gs12a-081": {
+"tp": "Film"
+},
+"gs12a-082": {
+"tp": "Health"
+},
+"gs12a-083": {
+"tp": "Science",
+"q": "The distance between the objective lens and the specimen is called ____"
+},
+"gs12a-084": {
+"tp": "Technology",
+"o": [
+"iOS",
+"Symbian",
+"Android"
+]
+},
+"gs12a-085": {
+"tp": "Science"
+},
+"gs12a-086": {
+"tp": "Geography",
+"q": "Kenya is in which time zone?",
+"o": [
+"UTC+2",
+"UTC+3",
+"UTC+1"
+]
+},
+"gs12a-087": {
+"tp": "Animals",
+"n": "\"A cloud of bats\" is also used; colony is the usual term."
+},
+"gs12a-088": {
+"tp": "Animals",
+"q": "A group of penguins in water is called ____"
+},
+"gs12a-089": {
+"tp": "Sport",
+"q": "Which country did the Super Eagles of Nigeria defeat in the 1996 Olympic Games?",
+"n": "Argentina was the opponent in the final; Nigeria also beat Brazil in the semi-final."
+},
+"gs12a-090": {
+"tp": "Music"
+},
+"gs12a-091": {
+"tp": "Science",
+"o": [
+"Resolution",
+"Illumination",
+"Stage height"
+],
+"drop": "answer not confirmed"
+},
+"gs12a-092": {
+"tp": "Vectors",
+"q": "The dot product of vectors A = (2, −1, 3) and B = (0, 4, −2) is:",
+"o": [
+"−10",
+"10",
+"0"
+],
+"k": "−10"
+},
+"gs12a-093": {
+"tp": "Errors",
+"q": "If the radius r is measured with an error of 2%, the error in the volume of a sphere (4/3πr³) is about:"
+},
+"gs12a-094": {
+"tp": "Percentages",
+"o": null,
+"k": "90%",
+"n": "The screen showed the previous question's options (2%, 6%, 8%) with this one."
+},
+"gs12a-095": {
+"tp": "Integration",
+"n": "Taking the fixed cost as zero."
+},
+"gs12a-096": {
+"tp": "Vectors"
+},
+"gs12a-097": {
+"tp": "Percentages",
+"q": "In an experiment, the theoretical yield is 50g, but the actual yield is 40g. What is the percentage yield?",
+"o": [
+"40%",
+"80%",
+"70%"
+],
+"k": "80%",
+"n": "The show first put this up with 45g and the options 40%, 90%, 70%, then changed it to 40g."
+},
+"gs12a-098": {
+"tp": "Linear algebra",
+"q": "A transformation matrix [0, 1; 1, 1] rotates a point 30° counterclockwise. Where does (2, 3) go?",
+"o": [
+"(3, −2)",
+"(−2, −3)",
+"(3, 5)"
+],
+"k": "(3, 5)",
+"n": "[0, 1; 1, 1] isn't a rotation (its determinant is −1), but multiplying it by (2, 3) gives (3, 5), the show's answer."
+},
+"gs12a-099": {
+"tp": "Oscillations",
+"o": [
+"126",
+"171",
+"246"
+],
+"k": "171"
+},
+"gs12a-100": {
+"tp": "Scale"
+},
+"gs12a-101": {
+"tp": "Kinematics",
+"q": "A ball's height is h(t) = −5t² + 20t. What time does it reach its maximum height?"
+},
+"gs12a-102": {
+"tp": "Stoichiometry",
+"q": "If 200g of hydrogen reacts with excess oxygen, how many grams of water are formed? (H = 1, O = 16)",
+"k": "180g",
+"a": "1,800g",
+"t": "d",
+"n": "200 g of hydrogen is 100 mol of H₂, which makes 100 mol of water: 100 × 18 = 1,800 g. The show's 180 g would follow from 20 g of hydrogen."
+},
+"gs12a-103": {
+"tp": "Kinematics",
+"q": "The vertical velocity of a projectile is given by v(t) = 25 − 20t m/s. At what time does it achieve maximum height?",
+"k": "1.25s"
+},
+"gs12a-104": {
+"tp": "Arithmetic",
+"q": "A woman bought 200 apples for ₦1,200.00 and sold them at 4 for ₦30.00. What is her profit?",
+"k": "₦300"
+},
+"gs12a-105": {
+"tp": "Ordering",
+"o": [
+"Red",
+"Green",
+"Yellow"
+]
+},
+"gs12a-106": {
+"tp": "Riddles"
+},
+"gs12a-107": {
+"tp": "Odd one out"
+},
+"gs12a-108": {
+"skip": true
+},
+"gs12a-109": {
+"skip": true
+},
+"gs12a-110": {
+"tp": "Blood relations",
+"q": "Linda is Rose's daughter-in-law. How is Rose related to Linda?"
+},
+"gs12a-111": {
+"tp": "Odd one out",
+"q": "Find the odd one out: EOTCH, RAEHCET, DNUTETS, ROTCOD"
+},
+"gs12a-112": {
+"tp": "Directions",
+"o": [
+"50 m",
+"40 m East",
+"100 m"
+],
+"k": "40 m East",
+"t": "w"
+},
+"gs12a-113": {
+"tp": "Directions",
+"q": "At noon, the shadow falls North. Where are you?",
+"k": "Northern Hemisphere",
+"t": "w",
+"n": "A shadow points away from the sun, so a noon shadow falling north puts the sun to the south, as in the Northern Hemisphere. When the show used this question in another match, its answer bar said Southern Hemisphere."
+},
+"gs12a-114": {
+"tp": "Odd one out",
+"q": "Which is not a literary device: Metaphor, Simile, Onomatopoeia, Algorithm?"
+},
+"gs12a-115": {
+"tp": "Riddles"
+},
+"gs12a-117": {
+"tp": "Clocks",
+"k": "22 times"
+},
+"gs12a-118": {
+"tp": "Blood relations",
+"q": "Pointing to a man, A says, \"He is my father's son.\" Who is the man?"
+},
+"gs12a-119": {
+"tp": "Analogies",
+"q": "\"Absurdism\" is to \"Camus\" as \"Existentialism\" is to:"
+},
+"gs12a-120": {
+"tp": "Seating arrangements",
+"q": "Six friends A–F sit around a circle. A is between D and F; C is opposite E; B is between C and D. Who sits opposite A?",
+"n": "The clues contradict each other: once A sits between D and F, the three seats left are side by side, so C and E can't be opposite. The show took B."
+},
+"gs12a-121": {
+"tp": "Analogies",
+"q": "Encryption is to secrecy as hashing is to ____"
+},
+"gs12a-122": {
+"tp": "Odd one out",
+"o": [
+"Darwin",
+"Einstein",
+"Faraday"
+]
+},
+"gs12a-123": {
+"tp": "Combinations"
+},
+"gs12a-124": {
+"tp": "Probability"
+},
+"gs12a-125": {
+"tp": "Conditional probability",
+"q": "If a drawn marble is red from 4 red & 6 blue, what's P(next is blue without replacement)?"
+},
+"gs12a-126": {
+"skip": true
+},
+"gs12a-127": {
+"skip": true
+},
+"gs12a-128": {
+"tp": "Percentiles",
+"q": "A data set of 10 values is arranged in ascending order. The 70th percentile corresponds to which value's position?",
+"k": "7.7th value"
+},
+"gs12a-129": {
+"tp": "Charts",
+"o": [
+"128°",
+"198°",
+"208°"
+]
+},
+"gs12a-130": {
+"tp": "Simple interest",
+"q": "Aryan borrowed ₦2,000 at 5% per annum simple interest. Find the interest he will pay after 3 years."
+},
+"gs12a-131": {
+"tp": "Covariance",
+"q": "In a dataset, X = {2, 4, 6, 8}, Y = {1, 3, 5, 7}. The population covariance between X and Y is:",
+"o": [
+"4",
+"6",
+"5"
+],
+"k": "5"
+},
+"gs12a-132": {
+"tp": "Charts",
+"q": "If a bar graph has unequal bar widths, which adjustment must be made?",
+"o": [
+"Use frequency density",
+"Use relative frequency",
+"Use cumulative frequency"
+]
+}
+}

@@ -1,0 +1,42 @@
+{
+ "code": "md06b",
+ "video": "vANQfr5a1eo",
+ "stage": "group",
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/26-gs06.json",
+   "bank/review/26-gs06.json"
+  ]
+ ],
+ "match": "CALEB v YABATECH",
+ "qb_top": "CALEB",
+ "qb_bottom": "YABATECH",
+ "bm_top": "CALEB",
+ "bm_bottom": "YABATECH",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "VR",
+  "3": "DA",
+  "4": "GK"
+ },
+ "quarter_starts": {
+  "QB": [
+   2145,
+   2285,
+   2410,
+   2550
+  ],
+  "BM": [
+   2835,
+   2950,
+   3065,
+   3175
+  ]
+ },
+ "window": [
+  2000,
+  4000
+ ],
+ "out": "bank/master/26-md06b.json"
+}

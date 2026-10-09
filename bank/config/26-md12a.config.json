@@ -1,0 +1,39 @@
+{
+ "code": "md12a",
+ "video": "eDPgRTMz1J8",
+ "stage": "group",
+ "cards": [],
+ "bm_left_row": 1,
+ "match": "UNILAG v EKSU",
+ "qb_top": "EKSU",
+ "qb_bottom": "UNILAG",
+ "bm_top": "EKSU",
+ "bm_bottom": "UNILAG",
+ "bm_subjects": {
+  "1": "GK",
+  "2": "AM",
+  "3": "VR",
+  "4": "DA"
+ },
+ "quarter_starts": {
+  "QB": [
+   490,
+   615,
+   740,
+   930
+  ],
+  "BM": [
+   1230,
+   1330,
+   1428,
+   1530
+  ]
+ },
+ "parts": [
+  [
+   "bank/raw/26-gs12-part1.json",
+   "bank/review/26-gs12-part1.json"
+  ]
+ ],
+ "out": "bank/master/26-md12a.json"
+}

@@ -1,14 +1,14 @@
 # Question bank summary
 
-1055 questions, plus 4 left out (dropped.csv).
+1659 questions, plus 9 left out (dropped.csv).
 
 | Subject | Level 1 | Level 2 | Level 3 | Total |
 |---|---|---|---|---|
-| AM | 0 | 120 | 218 | 338 |
-| DA | 0 | 90 | 175 | 265 |
-| VR | 0 | 66 | 146 | 212 |
-| GK | 0 | 75 | 165 | 240 |
+| AM | 237 | 120 | 217 | 574 |
+| DA | 118 | 90 | 174 | 382 |
+| VR | 110 | 66 | 145 | 321 |
+| GK | 142 | 75 | 165 | 382 |
 
-Status: Confirmed by the show: 1030, Show's answer looks wrong: 14, Not confirmed (worked out): 11
+Status: Confirmed by the show: 1601, Show's answer looks wrong: 29, Not confirmed (worked out): 29
 
 Levels follow the stage: group stage is level 1, quarter-finals level 2, semi-finals, third place and final level 3.
