@@ -54,7 +54,8 @@ def main():
     # The show reuses questions across matches. Keep one copy (from the latest stage), note where else it was asked,
     # and let a copy borrow the solution written for any of its twins.
     allq = [(m, q) for _, m in load('bank/master/*.json') for q in m['questions']]
-    allq.sort(key=lambda mq: (-STAGE_ORDER[mq[1]['stage']], mq[1]['video'], mq[1]['t']))
+    TAG_RANK = {'confirmed': 0, 'disputed': 0, 'worked_out': 1}   # at the same stage, keep a copy whose answer the show confirmed
+    allq.sort(key=lambda mq: (-STAGE_ORDER[mq[1]['stage']], TAG_RANK.get(mq[1]['tag'], 1), mq[1]['video'], mq[1]['t']))
     seen, twins = {}, {}
     for m, q in allq:
         k = dedup_key(q); twins.setdefault(k, []).append(q)

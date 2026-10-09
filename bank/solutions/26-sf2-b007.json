@@ -1,0 +1,298 @@
+{
+  "26-sf2-qb-1921": {
+    "solution": "The wall needs 3 × 12 = 36 worker days of work. More workers means fewer days, so 40 workers take 36 ÷ 40 = 0.9 days.",
+    "trick": "Since 3 × 12 = 36, just do 36 ÷ 40. Divide both by 4 to get 9 ÷ 10 = 0.9.",
+    "check": "agree",
+    "computed": "0.9 days",
+    "accept": [
+      "0.9",
+      "0.9 days",
+      "0.9 day",
+      "9/10",
+      "9/10 days"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2216": {
+    "solution": "The 75th percentile means 75% of the students scored at or below this score. So 25% scored higher, and 0.25 × 200 = 50.",
+    "trick": "Above the 75th percentile is the top quarter, and 200 ÷ 4 = 50. Options 10 and 20 would be only 5% and 10% of the class.",
+    "check": "agree",
+    "computed": "50",
+    "accept": [
+      "50",
+      "50 students"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2219": {
+    "solution": "On the first roll, an odd number has probability 3/6 = 1/2. On the second roll, an even number has probability 3/6 = 1/2. The rolls are independent, so multiply: 1/2 × 1/2 = 1/4.",
+    "trick": "Each roll is just odd or even, a 1 in 2 chance. You need one exact order, odd then even, so 1/2 × 1/2 = 1/4.",
+    "check": "agree",
+    "computed": "1/4",
+    "accept": [
+      "1/4",
+      "0.25",
+      "25%",
+      ".25"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2223": {
+    "solution": "Assuming the two bulbs work independently, multiply their probabilities. P(both last 1 year) = 0.5 × 0.5 = 0.25.",
+    "trick": "Half of a half is a quarter, so 0.25.",
+    "check": "agree",
+    "computed": "0.25",
+    "accept": [
+      "0.25",
+      "1/4",
+      "25%",
+      ".25"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2228": {
+    "solution": "The gaps from the mean 6 are −3, 0 and 3, so the squared gaps are 9, 0 and 9. These add up to 18. Dividing by n = 3 gives the variance: 18 ÷ 3 = 6.",
+    "trick": "Square the gaps in your head: 9 + 0 + 9 = 18. The show's answer divides by n, so 18 ÷ 3 = 6.",
+    "check": "unclear",
+    "computed": "6 (population variance)",
+    "accept": [
+      "6",
+      "6.0"
+    ],
+    "comment": "The question does not say whether the data is a population or a sample. Dividing by n gives 6, the show's answer, but dividing by n − 1 gives 9, which is also an option."
+  },
+  "26-sf2-bm-2234": {
+    "solution": "The total number of ways to pick 2 students from 5 is C(5,2) = 10. Selections with no girl are two boys: C(3,2) = 3. So the selections with at least one girl number 10 − 3 = 7.",
+    "trick": "Count the opposite: 10 pairs in all, and only 3 are two boys, so 10 − 3 = 7. Option 10 counts every pair, even the ones with no girl, so it is too big.",
+    "check": "agree",
+    "computed": "7",
+    "accept": [
+      "7",
+      "7 ways"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2247": {
+    "solution": "Total ways to draw 3 balls from 8: C(8,3) = 56. Favourable ways: 2 green from 3 and 1 blue from 2, so C(3,2) × C(2,1) = 3 × 2 = 6. P = 6/56 = 3/28.",
+    "trick": "C(8,3) = 8 × 7 × 6 ÷ 6 = 56, and the favourable count is 3 × 2 = 6. Then 6/56 cancels by 2 to 3/28.",
+    "check": "agree",
+    "computed": "3/28",
+    "accept": [
+      "3/28",
+      "6/56",
+      "0.107",
+      "0.1071",
+      "10.7%"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2253": {
+    "solution": "A year that is not a leap year has 365 days, which is 52 full weeks plus 1 extra day. Each weekday appears 52 times, and the extra day gives one weekday a 53rd. The extra day is equally likely to be any of the 7 weekdays, so P(53 Tuesdays) = 1/7.",
+    "trick": "365 = 52 × 7 + 1, so there is only one spare day. It must be a Tuesday, which is 1 chance in 7.",
+    "check": "agree",
+    "computed": "1/7",
+    "accept": [
+      "1/7",
+      "0.143",
+      "0.1429",
+      "14.3%"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2259": {
+    "solution": "The 4 vowels (A, A, E, E) fill the 4 vowel positions in 4! ÷ (2! × 2!) = 6 ways. The 6 consonants (M, M, N, N, G, T) fill the 6 consonant positions in 6! ÷ (2! × 2!) = 720 ÷ 4 = 180 ways. The two choices are independent, so multiply: 6 × 180 = 1,080.",
+    "trick": "Count vowels and consonants separately, then multiply: 6 × 180 = 1,080.",
+    "check": "agree",
+    "computed": "1,080",
+    "accept": [
+      "1080",
+      "1,080"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2263": {
+    "solution": "Each Y is exactly 1.5 times its X: 3 = 1.5 × 2, 6 = 1.5 × 4 and 9 = 1.5 × 6. So the points lie exactly on a rising straight line. That is a perfect positive relationship, so r = 1.",
+    "trick": "Y = 1.5X exactly, so the points sit on one rising straight line, and any perfect rising line has r = 1. No calculation needed.",
+    "check": "agree",
+    "computed": "1",
+    "accept": [
+      "1",
+      "1.0",
+      "+1",
+      "1.00"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2265": {
+    "solution": "Mean = (80 + 120 + 100) ÷ 3 = 300 ÷ 3 = 100.",
+    "trick": "80 is 20 below 100 and 120 is 20 above it, so they cancel, and C is 100 itself. The mean is 100.",
+    "check": "agree",
+    "computed": "100",
+    "accept": [],
+    "comment": ""
+  },
+  "26-sf2-bm-2268": {
+    "solution": "The mean is 10 and there are 5 numbers, so the total must be 5 × 10 = 50. The known numbers add up to 5 + 7 + 9 + 13 = 34. So x = 50 − 34 = 16.",
+    "trick": "Measure each number from 10: 5 is −5, 7 is −3, 9 is −1 and 13 is +3, which total −6. So x must be 6 above 10, which is 16.",
+    "check": "agree",
+    "computed": "16",
+    "accept": [
+      "16",
+      "x = 16",
+      "x=16"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2274": {
+    "solution": "The class size of 50 and the normal shape do not change the calculation. IQR = Q3 − Q1 = 80 − 40 = 40.",
+    "trick": "Ignore the 50 students and the word normal. Just subtract: 80 − 40 = 40.",
+    "check": "agree",
+    "computed": "40",
+    "accept": [],
+    "comment": ""
+  },
+  "26-sf2-bm-2278": {
+    "solution": "Take 99% accurate to mean the test is right 99% of the time for both sick and healthy people. Out of 100,000 people, 300 have HIV and 297 of them test positive. Of the 99,700 healthy people, 1% (997) also test positive. So 297 of the 1,294 positive results are real: 297 ÷ 1,294 ≈ 22.95%.",
+    "trick": "Picture 1,000 people: about 3 are sick and test positive, and about 10 of the 997 healthy ones also test positive. So about 3 in 13 positives are real, roughly 23%, and 22.95% is the only option near that.",
+    "check": "agree",
+    "computed": "22.95%",
+    "accept": [
+      "22.95%",
+      "22.95",
+      "0.2295",
+      "23%",
+      "23"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2284": {
+    "solution": "LEADER has 6 letters, with E appearing twice. The number of arrangements is 6! ÷ 2! = 720 ÷ 2 = 360.",
+    "trick": "6! is 720, and the repeated E halves it to 360.",
+    "check": "agree",
+    "computed": "360",
+    "accept": [],
+    "comment": ""
+  },
+  "26-sf2-bm-2287": {
+    "solution": "In simple linear regression, R² = r², and r takes the sign of the slope. So r = ±√0.81 = ±0.90.",
+    "trick": "9 × 9 = 81, so the square root of 0.81 is 0.9, with either sign.",
+    "check": "agree",
+    "computed": "±0.90",
+    "accept": [
+      "±0.9",
+      "0.9",
+      "0.90",
+      "+/-0.9",
+      "+-0.9",
+      "plus or minus 0.9"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2290": {
+    "solution": "The 20 people who like both are already counted in the 50 who like tea. So only tea = 50 − 20 = 30.",
+    "trick": "Take the overlap out of the tea total: 50 − 20 = 30. The 40 for coffee is not needed.",
+    "check": "agree",
+    "computed": "30",
+    "accept": [
+      "30",
+      "30 people"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2294": {
+    "solution": "z = (x − mean) ÷ standard deviation = (60 − 50) ÷ 10 = 1.",
+    "trick": "60 is exactly one standard deviation (10) above the mean of 50, so z = 1.",
+    "check": "agree",
+    "computed": "1",
+    "accept": [
+      "1",
+      "1.0",
+      "+1"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2297": {
+    "solution": "Sort the data: 400, 600, 1000, 1200. Q1 is the median of the lower half (400, 600), which is 500. Q3 is the median of the upper half (1000, 1200), which is 1100. IQR = Q3 − Q1 = 1100 − 500 = 600.",
+    "trick": "Sort to 400, 600, 1000, 1200. Here the top pair is exactly 600 above the bottom pair (1000 − 400 and 1200 − 600), so their midpoints, Q3 and Q1, are 600 apart.",
+    "check": "agree",
+    "computed": "600",
+    "accept": [],
+    "comment": ""
+  },
+  "26-sf2-bm-2302": {
+    "solution": "Juice or soda = 60% + 30% − 10% = 80%, because the 10% who like both were counted twice. Neither = 100% − 80% = 20%.",
+    "trick": "60 + 30 − 10 = 80, and 100 − 80 = 20.",
+    "check": "agree",
+    "computed": "20%",
+    "accept": [
+      "20%",
+      "20",
+      "0.2",
+      "1/5"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2310": {
+    "solution": "The set of all possible outcomes of a random experiment is called the sample space, usually written S or Ω. An event is only a chosen group of those outcomes, so the whole set is the sample space.",
+    "trick": "All possible outcomes is the textbook definition of the sample space, so just match those words.",
+    "check": "agree",
+    "computed": "Sample space",
+    "accept": [
+      "sample space",
+      "the sample space"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2313": {
+    "solution": "With replacement, each draw has P(red) = 7/11 and P(blue) = 4/11. Red then blue is 7/11 × 4/11 = 28/121, and blue then red is also 28/121. Different colours: 28/121 + 28/121 = 56/121.",
+    "trick": "Different colours can happen in two orders, so it is 2 × 7 × 4 = 56 over 11 × 11 = 121. Quick check: the same colour is 49 + 16 = 65 over 121, and 56 + 65 = 121.",
+    "check": "agree",
+    "computed": "56/121",
+    "accept": [
+      "56/121",
+      "0.463",
+      "0.4628",
+      "46.3%"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2318": {
+    "solution": "The order of the 2 items chosen does not matter, so use combinations. C(8,2) = (8 × 7) ÷ 2 = 28.",
+    "trick": "8 × 7 = 56 ordered pairs, and each pair is counted twice, so halve it to get 28. The 56 option is the trap.",
+    "check": "agree",
+    "computed": "28",
+    "accept": [
+      "28",
+      "28 samples"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2321": {
+    "solution": "The 15% who read both are already inside the 45% who read the NYT. So only the NYT = 45% − 15% = 30%.",
+    "trick": "Take the overlap out of the NYT total: 45 − 15 = 30. The 35% for the WSJ is not needed.",
+    "check": "agree",
+    "computed": "30%",
+    "accept": [
+      "30%",
+      "30",
+      "0.3"
+    ],
+    "comment": ""
+  },
+  "26-sf2-bm-2329": {
+    "solution": "Count the students who are girls or have an A. Girls = 15, A grades = 5 + 4 = 9, girls with an A = 4, so the count is 15 + 9 − 4 = 20 out of 30. P = 20/30 = 2/3.",
+    "trick": "Count directly: all 15 girls, plus the 5 boys with an A, since the 4 girls with an A are already in the 15. That is 20 out of 30, so 2/3.",
+    "check": "agree",
+    "computed": "2/3",
+    "accept": [
+      "2/3",
+      "20/30",
+      "0.667",
+      "0.6667",
+      "0.67",
+      "66.7%",
+      "67%"
+    ],
+    "comment": ""
+  }
+}

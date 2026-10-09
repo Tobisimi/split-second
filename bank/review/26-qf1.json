@@ -1,0 +1,875 @@
+{
+"qf1-001": {
+"skip": true
+},
+"qf1-003": {
+"s": "DA",
+"tp": "Outliers",
+"q": "In a boxplot, outliers lie beyond 4 × IQR. If Q1 = 40 and Q3 = 60, what is the lower outlier threshold?",
+"o": [
+"−40",
+"−120",
+"−80"
+],
+"k": "−40"
+},
+"qf1-004": {
+"s": "DA",
+"tp": "Permutations"
+},
+"qf1-005": {
+"s": "DA",
+"tp": "Permutations"
+},
+"qf1-006": {
+"s": "DA",
+"tp": "Probability"
+},
+"qf1-007": {
+"s": "AM",
+"tp": "Percentages",
+"q": "If 70% of light is absorbed from an intensity of 250 W/m², what intensity is transmitted?",
+"k": "75 W/m²"
+},
+"qf1-008": {
+"s": "AM",
+"tp": "Units",
+"o": [
+"15.50 m/s",
+"16.67 m/s",
+"18.58 m/s"
+],
+"k": "16.67 m/s"
+},
+"qf1-009": {
+"s": "VR",
+"tp": "Number series",
+"n": "Each term is the previous one times 1, 2, 3, 4, 5 plus 2, 3, 4, 5, 6: 129 × 5 + 6 = 651."
+},
+"qf1-010": {
+"s": "AM",
+"tp": "Algebra"
+},
+"qf1-011": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "₦10,000 grows to ₦12,500 in 5 years with simple interest. What is the rate?"
+},
+"qf1-012": {
+"s": "VR",
+"tp": "Analogies",
+"q": "Complete the analogy Sikh : Gurdwara :: Christian : ____"
+},
+"qf1-013": {
+"s": "AM",
+"tp": "Proportion"
+},
+"qf1-014": {
+"s": "VR",
+"tp": "Logic"
+},
+"qf1-015": {
+"s": "AM",
+"tp": "Vectors"
+},
+"qf1-016": {
+"s": "AM",
+"tp": "Integration"
+},
+"qf1-017": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Find the derivative of f(x) = 4x³ − 2x² + x at x = 1."
+},
+"qf1-018": {
+"skip": true
+},
+"qf1-019": {
+"skip": true
+},
+"qf1-020": {
+"skip": true
+},
+"qf1-021": {
+"s": "AM",
+"tp": "Linear algebra",
+"q": "The eigenvalues of a 2 × 2 matrix are 3 and −2. What is the trace of the matrix?",
+"o": [
+"1",
+"−1",
+"−3"
+],
+"k": "1"
+},
+"qf1-022": {
+"s": "AM",
+"tp": "Rates",
+"q": "What is the heartbeat of a cyclist who rides for 5/6 hours at a constant heart rate of 200 bpm?",
+"a": "10,000 beats",
+"t": "d",
+"n": "5/6 of an hour is exactly 50 minutes, so 50 × 200 = 10,000 beats. The show's 9,996 comes from rounding 5/6 to 0.833."
+},
+"qf1-023": {
+"s": "GK",
+"tp": "Music",
+"q": "Which Egyptian singer is known as the \"King of Arab Pop\"?"
+},
+"qf1-024": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "If “A's father is B's mother-in-law's only son,” and B has no siblings, what is B to A?"
+},
+"qf1-025": {
+"s": "AM",
+"tp": "Ratio",
+"q": "A hospital has a 5:2 ratio of nurses to doctors. If there are 600 nurses, how many doctors are there?"
+},
+"qf1-026": {
+"skip": true
+},
+"qf1-027": {
+"s": "VR",
+"tp": "Blood relations"
+},
+"qf1-028": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The cost C(x) = 200 + 4x + 12x². Find the marginal cost at x = 20."
+},
+"qf1-029": {
+"s": "AM",
+"tp": "Errors",
+"q": "Find the absolute error if the actual value is 120 and the measured value is 115."
+},
+"qf1-030": {
+"s": "DA",
+"tp": "Permutations",
+"q": "How many 3-digit PINs can be created using digits 0–9 if no digit is repeated?"
+},
+"qf1-031": {
+"s": "VR",
+"tp": "Directions"
+},
+"qf1-032": {
+"s": "DA",
+"tp": "Combinations"
+},
+"qf1-033": {
+"s": "DA",
+"tp": "Counting",
+"k": "260 passwords"
+},
+"qf1-034": {
+"s": "GK",
+"tp": "History",
+"k": "Tunis"
+},
+"qf1-035": {
+"s": "GK",
+"tp": "Health"
+},
+"qf1-036": {
+"s": "AM",
+"tp": "Stoichiometry",
+"q": "In the reaction 2H₂ + O₂ → 2H₂O, how many grams of water are produced from 10g of H₂?",
+"o": [
+"45g",
+"180g",
+"90g"
+],
+"k": "90g"
+},
+"qf1-037": {
+"s": "GK",
+"tp": "Geography"
+},
+"qf1-038": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A car accelerates from 0 to 60 mph (26.8 m/s) in 6 seconds. Find its acceleration in m/s².",
+"o": [
+"8.48 m/s²",
+"6.77 m/s²",
+"4.47 m/s²"
+],
+"k": "4.47 m/s²"
+},
+"qf1-039": {
+"s": "VR",
+"tp": "Coding",
+"q": "If \"NIGERIA\" is coded as 63 and \"AFRICA\" as 38, what is \"GHANA\"?",
+"n": "The code is the sum of the letter positions: G7 + H8 + A1 + N14 + A1 = 31."
+},
+"qf1-040": {
+"s": "AM",
+"tp": "Electricity"
+},
+"qf1-041": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "The profit P(q) = −2q² + 100q − 200. Find the quantity for maximum profit."
+},
+"qf1-042": {
+"s": "AM",
+"tp": "Rates"
+},
+"qf1-043": {
+"s": "AM",
+"tp": "Mensuration",
+"q": "Containing 360 cm³ volume, a box measures 12 cm long and 5 cm wide. How tall is it?"
+},
+"qf1-044": {
+"s": "AM",
+"tp": "Units"
+},
+"qf1-045": {
+"s": "DA",
+"tp": "Permutations"
+},
+"qf1-046": {
+"s": "AM",
+"tp": "Scale"
+},
+"qf1-047": {
+"s": "DA",
+"tp": "Correlation",
+"q": "A 0.5 correlation gives covariance 20. If X's standard deviation is 5, what is Y's standard deviation?"
+},
+"qf1-048": {
+"s": "AM",
+"tp": "Percentages",
+"k": "6.4 g"
+},
+"qf1-049": {
+"s": "AM",
+"tp": "Vectors"
+},
+"qf1-050": {
+"s": "AM",
+"tp": "Exponential growth",
+"n": "Doubling time at 3% is ln 2 ÷ ln 1.03 ≈ 23.4 years (the rule of 72 gives 72 ÷ 3 = 24)."
+},
+"qf1-051": {
+"s": "AM",
+"tp": "Scale",
+"q": "Determine the production engine's displacement from its 1:5 scale model displacing 8 cm³.",
+"k": "1 litre (1,000 cm³)"
+},
+"qf1-052": {
+"s": "AM",
+"tp": "Ratio"
+},
+"qf1-053": {
+"s": "GK",
+"tp": "Culture",
+"o": [
+"Express authority",
+"Express position",
+"Express social status"
+],
+"k": "Express social status"
+},
+"qf1-054": {
+"s": "GK",
+"tp": "History"
+},
+"qf1-055": {
+"s": "GK",
+"tp": "Music"
+},
+"qf1-056": {
+"s": "AM",
+"tp": "Kinematics",
+"k": "1 m/s²"
+},
+"qf1-057": {
+"s": "AM",
+"tp": "Errors",
+"q": "If the actual measurement is 25.0 m and the measured value is 24.1 m, what is the percentage error?"
+},
+"qf1-058": {
+"s": "AM",
+"tp": "Exponential growth"
+},
+"qf1-059": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A ball thrown upward follows h(t) = −5t² + 25t. When does it reach its maximum height?"
+},
+"qf1-060": {
+"s": "AM",
+"tp": "Pressure",
+"q": "A force of 300 N acts on an area of 0.5 m². Find the pressure in pascals."
+},
+"qf1-061": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The profit function f(x) = −2x² + 16x + 20 models earnings. What is the maximum profit?"
+},
+"qf1-062": {
+"s": "VR",
+"tp": "Analogies",
+"q": "Ornithology is to Birds as Ichthyology is to ____"
+},
+"qf1-063": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"qf1-064": {
+"s": "GK",
+"tp": "Music"
+},
+"qf1-065": {
+"s": "DA",
+"tp": "Correlation",
+"q": "A 0.5 correlation gives covariance 20. If X's standard deviation is 5, what is Y's standard deviation?"
+},
+"qf1-066": {
+"s": "AM",
+"tp": "Vectors",
+"k": "5"
+},
+"qf1-067": {
+"skip": true
+},
+"qf1-068": {
+"s": "GK",
+"tp": "Culture"
+},
+"qf1-069": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "If “A's maternal grandfather is B's paternal grandmother's only son,” and B has no siblings, what is B to A?",
+"a": "Mother",
+"t": "d",
+"n": "B's paternal grandmother's only son is B's father, so A's mother is a child of B's father. With no siblings, that child must be B, so B is A's mother. The show's Uncle would need B to have a sister."
+},
+"qf1-070": {
+"skip": true
+},
+"qf1-071": {
+"s": "AM",
+"tp": "Rates"
+},
+"qf1-072": {
+"s": "AM",
+"tp": "Integration"
+},
+"qf1-073": {
+"s": "AM",
+"tp": "Errors",
+"k": "4%"
+},
+"qf1-074": {
+"s": "DA",
+"tp": "Permutations",
+"q": "In a 10-runner race, how many ways can gold, silver, and bronze be awarded?"
+},
+"qf1-075": {
+"s": "AM",
+"tp": "Chemistry calculations",
+"k": "0.0001 M (1 × 10⁻⁴ M)"
+},
+"qf1-076": {
+"s": "DA",
+"tp": "Correlation",
+"q": "If r = 0.5 between two variables, what percentage of variability is explained?"
+},
+"qf1-077": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Find the average rate of change of f(x) = x² − 5x on [1, 4]",
+"k": "0"
+},
+"qf1-078": {
+"s": "GK",
+"tp": "History"
+},
+"qf1-079": {
+"s": "GK",
+"tp": "History"
+},
+"qf1-080": {
+"s": "AM",
+"tp": "Division",
+"n": "200 cm ÷ 3.2 cm = 62.5, so 62 whole books fit."
+},
+"qf1-081": {
+"s": "AM",
+"tp": "Integration"
+},
+"qf1-082": {
+"s": "AM",
+"tp": "Ratio",
+"q": "Two partners share profits in a 7:3 ratio. If the total profit is ₦500,000, how much does the second partner receive?",
+"k": "₦150,000"
+},
+"qf1-083": {
+"s": "AM",
+"tp": "Primes"
+},
+"qf1-084": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "Find the minimum value of f(x) = x² − 6x + 10",
+"k": "1"
+},
+"qf1-085": {
+"s": "AM",
+"tp": "Functions",
+"q": "A ladder's height y as it slides is modelled by y = √(25 − x²). What is y when x = 3?"
+},
+"qf1-086": {
+"s": "VR",
+"tp": "Riddles"
+},
+"qf1-087": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A ball is thrown vertically with v(t) = 20 − 9.8t. When does it hit the ground?"
+},
+"qf1-088": {
+"s": "DA",
+"tp": "Binomial distribution",
+"n": "Exactly 2 heads has probability 15/64 ≈ 0.23; 0.2 is the closest option."
+},
+"qf1-089": {
+"s": "DA",
+"tp": "Quartiles",
+"q": "The weights (in lbs) of 9 packages: 5, 7, 8, 10, 12, 14, 15, 18, 20. What is the interquartile range?"
+},
+"qf1-090": {
+"s": "DA",
+"tp": "Probability",
+"q": "A solves a problem with probability 1/2, and B with probability 1/3, independently. What is P(exactly one solves it)?"
+},
+"qf1-091": {
+"s": "DA",
+"tp": "Types of data",
+"q": "The income of a person is an example of ____ data.",
+"k": "Continuous"
+},
+"qf1-092": {
+"s": "DA",
+"tp": "Skewness",
+"q": "Given that the mean = 20, median = 10, SD = 5, find the coefficient of skewness.",
+"o": [
+"2.0",
+"1",
+"4"
+],
+"k": "2.0",
+"n": "This uses (mean − median) ÷ SD = 2. Pearson's second coefficient, 3(mean − median) ÷ SD, would give 6."
+},
+"qf1-093": {
+"s": "DA",
+"tp": "Percentages",
+"q": "A survey: 45% prefer product A. If there are 800 respondents, how many prefer A?",
+"k": "360"
+},
+"qf1-094": {
+"s": "DA",
+"tp": "Compound interest",
+"q": "A farmer takes a Rs.100,000 loan at 2 paise per rupee per year. Find the compound interest after 2 years."
+},
+"qf1-095": {
+"s": "DA",
+"tp": "Covariance",
+"q": "The covariance of two independent random variables is ____",
+"o": [
+"1",
+"−1",
+"0"
+],
+"k": "0"
+},
+"qf1-096": {
+"s": "DA",
+"tp": "Probability",
+"k": "0.4"
+},
+"qf1-097": {
+"s": "DA",
+"tp": "Quartiles",
+"q": "If the first quartile of workers' wages is ₦30,000 and the third quartile is ₦90,000, find the interquartile range."
+},
+"qf1-098": {
+"s": "DA",
+"tp": "Counting",
+"q": "Exam: 6 MCQs, 10 choices each. How many possible answer sheets exist?",
+"a": "1,000,000",
+"t": "w",
+"n": "The show's answer bar wasn't captured; the contestant got the points."
+},
+"qf1-099": {
+"s": "DA",
+"tp": "Binomial distribution",
+"q": "Test: 10 True/False questions. To pass you need 8 or more correct. If guessing, what is P(pass)?"
+},
+"qf1-100": {
+"s": "DA",
+"tp": "Binomial distribution",
+"q": "Given a binomial distribution with n = 10 and p = 0.3, what is the expected value?"
+},
+"qf1-101": {
+"s": "DA",
+"tp": "Probability",
+"k": "4"
+},
+"qf1-102": {
+"s": "DA",
+"tp": "Units",
+"k": "300 minutes"
+},
+"qf1-103": {
+"s": "DA",
+"tp": "Permutations",
+"k": "10,080"
+},
+"qf1-104": {
+"s": "DA",
+"tp": "Permutations"
+},
+"qf1-105": {
+"s": "DA",
+"tp": "Sets"
+},
+"qf1-106": {
+"s": "DA",
+"tp": "Quartiles",
+"q": "Given the dataset 6, 8, 10, 12, 14, 16, 18, find the interquartile range."
+},
+"qf1-107": {
+"s": "DA",
+"tp": "Percentages"
+},
+"qf1-108": {
+"s": "DA",
+"tp": "Probability"
+},
+"qf1-109": {
+"s": "DA",
+"tp": "Permutations",
+"q": "How many distinct linear arrangements of the letters in MISSISSIPPI have I as both the first and the last letter?",
+"k": "3,780"
+},
+"qf1-110": {
+"s": "AM",
+"tp": "Vectors",
+"q": "Calculate the dot product of vectors A = 3i + 4j and B = 2i − j."
+},
+"qf1-111": {
+"s": "AM",
+"tp": "Integration",
+"q": "F(x) = 150x is the force to stretch a spring. Find the work done stretching from x = 2 m to x = 4 m.",
+"o": [
+"400J",
+"900J",
+"1,200J"
+],
+"k": "900J"
+},
+"qf1-112": {
+"s": "AM",
+"tp": "Ratio",
+"k": "15L"
+},
+"qf1-113": {
+"s": "AM",
+"tp": "Energy",
+"n": "Input power is 800 ÷ 0.3 ≈ 2,667 MW, so about 1,867 MW is lost as heat: 1,867 MWh in an hour."
+},
+"qf1-114": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "For the profit function P(x) = −x² + 200x − 100, calculate the profit when x = 40.",
+"k": "6,300"
+},
+"qf1-115": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The profit function is P(x) = −x² + 50x − 100. What is the marginal profit at x = 20?"
+},
+"qf1-116": {
+"s": "AM",
+"tp": "Combinations"
+},
+"qf1-117": {
+"s": "AM",
+"tp": "Complex numbers",
+"q": "The product of the complex numbers (2 + 3i) and (1 − i) is ____",
+"o": [
+"−1 + 4i",
+"5 + i",
+"2 − 3i"
+],
+"k": "5 + i"
+},
+"qf1-118": {
+"s": "AM",
+"tp": "Coordinate geometry",
+"q": "What is the equation of the line through (0, 4) with slope −2?",
+"o": [
+"y = −2x + 4",
+"y = −2x + 2",
+"y = −2x + 6"
+],
+"k": "y = −2x + 4"
+},
+"qf1-119": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The average rate of change of the function f(x) = 3x² − x + 7 from x = 1 to x = 4 is",
+"k": "14"
+},
+"qf1-120": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Differentiate f(x) = sin(x² + 3x) with respect to x",
+"o": [
+"2x cos 3x",
+"cos(x² + 3x)",
+"(2x + 3)cos(x² + 3x)"
+],
+"k": "(2x + 3)cos(x² + 3x)"
+},
+"qf1-121": {
+"s": "AM",
+"tp": "Genetics",
+"q": "In a Punnett square for two heterozygous parents (Aa × Aa), what is the phenotypic ratio?",
+"o": [
+"9:3:3:1",
+"1:2:1",
+"3:1"
+],
+"k": "3:1"
+},
+"qf1-122": {
+"s": "AM",
+"tp": "Vectors"
+},
+"qf1-123": {
+"s": "AM",
+"tp": "Depreciation",
+"q": "A car depreciates by 10% each year. If its initial value is ₦1,000,000, what will be its value after 2 years?",
+"o": [
+"₦810,000",
+"₦820,000",
+"₦900,000"
+],
+"k": "₦810,000"
+},
+"qf1-124": {
+"s": "VR",
+"tp": "Blood relations",
+"n": "Strictly, D is the mother-in-law of B's son A, not of B; English has no simple word for D's relation to B. The show took Mother-in-law."
+},
+"qf1-125": {
+"s": "VR",
+"tp": "Analogies"
+},
+"qf1-126": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Stratigraphy\" is to \"Geologist\" as \"Ethnography\" is to:"
+},
+"qf1-127": {
+"s": "VR",
+"tp": "Ordering"
+},
+"qf1-128": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"qf1-129": {
+"s": "VR",
+"tp": "Blood relations"
+},
+"qf1-130": {
+"s": "VR",
+"tp": "Odd one out",
+"n": "Titan is a moon of Saturn; the others are planets."
+},
+"qf1-131": {
+"s": "VR",
+"tp": "Ordering"
+},
+"qf1-132": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Henry is Olivia's grandfather. Olivia is Lucy's sister. How is Henry related to Lucy?",
+"k": "grandfather"
+},
+"qf1-133": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Mary is John's sister. Peter is John's father. How is Peter related to Mary?"
+},
+"qf1-134": {
+"s": "VR",
+"tp": "Analogies",
+"k": "Containerization"
+},
+"qf1-135": {
+"s": "VR",
+"tp": "Directions",
+"q": "Facing East, turn 270° anticlockwise, then 90° clockwise. The final direction is",
+"k": "West"
+},
+"qf1-136": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Stratigraphy\" is to \"Geologist\" as \"Ethnography\" is to:"
+},
+"qf1-137": {
+"s": "VR",
+"tp": "Blood relations"
+},
+"qf1-138": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "If M is the mother of N and N is the brother of O, how is M related to O?"
+},
+"qf1-139": {
+"s": "VR",
+"tp": "Riddles",
+"q": "The more you take away from me, the larger I become. What am I?",
+"k": "A hole"
+},
+"qf1-140": {
+"s": "VR",
+"tp": "Analogies"
+},
+"qf1-141": {
+"s": "VR",
+"tp": "Riddles",
+"k": "A word"
+},
+"qf1-142": {
+"s": "VR",
+"tp": "Vocabulary"
+},
+"qf1-143": {
+"s": "VR",
+"tp": "Letter series",
+"q": "What comes next: B, E, H, K, ?",
+"k": "N"
+},
+"qf1-144": {
+"s": "GK",
+"tp": "Film",
+"q": "The movie Anikulapo (2022) was directed by ____",
+"k": "Kunle Afolayan"
+},
+"qf1-145": {
+"s": "GK",
+"tp": "Music",
+"q": "What voice type is often used to cast the roles of kings and warriors?"
+},
+"qf1-146": {
+"s": "GK",
+"tp": "Culture"
+},
+"qf1-147": {
+"s": "GK",
+"tp": "Geography",
+"k": "Senegal"
+},
+"qf1-148": {
+"s": "GK",
+"tp": "Science"
+},
+"qf1-149": {
+"s": "GK",
+"tp": "Science"
+},
+"qf1-150": {
+"s": "GK",
+"tp": "Geography",
+"k": "Cobalt"
+},
+"qf1-151": {
+"s": "GK",
+"tp": "Politics",
+"n": "Abdel Fattah el-Sisi has been president since 2014."
+},
+"qf1-152": {
+"s": "GK",
+"tp": "History",
+"o": [
+"1910–1920",
+"1880–1900",
+"1750–1780"
+],
+"k": "1880–1900"
+},
+"qf1-153": {
+"s": "GK",
+"tp": "Music",
+"q": "The African singer-songwriter \"King Promise\" is from which country?"
+},
+"qf1-154": {
+"s": "GK",
+"tp": "Culture"
+},
+"qf1-155": {
+"s": "GK",
+"tp": "History"
+},
+"qf1-156": {
+"s": "GK",
+"tp": "Science"
+},
+"qf1-157": {
+"s": "GK",
+"tp": "Science"
+},
+"qf1-158": {
+"s": "GK",
+"tp": "Science",
+"q": "The coarse adjustment knob of a microscope is used for"
+},
+"qf1-159": {
+"s": "GK",
+"tp": "History",
+"o": [
+"João Lourenço",
+"José Eduardo dos Santos",
+"Agostinho Neto"
+],
+"k": "Agostinho Neto"
+},
+"qf1-160": {
+"s": "GK",
+"tp": "Logic",
+"q": "____ axioms are substantive assertions about the elements of the domain of a specific mathematical theory.",
+"k": "Non-logical"
+},
+"qf1-161": {
+"s": "GK",
+"tp": "History"
+},
+"qf1-162": {
+"s": "GK",
+"tp": "Geography"
+},
+"qf1-163": {
+"s": "GK",
+"tp": "Culture"
+},
+"qf1-164": {
+"s": "GK",
+"tp": "Energy"
+},
+"qf1-002": {
+"s": "VR",
+"tp": "Analogy",
+"q": "“Raven” is to “Flock” as “Lion” is to",
+"o": [
+"Pride",
+"Pack",
+"Herd"
+],
+"k": "Pride"
+}
+}

@@ -1,0 +1,795 @@
+[
+ {
+  "id": "qf4b-001",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2440,
+  "t1": 2443.52,
+  "q": "Which African country’s Lake Kivu contains vast reserves of methane gas for energy production?",
+  "qconf": 95.5,
+  "options": [
+   "Uganda",
+   "Burundi",
+   "Rwanda"
+  ],
+  "key": "Rwanda",
+  "kconf": 42.0,
+  "player": "",
+  "school": "",
+  "before": [
+   29,
+   2
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 4,
+  "next_seen": "ata « Sarg Whic he fol",
+  "text_frame": "00000_BMR_p_2440.00.jpg",
+  "key_frame": "00002_BMR_a_2442.80.jpg",
+  "frames": [
+   "00000_BMR_p_2440.00.jpg",
+   "00001_BMR_p_2441.56.jpg",
+   "00002_BMR_a_2442.80.jpg",
+   "00003_BMR_a_2443.52.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf4b-002",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2469.68,
+  "t1": 2471.72,
+  "q": "Which of the following is a subset of population?",
+  "qconf": 96.0,
+  "options": [
+   "Data",
+   "Sample",
+   "Distribution"
+  ],
+  "key": "Sample",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   0
+  ],
+  "after": [
+   2,
+   7
+  ],
+  "delta": [
+   2,
+   7
+  ],
+  "clock": 77,
+  "next_seen": "bay ? ge : -",
+  "text_frame": "00008_BML_p_2469.68.jpg",
+  "key_frame": "00009_BML_a_2471.00.jpg",
+  "frames": [
+   "00008_BML_p_2469.68.jpg",
+   "00009_BML_a_2471.00.jpg",
+   "00010_BML_a_2471.72.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf4b-003",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2473.4,
+  "t1": 2475.76,
+  "q": "If ‘mis the mean of a Poisson Distribution, then variance is given by",
+  "qconf": 88.9,
+  "options": [
+   "m2",
+   "m",
+   "m/2"
+  ],
+  "key": "m",
+  "kconf": 92.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   7
+  ],
+  "after": [
+   4,
+   0
+  ],
+  "delta": [
+   2,
+   -7
+  ],
+  "clock": 74,
+  "next_seen": "LOoCY . ith : \\ tis y, | ) : | > Di",
+  "text_frame": "00011_BML_p_2473.40.jpg",
+  "key_frame": "00013_BML_a_2475.16.jpg",
+  "frames": [
+   "00011_BML_p_2473.40.jpg",
+   "00012_BML_p_2474.96.jpg",
+   "00013_BML_a_2475.16.jpg",
+   "00014_BML_a_2475.76.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf4b-004",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2477.36,
+  "t1": 2483.28,
+  "q": "An apartment in a building is $100, with a standard deviation of $150. What rent is 2 standard deviations above the mean?",
+  "qconf": 95.2,
+  "options": [
+   "$450",
+   "$350",
+   "$400"
+  ],
+  "key": "$400",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   0
+  ],
+  "after": [
+   7,
+   0
+  ],
+  "delta": [
+   3,
+   0
+  ],
+  "clock": 71,
+  "next_seen": ": i eg : ;",
+  "text_frame": "00015_BML_p_2477.36.jpg",
+  "key_frame": "00019_BML_a_2482.48.jpg",
+  "frames": [
+   "00015_BML_p_2477.36.jpg",
+   "00016_BML_p_2479.00.jpg",
+   "00017_BML_p_2480.56.jpg",
+   "00018_BML_p_2482.08.jpg",
+   "00019_BML_a_2482.48.jpg",
+   "00020_BML_a_2483.28.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf4b-005",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2484.84,
+  "t1": 2489.44,
+  "q": "A committee of 4 needs to be chosen from 20 people. How many different committees are possible?",
+  "qconf": 92.8,
+  "options": [
+   "4,845",
+   "4,800",
+   "4,900"
+  ],
+  "key": "4,845",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   7,
+   0
+  ],
+  "after": [
+   7,
+   0
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 65,
+  "next_seen": "rsely re’",
+  "text_frame": "00021_BML_p_2484.84.jpg",
+  "key_frame": "00023_BML_a_2487.08.jpg",
+  "frames": [
+   "00021_BML_p_2484.84.jpg",
+   "00022_BML_p_2486.44.jpg",
+   "00023_BML_a_2487.08.jpg",
+   "00024_BML_a_2487.80.jpg",
+   "00025_BML_p_2489.44.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf4b-006",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2491.12,
+  "t1": 2494.72,
+  "q": "If two variables are perfectly inversely related, the value of ris",
+  "qconf": 90.5,
+  "options": [
+   "2",
+   "",
+   "4"
+  ],
+  "key": "cd",
+  "kconf": 44.0,
+  "player": "",
+  "school": "",
+  "before": [
+   7,
+   0
+  ],
+  "after": [
+   7,
+   2
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 56,
+  "next_seen": "\\ We",
+  "text_frame": "00026_BMR_p_2491.12.jpg",
+  "key_frame": "00028_BMR_a_2494.72.jpg",
+  "frames": [
+   "00026_BMR_p_2491.12.jpg",
+   "00027_BMR_p_2492.80.jpg",
+   "00028_BMR_a_2494.72.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf4b-007",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2496.32,
+  "t1": 2500.12,
+  "q": "A pie sector of 36 degrees corresponds to what percent?",
+  "qconf": 95.9,
+  "options": [
+   "5%",
+   "15%",
+   "10%"
+  ],
+  "key": "10%",
+  "kconf": 79.0,
+  "player": "",
+  "school": "",
+  "before": [
+   7,
+   2
+  ],
+  "after": [
+   7,
+   4
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 52,
+  "next_seen": "",
+  "text_frame": "00029_BMR_p_2496.32.jpg",
+  "key_frame": "00030_BMR_a_2497.48.jpg",
+  "frames": [
+   "00029_BMR_p_2496.32.jpg",
+   "00030_BMR_a_2497.48.jpg",
+   "00031_BMR_a_2498.24.jpg",
+   "00032_BMR_p_2500.12.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf4b-008",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2501.76,
+  "t1": 2504.8,
+  "q": "A 95% confidence interval for a mean is (45, 55). What is the sample mean?",
+  "qconf": 95.6,
+  "options": [
+   "50",
+   "45",
+   "55"
+  ],
+  "key": "50",
+  "kconf": 61.0,
+  "player": "",
+  "school": "",
+  "before": [
+   7,
+   4
+  ],
+  "after": [
+   7,
+   7
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 48,
+  "next_seen": "(Square+S",
+  "text_frame": "00033_BMR_p_2501.76.jpg",
+  "key_frame": "00035_BMR_a_2504.16.jpg",
+  "frames": [
+   "00033_BMR_p_2501.76.jpg",
+   "00034_BMR_p_2503.44.jpg",
+   "00035_BMR_a_2504.16.jpg",
+   "00036_BMR_a_2504.80.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf4b-009",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2506.44,
+  "t1": 2509.84,
+  "q": "The variance is 0 only if all the observations are",
+  "qconf": 95.8,
+  "options": [
+   "Square",
+   "Same",
+   "Different"
+  ],
+  "key": "Same",
+  "kconf": 78.5,
+  "player": "",
+  "school": "",
+  "before": [
+   7,
+   7
+  ],
+  "after": [
+   7,
+   10
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 44,
+  "next_seen": "",
+  "text_frame": "00037_BMR_p_2506.44.jpg",
+  "key_frame": "00039_BMR_a_2509.04.jpg",
+  "frames": [
+   "00037_BMR_p_2506.44.jpg",
+   "00038_BMR_p_2508.16.jpg",
+   "00039_BMR_a_2509.04.jpg",
+   "00040_BMR_a_2509.84.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf4b-010",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2511.52,
+  "t1": 2515.28,
+  "q": "What is the range of the following 21, 25, 29, 30, 35, 40?",
+  "qconf": 95.8,
+  "options": [
+   "20",
+   "19",
+   "28"
+  ],
+  "key": "19",
+  "kconf": 74.0,
+  "player": "",
+  "school": "",
+  "before": [
+   7,
+   10
+  ],
+  "after": [
+   7,
+   13
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 40,
+  "next_seen": "(1/13 + Wh-",
+  "text_frame": "00042_BMR_p_2513.04.jpg",
+  "key_frame": "00043_BMR_a_2514.68.jpg",
+  "frames": [
+   "00041_BMR_p_2511.52.jpg",
+   "00042_BMR_p_2513.04.jpg",
+   "00043_BMR_a_2514.68.jpg",
+   "00044_BMR_a_2515.28.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf4b-011",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2516.8,
+  "t1": 2521.28,
+  "q": "What is the probability of getting product of number greater than 25 when 2 dice are rolled?",
+  "qconf": 95.8,
+  "options": [
+   "1/13",
+   "2/15",
+   "1/12"
+  ],
+  "key": "1/12",
+  "kconf": 70.0,
+  "player": "",
+  "school": "",
+  "before": [
+   7,
+   13
+  ],
+  "after": [
+   7,
+   17
+  ],
+  "delta": [
+   0,
+   4
+  ],
+  "clock": 36,
+  "next_seen": "(1/4+ ' Bo",
+  "text_frame": "00045_BMR_p_2516.80.jpg",
+  "key_frame": "00048_BMR_a_2520.60.jpg",
+  "frames": [
+   "00045_BMR_p_2516.80.jpg",
+   "00046_BMR_p_2518.44.jpg",
+   "00047_BMR_p_2520.00.jpg",
+   "00048_BMR_a_2520.60.jpg",
+   "00049_BMR_a_2521.28.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf4b-012",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2523.16,
+  "t1": 2527.48,
+  "q": "Box: 3 red, 4 white. Two drawn without replacement. if the first is white, what is P(second red)?",
+  "qconf": 95.4,
+  "options": [
+   "1/4",
+   "1/2",
+   "1/8"
+  ],
+  "key": "1/2",
+  "kconf": 67.0,
+  "player": "",
+  "school": "",
+  "before": [
+   7,
+   17
+  ],
+  "after": [
+   7,
+   17
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 31,
+  "next_seen": "sf |",
+  "text_frame": "00050_BMR_p_2523.16.jpg",
+  "key_frame": "00053_BMR_a_2526.72.jpg",
+  "frames": [
+   "00050_BMR_p_2523.16.jpg",
+   "00051_BMR_p_2524.76.jpg",
+   "00052_BMR_p_2526.40.jpg",
+   "00053_BMR_a_2526.72.jpg",
+   "00054_BMR_a_2527.48.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf4b-013",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2529.16,
+  "t1": 2533,
+  "q": "A dataset has values: 10, 20, 30, 40. The cumulative frequency table shows the final cumulative frequency as",
+  "qconf": 95.7,
+  "options": [
+   "2",
+   "3",
+   "4"
+  ],
+  "key": "4",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   7,
+   17
+  ],
+  "after": [
+   9,
+   17
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 26,
+  "next_seen": "ar medahy, “",
+  "text_frame": "00055_BML_p_2529.16.jpg",
+  "key_frame": "00057_BML_a_2532.28.jpg",
+  "frames": [
+   "00055_BML_p_2529.16.jpg",
+   "00056_BML_p_2530.76.jpg",
+   "00057_BML_a_2532.28.jpg",
+   "00058_BML_a_2533.00.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf4b-014",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2534.6,
+  "t1": 2536.2,
+  "q": "In a perfectly symmetrical distribution, mean, median, and mode are",
+  "qconf": 95.2,
+  "options": [
+   "Unequal",
+   "Mean> median",
+   "Equal"
+  ],
+  "key": "Equal",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   9,
+   17
+  ],
+  "after": [
+   11,
+   17
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 21,
+  "next_seen": "Median be read ot 4 plot",
+  "text_frame": "00059_BML_p_2534.60.jpg",
+  "key_frame": "00060_BML_a_2535.44.jpg",
+  "frames": [
+   "00059_BML_p_2534.60.jpg",
+   "00060_BML_a_2535.44.jpg",
+   "00061_BML_a_2536.20.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf4b-015",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2537.84,
+  "t1": 2539.6,
+  "q": "Which measure cannot be read directly from a boxplot?",
+  "qconf": 94.3,
+  "options": [
+   "Interquartile range",
+   "Mean",
+   "Median"
+  ],
+  "key": "Mean",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   11,
+   17
+  ],
+  "after": [
+   14,
+   17
+  ],
+  "delta": [
+   3,
+   0
+  ],
+  "clock": 19,
+  "next_seen": "ent wait time bo wait tir",
+  "text_frame": "00062_BML_p_2537.84.jpg",
+  "key_frame": "00063_BML_a_2538.96.jpg",
+  "frames": [
+   "00062_BML_p_2537.84.jpg",
+   "00063_BML_a_2538.96.jpg",
+   "00064_BML_a_2539.60.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf4b-016",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2541.24,
+  "t1": 2544.76,
+  "q": "A hospital recorded patient wait time: 12, 8, 10, 20, 14. What is the median wait time?",
+  "qconf": 95.5,
+  "options": [
+   "14",
+   "10",
+   "12"
+  ],
+  "key": "12",
+  "kconf": 94.0,
+  "player": "",
+  "school": "",
+  "before": [
+   14,
+   17
+  ],
+  "after": [
+   17,
+   17
+  ],
+  "delta": [
+   3,
+   0
+  ],
+  "clock": 16,
+  "next_seen": "« Box plot! g techn .",
+  "text_frame": "00065_BML_p_2541.24.jpg",
+  "key_frame": "00067_BML_a_2544.12.jpg",
+  "frames": [
+   "00065_BML_p_2541.24.jpg",
+   "00066_BML_p_2542.76.jpg",
+   "00067_BML_a_2544.12.jpg",
+   "00068_BML_a_2544.76.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf4b-017",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2546.36,
+  "t1": 2548.28,
+  "q": "Which is a data modeling technique?",
+  "qconf": 95.9,
+  "options": [
+   "Pie chart",
+   "ER Diagram",
+   "Box plot"
+  ],
+  "key": "ER Diagram",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   17,
+   17
+  ],
+  "after": [
+   20,
+   17
+  ],
+  "delta": [
+   3,
+   0
+  ],
+  "clock": 12,
+  "next_seen": "mhowme | m of 8",
+  "text_frame": "00069_BML_p_2546.36.jpg",
+  "key_frame": "00070_BML_a_2547.56.jpg",
+  "frames": [
+   "00069_BML_p_2546.36.jpg",
+   "00070_BML_a_2547.56.jpg",
+   "00071_BML_a_2548.28.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf4b-018",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2549.88,
+  "t1": 2554.64,
+  "q": "If a die is rolled twice, how many outcomes show asum of 8?",
+  "qconf": 95.2,
+  "options": [
+   "5",
+   "10",
+   "30"
+  ],
+  "key": "3",
+  "kconf": 72.0,
+  "player": "",
+  "school": "",
+  "before": [
+   20,
+   17
+  ],
+  "after": [
+   24,
+   17
+  ],
+  "delta": [
+   4,
+   0
+  ],
+  "clock": 9,
+  "next_seen": "Variable) ‘ stics of a Gq . U ————",
+  "text_frame": "00072_BML_p_2549.88.jpg",
+  "key_frame": "00075_BML_a_2553.92.jpg",
+  "frames": [
+   "00072_BML_p_2549.88.jpg",
+   "00073_BML_p_2551.48.jpg",
+   "00074_BML_p_2553.04.jpg",
+   "00075_BML_a_2553.92.jpg",
+   "00076_BML_a_2554.64.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf4b-019",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2556.16,
+  "t1": 2560.32,
+  "q": "A specific characteristics of a population is called",
+  "qconf": 96.0,
+  "options": [
+   "Parameter",
+   "Sample",
+   "Variable"
+  ],
+  "key": "Parameter",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   24,
+   17
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 4,
+  "next_seen": "e e 3 e",
+  "text_frame": "00077_BML_p_2556.16.jpg",
+  "key_frame": "00079_BML_a_2558.12.jpg",
+  "frames": [
+   "00077_BML_p_2556.16.jpg",
+   "00078_BML_p_2557.76.jpg",
+   "00079_BML_a_2558.12.jpg",
+   "00080_BML_a_2558.80.jpg",
+   "00081_BML_p_2560.32.jpg"
+  ],
+  "flags": []
+ }
+]

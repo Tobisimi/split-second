@@ -1,0 +1,329 @@
+{
+ "26-qf2-qb-1308": {
+  "solution": "The interquartile range is Q3 − Q1. Here that is 35 − 15 = 20.",
+  "trick": "Subtract in your head: 35 − 15 = 20. No halving and no median needed.",
+  "check": "agree",
+  "computed": "20",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf2-qb-1313": {
+  "solution": "Each whole step of magnitude multiplies the energy by 10 to the power 1.5, which is about 32. The gap is 7.0 − 5.0 = 2 steps, so the ratio is 10 to the power (1.5 × 2) = 10³. By shaking amplitude it would be 10² = 100 instead, but the show's 1,000 follows the energy reading. So the answer is 1,000.",
+  "trick": "Each magnitude step is about 32 times the energy, so two steps give 32 × 32 ≈ 1,000. Amplitude would give 10 × 10 = 100, but the show took the energy answer.",
+  "check": "unclear",
+  "computed": "1,000 by energy (100 by shaking amplitude)",
+  "accept": [
+   "1000",
+   "1,000",
+   "1000 times",
+   "1,000 times"
+  ],
+  "comment": "The word intensity is ambiguous. Two magnitude steps give 10² = 100 times the shaking amplitude but 10³ = 1,000 times the energy released, so the show's 1,000 only fits the energy reading."
+ },
+ "26-qf2-qb-1317": {
+  "solution": "K means thousand, so add 50K + 30K + 20K = 100K. That is ₦100,000.",
+  "trick": "Add the plain numbers, 50 + 30 + 20 = 100, then put the K back: ₦100,000.",
+  "check": "agree",
+  "computed": "₦100,000",
+  "accept": [
+   "100000",
+   "100,000",
+   "₦100000",
+   "N100000",
+   "N100,000",
+   "₦100K",
+   "N100K",
+   "100K",
+   "100k"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1320": {
+  "solution": "Each change multiplies the price: 1.10 × 0.95 × 1.08. First 1.10 × 0.95 = 1.045, then 1.045 × 1.08 = 1.1286. That is a net rise of 12.86%, which is about 13%.",
+  "trick": "Small changes roughly add: 10 − 5 + 8 = 13. The options are far apart, so 13% is clearly the closest to the exact 12.86%.",
+  "check": "agree",
+  "computed": "12.86%, which is about 13%",
+  "accept": [
+   "13",
+   "13%",
+   "13 percent",
+   "12.9",
+   "12.9%",
+   "12.86",
+   "12.86%"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1329": {
+  "solution": "The correlation coefficient r runs from −1, a perfect opposite link, to 1, a perfect matching link. No linear link at all sits in the middle. So uncorrelated variables have r = 0.",
+  "trick": "1 and −1 are perfect relationships, so uncorrelated cannot be either of them. It is the middle of the scale: 0.",
+  "check": "agree",
+  "computed": "0",
+  "accept": [
+   "zero"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1333": {
+  "solution": "The ratio 1 : 2 : 4 has 1 + 2 + 4 = 7 parts. One part is 35 ÷ 7 = 5 kg. Sand is 2 parts, so 2 × 5 = 10 kg.",
+  "trick": "35 is 7 × 5, so one part is 5 kg. Sand is 2 parts, which is 10 kg.",
+  "check": "agree",
+  "computed": "10 kg",
+  "accept": [
+   "10",
+   "10kg",
+   "10 kg",
+   "10 kilograms"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1341": {
+  "solution": "Assume the data are roughly normal. 60 and 80 are 70 − 10 and 70 + 10, so they sit exactly 1 SD below and above the mean. About 68% of values lie within 1 SD of the mean (68.27% to be exact). So the answer is 68%.",
+  "trick": "60 and 80 are the mean ± 10, which is exactly 1 SD each side. The 68, 95, 99.7 rule gives 68%.",
+  "check": "agree",
+  "computed": "68% (68.27% exactly)",
+  "accept": [
+   "68",
+   "68%",
+   "68 percent",
+   "68.3%",
+   "68.27%",
+   "about 68%"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1391": {
+  "solution": "Remove the lowest value, 12. The rest are 16, 18, 22 and 24, which add up to 80. The mean is 80 ÷ 4 = 20.",
+  "trick": "The four left over pair up: 16 + 24 = 40 and 18 + 22 = 40. They balance around 20, so the mean is 20.",
+  "check": "agree",
+  "computed": "20",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf2-qb-1405": {
+  "solution": "The mean is below the mode, so the skewness is negative. Pearson's first coefficient of skewness is (mean − mode) ÷ SD = (50 − 55) ÷ 5 = −5 ÷ 5 = −1.",
+  "trick": "The mean is 5 below the mode, and 5 is exactly 1 SD, so the size is 1. Mean below mode makes it negative: −1.",
+  "check": "agree",
+  "computed": "−1",
+  "accept": [
+   "-1",
+   "−1",
+   "-1.0",
+   "minus 1",
+   "negative 1"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1407": {
+  "solution": "Percentage increase = (new − old) ÷ old × 100. That is (120 − 80) ÷ 80 × 100 = 40 ÷ 80 × 100 = 50%.",
+  "trick": "The rise of 40 is half of the starting 80, so it is 50%.",
+  "check": "agree",
+  "computed": "50%",
+  "accept": [
+   "50",
+   "50%",
+   "50 percent",
+   "0.5"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1417": {
+  "solution": "The peak is where the velocity is zero. dh/dt = −32t + 64 = 0 gives t = 64 ÷ 32 = 2. So the maximum height is reached after 2 seconds.",
+  "trick": "Peak of a parabola: t = −b ÷ (2a) = −64 ÷ (−32) = 2. It is also halfway between the zeros at t = 0 and t = 4.",
+  "check": "agree",
+  "computed": "2 seconds",
+  "accept": [
+   "2",
+   "2s",
+   "2 s",
+   "2 sec",
+   "2 secs",
+   "2 seconds"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1460": {
+  "solution": "The amount of solute stays the same. It is 0.2 L × 5 M = 1 mol. The new volume is 200 + 800 = 1,000 mL = 1 L, so the molarity is 1 mol ÷ 1 L = 1 M.",
+  "trick": "The volume grows from 200 mL to 1,000 mL, which is 5 times bigger, so the 5 M falls to a fifth: 1 M.",
+  "check": "agree",
+  "computed": "1 M",
+  "accept": [
+   "1",
+   "1M",
+   "1 M",
+   "1 molar",
+   "1 mol/L",
+   "1 mol/l",
+   "1 mol/dm³"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1464": {
+  "solution": "Use the dot product: A·B = |A||B| cos θ. A·B = 3 × 4 + 4 × (−3) = 12 − 12 = 0. So cos θ = 0 and θ = 90°.",
+  "trick": "Multiply across and add: 3 × 4 = 12 and 4 × (−3) = −12 cancel to 0. A zero dot product means the vectors are at right angles.",
+  "check": "agree",
+  "computed": "90°",
+  "accept": [
+   "90",
+   "90°",
+   "90 degrees",
+   "90deg",
+   "π/2",
+   "pi/2",
+   "right angle"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1468": {
+  "solution": "Convert the speed: 90 km/h ÷ 3.6 = 25 m/s. Slowing to a stop in 5 s means a = 25 ÷ 5 = 5 m/s². The braking force is F = ma = 1,500 × 5 = 7,500 N.",
+  "trick": "90 km/h is 25 m/s (divide by 3.6). Losing 25 m/s in 5 s is 5 m/s², and 1,500 × 5 = 7,500.",
+  "check": "agree",
+  "computed": "7,500 N",
+  "accept": [
+   "7500",
+   "7,500",
+   "7500N",
+   "7,500N",
+   "7500 N",
+   "7,500 N",
+   "7.5kN",
+   "7.5 kN"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1476": {
+  "solution": "Differentiate twice. f(x) = x³ gives f′(x) = 3x², then f″(x) = 6x. At x = 2, f″(2) = 6 × 2 = 12.",
+  "trick": "Bring the power down and lower it by one, twice: x³ to 3x² to 6x. Then 6 × 2 = 12.",
+  "check": "agree",
+  "computed": "12",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf2-qb-1487": {
+  "solution": "Time = pages ÷ pages per minute. That is 300 ÷ 12 = 25 minutes.",
+  "trick": "Divide top and bottom by 3: 300 ÷ 12 is 100 ÷ 4, which is 25.",
+  "check": "agree",
+  "computed": "25 minutes",
+  "accept": [
+   "25",
+   "25min",
+   "25 min",
+   "25 mins",
+   "25 minutes"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1495": {
+  "solution": "Differentiate twice. y = x³ + 2x² gives y′ = 3x² + 4x, then y″ = 6x + 4. At x = 1, y″ = 6 + 4 = 10.",
+  "trick": "Take the second derivative term by term: x³ gives 6x and 2x² gives 4. At x = 1 that is 6 + 4 = 10.",
+  "check": "agree",
+  "computed": "10",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf2-qb-1508": {
+  "solution": "Complete the square: x² − 2x + 5 = (x − 1)² + 4. A square is never negative, so the smallest value is 4, reached at x = 1.",
+  "trick": "The lowest point is at x = 2 ÷ 2 = 1. Put in 1: 1 − 2 + 5 = 4.",
+  "check": "agree",
+  "computed": "4",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf2-qb-1522": {
+  "solution": "The amount of HCl stays the same, so M₁V₁ = M₂V₂. In litres, 3 × 0.9 = M₂ × 3, so M₂ = 2.7 ÷ 3 = 0.9 M.",
+  "trick": "M₂ = 3 × 0.9 ÷ 3. The two 3s cancel, which leaves 0.9.",
+  "check": "agree",
+  "computed": "0.9 M",
+  "accept": [
+   "0.9",
+   "0.9M",
+   "0.9 M",
+   "0.9 molar",
+   "0.9 mol/L",
+   "0.9 mol/l",
+   "0.9 mol/dm³"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1543": {
+  "solution": "With the mean and median given, use Pearson's second coefficient: skewness = 3 × (mean − median) ÷ SD. So 1.5 = 3 × (72 − 68) ÷ SD = 12 ÷ SD. Then SD = 12 ÷ 1.5 = 8.",
+  "trick": "3 × (72 − 68) = 12. Then 12 ÷ 1.5 equals 24 ÷ 3 (double both), which is 8.",
+  "check": "agree",
+  "computed": "8",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf2-qb-1548": {
+  "solution": "Covariance = correlation × SD₁ × SD₂. That is 0.75 × 6 × 12 = 0.75 × 72 = 54.",
+  "trick": "0.75 of 12 is 9, and 9 × 6 = 54.",
+  "check": "agree",
+  "computed": "54",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf2-qb-1557": {
+  "solution": "A 1 : 10 model means every length is 10 times bigger on the real bridge. Strength follows cross section area, which grows 10² = 100 times, so 5 kg × 100 = 500 kg. Scaling by volume, 10³ = 1,000 times, gives 5,000 kg, which is 5 tonnes. The show accepted both: 500 kg or 5 tonnes.",
+  "trick": "Multiply 5 kg by 100 (10 × 10, for area) to get 500 kg, or by 1,000 (10 × 10 × 10, for volume) to get 5 tonnes. Either was accepted.",
+  "check": "unclear",
+  "computed": "500 kg by area scaling (5 tonnes by volume scaling)",
+  "accept": [
+   "500",
+   "500kg",
+   "500 kg",
+   "5 tonnes",
+   "5 tonne",
+   "5 tons",
+   "5 ton",
+   "5 t",
+   "5000",
+   "5,000",
+   "5000kg",
+   "5000 kg",
+   "5,000 kg"
+  ],
+  "comment": "The question does not say how load capacity scales. By cross section area it is 10² = 100 times (500 kg), and by volume it is 10³ = 1,000 times (5,000 kg or 5 tonnes). The show accepted both, so both are kept."
+ },
+ "26-qf2-qb-1567": {
+  "solution": "The perimeter is 200 m, so length + width = 100 m. The area l × (100 − l) is largest when l = 50, which also makes the width 50. So the best shape is a square, 50 m × 50 m, with area 2,500 m².",
+  "trick": "Check the fence each option uses: 4 × 30 = 120 m and 4 × 20 = 80 m leave fence unused, while 4 × 50 = 200 m uses it all. A square is the best rectangle for a fixed perimeter.",
+  "check": "agree",
+  "computed": "50 m × 50 m",
+  "accept": [
+   "50 by 50",
+   "50m by 50m",
+   "50 m by 50 m",
+   "50 × 50",
+   "50 x 50",
+   "50m x 50m",
+   "50m × 50m",
+   "50 m × 50 m",
+   "50",
+   "50m",
+   "50 m"
+  ],
+  "comment": ""
+ },
+ "26-qf2-qb-1600": {
+  "solution": "Midrange = (minimum + maximum) ÷ 2. So 30 = (10 + max) ÷ 2, which gives 10 + max = 60. The maximum is 50.",
+  "trick": "The midrange 30 is 20 above the minimum 10, so the maximum is 20 above 30: 50.",
+  "check": "agree",
+  "computed": "50",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf2-qb-1606": {
+  "solution": "Elastic energy = ½kx². That is ½ × 600 × (0.1)² = 300 × 0.01 = 3 J.",
+  "trick": "Half of 600 is 300, and 0.1² is 0.01, so 300 × 0.01 = 3.",
+  "check": "agree",
+  "computed": "3 J",
+  "accept": [
+   "3",
+   "3J",
+   "3 J",
+   "3 joules",
+   "3 joule",
+   "3 Joules"
+  ],
+  "comment": ""
+ }
+}

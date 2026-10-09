@@ -1,0 +1,1629 @@
+[
+ {
+  "id": "qf2b-001",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2405.16,
+  "t1": 2410,
+  "q": "Which comes 3rd in reverse alphabet from M?",
+  "qconf": 84.4,
+  "options": [
+   "L",
+   "K",
+   "J"
+  ],
+  "key": "K",
+  "kconf": 91.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   0
+  ],
+  "after": [
+   2,
+   0
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 90,
+  "next_seen": "‘ NS? ipo wes : — 4 _ ~ * - ~~ bLn - RYE De XS augntet or A me ere etre | a i, ee wae",
+  "text_frame": "00000_BML_p_2405.16.jpg",
+  "key_frame": "00002_BML_a_2407.72.jpg",
+  "frames": [
+   "00000_BML_p_2405.16.jpg",
+   "00001_BML_p_2406.84.jpg",
+   "00002_BML_a_2407.72.jpg",
+   "00003_BML_a_2408.36.jpg",
+   "00004_BML_p_2410.00.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-002",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2411.52,
+  "t1": 2417.96,
+  "q": "A is the son of B. C is the daughter of A. D is the brother of B. What is D to C?",
+  "qconf": 94.2,
+  "options": [
+   "Father",
+   "Uncle",
+   "Grand-uncle"
+  ],
+  "key": "Grand-uncle",
+  "kconf": 90.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   0
+  ],
+  "after": [
+   2,
+   0
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 84,
+  "next_seen": "v4 va oA 4 7 ra od ‘iin ic th, tk dds 7a + rie iS Lie ° \\ —E af : : iwi Way qaugntel = _ L. : ‘howe. bit Lhe ; ? Ome DOV",
+  "text_frame": "00005_BML_p_2411.52.jpg",
+  "key_frame": "00007_BML_a_2414.04.jpg",
+  "frames": [
+   "00005_BML_p_2411.52.jpg",
+   "00006_BML_p_2413.16.jpg",
+   "00007_BML_a_2414.04.jpg",
+   "00008_BML_a_2414.76.jpg",
+   "00009_BML_p_2416.36.jpg",
+   "00010_BML_p_2417.96.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-003",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2419.56,
+  "t1": 2424.8,
+  "q": "Introducing a boy, a girl said, ''He is the son of my mother's only daughter.’ How is the girl related to the boy?",
+  "qconf": 92.4,
+  "options": [
+   "Aunt",
+   "Sister",
+   "Mother"
+  ],
+  "key": "Mother",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   0
+  ],
+  "after": [
+   2,
+   0
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 76,
+  "next_seen": ". USN % om ow is X related + 1a Ss 3 7 - oF; V4",
+  "text_frame": "00011_BML_p_2419.56.jpg",
+  "key_frame": "00013_BML_a_2422.64.jpg",
+  "frames": [
+   "00011_BML_p_2419.56.jpg",
+   "00012_BML_p_2421.16.jpg",
+   "00013_BML_a_2422.64.jpg",
+   "00014_BML_a_2423.28.jpg",
+   "00015_BML_p_2424.80.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-004",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2426.32,
+  "t1": 2427.52,
+  "q": "X is Y's wife. Z is Y's brother. How is X related to Z?",
+  "qconf": 93.9,
+  "options": [
+   "Sister",
+   "Sister-in-law",
+   "Cousin"
+  ],
+  "key": "Sister-in-law",
+  "kconf": 57.5,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   0
+  ],
+  "after": [
+   2,
+   2
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 69,
+  "next_seen": "(Mr Ae ; \" ' i y, INVee COup 3s SIE TOS Fc ONS B. Mr, Cs: 7 a | ‘ ce with her:",
+  "text_frame": "00016_BMR_p_2426.32.jpg",
+  "key_frame": "00017_BMR_a_2426.84.jpg",
+  "frames": [
+   "00016_BMR_p_2426.32.jpg",
+   "00017_BMR_a_2426.84.jpg",
+   "00018_BMR_a_2427.52.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf2b-005",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2429.04,
+  "t1": 2431.16,
+  "q": "Three couples sit together: Mr. A sits with Mrs. B. Mr. C sits with his wife. Mrs. D doesn't sit with her husband. Who is Mrs. D's husbani",
+  "qconf": 88.5,
+  "options": [
+   "Mr. A",
+   "Mr.B",
+   "Mr. C"
+  ],
+  "key": "OMB",
+  "kconf": 10.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   2
+  ],
+  "after": [
+   2,
+   4
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 67,
+  "next_seen": "OOp 00riiin | * Fronn de) hat is y :",
+  "text_frame": "00019_BMR_p_2429.04.jpg",
+  "key_frame": "00020_BMR_a_2430.48.jpg",
+  "frames": [
+   "00019_BMR_p_2429.04.jpg",
+   "00020_BMR_a_2430.48.jpg",
+   "00021_BMR_a_2431.16.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf2b-006",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2432.84,
+  "t1": 2434.36,
+  "q": "From department building, admin is 200m east. Library is 200m north of admin. What is library from department?",
+  "qconf": 95.3,
+  "options": [
+   "200m East",
+   "400m North",
+   "283m North-East"
+  ],
+  "key": "283m North-East",
+  "kconf": 84.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   4
+  ],
+  "after": [
+   2,
+   4
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 63,
+  "next_seen": "(V ff | Y ina SQUATE . . = 2",
+  "text_frame": "00022_BMR_p_2432.84.jpg",
+  "key_frame": "00023_BMR_a_2433.56.jpg",
+  "frames": [
+   "00022_BMR_p_2432.84.jpg",
+   "00023_BMR_a_2433.56.jpg",
+   "00024_BMR_a_2434.36.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-007",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2435.96,
+  "t1": 2440.36,
+  "q": "In a square arrangement: North: X, East: Y, South: Z, West: W. If X faces Y, who faces Z?",
+  "qconf": 88.4,
+  "options": [
+   "W",
+   "X",
+   "Y"
+  ],
+  "key": "W",
+  "kconf": 90.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   4
+  ],
+  "after": [
+   2,
+   4
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 60,
+  "next_seen": "f yi rics e - — | —— INOT Cat: = eo _",
+  "text_frame": "00025_BML_p_2435.96.jpg",
+  "key_frame": "00027_BML_a_2438.16.jpg",
+  "frames": [
+   "00025_BML_p_2435.96.jpg",
+   "00026_BML_p_2437.60.jpg",
+   "00027_BML_a_2438.16.jpg",
+   "00028_BML_a_2438.84.jpg",
+   "00029_BML_p_2440.36.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-008",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2442,
+  "t1": 2443.76,
+  "q": "What has teeth but cannot eat?",
+  "qconf": 91.2,
+  "options": [
+   "A gear",
+   "A comb",
+   "A zipper"
+  ],
+  "key": "Acomb",
+  "kconf": 56.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   4
+  ],
+  "after": [
+   2,
+   4
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 54,
+  "next_seen": "(Eyes - ‘ - li. AG. | ISTIES' N\\",
+  "text_frame": "00030_BMR_p_2442.00.jpg",
+  "key_frame": "00031_BMR_a_2443.08.jpg",
+  "frames": [
+   "00030_BMR_p_2442.00.jpg",
+   "00031_BMR_a_2443.08.jpg",
+   "00032_BMR_a_2443.76.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf2b-009",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2445.36,
+  "t1": 2449.32,
+  "q": "If 'ACOUSTICS' is to 'SOUND', then ‘OPTICS is to:",
+  "qconf": 87.5,
+  "options": [
+   "Eyes",
+   "Vision",
+   "Light"
+  ],
+  "key": "Light",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   4
+  ],
+  "after": [
+   4,
+   4
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 50,
+  "next_seen": "if s - ’ a ®t oud —| x Pa\\ensorFiow ° i",
+  "text_frame": "00033_BML_p_2445.36.jpg",
+  "key_frame": "00034_BML_a_2446.96.jpg",
+  "frames": [
+   "00033_BML_p_2445.36.jpg",
+   "00034_BML_a_2446.96.jpg",
+   "00035_BML_a_2447.68.jpg",
+   "00036_BML_a_2449.32.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-010",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2450.44,
+  "t1": 2451.08,
+  "q": "Oracle is to Database as TensorFlow is to...",
+  "qconf": 95.4,
+  "options": [
+   "Machine Learning",
+   "Programming",
+   "Cloud"
+  ],
+  "key": "Machine Learning",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   4
+  ],
+  "after": [
+   6,
+   4
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 45,
+  "next_seen": "Sy 2 A",
+  "text_frame": "00037_BML_a_2450.44.jpg",
+  "key_frame": "00037_BML_a_2450.44.jpg",
+  "frames": [
+   "00037_BML_a_2450.44.jpg",
+   "00038_BML_a_2451.08.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-011",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2452.64,
+  "t1": 2456,
+  "q": "Which letter is 5th left of Q?",
+  "qconf": 92.3,
+  "options": [
+   "L",
+   "M",
+   "N"
+  ],
+  "key": "UL",
+  "kconf": 35.0,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   4
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 43,
+  "next_seen": "pare TN y mt) abe \" id, one is the Ti OR BS ‘ cl ae \\ x (aes earcenty x 3 * 9 aAcTHers ON \\ \\/ 7 \" - {yp --- lady?",
+  "text_frame": "00039_BML_p_2452.64.jpg",
+  "key_frame": "00040_BML_a_2453.76.jpg",
+  "frames": [
+   "00039_BML_p_2452.64.jpg",
+   "00040_BML_a_2453.76.jpg",
+   "00041_BML_a_2454.48.jpg",
+   "00042_BML_p_2456.00.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf2b-012",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2457.56,
+  "t1": 2461.2,
+  "q": "Pointing to a lady, Tom said, \"She is the daughter of my grandfather's only son. Who is the lady?",
+  "qconf": 92.8,
+  "options": [
+   "Sister",
+   "Cousin",
+   "Aunt"
+  ],
+  "key": "Sister",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   9,
+   4
+  ],
+  "delta": null,
+  "clock": 38,
+  "next_seen": "oo if NN s =v Face),4 y B but after C. D ~ . ~~ } 2 c ree 5 \\ . Oo won: VW & ’",
+  "text_frame": "00043_BML_p_2457.56.jpg",
+  "key_frame": "00044_BML_a_2458.84.jpg",
+  "frames": [
+   "00043_BML_p_2457.56.jpg",
+   "00044_BML_a_2458.84.jpg",
+   "00045_BML_a_2459.56.jpg",
+   "00046_BML_p_2461.20.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-013",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2462.72,
+  "t1": 2466.96,
+  "q": "In arace, A finished before B but after C. D finished after B. Who won?",
+  "qconf": 91.9,
+  "options": [
+   "C",
+   "A",
+   "B"
+  ],
+  "key": "LC",
+  "kconf": 45.0,
+  "player": "",
+  "school": "",
+  "before": [
+   9,
+   4
+  ],
+  "after": [
+   9,
+   6
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 33,
+  "next_seen": "- ,”” Ee: Pick the oCAgmeg JSloumemeuase —",
+  "text_frame": "00047_BMR_p_2462.72.jpg",
+  "key_frame": "00049_BMR_a_2464.68.jpg",
+  "frames": [
+   "00047_BMR_p_2462.72.jpg",
+   "00048_BMR_p_2464.32.jpg",
+   "00049_BMR_a_2464.68.jpg",
+   "00050_BMR_a_2465.36.jpg",
+   "00051_BMR_p_2466.96.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf2b-014",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2468.6,
+  "t1": 2469.64,
+  "q": "Pick the odd one out: Bitcoin, Blockchain, Ethereum, PayPal",
+  "qconf": 93.9,
+  "options": null,
+  "key": "PayPal",
+  "kconf": 83.5,
+  "player": "",
+  "school": "",
+  "before": [
+   9,
+   6
+  ],
+  "after": [
+   9,
+   8
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 27,
+  "next_seen": "id = Th, ‘ ae J . 5 Ct. turn 4 ; : ’",
+  "text_frame": "00052_BMR_p_2468.60.jpg",
+  "key_frame": "00053_BMR_a_2468.92.jpg",
+  "frames": [
+   "00052_BMR_p_2468.60.jpg",
+   "00053_BMR_a_2468.92.jpg",
+   "00054_BMR_a_2469.64.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-015",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2471.28,
+  "t1": 2473.88,
+  "q": "Facing East, turn 45° right, then 90° left. Which direction?",
+  "qconf": 95.6,
+  "options": [
+   "North",
+   "NE",
+   "South"
+  ],
+  "key": "NE",
+  "kconf": 47.0,
+  "player": "",
+  "school": "",
+  "before": [
+   9,
+   8
+  ],
+  "after": [
+   9,
+   8
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 24,
+  "next_seen": "(G ‘a - Pacino 7 Steen | —= :",
+  "text_frame": "00055_BMR_p_2471.28.jpg",
+  "key_frame": "00057_BMR_a_2473.24.jpg",
+  "frames": [
+   "00055_BMR_p_2471.28.jpg",
+   "00056_BMR_p_2472.84.jpg",
+   "00057_BMR_a_2473.24.jpg",
+   "00058_BMR_a_2473.88.jpg"
+  ],
+  "flags": [
+   "lowkey",
+   "math"
+  ]
+ },
+ {
+  "id": "qf2b-016",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2475.56,
+  "t1": 2479.96,
+  "q": "Find the odd one out: C, E, G, |, K.",
+  "qconf": 80.2,
+  "options": [
+   "H",
+   "J",
+   "I"
+  ],
+  "key": "",
+  "kconf": 0,
+  "player": "",
+  "school": "",
+  "before": [
+   9,
+   8
+  ],
+  "after": [
+   9,
+   8
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 20,
+  "next_seen": "5: Ais older thar © an E but° is the yo",
+  "text_frame": "00059_BML_p_2475.56.jpg",
+  "key_frame": "",
+  "frames": [
+   "00059_BML_p_2475.56.jpg",
+   "00060_BML_p_2477.20.jpg",
+   "00061_BML_a_2477.72.jpg",
+   "00062_BML_a_2478.44.jpg",
+   "00063_BML_p_2479.96.jpg"
+  ],
+  "flags": [
+   "nokey"
+  ]
+ },
+ {
+  "id": "qf2b-017",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2481.56,
+  "t1": 2486.4,
+  "q": "Five people have different ages: A is older than B dut younger than C. D is older than E but younge than B. F is older than C. Who is the younges ~",
+  "qconf": 89.1,
+  "options": [
+   "D",
+   "E",
+   "B"
+  ],
+  "key": "cE",
+  "kconf": 41.0,
+  "player": "",
+  "school": "",
+  "before": [
+   9,
+   8
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 14,
+  "next_seen": "Fithcelelt of the § | revere : n hat",
+  "text_frame": "00064_BMR_p_2481.56.jpg",
+  "key_frame": "00066_BMR_a_2484.12.jpg",
+  "frames": [
+   "00064_BMR_p_2481.56.jpg",
+   "00065_BMR_p_2483.24.jpg",
+   "00066_BMR_a_2484.12.jpg",
+   "00067_BMR_a_2484.84.jpg",
+   "00068_BMR_p_2486.40.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf2b-018",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2488,
+  "t1": 2489.76,
+  "q": "lf the letters of the alphabet are written ir reverse, which letter will be the 7th from the right?",
+  "qconf": 92.7,
+  "options": [
+   "H",
+   "W",
+   "T"
+  ],
+  "key": "T",
+  "kconf": 85.0,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   9,
+   8
+  ],
+  "delta": null,
+  "clock": 8,
+  "next_seen": "' ith) -_ wamvise, then 135 = e ne ; 5 lirection? . Pa. 7 i -",
+  "text_frame": "00069_BML_p_2488.00.jpg",
+  "key_frame": "00070_BML_a_2489.12.jpg",
+  "frames": [
+   "00069_BML_p_2488.00.jpg",
+   "00070_BML_a_2489.12.jpg",
+   "00071_BML_a_2489.76.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-019",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2491.36,
+  "t1": 2495.72,
+  "q": "Facing north, turn 45° clockwise, then 135° anticlockwise. Which direction?",
+  "qconf": 95.4,
+  "options": [
+   "North",
+   "West",
+   "South"
+  ],
+  "key": "West",
+  "kconf": 82.5,
+  "player": "",
+  "school": "",
+  "before": [
+   9,
+   8
+  ],
+  "after": [
+   0,
+   0
+  ],
+  "delta": [
+   -9,
+   -8
+  ],
+  "clock": 4,
+  "next_seen": "(ip stron « Simple ae Roo¢ “€ CO | + MIcroscs _",
+  "text_frame": "00072_BMR_p_2491.36.jpg",
+  "key_frame": "00074_BMR_a_2493.44.jpg",
+  "frames": [
+   "00072_BMR_p_2491.36.jpg",
+   "00073_BMR_p_2492.88.jpg",
+   "00074_BMR_a_2493.44.jpg",
+   "00075_BMR_a_2494.16.jpg",
+   "00076_BMR_p_2495.72.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf2b-020",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2540.76,
+  "t1": 2544.32,
+  "q": "Robert Hooke coined the term \"Cell\" using which microscope?",
+  "qconf": 94.7,
+  "options": [
+   "Electron",
+   "Simple compound",
+   "Dissecting"
+  ],
+  "key": "Simple compound",
+  "kconf": 87.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   0
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 90,
+  "next_seen": "(Cancer + ———— : ‘a’ alte nr =z “a ee SD * : Sw",
+  "text_frame": "00079_BMR_p_2540.76.jpg",
+  "key_frame": "00080_BMR_a_2542.08.jpg",
+  "frames": [
+   "00079_BMR_p_2540.76.jpg",
+   "00080_BMR_a_2542.08.jpg",
+   "00081_BMR_a_2542.72.jpg",
+   "00082_BMR_p_2544.32.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-021",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2545.84,
+  "t1": 2550.04,
+  "q": "Which water sign is most secretive?",
+  "qconf": 96.0,
+  "options": [
+   "Cancer",
+   "Scorpio",
+   "Pisces"
+  ],
+  "key": "Scorpio",
+  "kconf": 91.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 685,
+  "next_seen": "; ET ae '. Abudu + Kem Vy rN Who isi ete ARrica nana * ri",
+  "text_frame": "00083_BMR_p_2545.84.jpg",
+  "key_frame": "00084_BMR_a_2546.20.jpg",
+  "frames": [
+   "00083_BMR_p_2545.84.jpg",
+   "00084_BMR_a_2546.20.jpg",
+   "00085_BMR_a_2546.84.jpg",
+   "00086_BMR_p_2548.48.jpg",
+   "00087_BMR_p_2550.04.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-022",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2551.6,
+  "t1": 2554.24,
+  "q": "Who is the founder of the Africa International Film Festival (AFRIFF)?",
+  "qconf": 92.9,
+  "options": [
+   "Mo Abudu",
+   "Kemi Adetiba",
+   "Chioma Ude"
+  ],
+  "key": "Chioma Ude",
+  "kconf": 66.3,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 80,
+  "next_seen": "2000 BEC - 3 eG =i i ra Vine SS Oe : Mult > creat",
+  "text_frame": "00088_BMR_p_2551.60.jpg",
+  "key_frame": "00090_BMR_a_2553.44.jpg",
+  "frames": [
+   "00088_BMR_p_2551.60.jpg",
+   "00089_BMR_p_2553.12.jpg",
+   "00090_BMR_a_2553.44.jpg",
+   "00091_BMR_a_2554.24.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf2b-023",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2555.84,
+  "t1": 2560.48,
+  "q": "When was the oldest known multiplication table created?",
+  "qconf": 95.5,
+  "options": [
+   "2000 BEC",
+   "3000 BEC",
+   "700 BEC"
+  ],
+  "key": "2000 BEC",
+  "kconf": 95.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 75,
+  "next_seen": "—* >| nan # =e . j nily, whose job * 8 e ———— e —— —EEEEE——EEE oe = ——— SS  SSSSS= Ge",
+  "text_frame": "00092_BML_p_2555.84.jpg",
+  "key_frame": "00094_BML_a_2558.12.jpg",
+  "frames": [
+   "00092_BML_p_2555.84.jpg",
+   "00093_BML_p_2557.40.jpg",
+   "00094_BML_a_2558.12.jpg",
+   "00095_BML_a_2558.80.jpg",
+   "00096_BML_p_2560.48.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-024",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2562.08,
+  "t1": 2566.24,
+  "q": "In the Gambian traditional family, whose job is it to produce rice?",
+  "qconf": 95.9,
+  "options": [
+   "The children",
+   "The woman",
+   "The man"
+  ],
+  "key": "The woman",
+  "kconf": 73.3,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   4
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 69,
+  "next_seen": "- ye d , . (Stomach i T 'nsis Me is &. wal ‘ ° a",
+  "text_frame": "00097_BMR_p_2562.08.jpg",
+  "key_frame": "00099_BMR_a_2563.88.jpg",
+  "frames": [
+   "00097_BMR_p_2562.08.jpg",
+   "00098_BMR_p_2563.72.jpg",
+   "00099_BMR_a_2563.88.jpg",
+   "00100_BMR_a_2564.60.jpg",
+   "00101_BMR_p_2566.24.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf2b-025",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2567.52,
+  "t1": 2568.16,
+  "q": "Tuberculosis mainly affects",
+  "qconf": 96.0,
+  "options": [
+   "Stomach",
+   "Kidney",
+   "Lungs"
+  ],
+  "key": "Lungs",
+  "kconf": 70.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   4
+  ],
+  "after": [
+   0,
+   6
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 64,
+  "next_seen": "suLoU' 1 Mosque = He iF : At nent i .",
+  "text_frame": "00102_BMR_a_2567.52.jpg",
+  "key_frame": "00102_BMR_a_2567.52.jpg",
+  "frames": [
+   "00102_BMR_a_2567.52.jpg",
+   "00103_BMR_a_2568.16.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf2b-026",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2569.8,
+  "t1": 2571.32,
+  "q": "Which monument in Mali symbolizes ancient Islamic learning?",
+  "qconf": 91.7,
+  "options": [
+   "KKoutoubia Mosque",
+   "Hassan Tower",
+   "Sankore Mosque"
+  ],
+  "key": "Sankore Mosque",
+  "kconf": 80.3,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   6
+  ],
+  "after": [
+   0,
+   9
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 61,
+  "next_seen": "Lf (Tunisia « ; aN The al iv a,",
+  "text_frame": "00104_BMR_p_2569.80.jpg",
+  "key_frame": "00105_BMR_a_2570.64.jpg",
+  "frames": [
+   "00104_BMR_p_2569.80.jpg",
+   "00105_BMR_a_2570.64.jpg",
+   "00106_BMR_a_2571.32.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-027",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2572.88,
+  "t1": 2574.44,
+  "q": "The ancient city of Carthage, now a tourist attraction, is located in",
+  "qconf": 96.0,
+  "options": [
+   "Tunisia",
+   "Algeria",
+   "Morocco"
+  ],
+  "key": "Tunisia",
+  "kconf": 82.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   9
+  ],
+  "after": [
+   0,
+   12
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 58,
+  "next_seen": "(Nairobi : . Ba : he 6th Vil ——zz SGA. . | = 3 \\. :",
+  "text_frame": "00107_BMR_p_2572.88.jpg",
+  "key_frame": "00108_BMR_a_2573.76.jpg",
+  "frames": [
+   "00107_BMR_p_2572.88.jpg",
+   "00108_BMR_a_2573.76.jpg",
+   "00109_BMR_a_2574.44.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-028",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2576,
+  "t1": 2577.96,
+  "q": "The 6th October Bridge, one of Africa's longest is located in which city?",
+  "qconf": 95.8,
+  "options": [
+   "Nairobi",
+   "Lagos",
+   "Cairo"
+  ],
+  "key": "Cairo",
+  "kconf": 80.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   12
+  ],
+  "after": [
+   0,
+   15
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 55,
+  "next_seen": ": ' ‘ + \\ ® re the fi az Ger | N $",
+  "text_frame": "00110_BMR_p_2576.00.jpg",
+  "key_frame": "00111_BMR_a_2577.28.jpg",
+  "frames": [
+   "00110_BMR_p_2576.00.jpg",
+   "00111_BMR_a_2577.28.jpg",
+   "00112_BMR_a_2577.96.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-029",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2579.56,
+  "t1": 2581.68,
+  "q": "Who became the first female president of Tanzania in 2021?",
+  "qconf": 94.9,
+  "options": null,
+  "key": "Samia Suluhu Hassan",
+  "kconf": 82.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   15
+  ],
+  "after": [
+   0,
+   5
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 52,
+  "next_seen": "(Gold + Con —_— “Ah mune a Te 5 FAS | — t A \\",
+  "text_frame": "00113_BMR_p_2579.56.jpg",
+  "key_frame": "00114_BMR_a_2580.96.jpg",
+  "frames": [
+   "00113_BMR_p_2579.56.jpg",
+   "00114_BMR_a_2580.96.jpg",
+   "00115_BMR_a_2581.68.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-030",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2583.28,
+  "t1": 2585.92,
+  "q": "Which mineral is Sierra Leone most famous for?",
+  "qconf": 95.6,
+  "options": [
+   "Gold",
+   "Copper",
+   "Diamonds"
+  ],
+  "key": "Diamonds",
+  "kconf": 94.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   5
+  ],
+  "after": [
+   2,
+   15
+  ],
+  "delta": [
+   2,
+   10
+  ],
+  "clock": 48,
+  "next_seen": "Me a ss wd 3 ol ol * wi] Bridge S OT oN Si < Px “i or lem",
+  "text_frame": "00116_BML_p_2583.28.jpg",
+  "key_frame": "00118_BML_a_2585.20.jpg",
+  "frames": [
+   "00116_BML_p_2583.28.jpg",
+   "00117_BML_p_2584.88.jpg",
+   "00118_BML_a_2585.20.jpg",
+   "00119_BML_a_2585.92.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-031",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2587.52,
+  "t1": 2589.52,
+  "q": "Who solved the Seven Bridges of Konigsberg problem?",
+  "qconf": 95.2,
+  "options": [
+   "Newton",
+   "Cauchy",
+   "Euler"
+  ],
+  "key": "Euler",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   15
+  ],
+  "after": [
+   2,
+   15
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 44,
+  "next_seen": "ee < fe Ue AR ‘ | +s the same time \\ (amar >.<cumme 8 = Sy are ; oo» ° | ( +()): Y ——___—_-__ -",
+  "text_frame": "00120_BML_p_2587.52.jpg",
+  "key_frame": "00121_BML_a_2588.84.jpg",
+  "frames": [
+   "00120_BML_p_2587.52.jpg",
+   "00121_BML_a_2588.84.jpg",
+   "00122_BML_a_2589.52.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-032",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2591.2,
+  "t1": 2593.52,
+  "q": "Which African country shares the same time zone as the UK (UTC +0)?",
+  "qconf": 95.7,
+  "options": [
+   "Ghana",
+   "Kenya",
+   "Egypt"
+  ],
+  "key": "Ghana",
+  "kconf": 82.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   15
+  ],
+  "after": [
+   2,
+   15
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 40,
+  "next_seen": "| : .",
+  "text_frame": "00123_BMR_p_2591.20.jpg",
+  "key_frame": "00125_BMR_a_2592.88.jpg",
+  "frames": [
+   "00123_BMR_p_2591.20.jpg",
+   "00124_BMR_p_2592.72.jpg",
+   "00125_BMR_a_2592.88.jpg",
+   "00126_BMR_a_2593.52.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-033",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2595.12,
+  "t1": 2597.76,
+  "q": "Who is Nigeria's all-time top scorer with 37 goals?",
+  "qconf": 94.1,
+  "options": null,
+  "key": "Rashidi Yekini",
+  "kconf": 91.5,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   15
+  ],
+  "after": [
+   4,
+   15
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 36,
+  "next_seen": "ee < fe Ue AR ‘ | +s the same time \\ (amar >.<cumme 8 = Sy are ; oo» ° | ( +()): Y ——___—_-__ -",
+  "text_frame": "00127_BML_p_2595.12.jpg",
+  "key_frame": "00129_BML_a_2597.04.jpg",
+  "frames": [
+   "00127_BML_p_2595.12.jpg",
+   "00128_BML_p_2596.68.jpg",
+   "00129_BML_a_2597.04.jpg",
+   "00130_BML_a_2597.76.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-034",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2599.28,
+  "t1": 2601.52,
+  "q": "Which element is used in the treatment of bipolar disorder?",
+  "qconf": 95.1,
+  "options": [
+   "Lithium",
+   "Boron",
+   "Caesium"
+  ],
+  "key": "Lithium",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   15
+  ],
+  "after": [
+   4,
+   15
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 32,
+  "next_seen": "ee < fe Ue AR ‘ | +s the same time \\ (amar >.<cumme 8 = Sy are ; oo» ° | ( +()): Y ——___—_-__ -",
+  "text_frame": "00131_BML_p_2599.28.jpg",
+  "key_frame": "00132_BML_a_2600.80.jpg",
+  "frames": [
+   "00131_BML_p_2599.28.jpg",
+   "00132_BML_a_2600.80.jpg",
+   "00133_BML_a_2601.52.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-035",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2603.04,
+  "t1": 2605.44,
+  "q": "Transmission electron microscope magnify up to",
+  "qconf": 95.8,
+  "options": [
+   "50 million times",
+   "10 million times",
+   "5 million times"
+  ],
+  "key": "50 million times",
+  "kconf": 82.5,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   15
+  ],
+  "after": [
+   4,
+   15
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 28,
+  "next_seen": "Wi 'y element ere | 0 (6 i expc iN Dr _",
+  "text_frame": "00134_BMR_p_2603.04.jpg",
+  "key_frame": "00136_BMR_a_2604.76.jpg",
+  "frames": [
+   "00134_BMR_p_2603.04.jpg",
+   "00135_BMR_p_2604.60.jpg",
+   "00136_BMR_a_2604.76.jpg",
+   "00137_BMR_a_2605.44.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-036",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2606.96,
+  "t1": 2613.88,
+  "q": "Which element was discovered by Henning Brand in 1669 while experimenting with urine?",
+  "qconf": 96.0,
+  "options": null,
+  "key": "Phosphorus",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   15
+  ],
+  "after": [
+   4,
+   15
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 24,
+  "next_seen": "‘ Rattan) rs commonly used r?",
+  "text_frame": "00138_BML_p_2606.96.jpg",
+  "key_frame": "00140_BML_a_2609.96.jpg",
+  "frames": [
+   "00138_BML_p_2606.96.jpg",
+   "00139_BML_p_2608.56.jpg",
+   "00140_BML_a_2609.96.jpg",
+   "00141_BML_a_2610.64.jpg",
+   "00142_BML_p_2612.32.jpg",
+   "00143_BML_p_2613.88.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-037",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2615.4,
+  "t1": 2617.6,
+  "q": "Which rainforest product is commonly used to make paper?",
+  "qconf": 95.7,
+  "options": [
+   "Bamboo",
+   "Mahogany",
+   "Rattan"
+  ],
+  "key": "Bamboo",
+  "kconf": 53.0,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   15
+  ],
+  "after": [
+   4,
+   15
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 16,
+  "next_seen": "Ramaphosa « |i di S_ Who ° curren } - -",
+  "text_frame": "00144_BMR_p_2615.40.jpg",
+  "key_frame": "00145_BMR_a_2616.88.jpg",
+  "frames": [
+   "00144_BMR_p_2615.40.jpg",
+   "00145_BMR_a_2616.88.jpg",
+   "00146_BMR_a_2617.60.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf2b-038",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2619.12,
+  "t1": 2620.56,
+  "q": "Who is the current president of South Africa (2025)?",
+  "qconf": 94.1,
+  "options": [
+   "Cyril Ramaphosa",
+   "Jacob Zuma",
+   "Thabo Mbeki"
+  ],
+  "key": "Cyril Ramaphosa",
+  "kconf": 89.7,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   15
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 12,
+  "next_seen": "i - Congo Rainforest) =m finda ‘rica?",
+  "text_frame": "00147_BML_p_2619.12.jpg",
+  "key_frame": "00148_BML_a_2620.56.jpg",
+  "frames": [
+   "00147_BML_p_2619.12.jpg",
+   "00148_BML_a_2620.56.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-039",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2623.64,
+  "t1": 2625.68,
+  "q": "Where would you not find a high population in Africa?",
+  "qconf": 96.0,
+  "options": [
+   "Nile River Valley",
+   "East African Rift",
+   "Congo Rainforest"
+  ],
+  "key": "Congo Rainforest",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   15
+  ],
+  "after": [
+   8,
+   15
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 7,
+  "next_seen": "- Congo Rai“forest) : ° find a rica?",
+  "text_frame": "00150_BML_p_2623.64.jpg",
+  "key_frame": "00151_BML_a_2625.04.jpg",
+  "frames": [
+   "00150_BML_p_2623.64.jpg",
+   "00151_BML_a_2625.04.jpg",
+   "00152_BML_a_2625.68.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf2b-040",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2627.32,
+  "t1": 2631.2,
+  "q": "Muster is the collective name for",
+  "qconf": 96.0,
+  "options": [
+   "Turkeys",
+   "Bees",
+   "Peacocks"
+  ],
+  "key": "Peacocks",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   8,
+   15
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 4,
+  "next_seen": "f rocks) 16 e€ nam",
+  "text_frame": "00153_BML_p_2627.32.jpg",
+  "key_frame": "00154_BML_a_2628.92.jpg",
+  "frames": [
+   "00153_BML_p_2627.32.jpg",
+   "00154_BML_a_2628.92.jpg",
+   "00155_BML_a_2629.68.jpg",
+   "00156_BML_p_2631.20.jpg"
+  ],
+  "flags": []
+ }
+]

@@ -1,0 +1,349 @@
+{
+  "26-sf2-qb-1393": {
+    "solution": "Differentiate: dR/dx = 320 − 8x = 0, so x = 40. The second derivative is −8, which is negative, so this is a maximum, with R(40) = 12,800 − 6,400 = 6,400. Revenue peaks at 40 rentals.",
+    "trick": "Factor the revenue as 4x(80 − x). The zeros are x = 0 and x = 80, and a parabola peaks halfway between its zeros, so the answer is 40.",
+    "check": "agree",
+    "computed": "40 rentals",
+    "accept": [
+      "40",
+      "40 rentals",
+      "x = 40"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1401": {
+    "solution": "After 3 years the amount is A = P(1 + r)ⁿ = 100,000 × 1.1³ = 100,000 × 1.331 = ₦133,100. The interest alone would be ₦33,100, but that is not an option, so the options are asking for the amount. The answer is ₦133,100.",
+    "trick": "1.1 cubed is 1.331, so the amount is 133,100. Or eliminate: simple interest would give 100,000 + 3 × 10,000 = 130,000, compounding adds a little more, and only ₦133,100 is above 130,000.",
+    "check": "unclear",
+    "computed": "₦133,100 as the amount (the interest alone is ₦33,100)",
+    "accept": [
+      "133100",
+      "133,100",
+      "₦133,100",
+      "N133,100",
+      "N133100"
+    ],
+    "comment": "The question asks for the compound interest, which is ₦33,100, but the keyed option ₦133,100 is the total amount after 3 years. Since ₦33,100 is not offered, the wording should say amount rather than interest."
+  },
+  "26-sf2-qb-1406": {
+    "solution": "1 cm = 10 mm, so 1 cm³ = 10 × 10 × 10 = 1,000 mm³. Then 2,500 mm³ ÷ 1,000 = 2.5 cm³.",
+    "trick": "Divide by 1,000, which is the length factor 10 cubed. In practice, slide the decimal point three places left: 2,500 becomes 2.5.",
+    "check": "agree",
+    "computed": "2.5 cm³",
+    "accept": [
+      "2.5",
+      "2.5cm³",
+      "2.5 cm³",
+      "2.5cm3",
+      "2.5 cm3",
+      "2.50"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1410": {
+    "solution": "A scale of 1:1000 means the real turbine is 1,000 times the model. So the full height is 30 cm × 1,000 = 30,000 cm, which is 300 m.",
+    "trick": "Add three zeros to 30 to get 30,000 cm. Drop two zeros for metres: 300 m.",
+    "check": "agree",
+    "computed": "30,000 cm (300 m)",
+    "accept": [
+      "30000",
+      "30000cm",
+      "30000 cm",
+      "30,000",
+      "30,000 cm",
+      "300m",
+      "300 m",
+      "300 metres",
+      "300 meters"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1414": {
+    "solution": "1 dm = 10 cm, so 1 dm³ = 10 × 10 × 10 = 1,000 cm³, and 1,000 cm³ is exactly 1 litre. So 3,000 dm³ = 3,000 L.",
+    "trick": "One cubic decimetre is one litre, so the number does not change: 3,000.",
+    "check": "agree",
+    "computed": "3,000 L",
+    "accept": [
+      "3000",
+      "3,000",
+      "3000L",
+      "3000 L",
+      "3000l",
+      "3000 litres",
+      "3,000 litres",
+      "3000 liters",
+      "3,000 liters"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1430": {
+    "solution": "°C = (°F − 32) × 5 ÷ 9. So °C = (176 − 32) × 5 ÷ 9 = 144 × 5 ÷ 9 = 80°C.",
+    "trick": "176 − 32 = 144. Then 144 ÷ 9 = 16, and 16 × 5 = 80.",
+    "check": "agree",
+    "computed": "80°C",
+    "accept": [
+      "80",
+      "80°C",
+      "80 C",
+      "80C",
+      "80°",
+      "80 degrees",
+      "80 degrees Celsius"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1446": {
+    "solution": "Take the 30° as the angle between the ladder and the ground. The height reached is the side opposite that angle, so sin 30° = 10 ÷ L. Then L = 10 ÷ 0.5 = 20 m.",
+    "trick": "In a right triangle with a 30° angle, the side opposite it is half the hypotenuse. So the ladder is double the height: 2 × 10 = 20 m.",
+    "check": "unclear",
+    "computed": "20 m (30° taken from the ground; about 11.5 m if taken from the wall)",
+    "accept": [
+      "20",
+      "20m",
+      "20 m",
+      "20 metres",
+      "20 meters"
+    ],
+    "comment": "The question does not say whether the 30° is measured from the ground or from the wall. From the ground the ladder is 10 ÷ sin 30° = 20 m, the keyed option. From the wall it would be 10 ÷ cos 30° ≈ 11.5 m, which is not offered."
+  },
+  "26-sf2-qb-1449": {
+    "solution": "The modulus of a + bi is √(a² + b²). So |3 + 4i| = √(3² + 4²) = √(9 + 16) = √25 = 5.",
+    "trick": "3, 4 and 5 form a well known right triangle, so the modulus is 5 at once.",
+    "check": "agree",
+    "computed": "5",
+    "accept": [
+      "5",
+      "5.0",
+      "√25"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1452": {
+    "solution": "Interest = 36,000 − 30,000 = ₦6,000. Rate = I ÷ (P × T) = 6,000 ÷ (30,000 × 4) = 6,000 ÷ 120,000 = 0.05, which is 5% per year.",
+    "trick": "6,000 is 20% of 30,000. Spread over 4 years, that is 20 ÷ 4 = 5% a year.",
+    "check": "agree",
+    "computed": "5%",
+    "accept": [
+      "5",
+      "5%",
+      "5 percent",
+      "0.05",
+      "5% per annum"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1456": {
+    "solution": "800 apples sold 4 at a time make 800 ÷ 4 = 200 lots. Revenue = 200 × ₦30 = ₦6,000. Profit = revenue − cost = ₦6,000 − ₦1,600 = ₦4,400.",
+    "trick": "Count the lots first: 800 ÷ 4 = 200. Then 200 × 30 = 6,000, and taking away 1,600 leaves 4,400.",
+    "check": "unclear",
+    "computed": "₦4,400 as written (none of the three options matches)",
+    "accept": [
+      "4400",
+      "4,400",
+      "₦4,400",
+      "N4,400",
+      "N4400"
+    ],
+    "comment": "As written the profit is ₦4,400, which is not among the options. The option ₦1,200 would fit a cost of ₦4,800 or a price of 4 for ₦14, so a figure in the question was probably recorded wrongly."
+  },
+  "26-sf2-qb-1461": {
+    "solution": "The mean (72) is below the median (96), so the skew is negative. Pearson's skewness = 3 × (mean − median) ÷ SD = 3 × (72 − 96) ÷ 12 = 3 × (−24) ÷ 12 = −6.",
+    "trick": "Mean below median means a negative answer, so 68 is out. Then −24 ÷ 12 = −2, and times 3 gives −6.",
+    "check": "agree",
+    "computed": "−6",
+    "accept": [
+      "-6",
+      "−6",
+      "-6.0",
+      "negative 6",
+      "minus 6"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1471": {
+    "solution": "P(not fail) = 1 − P(fail) = 1 − 8/100 = 92/100 = 92%.",
+    "trick": "100 − 8 = 92. Also, 108% is impossible, because a probability cannot go above 100%.",
+    "check": "agree",
+    "computed": "92%",
+    "accept": [
+      "92%",
+      "92",
+      "0.92",
+      "92 percent",
+      "23/25"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1544": {
+    "solution": "Only the first draw matters here. There are 8 + 12 = 20 in the bag, so P(first is red) = 8/20 = 2/5 = 40%.",
+    "trick": "Ignore the second draw. Each of the 20 is worth 5%, and 8 × 5% = 40%.",
+    "check": "agree",
+    "computed": "40%",
+    "accept": [
+      "40%",
+      "40",
+      "0.4",
+      "0.40",
+      "2/5",
+      "40 percent"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1550": {
+    "solution": "Power = work ÷ time = 100 J ÷ 5 s = 20 J/s = 20 W.",
+    "trick": "Just divide: 100 ÷ 5 = 20. Power is joules per second, so the unit is watts, not percent.",
+    "check": "agree",
+    "computed": "20 W",
+    "accept": [
+      "20",
+      "20W",
+      "20 W",
+      "20 watts",
+      "20 watt",
+      "20w"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1563": {
+    "solution": "CV = (SD ÷ mean) × 100% = (5 ÷ 40) × 100% = 0.125 × 100% = 12.5%.",
+    "trick": "5 ÷ 40 is 1/8, and one eighth is 12.5%.",
+    "check": "agree",
+    "computed": "12.5%",
+    "accept": [
+      "12.5%",
+      "12.5",
+      "0.125",
+      "1/8",
+      "12.5 percent"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1602": {
+    "solution": "Pearson's skewness = 3 × (mean − median) ÷ SD = 3 × (160 − 80) ÷ 4 = 3 × 80 ÷ 4 = 60.",
+    "trick": "The gap is 160 − 80 = 80. Divide by 4 to get 20, then multiply by 3 to get 60.",
+    "check": "agree",
+    "computed": "60",
+    "accept": [
+      "60",
+      "60.0",
+      "+60"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1627": {
+    "solution": "Simple interest I = P × R × T ÷ 100, so P = I × 100 ÷ (R × T) = 18,000 × 100 ÷ (6 × 5) = 1,800,000 ÷ 30 = ₦60,000.",
+    "trick": "6% for 5 years is 30% of the principal. If 30% is 18,000, then 10% is 6,000, so 100% is 60,000.",
+    "check": "agree",
+    "computed": "₦60,000",
+    "accept": [
+      "60000",
+      "60,000",
+      "₦60,000",
+      "N60,000",
+      "N60000"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1639": {
+    "solution": "CV = (SD ÷ mean) × 100%, so SD = CV × mean = 0.25 × 50 = 12.5 mm.",
+    "trick": "25% is a quarter, and a quarter of 50 is 12.5.",
+    "check": "agree",
+    "computed": "12.5 mm",
+    "accept": [
+      "12.5",
+      "12.5mm",
+      "12.5 mm"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1684": {
+    "solution": "Average = total ÷ number of items = (50,000 + 25,000 + 15,000) ÷ 3 = 90,000 ÷ 3 = ₦30,000.",
+    "trick": "Add in thousands: 50 + 25 + 15 = 90. Then 90 ÷ 3 = 30, which is ₦30,000.",
+    "check": "agree",
+    "computed": "₦30,000",
+    "accept": [
+      "30000",
+      "30,000",
+      "₦30,000",
+      "N30,000",
+      "N30000"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1706": {
+    "solution": "z = (x − mean) ÷ SD = (82 − 70) ÷ 6 = 12 ÷ 6 = 2.",
+    "trick": "The score is 12 above the mean and one SD is 6, so it is exactly 2 SDs up.",
+    "check": "agree",
+    "computed": "2",
+    "accept": [
+      "2",
+      "2.0",
+      "+2",
+      "2.00"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1729": {
+    "solution": "Cumulative frequency adds the counts up to a class. A is the top grade, so B or lower means B and C: 15 + 5 = 20 students.",
+    "trick": "B or lower includes C as well as B, so the answer must be above 15. Only 20 fits.",
+    "check": "agree",
+    "computed": "20 students",
+    "accept": [
+      "20",
+      "20 students"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1759": {
+    "solution": "P(no breakdown in a day) = 1 − 0.75 = 0.25. Taking the days as independent, P(2 days in a row) = 0.25 × 0.25 = 0.0625 = 6.25%.",
+    "trick": "0.25 is 1/4, so two days is 1/4 × 1/4 = 1/16, which is 6.25%.",
+    "check": "agree",
+    "computed": "6.25%",
+    "accept": [
+      "6.25%",
+      "6.25",
+      "0.0625",
+      "1/16",
+      "6.25 percent"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1774": {
+    "solution": "Correlation r = cov ÷ (σx × σy), so σx = cov ÷ (r × σy) = 50 ÷ (0.625 × 8) = 50 ÷ 5 = 10.",
+    "trick": "0.625 is 5/8, and 5/8 of 8 is 5. Then 50 ÷ 5 = 10.",
+    "check": "agree",
+    "computed": "10",
+    "accept": [
+      "10",
+      "10.0"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1866": {
+    "solution": "There are 6 + 4 + 2 = 12 marbles. Drawing two without replacement, P(both blue) = 2/12 × 1/11 = 2/132 = 1/66.",
+    "trick": "Two blue marbles can only come out as one pair among 12 × 11 ÷ 2 = 66 pairs, so 1/66. Also, 1/6 and 1/11 are single steps, so the full answer must be smaller than each.",
+    "check": "agree",
+    "computed": "1/66",
+    "accept": [
+      "1/66",
+      "1 in 66",
+      "1 over 66",
+      "0.0152",
+      "1.52%"
+    ],
+    "comment": ""
+  },
+  "26-sf2-qb-1916": {
+    "solution": "With 4 values, the median is the mean of the middle two. So the median = (70 + 80) ÷ 2 = 75.",
+    "trick": "The values are evenly spaced, so the median sits halfway between 70 and 80, which is 75.",
+    "check": "agree",
+    "computed": "75",
+    "accept": [
+      "75",
+      "75.0",
+      "75kg",
+      "75 kg"
+    ],
+    "comment": ""
+  }
+}

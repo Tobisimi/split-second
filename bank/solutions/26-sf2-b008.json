@@ -1,0 +1,162 @@
+{
+ "26-sf2-bm-2347": {
+  "solution": "¼ of 1,600 = 1,600 ÷ 4 = 400. Then 25% of 400 = 0.25 × 400 = 100. So the answer is 100.",
+  "trick": "25% is just ¼, so take a quarter of 1,600 twice: 400, then 100.",
+  "check": "agree",
+  "computed": "100",
+  "accept": ["100"],
+  "comment": ""
+ },
+ "26-sf2-bm-2756": {
+  "solution": "For F = ai + bj, the magnitude is √(a² + b²). Here √(8² + 15²) = √(64 + 225) = √289 = 17 N.",
+  "trick": "8, 15, 17 is a well known right-angled triple (64 + 225 = 289), so the magnitude is 17 without squaring anything.",
+  "check": "agree",
+  "computed": "17 N",
+  "accept": ["17", "17 N", "17N", "17 newtons"],
+  "comment": ""
+ },
+ "26-sf2-bm-2759": {
+  "solution": "For each gene, Aa × Aa gives AA, Aa, Aa, aa, so ¾ of offspring show the dominant trait. The two genes assort independently, so the chance of both is ¾ × ¾ = 9/16.",
+  "trick": "Recall the 9:3:3:1 ratio out of 16. The 9 is both dominant, so 9/16. The 1/16 option is both recessive, and 3/16 is only one of the mixed classes.",
+  "check": "agree",
+  "computed": "9/16",
+  "accept": ["9/16", "0.5625", ".5625", "56.25%"],
+  "comment": ""
+ },
+ "26-sf2-bm-2762": {
+  "solution": "30 years ÷ 10 years = 3 half-lives. Each half-life halves what is left, so the fraction remaining is (½)³ = 1/8.",
+  "trick": "30 ÷ 10 = 3 halvings: ½, then ¼, then ⅛. The ¼ option would be 20 years and 1/16 would be 40 years.",
+  "check": "agree",
+  "computed": "1/8",
+  "accept": ["1/8", "⅛", "0.125", ".125", "12.5%"],
+  "comment": ""
+ },
+ "26-sf2-bm-2766": {
+  "solution": "A 25% discount means paying 75%, so one TV costs 0.75 × $8,000 = $6,000. For 24 TVs the total is 24 × $6,000 = $144,000.",
+  "trick": "Paying ¾ of the price for 24 TVs is the same as paying full price for 18 TVs, because ¾ of 24 is 18. Then 18 × 8 = 144, so $144,000.",
+  "check": "agree",
+  "computed": "$144,000",
+  "accept": ["144000", "144,000", "$144000", "$144,000", "144000 dollars"],
+  "comment": ""
+ },
+ "26-sf2-bm-2770": {
+  "solution": "Put x = 4 into y = √(100 − x²). So y = √(100 − 4²) = √(100 − 16) = √84.",
+  "trick": "4² is 16, and 100 − 16 = 84. Only one option has 84 under the root, so you can stop there.",
+  "check": "agree",
+  "computed": "√84 ≈ 9.17",
+  "accept": ["√84", "sqrt(84)", "sqrt 84", "root 84", "2√21", "2sqrt(21)", "9.17", "9.165"],
+  "comment": ""
+ },
+ "26-sf2-bm-2775": {
+  "solution": "Relative error = absolute error ÷ measured value = 0.2 ÷ 50 = 0.004. As a percentage that is 0.004 × 100 = 0.4%.",
+  "trick": "Double both numbers: 0.2 ÷ 50 = 0.4 ÷ 100, which is 0.4%. An error of 0.2 on 50 is tiny, so the 24% and 25% options cannot be right.",
+  "check": "agree",
+  "computed": "0.4% (0.004)",
+  "accept": ["0.4%", "0.4", "0.4 %", "0.4 percent", "0.004"],
+  "comment": ""
+ },
+ "26-sf2-bm-2778": {
+  "solution": "This is the logistic equation dP/dt = rP(1 − P/K), where K is the carrying capacity. Comparing with 25P(1 − P/100) gives r = 25 and K = 100. Growth stops when 1 − P/100 = 0, which gives P = 100. So the carrying capacity is 100.",
+  "trick": "In dP/dt = rP(1 − P/K), K is the number under P inside the bracket, so it is 100. The 25 is the growth rate, and 50 is only half of K.",
+  "check": "agree",
+  "computed": "100",
+  "accept": ["100", "P = 100", "K = 100"],
+  "comment": ""
+ },
+ "26-sf2-bm-2784": {
+  "solution": "For z = a + bi the modulus is |z| = √(a² + b²). So |−3 + 4i| = √((−3)² + 4²) = √(9 + 16) = √25 = 5.",
+  "trick": "Spot the 3, 4, 5 right-angled triangle. The minus sign does not matter, so the modulus is 5.",
+  "check": "agree",
+  "computed": "5",
+  "accept": ["5"],
+  "comment": ""
+ },
+ "26-sf2-bm-2787": {
+  "solution": "R(x) = −2x² + 20x + 50 is a downward parabola, so its maximum is at the vertex x = −b ÷ 2a = −20 ÷ (−4) = 5. Then R(5) = −2(25) + 20(5) + 50 = −50 + 100 + 50 = 100.",
+  "trick": "The peak is at x = 20 ÷ (2 × 2) = 5. Then −2 × 25 = −50, so −50 + 100 + 50 = 100.",
+  "check": "agree",
+  "computed": "100",
+  "accept": ["100"],
+  "comment": ""
+ },
+ "26-sf2-bm-2797": {
+  "solution": "For each gene, Aa × Aa gives ¾ dominant offspring. The three genes assort independently, so P(all three dominant) = (¾)³ = 27/64.",
+  "trick": "Cube the ¾ from each gene: 3³ = 27 and 4³ = 64, so 27/64. The 1/64 option is the all recessive case.",
+  "check": "agree",
+  "computed": "27/64",
+  "accept": ["27/64", "0.421875", "0.4219", "0.42", "42.19%", "42.1875%"],
+  "comment": ""
+ },
+ "26-sf2-bm-2802": {
+  "solution": "Pipe A fills 1/6 of the tank each hour and pipe B empties 1/8 each hour. Net rate = 1/6 − 1/8 = 4/24 − 3/24 = 1/24 of the tank per hour. So the tank fills in 24 hours.",
+  "trick": "Use product over difference: 6 × 8 ÷ (8 − 6) = 48 ÷ 2 = 24. This works whenever one pipe fills, one empties, and the filling pipe is the faster one.",
+  "check": "agree",
+  "computed": "24 hours",
+  "accept": ["24", "24h", "24 h", "24 hr", "24 hrs", "24 hours"],
+  "comment": ""
+ },
+ "26-sf2-bm-2806": {
+  "solution": "Expected number = number of bulbs × defective rate = 4,000 × 0.005 = 20 bulbs.",
+  "trick": "0.005 is half of 1%. 1% of 4,000 is 40, so half of that is 20.",
+  "check": "agree",
+  "computed": "20",
+  "accept": ["20", "20 bulbs"],
+  "comment": ""
+ },
+ "26-sf2-bm-2810": {
+  "solution": "The water added is the integral of the rate from t = 1 to t = 3. ∫(6t + 4) dt = 3t² + 4t, so the amount is (3 × 3² + 4 × 3) − (3 × 1² + 4 × 1) = (27 + 12) − (3 + 4) = 39 − 7 = 32 litres.",
+  "trick": "The rate climbs steadily from R(1) = 10 to R(3) = 22 L/min, so over 2 minutes the total is between 20 and 44. That rules out 16 and 48. For the exact value, the average rate is (10 + 22) ÷ 2 = 16, and 16 × 2 = 32.",
+  "check": "agree",
+  "computed": "32 litres",
+  "accept": ["32", "32 L", "32L", "32 l", "32 litres", "32 liters"],
+  "comment": ""
+ },
+ "26-sf2-bm-2817": {
+  "solution": "The minus sign vanishes when squared. So the magnitude is √(7² + (−24)²) = √(49 + 576) = √625 = 25.",
+  "trick": "7, 24, 25 is a well known right-angled triple (49 + 576 = 625), so the answer is 25 without squaring anything.",
+  "check": "agree",
+  "computed": "25",
+  "accept": ["25", "25 N", "25N"],
+  "comment": ""
+ },
+ "26-sf2-bm-2822": {
+  "solution": "Let the number be x. Then (x − 18) × 6 = 60, so x − 18 = 60 ÷ 6 = 10. Therefore x = 10 + 18 = 28.",
+  "trick": "Work backwards: 60 ÷ 6 = 10, then 10 + 18 = 28.",
+  "check": "agree",
+  "computed": "28",
+  "accept": ["28"],
+  "comment": ""
+ },
+ "26-sf2-bm-2828": {
+  "solution": "A scale of 1:50,000 means 1 cm on the map is 50,000 cm on the ground. So 8 cm is 8 × 50,000 = 400,000 cm. Since 100,000 cm = 1 km, that is 400,000 ÷ 100,000 = 4 km.",
+  "trick": "Each map centimetre is 50,000 cm, which is 500 m, or half a kilometre. So 8 cm is half of 8, which is 4 km.",
+  "check": "agree",
+  "computed": "4 km",
+  "accept": ["4km", "4 km", "4000m", "4000 m", "4,000m", "4,000 m", "400000cm", "400,000 cm", "4 kilometres", "4 kilometers"],
+  "comment": ""
+ },
+ "26-sf2-bm-2831": {
+  "solution": "The projectile is on the ground when h(t) = 0. So −5t² + 30t = −5t(t − 6) = 0, which gives t = 0 (the launch) or t = 6. It lands after 6 seconds.",
+  "trick": "Cancel one t from −5t² + 30t = 0 to get 5t = 30, so t = 6. In general, for h = −at² + bt the landing time is b ÷ a.",
+  "check": "agree",
+  "computed": "6 seconds",
+  "accept": ["6", "6s", "6 s", "6 sec", "6 secs", "6 seconds"],
+  "comment": ""
+ },
+ "26-sf2-bm-2839": {
+  "solution": "The extra pay is 25% of his current pay: 0.25 × $600 = $150 per month.",
+  "trick": "25% is a quarter, and 600 ÷ 4 = 150.",
+  "check": "agree",
+  "computed": "$150",
+  "accept": ["150", "$150", "150 dollars", "$150.00", "150.00"],
+  "comment": ""
+ },
+ "26-sf2-bm-2843": {
+  "solution": "The question does not say where the 30° is measured. Taking it as the angle between the tree and the ground, the height is the side opposite it, so height = 500 × sin 30° = 500 × 0.5 = 250 m. If it were measured from the wall, the height would be 500 × cos 30° ≈ 433 m, which is not an option. So the answer is 250 m.",
+  "trick": "sin 30° is exactly ½, so the height is half of 500, which is 250 m. The 1,000 m option is longer than the tree itself, so it is impossible.",
+  "check": "unclear",
+  "computed": "250 m (if 30° is the angle with the ground; about 433 m if it is the angle with the wall)",
+  "accept": ["250", "250m", "250 m", "250 metres", "250 meters"],
+  "comment": "The question does not say whether the 30° is measured from the ground or from the wall. From the ground the height is 500 sin 30° = 250 m (the show's answer, and the only workable option), but from the wall it would be 500 cos 30° ≈ 433 m, which is not offered."
+ }
+}

@@ -1,0 +1,6731 @@
+[
+ {
+  "id": "qf1-001",
+  "half": "QB",
+  "side": "",
+  "t0": 768.52,
+  "t1": 768.52,
+  "q": "“Raven’ eee is to J",
+  "qconf": 56.8,
+  "options": null,
+  "key": "",
+  "kconf": 0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   0
+  ],
+  "after": [
+   0,
+   0
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": null,
+  "next_seen": "",
+  "text_frame": "00008_QB_p_768.52.jpg",
+  "key_frame": "",
+  "frames": [
+   "00008_QB_p_768.52.jpg"
+  ],
+  "flags": [
+   "lowq",
+   "nokey"
+  ]
+ },
+ {
+  "id": "qf1-002",
+  "half": "QB",
+  "side": "",
+  "t0": 769.52,
+  "t1": 770.16,
+  "q": "“Raven’ is to “Flock” as “Lion” is to",
+  "qconf": 89.8,
+  "options": [
+   "Pride",
+   "Pack",
+   "Herd"
+  ],
+  "key": "Pride",
+  "kconf": 96.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   0,
+   0
+  ],
+  "after": [
+   0,
+   10
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 119,
+  "next_seen": "",
+  "text_frame": "00009_QB_a_769.52.jpg",
+  "key_frame": "00009_QB_a_769.52.jpg",
+  "frames": [
+   "00009_QB_a_769.52.jpg",
+   "00010_QB_a_770.16.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-003",
+  "half": "QB",
+  "side": "",
+  "t0": 771.76,
+  "t1": 775.56,
+  "q": "In a boxplot, outliers lie beyond 4 « IQR. If Q1 = 40 and Q3 = 60, what is the lower outlier threshold?",
+  "qconf": 91.6,
+  "options": [
+   "40",
+   "120",
+   "80"
+  ],
+  "key": "40",
+  "kconf": 96.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   0,
+   10
+  ],
+  "after": [
+   -10,
+   10
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 17,
+  "next_seen": "",
+  "text_frame": "00011_QB_p_771.76.jpg",
+  "key_frame": "00013_QB_a_774.84.jpg",
+  "frames": [
+   "00011_QB_p_771.76.jpg",
+   "00012_QB_p_773.40.jpg",
+   "00013_QB_a_774.84.jpg",
+   "00014_QB_a_775.56.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-004",
+  "half": "QB",
+  "side": "",
+  "t0": 777.08,
+  "t1": 778.88,
+  "q": "Arranging 5 distinct vases on a shelf, how many possible arrangements are there?",
+  "qconf": 95.9,
+  "options": [
+   "60",
+   "100",
+   "120"
+  ],
+  "key": "120",
+  "kconf": 96.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   -10,
+   10
+  ],
+  "after": [
+   -10,
+   20
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 12,
+  "next_seen": "",
+  "text_frame": "00015_QB_p_777.08.jpg",
+  "key_frame": "00016_QB_a_778.24.jpg",
+  "frames": [
+   "00015_QB_p_777.08.jpg",
+   "00016_QB_a_778.24.jpg",
+   "00017_QB_a_778.88.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-005",
+  "half": "QB",
+  "side": "",
+  "t0": 780.4,
+  "t1": 785,
+  "q": "Calculate the number of ways to choose president, secretary, and treasurer from 8 people.",
+  "qconf": 95.9,
+  "options": [
+   "128",
+   "246",
+   "336"
+  ],
+  "key": "336",
+  "kconf": 96.0,
+  "player": "Bolu",
+  "school": "UNILORIN",
+  "before": [
+   -10,
+   20
+  ],
+  "after": [
+   -20,
+   20
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 109,
+  "next_seen": "",
+  "text_frame": "00019_QB_p_782.04.jpg",
+  "key_frame": "00020_QB_a_782.72.jpg",
+  "frames": [
+   "00018_QB_p_780.40.jpg",
+   "00019_QB_p_782.04.jpg",
+   "00020_QB_a_782.72.jpg",
+   "00021_QB_a_783.36.jpg",
+   "00022_QB_p_785.00.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-006",
+  "half": "QB",
+  "side": "",
+  "t0": 786.6,
+  "t1": 789.68,
+  "q": "A bag has 4 red, 6 blue balls. If two are drawn with replacement, what is P(both red)?",
+  "qconf": 93.6,
+  "options": [
+   "0.1",
+   "0.2",
+   "0.16"
+  ],
+  "key": "0.16",
+  "kconf": 92.0,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   -20,
+   20
+  ],
+  "after": [
+   -20,
+   10
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 103,
+  "next_seen": "",
+  "text_frame": "00023_QB_p_786.60.jpg",
+  "key_frame": "00024_QB_a_787.44.jpg",
+  "frames": [
+   "00023_QB_p_786.60.jpg",
+   "00024_QB_a_787.44.jpg",
+   "00025_QB_a_788.16.jpg",
+   "00026_QB_p_789.68.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-007",
+  "half": "QB",
+  "side": "",
+  "t0": 791.32,
+  "t1": 798.4,
+  "q": "If 70% of light is absorbed from an intensity of 250 W/m?, what intensity is transmitted?",
+  "qconf": 93.9,
+  "options": null,
+  "key": "75 W/m?",
+  "kconf": 87.0,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   -20,
+   10
+  ],
+  "after": [
+   -20,
+   0
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 99,
+  "next_seen": "",
+  "text_frame": "00030_QB_a_796.12.jpg",
+  "key_frame": "00030_QB_a_796.12.jpg",
+  "frames": [
+   "00027_QB_p_791.32.jpg",
+   "00028_QB_p_792.96.jpg",
+   "00029_QB_p_794.48.jpg",
+   "00030_QB_a_796.12.jpg",
+   "00031_QB_a_796.80.jpg",
+   "00032_QB_p_798.40.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-008",
+  "half": "QB",
+  "side": "",
+  "t0": 799.92,
+  "t1": 804.48,
+  "q": "A vehicle covers 120km in 2 hours. What is its speed in meters per second?",
+  "qconf": 63.4,
+  "options": [
+   "15.50ms !",
+   "16.67 ms '!",
+   "18.58ms"
+  ],
+  "key": "16.67 ms",
+  "kconf": 96.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   -20,
+   0
+  ],
+  "after": [
+   -30,
+   0
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 91,
+  "next_seen": "",
+  "text_frame": "00033_QB_p_799.92.jpg",
+  "key_frame": "00036_QB_a_803.84.jpg",
+  "frames": [
+   "00033_QB_p_799.92.jpg",
+   "00034_QB_p_801.44.jpg",
+   "00035_QB_p_803.00.jpg",
+   "00036_QB_a_803.84.jpg",
+   "00037_QB_a_804.48.jpg"
+  ],
+  "flags": [
+   "lowq"
+  ]
+ },
+ {
+  "id": "qf1-009",
+  "half": "QB",
+  "side": "",
+  "t0": 806.12,
+  "t1": 812.04,
+  "q": "What is the next term in the sequence: 1, 3, 9, 31, 129,?",
+  "qconf": 95.2,
+  "options": [
+   "257",
+   "651",
+   "1,025"
+  ],
+  "key": "651",
+  "kconf": 95.0,
+  "player": "Ibrahim",
+  "school": "UNILORIN",
+  "before": [
+   -30,
+   0
+  ],
+  "after": [
+   -40,
+   0
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 85,
+  "next_seen": "",
+  "text_frame": "00038_QB_p_806.12.jpg",
+  "key_frame": "00041_QB_a_809.84.jpg",
+  "frames": [
+   "00038_QB_p_806.12.jpg",
+   "00039_QB_p_807.76.jpg",
+   "00040_QB_p_809.36.jpg",
+   "00041_QB_a_809.84.jpg",
+   "00042_QB_a_810.48.jpg",
+   "00043_QB_p_812.04.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-010",
+  "half": "QB",
+  "side": "",
+  "t0": 813.68,
+  "t1": 822.08,
+  "q": "The sum of three consecutive even integers is 102. Find the largest number.",
+  "qconf": 95.8,
+  "options": null,
+  "key": "36",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   -40,
+   0
+  ],
+  "after": [
+   -40,
+   0
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 78,
+  "next_seen": "",
+  "text_frame": "00047_QB_p_818.56.jpg",
+  "key_frame": "00048_QB_a_819.92.jpg",
+  "frames": [
+   "00044_QB_p_813.68.jpg",
+   "00045_QB_p_815.28.jpg",
+   "00046_QB_p_816.92.jpg",
+   "00047_QB_p_818.56.jpg",
+   "00048_QB_a_819.92.jpg",
+   "00049_QB_a_820.56.jpg",
+   "00050_QB_p_822.08.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-011",
+  "half": "QB",
+  "side": "",
+  "t0": 823.72,
+  "t1": 828.56,
+  "q": "10,000 grows to $12,500 in 5 years with simple interest. What is the rate?",
+  "qconf": 93.1,
+  "options": null,
+  "key": "5%",
+  "kconf": 94.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   -40,
+   0
+  ],
+  "after": [
+   -30,
+   0
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 69,
+  "next_seen": "",
+  "text_frame": "00051_QB_p_823.72.jpg",
+  "key_frame": "00054_QB_a_827.92.jpg",
+  "frames": [
+   "00051_QB_p_823.72.jpg",
+   "00052_QB_p_825.28.jpg",
+   "00053_QB_p_826.80.jpg",
+   "00054_QB_a_827.92.jpg",
+   "00055_QB_a_828.56.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-012",
+  "half": "QB",
+  "side": "",
+  "t0": 830.16,
+  "t1": 832.08,
+  "q": "Complete the series Sikh : Gurdwara :: Christian :",
+  "qconf": 95.4,
+  "options": [
+   "Mosque",
+   "Temple",
+   "Church"
+  ],
+  "key": "Church",
+  "kconf": 95.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   -30,
+   0
+  ],
+  "after": [
+   -20,
+   0
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 63,
+  "next_seen": "",
+  "text_frame": "00058_QB_a_832.08.jpg",
+  "key_frame": "00057_QB_a_831.40.jpg",
+  "frames": [
+   "00056_QB_p_830.16.jpg",
+   "00057_QB_a_831.40.jpg",
+   "00058_QB_a_832.08.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-013",
+  "half": "QB",
+  "side": "",
+  "t0": 833.6,
+  "t1": 842.76,
+  "q": "A cake needs 80 cups of flour and 15 eggs. How many eggs will be required to make 70 of those cakes?",
+  "qconf": 95.8,
+  "options": null,
+  "key": "1,050 eggs",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   -20,
+   0
+  ],
+  "after": [
+   -20,
+   0
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 60,
+  "next_seen": "",
+  "text_frame": "00059_QB_p_833.60.jpg",
+  "key_frame": "00064_QB_a_840.40.jpg",
+  "frames": [
+   "00059_QB_p_833.60.jpg",
+   "00060_QB_p_835.24.jpg",
+   "00061_QB_p_836.76.jpg",
+   "00062_QB_p_838.40.jpg",
+   "00063_QB_p_840.00.jpg",
+   "00064_QB_a_840.40.jpg",
+   "00065_QB_a_841.12.jpg",
+   "00066_QB_p_842.76.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-014",
+  "half": "QB",
+  "side": "",
+  "t0": 844.28,
+  "t1": 846.44,
+  "q": "No synthetic polymer is biodegradable. X is a synthetic polymer. Therefore X is",
+  "qconf": 95.1,
+  "options": [
+   "biodegradable",
+   "natural",
+   "not biodegradable"
+  ],
+  "key": "not biodegradable",
+  "kconf": 92.7,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   -20,
+   0
+  ],
+  "after": [
+   -20,
+   -10
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 50,
+  "next_seen": "",
+  "text_frame": "00067_QB_a_844.28.jpg",
+  "key_frame": "00067_QB_a_844.28.jpg",
+  "frames": [
+   "00067_QB_a_844.28.jpg",
+   "00068_QB_a_844.92.jpg",
+   "00069_QB_p_846.44.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-015",
+  "half": "QB",
+  "side": "",
+  "t0": 848,
+  "t1": 850,
+  "q": "An object shifts 3 units east and 4 units north. What is the magnitude of this movement?",
+  "qconf": 95.8,
+  "options": null,
+  "key": "5 units",
+  "kconf": 95.5,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   -20,
+   -10
+  ],
+  "after": [
+   -10,
+   100
+  ],
+  "delta": [
+   10,
+   110
+  ],
+  "clock": 46,
+  "next_seen": "",
+  "text_frame": "00070_QB_p_848.00.jpg",
+  "key_frame": "00071_QB_a_849.40.jpg",
+  "frames": [
+   "00070_QB_p_848.00.jpg",
+   "00071_QB_a_849.40.jpg",
+   "00072_QB_a_850.00.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-016",
+  "half": "QB",
+  "side": "",
+  "t0": 851.52,
+  "t1": 854.92,
+  "q": "The marginal cost of producing x items is given by MC(x) = 2x + 5. Find the cost of producing the first 10 items.",
+  "qconf": 95.7,
+  "options": [
+   "150",
+   "300",
+   "75"
+  ],
+  "key": "150",
+  "kconf": 95.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   -10,
+   100
+  ],
+  "after": [
+   -20,
+   -10
+  ],
+  "delta": [
+   -10,
+   -110
+  ],
+  "clock": 43,
+  "next_seen": "",
+  "text_frame": "00076_QB_p_854.92.jpg",
+  "key_frame": "00074_QB_a_852.68.jpg",
+  "frames": [
+   "00073_QB_p_851.52.jpg",
+   "00074_QB_a_852.68.jpg",
+   "00075_QB_a_853.32.jpg",
+   "00076_QB_p_854.92.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-017",
+  "half": "QB",
+  "side": "",
+  "t0": 856.48,
+  "t1": 858.68,
+  "q": "Find the derivative of f(x) = 4x3 - 2x? + x at x =1.",
+  "qconf": 94.9,
+  "options": [
+   "3",
+   "6",
+   "9"
+  ],
+  "key": "9",
+  "kconf": 96.0,
+  "player": "Bolu",
+  "school": "UNILORIN",
+  "before": [
+   -20,
+   -10
+  ],
+  "after": [
+   -30,
+   -10
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 38,
+  "next_seen": "",
+  "text_frame": "00078_QB_a_858.00.jpg",
+  "key_frame": "00078_QB_a_858.00.jpg",
+  "frames": [
+   "00077_QB_p_856.48.jpg",
+   "00078_QB_a_858.00.jpg",
+   "00079_QB_a_858.68.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-018",
+  "half": "QB",
+  "side": "",
+  "t0": 860.28,
+  "t1": 860.28,
+  "q": "The eigenvalues of a 2 x 2 matrix are 3 and -2. What is the trace of the matrix?",
+  "qconf": 81.5,
+  "options": [
+   "1",
+   "weal",
+   "3"
+  ],
+  "key": "",
+  "kconf": 0,
+  "player": "",
+  "school": "",
+  "before": [
+   -30,
+   -10
+  ],
+  "after": [
+   -30,
+   -10
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 35,
+  "next_seen": "",
+  "text_frame": "00080_QB_p_860.28.jpg",
+  "key_frame": "",
+  "frames": [
+   "00080_QB_p_860.28.jpg"
+  ],
+  "flags": [
+   "nokey"
+  ]
+ },
+ {
+  "id": "qf1-019",
+  "half": "QB",
+  "side": "",
+  "t0": 861.92,
+  "t1": 861.92,
+  "q": "The eigenvalues of a 2 x 2 matrix are 3 and -2. What is the trace of the matrix?",
+  "qconf": 84.5,
+  "options": [
+   "1",
+   "aa",
+   "3"
+  ],
+  "key": "",
+  "kconf": 0,
+  "player": "",
+  "school": "",
+  "before": [
+   -30,
+   -10
+  ],
+  "after": [
+   -30,
+   -10
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 33,
+  "next_seen": "",
+  "text_frame": "00081_QB_p_861.92.jpg",
+  "key_frame": "",
+  "frames": [
+   "00081_QB_p_861.92.jpg"
+  ],
+  "flags": [
+   "nokey"
+  ]
+ },
+ {
+  "id": "qf1-020",
+  "half": "QB",
+  "side": "",
+  "t0": 862.76,
+  "t1": 863.4,
+  "q": "The eigenvalues of a 2 x 2 matrix are 3 and -?2. What is the trace of the matrix?",
+  "qconf": 83.4,
+  "options": [
+   "1",
+   "mi.",
+   "3"
+  ],
+  "key": "1",
+  "kconf": 61.0,
+  "player": "Ibrahim",
+  "school": "UNILORIN",
+  "before": [
+   -30,
+   -10
+  ],
+  "after": [
+   -30,
+   -10
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 33,
+  "next_seen": "",
+  "text_frame": "00082_QB_a_862.76.jpg",
+  "key_frame": "00082_QB_a_862.76.jpg",
+  "frames": [
+   "00082_QB_a_862.76.jpg",
+   "00083_QB_a_863.40.jpg"
+  ],
+  "flags": [
+   "lowkey",
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-021",
+  "half": "QB",
+  "side": "",
+  "t0": 865,
+  "t1": 865,
+  "q": "The eigenvalues of a 2 x 2 matrix are 3 and -2. What is the trace of the matrix?",
+  "qconf": 79.3,
+  "options": [
+   "1",
+   "ae",
+   "3"
+  ],
+  "key": "1",
+  "kconf": 61.0,
+  "player": "Ibrahim",
+  "school": "UNILORIN",
+  "before": [
+   -30,
+   -10
+  ],
+  "after": [
+   -20,
+   -10
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 31,
+  "next_seen": "",
+  "text_frame": "00084_QB_p_865.00.jpg",
+  "key_frame": "00084_QB_p_865.00.jpg",
+  "frames": [
+   "00084_QB_p_865.00.jpg"
+  ],
+  "flags": [
+   "lowq",
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-022",
+  "half": "QB",
+  "side": "",
+  "t0": 866.6,
+  "t1": 875.84,
+  "q": "What is the heartbeat of a cyclist who rides for °/6 hours at a constant heart rate of 200 bpm?",
+  "qconf": 92.9,
+  "options": [
+   "9,828 beats",
+   "8,268 beats",
+   "9,996 beats"
+  ],
+  "key": "9,996 beats",
+  "kconf": 94.0,
+  "player": "",
+  "school": "",
+  "before": [
+   -20,
+   -10
+  ],
+  "after": [
+   -20,
+   -10
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 29,
+  "next_seen": "",
+  "text_frame": "00091_QB_a_874.32.jpg",
+  "key_frame": "00090_QB_a_873.64.jpg",
+  "frames": [
+   "00085_QB_p_866.60.jpg",
+   "00086_QB_p_868.24.jpg",
+   "00087_QB_p_869.92.jpg",
+   "00088_QB_p_871.52.jpg",
+   "00089_QB_p_873.16.jpg",
+   "00090_QB_a_873.64.jpg",
+   "00091_QB_a_874.32.jpg",
+   "00092_QB_p_875.84.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-023",
+  "half": "QB",
+  "side": "",
+  "t0": 877.4,
+  "t1": 881.72,
+  "q": "Which Egyptian singer is known as the “King of Arab Pop’?",
+  "qconf": 94.6,
+  "options": [
+   "Hany Shaker",
+   "Amr Diab",
+   "Mohamed Mounir"
+  ],
+  "key": "Amr Diab",
+  "kconf": 96.0,
+  "player": "Ibrahim",
+  "school": "UNILORIN",
+  "before": [
+   -20,
+   -10
+  ],
+  "after": [
+   -30,
+   -10
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 19,
+  "next_seen": "",
+  "text_frame": "00094_QB_p_879.04.jpg",
+  "key_frame": "00095_QB_a_879.52.jpg",
+  "frames": [
+   "00093_QB_p_877.40.jpg",
+   "00094_QB_p_879.04.jpg",
+   "00095_QB_a_879.52.jpg",
+   "00096_QB_a_880.20.jpg",
+   "00097_QB_p_881.72.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-024",
+  "half": "QB",
+  "side": "",
+  "t0": 883.36,
+  "t1": 891.8,
+  "q": "If \"A's father is B's mother-in-law's only son,' and B has no siblings, what is B to A?",
+  "qconf": 94.6,
+  "options": [
+   "Mother",
+   "Father",
+   "Aunt"
+  ],
+  "key": "Mother",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   -30,
+   -10
+  ],
+  "after": [
+   -30,
+   -10
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 14,
+  "next_seen": "",
+  "text_frame": "00104_QB_p_891.80.jpg",
+  "key_frame": "00102_QB_a_889.56.jpg",
+  "frames": [
+   "00098_QB_p_883.36.jpg",
+   "00099_QB_p_884.88.jpg",
+   "00100_QB_p_886.56.jpg",
+   "00101_QB_p_888.20.jpg",
+   "00102_QB_a_889.56.jpg",
+   "00103_QB_a_890.20.jpg",
+   "00104_QB_p_891.80.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-025",
+  "half": "QB",
+  "side": "",
+  "t0": 893.4,
+  "t1": 897.36,
+  "q": "A hospital has a 5:2 of nurses to doctors. If there are 600 nurses, how many doctors are there?",
+  "qconf": 95.8,
+  "options": null,
+  "key": "240 doctors",
+  "kconf": 96.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   -30,
+   -10
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 4,
+  "next_seen": "",
+  "text_frame": "00105_QB_p_893.40.jpg",
+  "key_frame": "00106_QB_a_895.00.jpg",
+  "frames": [
+   "00105_QB_p_893.40.jpg",
+   "00106_QB_a_895.00.jpg",
+   "00107_QB_a_895.72.jpg",
+   "00108_QB_p_897.36.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-026",
+  "half": "QB",
+  "side": "",
+  "t0": 1003.56,
+  "t1": 1008.44,
+  "q": "your win 75,000 1 000 /",
+  "qconf": 59.2,
+  "options": null,
+  "key": "",
+  "kconf": 0,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   0,
+   -7
+  ],
+  "delta": null,
+  "clock": null,
+  "next_seen": "",
+  "text_frame": "00128_QB_p_1003.56.jpg",
+  "key_frame": "",
+  "frames": [
+   "00128_QB_p_1003.56.jpg",
+   "00129_QB_p_1005.24.jpg",
+   "00130_QB_p_1006.80.jpg",
+   "00131_QB_p_1008.44.jpg"
+  ],
+  "flags": [
+   "lowq",
+   "nokey"
+  ]
+ },
+ {
+  "id": "qf1-027",
+  "half": "QB",
+  "side": "",
+  "t0": 1014.28,
+  "t1": 1017.52,
+  "q": "Jane is wife of Tom. Tom is brother of Sam. How is Jane related to Sam?",
+  "qconf": 94.7,
+  "options": [
+   "Niece",
+   "Sister-in-law",
+   "Aunt"
+  ],
+  "key": "Sister-in-law",
+  "kconf": 92.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   0,
+   -7
+  ],
+  "after": [
+   0,
+   -10
+  ],
+  "delta": [
+   0,
+   -3
+  ],
+  "clock": 120,
+  "next_seen": "",
+  "text_frame": "00135_QB_p_1015.80.jpg",
+  "key_frame": "00136_QB_a_1016.84.jpg",
+  "frames": [
+   "00134_QB_p_1014.28.jpg",
+   "00135_QB_p_1015.80.jpg",
+   "00136_QB_a_1016.84.jpg",
+   "00137_QB_a_1017.52.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-028",
+  "half": "QB",
+  "side": "",
+  "t0": 1019.04,
+  "t1": 1022.88,
+  "q": "The cost C(x) = 200 + 4x + 12x*. Find the marginal cost at x = 20.",
+  "qconf": 94.8,
+  "options": [
+   "246",
+   "126",
+   "484"
+  ],
+  "key": "484",
+  "kconf": 93.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   -10
+  ],
+  "after": [
+   10,
+   -10
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 115,
+  "next_seen": "",
+  "text_frame": "00138_QB_p_1019.04.jpg",
+  "key_frame": "00141_QB_a_1022.24.jpg",
+  "frames": [
+   "00138_QB_p_1019.04.jpg",
+   "00139_QB_p_1020.56.jpg",
+   "00140_QB_p_1022.08.jpg",
+   "00141_QB_a_1022.24.jpg",
+   "00142_QB_a_1022.88.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-029",
+  "half": "QB",
+  "side": "",
+  "t0": 1024.56,
+  "t1": 1030.96,
+  "q": "Find absolute error if actual value is 120 and measured is 115",
+  "qconf": 95.6,
+  "options": null,
+  "key": "5",
+  "kconf": 95.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   10,
+   -10
+  ],
+  "after": [
+   0,
+   -10
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 110,
+  "next_seen": "",
+  "text_frame": "00143_QB_p_1024.56.jpg",
+  "key_frame": "00147_QB_a_1030.28.jpg",
+  "frames": [
+   "00143_QB_p_1024.56.jpg",
+   "00144_QB_p_1026.12.jpg",
+   "00145_QB_p_1027.68.jpg",
+   "00146_QB_p_1029.32.jpg",
+   "00147_QB_a_1030.28.jpg",
+   "00148_QB_a_1030.96.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-030",
+  "half": "QB",
+  "side": "",
+  "t0": 1032.48,
+  "t1": 1035.92,
+  "q": "How many 3-digit PINs can be created using digits O-9 if no digit is repeated?",
+  "qconf": 94.5,
+  "options": null,
+  "key": "720",
+  "kconf": 96.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   0,
+   -10
+  ],
+  "after": [
+   -10,
+   -10
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 103,
+  "next_seen": "",
+  "text_frame": "00151_QB_a_1035.28.jpg",
+  "key_frame": "00151_QB_a_1035.28.jpg",
+  "frames": [
+   "00149_QB_p_1032.48.jpg",
+   "00150_QB_p_1034.12.jpg",
+   "00151_QB_a_1035.28.jpg",
+   "00152_QB_a_1035.92.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-031",
+  "half": "QB",
+  "side": "",
+  "t0": 1037.56,
+  "t1": 1041.28,
+  "q": "Facing North, you turn 90° clockwise, then 180° anticlockwise. Which direction are you facing?",
+  "qconf": 95.9,
+  "options": [
+   "East",
+   "South",
+   "West"
+  ],
+  "key": "West",
+  "kconf": 96.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   -10,
+   -10
+  ],
+  "after": [
+   -10,
+   -20
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 98,
+  "next_seen": "",
+  "text_frame": "00155_QB_a_1040.64.jpg",
+  "key_frame": "00155_QB_a_1040.64.jpg",
+  "frames": [
+   "00153_QB_p_1037.56.jpg",
+   "00154_QB_p_1039.16.jpg",
+   "00155_QB_a_1040.64.jpg",
+   "00156_QB_a_1041.28.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-032",
+  "half": "QB",
+  "side": "",
+  "t0": 1042.96,
+  "t1": 1047,
+  "q": "How many 5-bit binary strings have exactly two 1s?",
+  "qconf": 95.8,
+  "options": [
+   "6",
+   "8",
+   "10"
+  ],
+  "key": "10",
+  "kconf": 96.0,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   -10,
+   -20
+  ],
+  "after": [
+   -10,
+   -10
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 93,
+  "next_seen": "",
+  "text_frame": "00157_QB_p_1042.96.jpg",
+  "key_frame": "00160_QB_a_1046.24.jpg",
+  "frames": [
+   "00157_QB_p_1042.96.jpg",
+   "00158_QB_p_1044.52.jpg",
+   "00159_QB_p_1046.04.jpg",
+   "00160_QB_a_1046.24.jpg",
+   "00161_QB_a_1047.00.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-033",
+  "half": "QB",
+  "side": "",
+  "t0": 1048.68,
+  "t1": 1051.12,
+  "q": "A password requires 1 letter followed by 1 digit (no repeats allowed). How many possible passwords exist?",
+  "qconf": 95.8,
+  "options": [
+   "520",
+   "340",
+   "260"
+  ],
+  "key": "260 passwords",
+  "kconf": 79.7,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   -10,
+   -10
+  ],
+  "after": [
+   -10,
+   -20
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 88,
+  "next_seen": "",
+  "text_frame": "00164_QB_a_1050.48.jpg",
+  "key_frame": "00164_QB_a_1050.48.jpg",
+  "frames": [
+   "00162_QB_p_1048.68.jpg",
+   "00163_QB_p_1050.28.jpg",
+   "00164_QB_a_1050.48.jpg",
+   "00165_QB_a_1051.12.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-034",
+  "half": "QB",
+  "side": "",
+  "t0": 1052.76,
+  "t1": 1055.56,
+  "q": "If Indiana Jones wanted to explore the ruins of ancient Carthage, near which modern city would he find them?",
+  "qconf": 95.8,
+  "options": [
+   "Tripoli",
+   "Tunis",
+   "Cairo"
+  ],
+  "key": "Tunis in Tunisia",
+  "kconf": 86.8,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   -10,
+   -20
+  ],
+  "after": [
+   0,
+   -20
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 84,
+  "next_seen": "",
+  "text_frame": "00166_QB_p_1052.76.jpg",
+  "key_frame": "00168_QB_a_1054.92.jpg",
+  "frames": [
+   "00166_QB_p_1052.76.jpg",
+   "00167_QB_p_1054.28.jpg",
+   "00168_QB_a_1054.92.jpg",
+   "00169_QB_a_1055.56.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-035",
+  "half": "QB",
+  "side": "",
+  "t0": 1057.2,
+  "t1": 1060.04,
+  "q": "In Ghana, the neem tree is traditionally used for what?",
+  "qconf": 95.6,
+  "options": [
+   "Malaria treatment",
+   "Fertility rituals",
+   "Improving eyesight"
+  ],
+  "key": "Malaria treatment",
+  "kconf": 90.7,
+  "player": "Ibrahim",
+  "school": "UNILORIN",
+  "before": [
+   0,
+   -20
+  ],
+  "after": [
+   10,
+   -20
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 80,
+  "next_seen": "",
+  "text_frame": "00171_QB_p_1058.76.jpg",
+  "key_frame": "00172_QB_a_1059.36.jpg",
+  "frames": [
+   "00170_QB_p_1057.20.jpg",
+   "00171_QB_p_1058.76.jpg",
+   "00172_QB_a_1059.36.jpg",
+   "00173_QB_a_1060.04.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-036",
+  "half": "QB",
+  "side": "",
+  "t0": 1061.56,
+  "t1": 1067.68,
+  "q": "In the reaction 2H2 + 02 — 2H20, how many grams of water are produced from 10g of H2?",
+  "qconf": 90.6,
+  "options": [
+   "45¢",
+   "180¢",
+   "90g"
+  ],
+  "key": "90¢g",
+  "kconf": 85.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   10,
+   -20
+  ],
+  "after": [
+   0,
+   -20
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 76,
+  "next_seen": "",
+  "text_frame": "00174_QB_p_1061.56.jpg",
+  "key_frame": "00177_QB_a_1065.40.jpg",
+  "frames": [
+   "00174_QB_p_1061.56.jpg",
+   "00175_QB_p_1063.16.jpg",
+   "00176_QB_p_1064.72.jpg",
+   "00177_QB_a_1065.40.jpg",
+   "00178_QB_a_1066.08.jpg",
+   "00179_QB_p_1067.68.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-037",
+  "half": "QB",
+  "side": "",
+  "t0": 1069.32,
+  "t1": 1075.88,
+  "q": "The Comoros active shield volcano is",
+  "qconf": 92.6,
+  "options": [
+   "Erta Ale",
+   "Nyiragongo",
+   "Karthala"
+  ],
+  "key": "Karthala",
+  "kconf": 92.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   0,
+   -20
+  ],
+  "after": [
+   -10,
+   -20
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 69,
+  "next_seen": "",
+  "text_frame": "00180_QB_p_1069.32.jpg",
+  "key_frame": "00184_QB_a_1075.20.jpg",
+  "frames": [
+   "00180_QB_p_1069.32.jpg",
+   "00181_QB_p_1070.84.jpg",
+   "00182_QB_p_1072.44.jpg",
+   "00183_QB_p_1074.04.jpg",
+   "00184_QB_a_1075.20.jpg",
+   "00185_QB_a_1075.88.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-038",
+  "half": "QB",
+  "side": "",
+  "t0": 1077.56,
+  "t1": 1083.52,
+  "q": "A car accelerates from 0 to 60 mph (26.8 m/s) in 6 seconds. Find its acceleration in m/s?.",
+  "qconf": 72.5,
+  "options": [
+   "8.48ms ?",
+   "6.77 ms: 2",
+   "447ms *"
+  ],
+  "key": "4.47 ms",
+  "kconf": 21.0,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   -10,
+   -20
+  ],
+  "after": [
+   -10,
+   -10
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 62,
+  "next_seen": "",
+  "text_frame": "00186_QB_p_1077.56.jpg",
+  "key_frame": "00189_QB_a_1081.24.jpg",
+  "frames": [
+   "00186_QB_p_1077.56.jpg",
+   "00187_QB_p_1079.20.jpg",
+   "00188_QB_p_1080.76.jpg",
+   "00189_QB_a_1081.24.jpg",
+   "00190_QB_a_1081.96.jpg",
+   "00191_QB_p_1083.52.jpg"
+  ],
+  "flags": [
+   "lowq",
+   "lowkey",
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-039",
+  "half": "QB",
+  "side": "",
+  "t0": 1085.08,
+  "t1": 1091.92,
+  "q": "If “NIGERIA” is coded as 63 and “AFRICA” as 38, what is “GHANA’’?",
+  "qconf": 93.2,
+  "options": [
+   "40",
+   "31",
+   "35"
+  ],
+  "key": "31",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   -10,
+   -10
+  ],
+  "after": [
+   -10,
+   -10
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 55,
+  "next_seen": "",
+  "text_frame": "00195_QB_p_1089.76.jpg",
+  "key_frame": "00196_QB_a_1091.28.jpg",
+  "frames": [
+   "00192_QB_p_1085.08.jpg",
+   "00193_QB_p_1086.72.jpg",
+   "00194_QB_p_1088.24.jpg",
+   "00195_QB_p_1089.76.jpg",
+   "00196_QB_a_1091.28.jpg",
+   "00197_QB_a_1091.92.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-040",
+  "half": "QB",
+  "side": "",
+  "t0": 1093.6,
+  "t1": 1096.84,
+  "q": "A transformer steps down 220V to 22V. If the primary coil has 1,000 turns, how many turns does the secondary have?",
+  "qconf": 95.7,
+  "options": [
+   "200 turns",
+   "300 turns",
+   "100 turns"
+  ],
+  "key": "100 turns",
+  "kconf": 95.0,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   -10,
+   -10
+  ],
+  "after": [
+   -10,
+   -20
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 47,
+  "next_seen": "",
+  "text_frame": "00199_QB_a_1094.60.jpg",
+  "key_frame": "00199_QB_a_1094.60.jpg",
+  "frames": [
+   "00198_QB_p_1093.60.jpg",
+   "00199_QB_a_1094.60.jpg",
+   "00200_QB_a_1095.28.jpg",
+   "00201_QB_p_1096.84.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-041",
+  "half": "QB",
+  "side": "",
+  "t0": 1098.4,
+  "t1": 1101.16,
+  "q": "The profit P(q) = -2q? + 100q - 200. Find the quantity for maximum profit.",
+  "qconf": 95.3,
+  "options": [
+   "30 units",
+   "25 units",
+   "50 units"
+  ],
+  "key": "25 units",
+  "kconf": 96.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   -10,
+   -20
+  ],
+  "after": [
+   -20,
+   -20
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 43,
+  "next_seen": "",
+  "text_frame": "00202_QB_p_1098.40.jpg",
+  "key_frame": "00204_QB_a_1100.40.jpg",
+  "frames": [
+   "00202_QB_p_1098.40.jpg",
+   "00203_QB_p_1099.92.jpg",
+   "00204_QB_a_1100.40.jpg",
+   "00205_QB_a_1101.16.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-042",
+  "half": "QB",
+  "side": "",
+  "t0": 1102.76,
+  "t1": 1107.2,
+  "q": "A printer produces 24 pages in 8 minutes. How long will it take to print 60 pages?",
+  "qconf": 95.7,
+  "options": null,
+  "key": "20 minutes",
+  "kconf": 94.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   -20,
+   -20
+  ],
+  "after": [
+   -20,
+   -10
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 39,
+  "next_seen": "",
+  "text_frame": "00208_QB_p_1106.08.jpg",
+  "key_frame": "00209_QB_a_1106.60.jpg",
+  "frames": [
+   "00206_QB_p_1102.76.jpg",
+   "00207_QB_p_1104.36.jpg",
+   "00208_QB_p_1106.08.jpg",
+   "00209_QB_a_1106.60.jpg",
+   "00210_QB_a_1107.20.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-043",
+  "half": "QB",
+  "side": "",
+  "t0": 1108.8,
+  "t1": 1114.2,
+  "q": "Containing 360cm? volume, a box measures 12cm long and 5cm wide. How tall is it?",
+  "qconf": 91.6,
+  "options": null,
+  "key": "6cm",
+  "kconf": 89.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   -20,
+   -10
+  ],
+  "after": [
+   -30,
+   -10
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 33,
+  "next_seen": "",
+  "text_frame": "00213_QB_p_1112.00.jpg",
+  "key_frame": "00214_QB_a_1113.48.jpg",
+  "frames": [
+   "00211_QB_p_1108.80.jpg",
+   "00212_QB_p_1110.32.jpg",
+   "00213_QB_p_1112.00.jpg",
+   "00214_QB_a_1113.48.jpg",
+   "00215_QB_a_1114.20.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-044",
+  "half": "QB",
+  "side": "",
+  "t0": 1115.88,
+  "t1": 1120.28,
+  "q": "If Muyiwa's heart rate is 660 beats per minute, what is his heart rate in beats per second?",
+  "qconf": 95.2,
+  "options": [
+   "11 bps",
+   "0.11 bps",
+   "110 bps"
+  ],
+  "key": "11 bps",
+  "kconf": 96.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   -30,
+   -10
+  ],
+  "after": [
+   -30,
+   -20
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 27,
+  "next_seen": "",
+  "text_frame": "00217_QB_p_1117.56.jpg",
+  "key_frame": "00219_QB_a_1119.60.jpg",
+  "frames": [
+   "00216_QB_p_1115.88.jpg",
+   "00217_QB_p_1117.56.jpg",
+   "00218_QB_p_1119.28.jpg",
+   "00219_QB_a_1119.60.jpg",
+   "00220_QB_a_1120.28.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-045",
+  "half": "QB",
+  "side": "",
+  "t0": 1121.88,
+  "t1": 1131.72,
+  "q": "From 6 people, how many ways can a president, VP, and secretary be chosen?",
+  "qconf": 95.8,
+  "options": [
+   "240",
+   "120",
+   "480"
+  ],
+  "key": "120",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   -30,
+   -20
+  ],
+  "after": [
+   -30,
+   -30
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 22,
+  "next_seen": "",
+  "text_frame": "00226_QB_a_1129.48.jpg",
+  "key_frame": "00226_QB_a_1129.48.jpg",
+  "frames": [
+   "00221_QB_p_1121.88.jpg",
+   "00222_QB_p_1123.48.jpg",
+   "00223_QB_p_1125.12.jpg",
+   "00224_QB_p_1126.80.jpg",
+   "00225_QB_p_1128.40.jpg",
+   "00226_QB_a_1129.48.jpg",
+   "00227_QB_a_1130.20.jpg",
+   "00228_QB_p_1131.72.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-046",
+  "half": "QB",
+  "side": "",
+  "t0": 1133.4,
+  "t1": 1137.72,
+  "q": "A drone model is made at a 1:15 scale. If the model's wingspan is 30cm, what is the actual wingspan?",
+  "qconf": 95.2,
+  "options": null,
+  "key": "450cm or 4.5m",
+  "kconf": 94.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   -30,
+   -30
+  ],
+  "after": [
+   -20,
+   -30
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": null,
+  "next_seen": "",
+  "text_frame": "00230_QB_p_1134.96.jpg",
+  "key_frame": "00231_QB_a_1135.44.jpg",
+  "frames": [
+   "00229_QB_p_1133.40.jpg",
+   "00230_QB_p_1134.96.jpg",
+   "00231_QB_a_1135.44.jpg",
+   "00232_QB_a_1136.08.jpg",
+   "00233_QB_p_1137.72.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-047",
+  "half": "QB",
+  "side": "",
+  "t0": 1139.36,
+  "t1": 1144,
+  "q": "A 0.5 correlation gives covariance 20. If X's standard deviation is 5, what is the Y's standard deviation?",
+  "qconf": 95.3,
+  "options": null,
+  "key": "8",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   -20,
+   -30
+  ],
+  "after": [
+   0,
+   0
+  ],
+  "delta": [
+   20,
+   30
+  ],
+  "clock": 6,
+  "next_seen": "",
+  "text_frame": "00234_QB_p_1139.36.jpg",
+  "key_frame": "00237_QB_a_1143.36.jpg",
+  "frames": [
+   "00234_QB_p_1139.36.jpg",
+   "00235_QB_p_1140.96.jpg",
+   "00236_QB_p_1142.56.jpg",
+   "00237_QB_a_1143.36.jpg",
+   "00238_QB_a_1144.00.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-048",
+  "half": "QB",
+  "side": "",
+  "t0": 1217.72,
+  "t1": 1219.72,
+  "q": "How many grams of phenol should be used to prepare 640g of 1% solution in water?",
+  "qconf": 95.7,
+  "options": null,
+  "key": "64g",
+  "kconf": 82.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   0,
+   0
+  ],
+  "after": [
+   10,
+   0
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 120,
+  "next_seen": "",
+  "text_frame": "00241_QB_p_1217.72.jpg",
+  "key_frame": "00242_QB_a_1219.04.jpg",
+  "frames": [
+   "00241_QB_p_1217.72.jpg",
+   "00242_QB_a_1219.04.jpg",
+   "00243_QB_a_1219.72.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-049",
+  "half": "QB",
+  "side": "",
+  "t0": 1221.4,
+  "t1": 1225.72,
+  "q": "Vectors A = (8, -2) and B = (4, 7) are added. What is the magnitude of the resultant?",
+  "qconf": 95.9,
+  "options": [
+   "10",
+   "12",
+   "13"
+  ],
+  "key": "13",
+  "kconf": 93.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   10,
+   0
+  ],
+  "after": [
+   20,
+   0
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 116,
+  "next_seen": "",
+  "text_frame": "00247_QB_a_1225.04.jpg",
+  "key_frame": "00247_QB_a_1225.04.jpg",
+  "frames": [
+   "00244_QB_p_1221.40.jpg",
+   "00245_QB_p_1223.00.jpg",
+   "00246_QB_p_1224.64.jpg",
+   "00247_QB_a_1225.04.jpg",
+   "00248_QB_a_1225.72.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-050",
+  "half": "QB",
+  "side": "",
+  "t0": 1227.36,
+  "t1": 1233.96,
+  "q": "A city's population grows at 3% per year. How long until it doubles?",
+  "qconf": 95.4,
+  "options": [
+   "23 years",
+   "15 years",
+   "30 years"
+  ],
+  "key": "23 years",
+  "kconf": 96.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   20,
+   0
+  ],
+  "after": [
+   20,
+   10
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 11,
+  "next_seen": "",
+  "text_frame": "00252_QB_p_1232.08.jpg",
+  "key_frame": "00253_QB_a_1233.32.jpg",
+  "frames": [
+   "00249_QB_p_1227.36.jpg",
+   "00250_QB_p_1229.00.jpg",
+   "00251_QB_p_1230.56.jpg",
+   "00252_QB_p_1232.08.jpg",
+   "00253_QB_a_1233.32.jpg",
+   "00254_QB_a_1233.96.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-051",
+  "half": "QB",
+  "side": "",
+  "t0": 1235.6,
+  "t1": 1239.44,
+  "q": "Determine the production engine's displacement from its 1:5 scale model displacing 8cm?.",
+  "qconf": 93.3,
+  "options": null,
+  "key": "1 liter (1.000 cm?)",
+  "kconf": 85.2,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   20,
+   10
+  ],
+  "after": [
+   20,
+   7
+  ],
+  "delta": [
+   0,
+   -3
+  ],
+  "clock": 103,
+  "next_seen": "",
+  "text_frame": "00255_QB_p_1235.60.jpg",
+  "key_frame": "00256_QB_a_1237.12.jpg",
+  "frames": [
+   "00255_QB_p_1235.60.jpg",
+   "00256_QB_a_1237.12.jpg",
+   "00257_QB_a_1237.88.jpg",
+   "00258_QB_p_1239.44.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-052",
+  "half": "QB",
+  "side": "",
+  "t0": 1241,
+  "t1": 1245.36,
+  "q": "A recipe calls for a 2:3 sugar-to-flour ratio. If 5 cups of sugar are used, how much flour is needed?",
+  "qconf": 95.4,
+  "options": null,
+  "key": "7.5 cups",
+  "kconf": 95.0,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   20,
+   7
+  ],
+  "after": [
+   20,
+   -10
+  ],
+  "delta": [
+   0,
+   -17
+  ],
+  "clock": 98,
+  "next_seen": "",
+  "text_frame": "00259_QB_p_1241.00.jpg",
+  "key_frame": "00261_QB_a_1243.12.jpg",
+  "frames": [
+   "00259_QB_p_1241.00.jpg",
+   "00260_QB_p_1242.60.jpg",
+   "00261_QB_a_1243.12.jpg",
+   "00262_QB_a_1243.80.jpg",
+   "00263_QB_p_1245.36.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-053",
+  "half": "QB",
+  "side": "",
+  "t0": 1247,
+  "t1": 1252.32,
+  "q": "The beadwork of the Maasai of Kenya is used to ____",
+  "qconf": 94.3,
+  "options": [
+   "Express Authority",
+   "Express position",
+   "Express social status"
+  ],
+  "key": "Express social status",
+  "kconf": 83.3,
+  "player": "Bolu",
+  "school": "UNILORIN",
+  "before": [
+   20,
+   -10
+  ],
+  "after": [
+   10,
+   -10
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 92,
+  "next_seen": "",
+  "text_frame": "00266_QB_a_1249.92.jpg",
+  "key_frame": "00266_QB_a_1249.92.jpg",
+  "frames": [
+   "00264_QB_p_1247.00.jpg",
+   "00265_QB_p_1248.60.jpg",
+   "00266_QB_a_1249.92.jpg",
+   "00267_QB_a_1250.68.jpg",
+   "00268_QB_p_1252.32.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-054",
+  "half": "QB",
+  "side": "",
+  "t0": 1253.96,
+  "t1": 1255.28,
+  "q": "The policy of apartheid was enforced in which country?",
+  "qconf": 95.8,
+  "options": [
+   "Botswana",
+   "Namibia",
+   "South Africa"
+  ],
+  "key": "South Africa",
+  "kconf": 95.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   10,
+   -10
+  ],
+  "after": [
+   10,
+   0
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 86,
+  "next_seen": "",
+  "text_frame": "00270_QB_a_1254.64.jpg",
+  "key_frame": "00270_QB_a_1254.64.jpg",
+  "frames": [
+   "00269_QB_p_1253.96.jpg",
+   "00270_QB_a_1254.64.jpg",
+   "00271_QB_a_1255.28.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-055",
+  "half": "QB",
+  "side": "",
+  "t0": 1256.88,
+  "t1": 1262.72,
+  "q": "The Senegalese artist Baaba Maal sang for which Hollywood blockbuster soundtrack?",
+  "qconf": 95.7,
+  "options": [
+   "Black Panther",
+   "Avatar",
+   "Gladiator"
+  ],
+  "key": "Black Panther",
+  "kconf": 96.0,
+  "player": "Bolu",
+  "school": "UNILORIN",
+  "before": [
+   10,
+   0
+  ],
+  "after": [
+   0,
+   0
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 83,
+  "next_seen": "",
+  "text_frame": "00272_QB_p_1256.88.jpg",
+  "key_frame": "00275_QB_a_1260.40.jpg",
+  "frames": [
+   "00272_QB_p_1256.88.jpg",
+   "00273_QB_p_1258.40.jpg",
+   "00274_QB_p_1260.04.jpg",
+   "00275_QB_a_1260.40.jpg",
+   "00276_QB_a_1261.12.jpg",
+   "00277_QB_p_1262.72.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-056",
+  "half": "QB",
+  "side": "",
+  "t0": 1264.28,
+  "t1": 1268.4,
+  "q": "Speed increases from 5 m/s to 15 m/s over 10 seconds during a bike ride. Calculate the acceleration.",
+  "qconf": 95.9,
+  "options": null,
+  "key": "1 m/s?",
+  "kconf": 89.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   0,
+   0
+  ],
+  "after": [
+   0,
+   10
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 76,
+  "next_seen": "",
+  "text_frame": "00281_QB_a_1268.40.jpg",
+  "key_frame": "00281_QB_a_1268.40.jpg",
+  "frames": [
+   "00278_QB_p_1264.28.jpg",
+   "00279_QB_p_1265.96.jpg",
+   "00280_QB_p_1267.60.jpg",
+   "00281_QB_a_1268.40.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-057",
+  "half": "QB",
+  "side": "",
+  "t0": 1270.44,
+  "t1": 1277.92,
+  "q": "lf actual measurement is 25.0m and measured is 24.1m, what is the percentage error?",
+  "qconf": 94.9,
+  "options": [
+   "2.4%",
+   "3.6%",
+   "4.8%"
+  ],
+  "key": "3.6%",
+  "kconf": 96.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   0,
+   10
+  ],
+  "after": [
+   10,
+   10
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 70,
+  "next_seen": "",
+  "text_frame": "00282_QB_p_1270.44.jpg",
+  "key_frame": "00286_QB_a_1275.68.jpg",
+  "frames": [
+   "00282_QB_p_1270.44.jpg",
+   "00283_QB_p_1272.00.jpg",
+   "00284_QB_p_1273.60.jpg",
+   "00285_QB_p_1275.24.jpg",
+   "00286_QB_a_1275.68.jpg",
+   "00287_QB_a_1276.32.jpg",
+   "00288_QB_p_1277.92.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-058",
+  "half": "QB",
+  "side": "",
+  "t0": 1279.52,
+  "t1": 1288.52,
+  "q": "A bacterial culture doubles every 3 hours. After 15 hours it reaches 10,000 cells. What was the initial population?",
+  "qconf": 95.8,
+  "options": [
+   "214 cells",
+   "312.5 cells",
+   "345 cells"
+  ],
+  "key": "312.5 cells",
+  "kconf": 95.5,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   10,
+   10
+  ],
+  "after": [
+   10,
+   0
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 62,
+  "next_seen": "",
+  "text_frame": "00293_QB_a_1284.68.jpg",
+  "key_frame": "00293_QB_a_1284.68.jpg",
+  "frames": [
+   "00289_QB_p_1279.52.jpg",
+   "00290_QB_p_1281.12.jpg",
+   "00291_QB_p_1282.72.jpg",
+   "00292_QB_p_1284.36.jpg",
+   "00293_QB_a_1284.68.jpg",
+   "00294_QB_a_1285.32.jpg",
+   "00295_QB_p_1286.92.jpg",
+   "00296_QB_p_1288.52.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-059",
+  "half": "QB",
+  "side": "",
+  "t0": 1290.12,
+  "t1": 1292.44,
+  "q": "A ball thrown upward follows h(t) = -5t? + 25t. When does it reach its maximum height?",
+  "qconf": 94.8,
+  "options": null,
+  "key": "2.5 seconds",
+  "kconf": 95.0,
+  "player": "Ibrahim",
+  "school": "UNILORIN",
+  "before": [
+   10,
+   0
+  ],
+  "after": [
+   0,
+   0
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 52,
+  "next_seen": "",
+  "text_frame": "00297_QB_a_1290.12.jpg",
+  "key_frame": "00297_QB_a_1290.12.jpg",
+  "frames": [
+   "00297_QB_a_1290.12.jpg",
+   "00298_QB_a_1290.80.jpg",
+   "00299_QB_p_1292.44.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-060",
+  "half": "QB",
+  "side": "",
+  "t0": 1294.04,
+  "t1": 1296.84,
+  "q": "A force of 300N acts on an area of 0.5m*. Find the pressure in pascals.",
+  "qconf": 90.3,
+  "options": null,
+  "key": "600Pa",
+  "kconf": 90.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   0,
+   0
+  ],
+  "after": [
+   0,
+   10
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 49,
+  "next_seen": "",
+  "text_frame": "00301_QB_p_1295.68.jpg",
+  "key_frame": "00302_QB_a_1296.16.jpg",
+  "frames": [
+   "00300_QB_p_1294.04.jpg",
+   "00301_QB_p_1295.68.jpg",
+   "00302_QB_a_1296.16.jpg",
+   "00303_QB_a_1296.84.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-061",
+  "half": "QB",
+  "side": "",
+  "t0": 1298.44,
+  "t1": 1308.56,
+  "q": "The profit function f(x) = -2x? + 16x + 20 models earnings. What is the maximum profit?",
+  "qconf": 95.8,
+  "options": [
+   "44",
+   "68",
+   "52"
+  ],
+  "key": "52",
+  "kconf": 92.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   10
+  ],
+  "after": [
+   0,
+   10
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 45,
+  "next_seen": "",
+  "text_frame": "00308_QB_p_1304.84.jpg",
+  "key_frame": "00309_QB_a_1306.28.jpg",
+  "frames": [
+   "00304_QB_p_1298.44.jpg",
+   "00305_QB_p_1300.04.jpg",
+   "00306_QB_p_1301.64.jpg",
+   "00307_QB_p_1303.24.jpg",
+   "00308_QB_p_1304.84.jpg",
+   "00309_QB_a_1306.28.jpg",
+   "00310_QB_a_1306.92.jpg",
+   "00311_QB_p_1308.56.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-062",
+  "half": "QB",
+  "side": "",
+  "t0": 1309.52,
+  "t1": 1310.16,
+  "q": "Ornithology is to Birds as Ichthyology is to__",
+  "qconf": 95.2,
+  "options": [
+   "Fish",
+   "Dogs",
+   "Reptiles"
+  ],
+  "key": "Fish",
+  "kconf": 96.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   0,
+   10
+  ],
+  "after": [
+   10,
+   10
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 34,
+  "next_seen": "",
+  "text_frame": "00312_QB_a_1309.52.jpg",
+  "key_frame": "00312_QB_a_1309.52.jpg",
+  "frames": [
+   "00312_QB_a_1309.52.jpg",
+   "00313_QB_a_1310.16.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-063",
+  "half": "QB",
+  "side": "",
+  "t0": 1311.68,
+  "t1": 1313.48,
+  "q": "Which is the odd one among the following?",
+  "qconf": 96.0,
+  "options": [
+   "Python",
+   "Cobra",
+   "Salamander"
+  ],
+  "key": "Salamander",
+  "kconf": 96.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   10,
+   10
+  ],
+  "after": [
+   10,
+   20
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 32,
+  "next_seen": "",
+  "text_frame": "00314_QB_p_1311.68.jpg",
+  "key_frame": "00315_QB_a_1312.80.jpg",
+  "frames": [
+   "00314_QB_p_1311.68.jpg",
+   "00315_QB_a_1312.80.jpg",
+   "00316_QB_a_1313.48.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-064",
+  "half": "QB",
+  "side": "",
+  "t0": 1315.08,
+  "t1": 1324.84,
+  "q": "Which Cameroonian saxophonist is credited with popularizing Makossa music internationally?",
+  "qconf": 94.6,
+  "options": [
+   "Manu Dibango",
+   "Richard Bona",
+   "Blick Bassy"
+  ],
+  "key": "Manu Dibango",
+  "kconf": 92.0,
+  "player": "",
+  "school": "",
+  "before": [
+   10,
+   20
+  ],
+  "after": [
+   10,
+   20
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 29,
+  "next_seen": "",
+  "text_frame": "00317_QB_p_1315.08.jpg",
+  "key_frame": "00322_QB_a_1322.52.jpg",
+  "frames": [
+   "00317_QB_p_1315.08.jpg",
+   "00318_QB_p_1316.64.jpg",
+   "00319_QB_p_1318.28.jpg",
+   "00320_QB_p_1319.80.jpg",
+   "00321_QB_p_1321.56.jpg",
+   "00322_QB_a_1322.52.jpg",
+   "00323_QB_a_1323.20.jpg",
+   "00324_QB_p_1324.84.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-065",
+  "half": "QB",
+  "side": "",
+  "t0": 1326.36,
+  "t1": 1334.6,
+  "q": "A 0.5 correlation gives covariance 20. If X's standard deviation is 5, what is the Y's standard deviation?",
+  "qconf": 95.4,
+  "options": null,
+  "key": "8",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   10,
+   20
+  ],
+  "after": [
+   10,
+   20
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 19,
+  "next_seen": "",
+  "text_frame": "00327_QB_p_1329.52.jpg",
+  "key_frame": "00329_QB_a_1332.36.jpg",
+  "frames": [
+   "00325_QB_p_1326.36.jpg",
+   "00326_QB_p_1327.96.jpg",
+   "00327_QB_p_1329.52.jpg",
+   "00328_QB_p_1331.08.jpg",
+   "00329_QB_a_1332.36.jpg",
+   "00330_QB_a_1333.00.jpg",
+   "00331_QB_p_1334.60.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-066",
+  "half": "QB",
+  "side": "",
+  "t0": 1336.24,
+  "t1": 1339.04,
+  "q": "Two vectors A = (10, 1) and B = (-6, 2) are added. What is the magnitude of their resultant?",
+  "qconf": 95.0,
+  "options": null,
+  "key": "8",
+  "kconf": 95.0,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   10,
+   20
+  ],
+  "after": [
+   10,
+   30
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 10,
+  "next_seen": "",
+  "text_frame": "00332_QB_p_1336.24.jpg",
+  "key_frame": "00333_QB_a_1336.88.jpg",
+  "frames": [
+   "00332_QB_p_1336.24.jpg",
+   "00333_QB_a_1336.88.jpg",
+   "00334_QB_a_1337.52.jpg",
+   "00335_QB_p_1339.04.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-067",
+  "half": "QB",
+  "side": "",
+  "t0": 1340.56,
+  "t1": 1345.24,
+  "q": "If a patient breathes 15 times per minute, how many breaths in 2 hours?",
+  "qconf": 95.3,
+  "options": [
+   "5,400 breaths",
+   "1,800 breaths",
+   "3,600 breaths"
+  ],
+  "key": "1,800 breaths",
+  "kconf": 95.5,
+  "player": "",
+  "school": "",
+  "before": [
+   10,
+   30
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 6,
+  "next_seen": "",
+  "text_frame": "00339_QB_a_1344.60.jpg",
+  "key_frame": "00339_QB_a_1344.60.jpg",
+  "frames": [
+   "00336_QB_p_1340.56.jpg",
+   "00337_QB_p_1342.12.jpg",
+   "00338_QB_p_1343.64.jpg",
+   "00339_QB_a_1344.60.jpg",
+   "00340_QB_a_1345.24.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-068",
+  "half": "QB",
+  "side": "",
+  "t0": 1438.56,
+  "t1": 1441.24,
+  "q": "The Dashiki, popular across Africa, originated from which region?",
+  "qconf": 95.7,
+  "options": [
+   "North Africa",
+   "West Africa",
+   "Southern Africa"
+  ],
+  "key": "West Africa",
+  "kconf": 95.5,
+  "player": "Ibrahim",
+  "school": "UNILORIN",
+  "before": [
+   0,
+   7
+  ],
+  "after": [
+   10,
+   0
+  ],
+  "delta": [
+   10,
+   -7
+  ],
+  "clock": 120,
+  "next_seen": "",
+  "text_frame": "00348_QB_p_1438.56.jpg",
+  "key_frame": "00350_QB_a_1440.60.jpg",
+  "frames": [
+   "00348_QB_p_1438.56.jpg",
+   "00349_QB_p_1440.24.jpg",
+   "00350_QB_a_1440.60.jpg",
+   "00351_QB_a_1441.24.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-069",
+  "half": "QB",
+  "side": "",
+  "t0": 1442.88,
+  "t1": 1449.4,
+  "q": "lf “A's maternal grandfather is B's paternal grandmother's only son,’ and B has no siblings, what is B to A?",
+  "qconf": 94.0,
+  "options": [
+   "Grandfather",
+   "Uncle",
+   "Cousin"
+  ],
+  "key": "Uncle",
+  "kconf": 96.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   10,
+   0
+  ],
+  "after": [
+   20,
+   0
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 116,
+  "next_seen": "",
+  "text_frame": "00355_QB_p_1447.64.jpg",
+  "key_frame": "00356_QB_a_1448.76.jpg",
+  "frames": [
+   "00352_QB_p_1442.88.jpg",
+   "00353_QB_p_1444.44.jpg",
+   "00354_QB_p_1446.08.jpg",
+   "00355_QB_p_1447.64.jpg",
+   "00356_QB_a_1448.76.jpg",
+   "00357_QB_a_1449.40.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-070",
+  "half": "QB",
+  "side": "",
+  "t0": 1450.92,
+  "t1": 1452.56,
+  "q": "If a patient breathes 15 times per minute, how many breaths in 2 hours?",
+  "qconf": 95.2,
+  "options": [
+   "5,400 breaths",
+   "1,800 breaths",
+   "3,600 breaths"
+  ],
+  "key": "",
+  "kconf": 0,
+  "player": "",
+  "school": "",
+  "before": [
+   20,
+   0
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 108,
+  "next_seen": "",
+  "text_frame": "00358_QB_p_1450.92.jpg",
+  "key_frame": "",
+  "frames": [
+   "00358_QB_p_1450.92.jpg",
+   "00359_QB_p_1452.56.jpg"
+  ],
+  "flags": [
+   "nokey"
+  ]
+ },
+ {
+  "id": "qf1-071",
+  "half": "QB",
+  "side": "",
+  "t0": 1455.68,
+  "t1": 1458.84,
+  "q": "If a patient breathes 15 times per minute, how many breaths in 2 hours?",
+  "qconf": 95.4,
+  "options": [
+   "5,400 breaths",
+   "1,800 breaths",
+   "3,600 breaths"
+  ],
+  "key": "1,800 breaths",
+  "kconf": 95.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   20,
+   0
+  ],
+  "after": [
+   10,
+   0
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 103,
+  "next_seen": "",
+  "text_frame": "00363_QB_a_1458.16.jpg",
+  "key_frame": "00363_QB_a_1458.16.jpg",
+  "frames": [
+   "00361_QB_p_1455.68.jpg",
+   "00362_QB_p_1457.20.jpg",
+   "00363_QB_a_1458.16.jpg",
+   "00364_QB_a_1458.84.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-072",
+  "half": "QB",
+  "side": "",
+  "t0": 1460.44,
+  "t1": 1462.84,
+  "q": "The marginal cost function is MC(x) = 6x + 4. Find the total cost of producing the first 6 items.",
+  "qconf": 95.8,
+  "options": [
+   "124",
+   "132",
+   "340"
+  ],
+  "key": "132",
+  "kconf": 96.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   10,
+   0
+  ],
+  "after": [
+   20,
+   0
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 99,
+  "next_seen": "",
+  "text_frame": "00366_QB_a_1462.08.jpg",
+  "key_frame": "00366_QB_a_1462.08.jpg",
+  "frames": [
+   "00365_QB_p_1460.44.jpg",
+   "00366_QB_a_1462.08.jpg",
+   "00367_QB_a_1462.84.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-073",
+  "half": "QB",
+  "side": "",
+  "t0": 1464.48,
+  "t1": 1469.04,
+  "q": "The measured value is 4.8, actual is 5.0. What is the relative error?",
+  "qconf": 95.4,
+  "options": [
+   "4%",
+   "2%",
+   "8%"
+  ],
+  "key": "A%",
+  "kconf": 82.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   20,
+   0
+  ],
+  "after": [
+   30,
+   0
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 95,
+  "next_seen": "",
+  "text_frame": "00368_QB_p_1464.48.jpg",
+  "key_frame": "00371_QB_a_1468.36.jpg",
+  "frames": [
+   "00368_QB_p_1464.48.jpg",
+   "00369_QB_p_1466.04.jpg",
+   "00370_QB_p_1467.68.jpg",
+   "00371_QB_a_1468.36.jpg",
+   "00372_QB_a_1469.04.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-074",
+  "half": "QB",
+  "side": "",
+  "t0": 1470.56,
+  "t1": 1473.36,
+  "q": "In an 10-runner race, how many ways can gold, silver, and bronze be awarded?",
+  "qconf": 95.8,
+  "options": [
+   "360",
+   "720",
+   "120"
+  ],
+  "key": "720",
+  "kconf": 95.0,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   30,
+   0
+  ],
+  "after": [
+   40,
+   7
+  ],
+  "delta": [
+   10,
+   7
+  ],
+  "clock": 89,
+  "next_seen": "",
+  "text_frame": "00375_QB_a_1472.72.jpg",
+  "key_frame": "00375_QB_a_1472.72.jpg",
+  "frames": [
+   "00373_QB_p_1470.56.jpg",
+   "00374_QB_p_1472.08.jpg",
+   "00375_QB_a_1472.72.jpg",
+   "00376_QB_a_1473.36.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-075",
+  "half": "QB",
+  "side": "",
+  "t0": 1475,
+  "t1": 1480.12,
+  "q": "The pOH of a solution is 10. What is the concentration of hydrogen ions in the solution?",
+  "qconf": 95.6,
+  "options": null,
+  "key": "0.00010r1x10\"M ¥",
+  "kconf": 37.5,
+  "player": "Fred",
+  "school": "UNILORIN",
+  "before": [
+   40,
+   7
+  ],
+  "after": [
+   30,
+   0
+  ],
+  "delta": [
+   -10,
+   -7
+  ],
+  "clock": 85,
+  "next_seen": "",
+  "text_frame": "00378_QB_a_1476.36.jpg",
+  "key_frame": "00378_QB_a_1476.36.jpg",
+  "frames": [
+   "00377_QB_p_1475.00.jpg",
+   "00378_QB_a_1476.36.jpg",
+   "00379_QB_a_1477.00.jpg",
+   "00380_QB_p_1478.60.jpg",
+   "00381_QB_p_1480.12.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-076",
+  "half": "QB",
+  "side": "",
+  "t0": 1481.68,
+  "t1": 1485.88,
+  "q": "If r= 0.5 between two variables, what percentage of variability is explained?",
+  "qconf": 94.9,
+  "options": [
+   "50%",
+   "25%",
+   "75%"
+  ],
+  "key": "25%",
+  "kconf": 92.0,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   30,
+   0
+  ],
+  "after": [
+   30,
+   10
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 79,
+  "next_seen": "",
+  "text_frame": "00383_QB_p_1483.24.jpg",
+  "key_frame": "00384_QB_a_1483.44.jpg",
+  "frames": [
+   "00382_QB_p_1481.68.jpg",
+   "00383_QB_p_1483.24.jpg",
+   "00384_QB_a_1483.44.jpg",
+   "00385_QB_a_1484.20.jpg",
+   "00386_QB_p_1485.88.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-077",
+  "half": "QB",
+  "side": "",
+  "t0": 1487.52,
+  "t1": 1495.56,
+  "q": "Find the average rate of change of f(x) = x? - 5x on [1, 4]",
+  "qconf": 93.4,
+  "options": [
+   "1",
+   "O",
+   "2"
+  ],
+  "key": "O",
+  "kconf": 80.0,
+  "player": "",
+  "school": "",
+  "before": [
+   30,
+   10
+  ],
+  "after": [
+   30,
+   10
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 74,
+  "next_seen": "",
+  "text_frame": "00387_QB_p_1487.52.jpg",
+  "key_frame": "00391_QB_a_1493.32.jpg",
+  "frames": [
+   "00387_QB_p_1487.52.jpg",
+   "00388_QB_p_1489.04.jpg",
+   "00389_QB_p_1490.64.jpg",
+   "00390_QB_p_1492.28.jpg",
+   "00391_QB_a_1493.32.jpg",
+   "00392_QB_a_1494.00.jpg",
+   "00393_QB_p_1495.56.jpg"
+  ],
+  "flags": [
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-078",
+  "half": "QB",
+  "side": "",
+  "t0": 1498.24,
+  "t1": 1498.24,
+  "q": "Which Egyptian king's tomb was discovered in the Valley of the Kings in 1922?",
+  "qconf": 93.4,
+  "options": [
+   "Ramses II",
+   "Tutankhamen",
+   "Akhenaten"
+  ],
+  "key": "Tutankhamen",
+  "kconf": 96.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   30,
+   10
+  ],
+  "after": [
+   30,
+   20
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 63,
+  "next_seen": "",
+  "text_frame": "00394_QB_a_1498.24.jpg",
+  "key_frame": "00394_QB_a_1498.24.jpg",
+  "frames": [
+   "00394_QB_a_1498.24.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-079",
+  "half": "QB",
+  "side": "",
+  "t0": 1500.08,
+  "t1": 1503.2,
+  "q": "Who led Guinea to independence from France in 1958?",
+  "qconf": 88.9,
+  "options": [
+   "Kwame Nkrumah",
+   "Sekou Toure",
+   "Ahmed Ben Bella"
+  ],
+  "key": "Sekou Toure",
+  "kconf": 93.5,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   30,
+   20
+  ],
+  "after": [
+   30,
+   30
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 61,
+  "next_seen": "",
+  "text_frame": "00395_QB_a_1500.08.jpg",
+  "key_frame": "00397_QB_a_1502.56.jpg",
+  "frames": [
+   "00395_QB_a_1500.08.jpg",
+   "00396_QB_p_1502.24.jpg",
+   "00397_QB_a_1502.56.jpg",
+   "00398_QB_a_1503.20.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-080",
+  "half": "QB",
+  "side": "",
+  "t0": 1504.88,
+  "t1": 1515.56,
+  "q": "Storing novels averaging 3.2cm thick, a 2-meter long shelf can hold how many books?",
+  "qconf": 95.1,
+  "options": null,
+  "key": "62 books",
+  "kconf": 94.5,
+  "player": "",
+  "school": "",
+  "before": [
+   30,
+   30
+  ],
+  "after": [
+   30,
+   30
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 57,
+  "next_seen": "",
+  "text_frame": "00405_QB_a_1513.92.jpg",
+  "key_frame": "00404_QB_a_1512.64.jpg",
+  "frames": [
+   "00399_QB_p_1504.88.jpg",
+   "00400_QB_p_1506.44.jpg",
+   "00401_QB_p_1508.04.jpg",
+   "00402_QB_p_1509.72.jpg",
+   "00403_QB_p_1511.24.jpg",
+   "00404_QB_a_1512.64.jpg",
+   "00405_QB_a_1513.92.jpg",
+   "00406_QB_p_1515.56.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-081",
+  "half": "QB",
+  "side": "",
+  "t0": 1517.16,
+  "t1": 1525.52,
+  "q": "The marginal cost function is MC(x) = 4x + 3. Find the total cost of producing the first 5 items.",
+  "qconf": 95.6,
+  "options": [
+   "30",
+   "40",
+   "65"
+  ],
+  "key": "65",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   30,
+   30
+  ],
+  "after": [
+   30,
+   30
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 46,
+  "next_seen": "",
+  "text_frame": "00408_QB_p_1518.68.jpg",
+  "key_frame": "00411_QB_a_1523.28.jpg",
+  "frames": [
+   "00407_QB_p_1517.16.jpg",
+   "00408_QB_p_1518.68.jpg",
+   "00409_QB_p_1520.36.jpg",
+   "00410_QB_p_1521.92.jpg",
+   "00411_QB_a_1523.28.jpg",
+   "00412_QB_a_1523.92.jpg",
+   "00413_QB_p_1525.52.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-082",
+  "half": "QB",
+  "side": "",
+  "t0": 1527.08,
+  "t1": 1534.16,
+  "q": "Two partners share profits in a 7:3 ratio. If the total profit is ¥500,000, how much does the second partner receive?",
+  "qconf": 92.1,
+  "options": null,
+  "key": "150,000",
+  "kconf": 22.0,
+  "player": "Godswil",
+  "school": "UNN",
+  "before": [
+   30,
+   30
+  ],
+  "after": [
+   30,
+   40
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": 36,
+  "next_seen": "",
+  "text_frame": "00417_QB_a_1531.84.jpg",
+  "key_frame": "00417_QB_a_1531.84.jpg",
+  "frames": [
+   "00414_QB_p_1527.08.jpg",
+   "00415_QB_p_1528.60.jpg",
+   "00416_QB_p_1530.24.jpg",
+   "00417_QB_a_1531.84.jpg",
+   "00418_QB_a_1532.52.jpg",
+   "00419_QB_p_1534.16.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-083",
+  "half": "QB",
+  "side": "",
+  "t0": 1535.8,
+  "t1": 1537.96,
+  "q": "What is the next prime number after 53?",
+  "qconf": 96.0,
+  "options": [
+   "57",
+   "59",
+   "61"
+  ],
+  "key": "59",
+  "kconf": 96.0,
+  "player": "Ibrahim",
+  "school": "UNILORIN",
+  "before": [
+   30,
+   40
+  ],
+  "after": [
+   20,
+   40
+  ],
+  "delta": [
+   -10,
+   0
+  ],
+  "clock": 28,
+  "next_seen": "",
+  "text_frame": "00421_QB_a_1537.24.jpg",
+  "key_frame": "00421_QB_a_1537.24.jpg",
+  "frames": [
+   "00420_QB_p_1535.80.jpg",
+   "00421_QB_a_1537.24.jpg",
+   "00422_QB_a_1537.96.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-084",
+  "half": "QB",
+  "side": "",
+  "t0": 1539.56,
+  "t1": 1545.2,
+  "q": "Find the minimum value of f(x) = x? — 6x + 10",
+  "qconf": 92.6,
+  "options": null,
+  "key": "1",
+  "kconf": 69.0,
+  "player": "Emma",
+  "school": "UNN",
+  "before": [
+   20,
+   40
+  ],
+  "after": [
+   20,
+   30
+  ],
+  "delta": [
+   0,
+   -10
+  ],
+  "clock": 25,
+  "next_seen": "",
+  "text_frame": "00425_QB_p_1542.60.jpg",
+  "key_frame": "00426_QB_a_1542.92.jpg",
+  "frames": [
+   "00423_QB_p_1539.56.jpg",
+   "00424_QB_p_1541.08.jpg",
+   "00425_QB_p_1542.60.jpg",
+   "00426_QB_a_1542.92.jpg",
+   "00427_QB_a_1543.56.jpg",
+   "00428_QB_p_1545.20.jpg"
+  ],
+  "flags": [
+   "lowkey",
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-085",
+  "half": "QB",
+  "side": "",
+  "t0": 1546.92,
+  "t1": 1551.84,
+  "q": "A ladder's height y as it slides is modeled by y = v(25 - x’). What is y when x = 3?",
+  "qconf": 93.2,
+  "options": null,
+  "key": "4",
+  "kconf": 94.0,
+  "player": "Ibrahim",
+  "school": "UNILORIN",
+  "before": [
+   20,
+   30
+  ],
+  "after": [
+   30,
+   30
+  ],
+  "delta": [
+   10,
+   0
+  ],
+  "clock": 18,
+  "next_seen": "",
+  "text_frame": "00429_QB_p_1546.92.jpg",
+  "key_frame": "00432_QB_a_1551.12.jpg",
+  "frames": [
+   "00429_QB_p_1546.92.jpg",
+   "00430_QB_p_1548.48.jpg",
+   "00431_QB_p_1550.00.jpg",
+   "00432_QB_a_1551.12.jpg",
+   "00433_QB_a_1551.84.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-086",
+  "half": "QB",
+  "side": "",
+  "t0": 1553.48,
+  "t1": 1555.36,
+  "q": "What word is always pronounced wrong?",
+  "qconf": 96.0,
+  "options": [
+   "Right",
+   "Mistake",
+   "Wrong"
+  ],
+  "key": "Wrong",
+  "kconf": 96.0,
+  "player": "Solomon",
+  "school": "UNN",
+  "before": [
+   30,
+   30
+  ],
+  "after": [
+   30,
+   40
+  ],
+  "delta": [
+   0,
+   10
+  ],
+  "clock": null,
+  "next_seen": "",
+  "text_frame": "00434_QB_p_1553.48.jpg",
+  "key_frame": "00435_QB_a_1554.68.jpg",
+  "frames": [
+   "00434_QB_p_1553.48.jpg",
+   "00435_QB_a_1554.68.jpg",
+   "00436_QB_a_1555.36.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-087",
+  "half": "QB",
+  "side": "",
+  "t0": 1557,
+  "t1": 1565,
+  "q": "A ball is thrown vertically with v(t) = 20 — 9.8t. When does it hit the ground?",
+  "qconf": 90.8,
+  "options": [
+   "2.14s",
+   "3.14s",
+   "4.08s"
+  ],
+  "key": "4.08s",
+  "kconf": 86.0,
+  "player": "Ibrahim",
+  "school": "UNILORIN",
+  "before": [
+   30,
+   40
+  ],
+  "after": [
+   0,
+   0
+  ],
+  "delta": [
+   -30,
+   -40
+  ],
+  "clock": 8,
+  "next_seen": "",
+  "text_frame": "00441_QB_a_1562.72.jpg",
+  "key_frame": "00441_QB_a_1562.72.jpg",
+  "frames": [
+   "00437_QB_p_1557.00.jpg",
+   "00438_QB_p_1558.56.jpg",
+   "00439_QB_p_1560.08.jpg",
+   "00440_QB_p_1561.64.jpg",
+   "00441_QB_a_1562.72.jpg",
+   "00442_QB_a_1563.40.jpg",
+   "00443_QB_p_1565.00.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-088",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1669.2,
+  "t1": 1672.92,
+  "q": "A coin is tossed 6 times. What is the probability of getting exactly 2 heads?",
+  "qconf": 90.0,
+  "options": [
+   "0.1",
+   "0.2",
+   "0.5"
+  ],
+  "key": "0.2",
+  "kconf": 93.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   0
+  ],
+  "after": [
+   0,
+   0
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 90,
+  "next_seen": "- NE x . ie Pe < =a Ni . AN yy iS as: 5, 7, 8,10, 12,14 > quar. toned juartile range? 9 5 a @ : : &",
+  "text_frame": "00446_BML_p_1669.20.jpg",
+  "key_frame": "00448_BML_a_1672.08.jpg",
+  "frames": [
+   "00446_BML_p_1669.20.jpg",
+   "00447_BML_p_1670.84.jpg",
+   "00448_BML_a_1672.08.jpg",
+   "00449_BML_a_1672.92.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-089",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1674.44,
+  "t1": 1677.84,
+  "q": "The weights (in lbs) of 9 packages: 5, 7, 8, 10, 12, 14, 15, 18, 20. What is the interquartile range?",
+  "qconf": 95.3,
+  "options": [
+   "6",
+   "9",
+   "10"
+  ],
+  "key": "9",
+  "kconf": 92.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   0
+  ],
+  "after": [
+   2,
+   0
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 85,
+  "next_seen": "fo ie 4 Wf LAN Me ty. solves DI obabilit y (oti ten ictly One solves it) ’ —_—_,—",
+  "text_frame": "00450_BML_p_1674.44.jpg",
+  "key_frame": "00452_BML_a_1677.12.jpg",
+  "frames": [
+   "00450_BML_p_1674.44.jpg",
+   "00451_BML_p_1676.12.jpg",
+   "00452_BML_a_1677.12.jpg",
+   "00453_BML_a_1677.84.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-090",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1679.44,
+  "t1": 1682.76,
+  "q": "A solves probability '/2, and B solves probability '/3 independently. What is P(exactly one solves it)?",
+  "qconf": 94.3,
+  "options": [
+   "1/4",
+   "1/2",
+   "1/3"
+  ],
+  "key": "1/2",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   0
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 80,
+  "next_seen": "ontinuous) me ; an example ae ota",
+  "text_frame": "00454_BML_p_1679.44.jpg",
+  "key_frame": "00456_BML_a_1682.08.jpg",
+  "frames": [
+   "00454_BML_p_1679.44.jpg",
+   "00455_BML_p_1680.96.jpg",
+   "00456_BML_a_1682.08.jpg",
+   "00457_BML_a_1682.76.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-091",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1684.32,
+  "t1": 1687.64,
+  "q": "The income of a person is an example of data.",
+  "qconf": 96.0,
+  "options": [
+   "Qualitative",
+   "Discrete",
+   "Continuous"
+  ],
+  "key": ". Continuous",
+  "kconf": 68.5,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   2,
+   0
+  ],
+  "delta": null,
+  "clock": 75,
+  "next_seen": "i ‘ont (2. — _— Given that the Mean jit IiinaiIn 0 taleunatanemenn Find the coeff ‘Oh SKei x ‘",
+  "text_frame": "00458_BMR_p_1684.32.jpg",
+  "key_frame": "00460_BMR_a_1686.96.jpg",
+  "frames": [
+   "00458_BMR_p_1684.32.jpg",
+   "00459_BMR_p_1685.84.jpg",
+   "00460_BMR_a_1686.96.jpg",
+   "00461_BMR_a_1687.64.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-092",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1689.16,
+  "t1": 1691.2,
+  "q": "Given that the Mean = 20, median = 10, SD = 5. Find the coefficient of skewness.",
+  "qconf": 92.0,
+  "options": [
+   "2.0",
+   "1",
+   "4"
+  ],
+  "key": "2",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   0
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 71,
+  "next_seen": ". A: 6) F800! indents, A",
+  "text_frame": "00462_BML_p_1689.16.jpg",
+  "key_frame": "00463_BML_a_1690.52.jpg",
+  "frames": [
+   "00462_BML_p_1689.16.jpg",
+   "00463_BML_a_1690.52.jpg",
+   "00464_BML_a_1691.20.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-093",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1692.72,
+  "t1": 1695.24,
+  "q": "A survey: 45% prefer product A. If 800 respondents, how many prefer A?",
+  "qconf": 95.5,
+  "options": [
+   "400",
+   "320",
+   "360"
+  ],
+  "key": ". 360",
+  "kconf": 57.5,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   2,
+   2
+  ],
+  "delta": null,
+  "clock": 67,
+  "next_seen": "(Rs.1022+Rs i 27 l A\\ er takes a Rs 100, QRS ae ae ert ar. Find the com Jinere >",
+  "text_frame": "00465_BMR_p_1692.72.jpg",
+  "key_frame": "00467_BMR_a_1694.60.jpg",
+  "frames": [
+   "00465_BMR_p_1692.72.jpg",
+   "00466_BMR_p_1694.40.jpg",
+   "00467_BMR_a_1694.60.jpg",
+   "00468_BMR_a_1695.24.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-094",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1696.84,
+  "t1": 1700.96,
+  "q": "A farmer takes a Rs.100,000 loan at 2 paise per rupee per year. Find the compound interest after 2 years.",
+  "qconf": 91.6,
+  "options": [
+   "Rs.1022",
+   "Rs.4,040",
+   "Rs.2022"
+  ],
+  "key": "Rs.4,040",
+  "kconf": 61.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   2
+  ],
+  "after": [
+   2,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 63,
+  "next_seen": "a — 7 = ——— i= ft — The covariance Gx Mii) leteee rnndon a =a 2?",
+  "text_frame": "00469_BMR_p_1696.84.jpg",
+  "key_frame": "00471_BMR_a_1700.36.jpg",
+  "frames": [
+   "00469_BMR_p_1696.84.jpg",
+   "00470_BMR_p_1698.48.jpg",
+   "00471_BMR_a_1700.36.jpg",
+   "00472_BMR_a_1700.96.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-095",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1703.08,
+  "t1": 1705.68,
+  "q": "The covariance of two independent random variable is __",
+  "qconf": 87.1,
+  "options": [
+   "1",
+   "-1",
+   "O"
+  ],
+  "key": "O",
+  "kconf": 69.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   2
+  ],
+  "after": [
+   2,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 57,
+  "next_seen": "G hat is th obability , Ss 5? s",
+  "text_frame": "00473_BML_p_1703.08.jpg",
+  "key_frame": "00474_BML_a_1704.96.jpg",
+  "frames": [
+   "00473_BML_p_1703.08.jpg",
+   "00474_BML_a_1704.96.jpg",
+   "00475_BML_a_1705.68.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-096",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1707.32,
+  "t1": 1710.4,
+  "q": "From 20 tickets numbered 1-20, what is the probability that the ticket drawn is a multiple of 4 or 5?",
+  "qconf": 93.8,
+  "options": [
+   "0.4",
+   "0.2",
+   "0.1"
+  ],
+  "key": "O04",
+  "kconf": 59.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   2
+  ],
+  "after": [
+   2,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 53,
+  "next_seen": "(80.000 « 6 I lf the first quartile of y pe. miene1s oe and the third jar =a 0G ~ se SG find the int a eo.",
+  "text_frame": "00476_BMR_p_1707.32.jpg",
+  "key_frame": "00478_BMR_a_1709.80.jpg",
+  "frames": [
+   "00476_BMR_p_1707.32.jpg",
+   "00477_BMR_p_1708.96.jpg",
+   "00478_BMR_a_1709.80.jpg",
+   "00479_BMR_a_1710.40.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-097",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1712,
+  "t1": 1713.36,
+  "q": "If the first quartile of workers wages is ¥30,000 and the third quartile is ¥90,000, find the interquartile range.",
+  "qconf": 93.7,
+  "options": [
+   "80,000",
+   "60,000",
+   "30,000"
+  ],
+  "key": "60,000",
+  "kconf": 56.5,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   2
+  ],
+  "after": [
+   4,
+   2
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 48,
+  "next_seen": "if \\ re SO -20,00 oO > 4 / =\"5 ‘ Y (ie s ve | “shee st? YO",
+  "text_frame": "00480_BML_p_1712.00.jpg",
+  "key_frame": "00481_BML_a_1712.64.jpg",
+  "frames": [
+   "00480_BML_p_1712.00.jpg",
+   "00481_BML_a_1712.64.jpg",
+   "00482_BML_a_1713.36.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-098",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1715.08,
+  "t1": 1716.92,
+  "q": "Exam: 6 MCQs, 10 choices each. How many possible answer sheets exist?",
+  "qconf": 83.6,
+  "options": [
+   "1,000,000",
+   "500,000",
+   "20,000"
+  ],
+  "key": "",
+  "kconf": 0,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   2
+  ],
+  "after": [
+   6,
+   2
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 45,
+  "next_seen": "> i 0 +32) 7 MIS ay JM pass r greater ab lf pie ig, wh (pass)? va",
+  "text_frame": "00483_BML_p_1715.08.jpg",
+  "key_frame": "",
+  "frames": [
+   "00483_BML_p_1715.08.jpg",
+   "00484_BML_a_1716.20.jpg",
+   "00485_BML_a_1716.92.jpg"
+  ],
+  "flags": [
+   "nokey"
+  ]
+ },
+ {
+  "id": "qf1-099",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1718.56,
+  "t1": 1720.48,
+  "q": "Test: 10 True/False Questions. To pass need greater or equal to 8 correct. If guessing, what is P(pass)?",
+  "qconf": 95.2,
+  "options": [
+   "7/64",
+   "7/128",
+   "2/432"
+  ],
+  "key": "7/128",
+  "kconf": 90.0,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   2
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 42,
+  "next_seen": ": \\ SN | Sf x Yo N\\ - Di; p =O 5 gee ey } Valu \\ , P ® ’ °",
+  "text_frame": "00486_BML_p_1718.56.jpg",
+  "key_frame": "00487_BML_a_1719.72.jpg",
+  "frames": [
+   "00486_BML_p_1718.56.jpg",
+   "00487_BML_a_1719.72.jpg",
+   "00488_BML_a_1720.48.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-100",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1722.12,
+  "t1": 1723.92,
+  "q": "Given a binomial(n = 10, p = 0.3). What is the expected value?",
+  "qconf": 94.7,
+  "options": [
+   "3.3",
+   "3",
+   "4"
+  ],
+  "key": "3",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   12,
+   2
+  ],
+  "delta": null,
+  "clock": 38,
+  "next_seen": ": \\ SN | Sf x Yo N\\ - Di; p =O 5 gee ey } Valu \\ , P ® ’ °",
+  "text_frame": "00489_BML_p_1722.12.jpg",
+  "key_frame": "00490_BML_a_1723.32.jpg",
+  "frames": [
+   "00489_BML_p_1722.12.jpg",
+   "00490_BML_a_1723.32.jpg",
+   "00491_BML_a_1723.92.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-101",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1725.48,
+  "t1": 1726.8,
+  "q": "How many outcomes are possible when two coins are tossed?",
+  "qconf": 95.8,
+  "options": [
+   "2",
+   "8",
+   "4"
+  ],
+  "key": "3",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   12,
+   2
+  ],
+  "after": [
+   12,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 35,
+  "next_seen": "f if y —s WS ; Le y UTES In urs",
+  "text_frame": "00492_BML_p_1725.48.jpg",
+  "key_frame": "00493_BML_a_1726.12.jpg",
+  "frames": [
+   "00492_BML_p_1725.48.jpg",
+   "00493_BML_a_1726.12.jpg",
+   "00494_BML_a_1726.80.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-102",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1728.4,
+  "t1": 1731.52,
+  "q": "Find the total number of minutes in 5 hours.",
+  "qconf": 96.0,
+  "options": null,
+  "key": "300 minutes",
+  "kconf": 72.7,
+  "player": "",
+  "school": "",
+  "before": [
+   12,
+   2
+  ],
+  "after": [
+   12,
+   4
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 32,
+  "next_seen": "(108 + 1,0 aa Zz The ber of ways (Ci Ko: 300 7 if 2 partic --- ‘ A >» :",
+  "text_frame": "00495_BMR_p_1728.40.jpg",
+  "key_frame": "00497_BMR_a_1730.88.jpg",
+  "frames": [
+   "00495_BMR_p_1728.40.jpg",
+   "00496_BMR_p_1730.00.jpg",
+   "00497_BMR_a_1730.88.jpg",
+   "00498_BMR_a_1731.52.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-103",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1733.12,
+  "t1": 1735.48,
+  "q": "The number of ways to arrange 8 books on a shelf if 2 particular books must always be together is",
+  "qconf": 96.0,
+  "options": [
+   "108",
+   "1,080",
+   "10,080"
+  ],
+  "key": ". 10,080",
+  "kconf": 58.0,
+  "player": "",
+  "school": "",
+  "before": [
+   12,
+   4
+  ],
+  "after": [
+   12,
+   4
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 28,
+  "next_seen": "re az ——— (6 ways +7 _— ia low many per@ ims OF = ™ . —",
+  "text_frame": "00499_BMR_p_1733.12.jpg",
+  "key_frame": "00500_BMR_a_1734.76.jpg",
+  "frames": [
+   "00499_BMR_p_1733.12.jpg",
+   "00500_BMR_a_1734.76.jpg",
+   "00501_BMR_a_1735.48.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-104",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1737.12,
+  "t1": 1738.52,
+  "q": "How many permutations of letters in the word CAT exist?",
+  "qconf": 95.7,
+  "options": [
+   "6 ways",
+   "7 ways",
+   "5 ways"
+  ],
+  "key": "6 ways",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   12,
+   4
+  ],
+  "after": [
+   14,
+   4
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 24,
+  "next_seen": "8 like > and 46 >y tea iffee?",
+  "text_frame": "00502_BML_p_1737.12.jpg",
+  "key_frame": "00503_BML_a_1737.80.jpg",
+  "frames": [
+   "00502_BML_p_1737.12.jpg",
+   "00503_BML_a_1737.80.jpg",
+   "00504_BML_a_1738.52.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-105",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1740.2,
+  "t1": 1743.72,
+  "q": "Out of 200 people: 90 like tea, 108 like coffee, and 46 like both. How many like neither tea nor coffee?",
+  "qconf": 95.8,
+  "options": [
+   "48",
+   "50",
+   "46"
+  ],
+  "key": "48",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   14,
+   4
+  ],
+  "after": [
+   16,
+   4
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 21,
+  "next_seen": "12, 14 oF ranpe",
+  "text_frame": "00505_BML_p_1740.20.jpg",
+  "key_frame": "00507_BML_a_1743.04.jpg",
+  "frames": [
+   "00505_BML_p_1740.20.jpg",
+   "00506_BML_p_1741.72.jpg",
+   "00507_BML_a_1743.04.jpg",
+   "00508_BML_a_1743.72.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-106",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1745.32,
+  "t1": 1747.16,
+  "q": "Given the dataset: 6, 8, 10, 12, 14, 16, 18, find the interquartile range",
+  "qconf": 96.0,
+  "options": [
+   "4",
+   "8",
+   "12"
+  ],
+  "key": "8",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   16,
+   4
+  ],
+  "after": [
+   19,
+   4
+  ],
+  "delta": [
+   3,
+   0
+  ],
+  "clock": 16,
+  "next_seen": "Y a }",
+  "text_frame": "00509_BML_p_1745.32.jpg",
+  "key_frame": "00510_BML_a_1746.52.jpg",
+  "frames": [
+   "00509_BML_p_1745.32.jpg",
+   "00510_BML_a_1746.52.jpg",
+   "00511_BML_a_1747.16.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-107",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1748.76,
+  "t1": 1751.68,
+  "q": "Calculate the percentage of 8 boys in a class of 20 students.",
+  "qconf": 95.3,
+  "options": [
+   "40%",
+   "20%",
+   "60%"
+  ],
+  "key": "40%",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   19,
+   4
+  ],
+  "after": [
+   22,
+   4
+  ],
+  "delta": [
+   3,
+   0
+  ],
+  "clock": 12,
+  "next_seen": "eo Mat is the ..abability Mu",
+  "text_frame": "00512_BML_p_1748.76.jpg",
+  "key_frame": "00514_BML_a_1751.04.jpg",
+  "frames": [
+   "00512_BML_p_1748.76.jpg",
+   "00513_BML_p_1750.40.jpg",
+   "00514_BML_a_1751.04.jpg",
+   "00515_BML_a_1751.68.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-108",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1753.24,
+  "t1": 1756.88,
+  "q": "An unbiased dice is thrown. What is the probability of getting 5 or a greater number?",
+  "qconf": 95.7,
+  "options": [
+   "1/5",
+   "1/6",
+   "1/3"
+  ],
+  "key": "1/3",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   22,
+   4
+  ],
+  "after": [
+   22,
+   4
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 8,
+  "next_seen": "Sf) es [ ‘ a » ; : > letters otn th j : r i ~ ’ =",
+  "text_frame": "00516_BML_p_1753.24.jpg",
+  "key_frame": "00518_BML_a_1756.20.jpg",
+  "frames": [
+   "00516_BML_p_1753.24.jpg",
+   "00517_BML_p_1755.04.jpg",
+   "00518_BML_a_1756.20.jpg",
+   "00519_BML_a_1756.88.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-109",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1758.4,
+  "t1": 1760.88,
+  "q": "How many distinct linear arrangements of the letters in MISSISSIPPI have | as both the first and the last letter?",
+  "qconf": 95.2,
+  "options": [
+   "2,468",
+   "3,780",
+   "1,050"
+  ],
+  "key": ". 3,780",
+  "kconf": 70.0,
+  "player": "",
+  "school": "",
+  "before": [
+   22,
+   4
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 3,
+  "next_seen": "(iOms ——— Calculate the c qin: sceaaanent f ‘ i a eel / a ‘ |",
+  "text_frame": "00520_BMR_p_1758.40.jpg",
+  "key_frame": "00522_BMR_a_1760.24.jpg",
+  "frames": [
+   "00520_BMR_p_1758.40.jpg",
+   "00521_BMR_p_1760.04.jpg",
+   "00522_BMR_a_1760.24.jpg",
+   "00523_BMR_a_1760.88.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-110",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1819.64,
+  "t1": 1822.8,
+  "q": "Calculate the dot product of vectors A = 3i+ 4j and B = 2i -j.",
+  "qconf": 89.6,
+  "options": [
+   "10",
+   "5",
+   "2"
+  ],
+  "key": "2",
+  "kconf": 73.0,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 90,
+  "next_seen": "(400-9 — | F(x)=150x is ‘orce to [ss eV done ching f =a \\,",
+  "text_frame": "00533_BMR_p_1819.64.jpg",
+  "key_frame": "00535_BMR_a_1822.08.jpg",
+  "frames": [
+   "00533_BMR_p_1819.64.jpg",
+   "00534_BMR_p_1821.28.jpg",
+   "00535_BMR_a_1822.08.jpg",
+   "00536_BMR_a_1822.80.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-111",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1824.44,
+  "t1": 1827.56,
+  "q": "=(x)=150x is the force to stretch a spring. Find the work done stretching from x = 2m tox =4m.",
+  "qconf": 74.4,
+  "options": [
+   "400",
+   "900",
+   "1,200"
+  ],
+  "key": ". 900",
+  "kconf": 57.0,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 86,
+  "next_seen": "4 ea (15L- oe SS A plant re ‘Ss a MUX . ~— lf 25L of acid ‘d, how EEE Fo ~X",
+  "text_frame": "00537_BMR_p_1824.44.jpg",
+  "key_frame": "00539_BMR_a_1826.92.jpg",
+  "frames": [
+   "00537_BMR_p_1824.44.jpg",
+   "00538_BMR_p_1826.04.jpg",
+   "00539_BMR_a_1826.92.jpg",
+   "00540_BMR_a_1827.56.jpg"
+  ],
+  "flags": [
+   "lowq",
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-112",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1829.2,
+  "t1": 1832.68,
+  "q": "A plant requires a mixing ratio of acid to water of 5:3. If 25L of acid is used, how many litres of water are needed?",
+  "qconf": 92.7,
+  "options": [
+   "15L",
+   "20L",
+   "25L"
+  ],
+  "key": "ISL",
+  "kconf": 50.0,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": null,
+  "clock": 81,
+  "next_seen": "(1,8' Wh-18 aN --—/ * An 800! renerato leney orb Hoy ch was ee PS > hour | . 74% EI",
+  "text_frame": "00541_BMR_p_1829.20.jpg",
+  "key_frame": "00544_BMR_a_1832.68.jpg",
+  "frames": [
+   "00541_BMR_p_1829.20.jpg",
+   "00542_BMR_p_1830.76.jpg",
+   "00543_BMR_a_1832.00.jpg",
+   "00544_BMR_a_1832.68.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-113",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1834.24,
+  "t1": 1839.68,
+  "q": "An 800MW generator has an efficiency of 30%. How much waste heat is produced in one hour of operation?",
+  "qconf": 92.0,
+  "options": [
+   "1,801 MWh",
+   "1,867 MWh",
+   "1,808 MWh"
+  ],
+  "key": "1,867 MWh",
+  "kconf": 77.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 76,
+  "next_seen": "| a Dicey steel 5200-6 [a For the functio gga AGC) <7 (71 ate p(s od Yh ea:",
+  "text_frame": "00545_BMR_p_1834.24.jpg",
+  "key_frame": "00548_BMR_a_1839.00.jpg",
+  "frames": [
+   "00545_BMR_p_1834.24.jpg",
+   "00546_BMR_p_1835.80.jpg",
+   "00547_BMR_p_1837.44.jpg",
+   "00548_BMR_a_1839.00.jpg",
+   "00549_BMR_a_1839.68.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-114",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1841.32,
+  "t1": 1847.8,
+  "q": "For the profit function P(x) = -x? + 200x - 100, calculate profit when x = 40",
+  "qconf": 93.0,
+  "options": [
+   "6,200",
+   "6,300",
+   "4,200"
+  ],
+  "key": "6300",
+  "kconf": 53.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 69,
+  "next_seen": "101 Jie : oe , yh — : t at X ii",
+  "text_frame": "00550_BML_p_1841.32.jpg",
+  "key_frame": "00554_BML_a_1847.16.jpg",
+  "frames": [
+   "00550_BML_p_1841.32.jpg",
+   "00551_BML_p_1842.92.jpg",
+   "00552_BML_p_1844.60.jpg",
+   "00553_BML_p_1846.12.jpg",
+   "00554_BML_a_1847.16.jpg",
+   "00555_BML_a_1847.80.jpg"
+  ],
+  "flags": [
+   "lowkey",
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-115",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1849.36,
+  "t1": 1855.84,
+  "q": "The profit function is P(x) = -x? + 50x - 100. What is the marginal profit at x = 20?",
+  "qconf": 95.3,
+  "options": [
+   "10",
+   "20",
+   "30"
+  ],
+  "key": "10",
+  "kconf": 77.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 62,
+  "next_seen": "1250 = et Form a tea 6 from Sa IGP Berea ase: (Sts How mai ums CO Kacuyos",
+  "text_frame": "00556_BMR_p_1849.36.jpg",
+  "key_frame": "00560_BMR_a_1855.16.jpg",
+  "frames": [
+   "00556_BMR_p_1849.36.jpg",
+   "00557_BMR_p_1850.88.jpg",
+   "00558_BMR_p_1852.52.jpg",
+   "00559_BMR_p_1854.16.jpg",
+   "00560_BMR_a_1855.16.jpg",
+   "00561_BMR_a_1855.84.jpg"
+  ],
+  "flags": [
+   "lowkey",
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-116",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1857.36,
+  "t1": 1863.36,
+  "q": "Form a team of 6 from 8 engineers and 10 analysts. How many teams contain exactly 4 engineers?",
+  "qconf": 92.8,
+  "options": [
+   "1,250",
+   "3,150",
+   "3,450"
+  ],
+  "key": "3,150",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 54,
+  "next_seen": "~ - 3i) — lex numbers - q = —_—_ ox",
+  "text_frame": "00562_BML_p_1857.36.jpg",
+  "key_frame": "00566_BML_a_1862.72.jpg",
+  "frames": [
+   "00562_BML_p_1857.36.jpg",
+   "00563_BML_p_1859.00.jpg",
+   "00564_BML_p_1860.60.jpg",
+   "00565_BML_p_1862.20.jpg",
+   "00566_BML_a_1862.72.jpg",
+   "00567_BML_a_1863.36.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-117",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1864.92,
+  "t1": 1869.84,
+  "q": "The product of the complex numbers (2+ 3i)and(1-ijis_",
+  "qconf": 63.6,
+  "options": [
+   "-1+ 4i",
+   "5 +i",
+   "2 - 3i"
+  ],
+  "key": "oti",
+  "kconf": 33.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 47,
+  "next_seen": "(9x44. —s What is the equation oO “Mine eemaanace (h ) oe — ™~N — —",
+  "text_frame": "00568_BMR_p_1864.92.jpg",
+  "key_frame": "00571_BMR_a_1869.12.jpg",
+  "frames": [
+   "00568_BMR_p_1864.92.jpg",
+   "00569_BMR_p_1866.52.jpg",
+   "00570_BMR_p_1868.16.jpg",
+   "00571_BMR_a_1869.12.jpg",
+   "00572_BMR_a_1869.84.jpg"
+  ],
+  "flags": [
+   "lowq",
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-118",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1871.4,
+  "t1": 1877.56,
+  "q": "What is the equation of line through (0,4) slope —2?",
+  "qconf": 88.6,
+  "options": [
+   "-2x+4",
+   "-2x+2",
+   "-2x + 6"
+  ],
+  "key": "-2x +4",
+  "kconf": 88.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 40,
+  "next_seen": "” ~ N at wi me) of the function 7 \\ ' . nt Ol tiie TUPI Lior) \\ a - — 1 to x = 4 is - Sn —- a 6",
+  "text_frame": "00573_BML_p_1871.40.jpg",
+  "key_frame": "00577_BML_a_1876.88.jpg",
+  "frames": [
+   "00573_BML_p_1871.40.jpg",
+   "00574_BML_p_1872.96.jpg",
+   "00575_BML_p_1874.56.jpg",
+   "00576_BML_p_1876.12.jpg",
+   "00577_BML_a_1876.88.jpg",
+   "00578_BML_a_1877.56.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-119",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1879.12,
+  "t1": 1885.2,
+  "q": "The average rate of change of the function f(x) = 3x? -x +7 from x =1tox=4 is",
+  "qconf": 91.4,
+  "options": [
+   "14",
+   "25",
+   "29"
+  ],
+  "key": ". 14",
+  "kconf": 53.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 33,
+  "next_seen": "eo (2xc « cOS(x?4 A Meas | i Different NR tte 8 ae , 74 -",
+  "text_frame": "00579_BMR_p_1879.12.jpg",
+  "key_frame": "00583_BMR_a_1884.60.jpg",
+  "frames": [
+   "00579_BMR_p_1879.12.jpg",
+   "00580_BMR_p_1880.68.jpg",
+   "00581_BMR_p_1882.24.jpg",
+   "00582_BMR_p_1883.88.jpg",
+   "00583_BMR_a_1884.60.jpg",
+   "00584_BMR_a_1885.20.jpg"
+  ],
+  "flags": [
+   "lowkey",
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-120",
+  "half": "BM",
+  "side": "BML",
+  "t0": 1886.84,
+  "t1": 1893.84,
+  "q": "Differentiate f(x) = sin(x? + 3x) with respect to x",
+  "qconf": 90.4,
+  "options": [
+   "2xcos3x",
+   "cos(x?+3x",
+   "2x+3)cos(x?+3x"
+  ],
+  "key": "(2x+3)cos(x?+3x)",
+  "kconf": 29.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 25,
+  "next_seen": "f ° = a) Ina Pur heterozygous a henotypic ratio Ze rt ——— — —— f+",
+  "text_frame": "00585_BML_p_1886.84.jpg",
+  "key_frame": "00589_BML_a_1893.20.jpg",
+  "frames": [
+   "00585_BML_p_1886.84.jpg",
+   "00586_BML_p_1888.40.jpg",
+   "00587_BML_p_1890.16.jpg",
+   "00588_BML_p_1891.68.jpg",
+   "00589_BML_a_1893.20.jpg",
+   "00590_BML_a_1893.84.jpg"
+  ],
+  "flags": [
+   "lowkey",
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-121",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1895.36,
+  "t1": 1899.92,
+  "q": "In a Punnett square for two heterozygous parents (Aa « Aa), what is the phenotypic ratio?",
+  "qconf": 85.8,
+  "options": [
+   "9:3:3:1",
+   "22:1",
+   "3:1"
+  ],
+  "key": "3",
+  "kconf": 29.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   4
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 17,
+  "next_seen": "\\ ; i | (50- == = = What | nag) il see — oftwoperp: =. cular vq 2",
+  "text_frame": "00591_BMR_p_1895.36.jpg",
+  "key_frame": "00594_BMR_a_1899.16.jpg",
+  "frames": [
+   "00591_BMR_p_1895.36.jpg",
+   "00592_BMR_p_1896.92.jpg",
+   "00593_BMR_p_1898.56.jpg",
+   "00594_BMR_a_1899.16.jpg",
+   "00595_BMR_a_1899.92.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-122",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1901.44,
+  "t1": 1905,
+  "q": "What is the magnitude of the cross product of two perpendicular vectors, each of magnitude 5?",
+  "qconf": 96.0,
+  "options": [
+   "50",
+   "100",
+   "25"
+  ],
+  "key": "25",
+  "kconf": 58.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   4
+  ],
+  "after": [
+   0,
+   6
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 11,
+  "next_seen": "fo = (8° 0+ SB ae ee Acardep atesby i? i Valu 0 ==> =. ‘| ue a .",
+  "text_frame": "00596_BMR_p_1901.44.jpg",
+  "key_frame": "00598_BMR_a_1904.32.jpg",
+  "frames": [
+   "00596_BMR_p_1901.44.jpg",
+   "00597_BMR_p_1903.08.jpg",
+   "00598_BMR_a_1904.32.jpg",
+   "00599_BMR_a_1905.00.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-123",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 1906.56,
+  "t1": 1912.96,
+  "q": "A car depreciates by 10% each year. If its initial value is 81,000,000, what will be its value after 2 years?",
+  "qconf": 60.9,
+  "options": [
+   "810,000",
+   "820,000",
+   "900,000"
+  ],
+  "key": "810,000",
+  "kconf": 9.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   6
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 6,
+  "next_seen": "(Au srandmo jaw) { AisE n.CisA ASE - Sa ares” — | ow is C i",
+  "text_frame": "00600_BMR_p_1906.56.jpg",
+  "key_frame": "00604_BMR_a_1912.24.jpg",
+  "frames": [
+   "00600_BMR_p_1906.56.jpg",
+   "00601_BMR_p_1908.28.jpg",
+   "00602_BMR_p_1909.88.jpg",
+   "00603_BMR_p_1911.76.jpg",
+   "00604_BMR_a_1912.24.jpg",
+   "00605_BMR_a_1912.96.jpg"
+  ],
+  "flags": [
+   "lowq",
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-124",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2117.52,
+  "t1": 2123.28,
+  "q": "A is B's son. C is A's wife. D is C's mother. How is D related to B?",
+  "qconf": 93.8,
+  "options": [
+   "Aunt",
+   "Grandmother",
+   "Mother-in-law"
+  ],
+  "key": "Mother-in-law",
+  "kconf": 60.0,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 90,
+  "next_seen": "(Dc i _ Paw ist t j an |",
+  "text_frame": "00615_BMR_p_2117.52.jpg",
+  "key_frame": "00619_BMR_a_2122.56.jpg",
+  "frames": [
+   "00615_BMR_p_2117.52.jpg",
+   "00616_BMR_p_2119.08.jpg",
+   "00617_BMR_p_2120.60.jpg",
+   "00618_BMR_p_2122.24.jpg",
+   "00619_BMR_a_2122.56.jpg",
+   "00620_BMR_a_2123.28.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-125",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2124.92,
+  "t1": 2126.48,
+  "q": "Paw is to Cat as hoof is to",
+  "qconf": 95.4,
+  "options": [
+   "Dog",
+   "Horse",
+   "Rabbit"
+  ],
+  "key": "Horse",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": null,
+  "clock": 83,
+  "next_seen": ": 7 ; a 7S (Historian + S t AD —_ a \"Stratigr to\"Geoloo a |  @ohyits tor <. |",
+  "text_frame": "00621_BMR_p_2124.92.jpg",
+  "key_frame": "00622_BMR_a_2125.80.jpg",
+  "frames": [
+   "00621_BMR_p_2124.92.jpg",
+   "00622_BMR_a_2125.80.jpg",
+   "00623_BMR_a_2126.48.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-126",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2128.08,
+  "t1": 2131.2,
+  "q": "\"Stratigraphy\" is to \"Geologist\" as \"Ethnography\" is to:",
+  "qconf": 93.5,
+  "options": [
+   "Historian",
+   "Sociologist",
+   "Anthropologist"
+  ],
+  "key": "Anthropologist",
+  "kconf": 69.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   4
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 80,
+  "next_seen": "(Zc . a i _ Five apps ranked: Z above Tears bit met rei Slack at M +e",
+  "text_frame": "00624_BMR_p_2128.08.jpg",
+  "key_frame": "00626_BMR_a_2130.56.jpg",
+  "frames": [
+   "00624_BMR_p_2128.08.jpg",
+   "00625_BMR_p_2129.64.jpg",
+   "00626_BMR_a_2130.56.jpg",
+   "00627_BMR_a_2131.20.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-127",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2132.88,
+  "t1": 2136.84,
+  "q": "Five apps ranked: Zoom above Teams but below Meet. Slack above Meet. Highest ranked?",
+  "qconf": 95.7,
+  "options": [
+   "Zoom",
+   "Meet",
+   "Slack"
+  ],
+  "key": "Slack",
+  "kconf": 79.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   4
+  ],
+  "after": [
+   0,
+   7
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 76,
+  "next_seen": "£ y, ta ws \\ —— (Fleeting - . 1 —= Which word i: 1OQOnE out & = Transie el eMi. Pie! 4",
+  "text_frame": "00628_BMR_p_2132.88.jpg",
+  "key_frame": "00630_BMR_a_2136.08.jpg",
+  "frames": [
+   "00628_BMR_p_2132.88.jpg",
+   "00629_BMR_p_2134.52.jpg",
+   "00630_BMR_a_2136.08.jpg",
+   "00631_BMR_a_2136.84.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-128",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2138.48,
+  "t1": 2141.2,
+  "q": "Which word is the odd one out: Ephemeral, Transient, Permanent, Fleeting?",
+  "qconf": 95.2,
+  "options": [
+   "Fleeting",
+   "Ephemeral",
+   "Permanent"
+  ],
+  "key": "Permanent",
+  "kconf": 71.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   7
+  ],
+  "after": [
+   0,
+   10
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 70,
+  "next_seen": "(Sister : : A and B are brot! : Blow iff . .°",
+  "text_frame": "00632_BMR_p_2138.48.jpg",
+  "key_frame": "00634_BMR_a_2140.52.jpg",
+  "frames": [
+   "00632_BMR_p_2138.48.jpg",
+   "00633_BMR_p_2140.00.jpg",
+   "00634_BMR_a_2140.52.jpg",
+   "00635_BMR_a_2141.20.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-129",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2142.76,
+  "t1": 2146.08,
+  "q": "A and B are brothers. C is A's father. D is C's sister. How is D related to B?",
+  "qconf": 94.8,
+  "options": [
+   "Sister",
+   "Grandmother",
+   "Aunt"
+  ],
+  "key": "Aunt",
+  "kconf": 70.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   10
+  ],
+  "after": [
+   0,
+   13
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 66,
+  "next_seen": "(Nept ike: x Which word do _belonaseste: ful a ;",
+  "text_frame": "00636_BMR_p_2142.76.jpg",
+  "key_frame": "00638_BMR_a_2145.44.jpg",
+  "frames": [
+   "00636_BMR_p_2142.76.jpg",
+   "00637_BMR_p_2144.28.jpg",
+   "00638_BMR_a_2145.44.jpg",
+   "00639_BMR_a_2146.08.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-130",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2147.72,
+  "t1": 2150,
+  "q": "Which word does not belong: Jupiter, Neptune, Saturn, Titan?",
+  "qconf": 95.9,
+  "options": [
+   "Neptune",
+   "Titan",
+   "Saturn"
+  ],
+  "key": "Titan",
+  "kconf": 74.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   13
+  ],
+  "after": [
+   0,
+   17
+  ],
+  "delta": [
+   0,
+   4
+  ],
+  "clock": 61,
+  "next_seen": "a ia tee 4 ——— (Team In a tournament Vastint forstaam a but after Team ( | Doinicher-b afore Ted! ' but atte ing",
+  "text_frame": "00640_BMR_p_2147.72.jpg",
+  "key_frame": "00641_BMR_a_2149.28.jpg",
+  "frames": [
+   "00640_BMR_p_2147.72.jpg",
+   "00641_BMR_a_2149.28.jpg",
+   "00642_BMR_a_2150.00.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-131",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2151.64,
+  "t1": 2157.4,
+  "q": "In a tournament, Team A finished before Team B but after Team C. Team D finished before Team E but after Team B. Who finished first?",
+  "qconf": 92.8,
+  "options": [
+   "Team A",
+   "Team C",
+   "Team D"
+  ],
+  "key": "Team C",
+  "kconf": 75.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   17
+  ],
+  "after": [
+   0,
+   21
+  ],
+  "delta": [
+   0,
+   4
+  ],
+  "clock": 58,
+  "next_seen": "{uncle i¢ = = Henry is Olivias « j 7 S$ Ouyia | How | ‘i e “a ‘ a",
+  "text_frame": "00643_BMR_p_2151.64.jpg",
+  "key_frame": "00647_BMR_a_2156.68.jpg",
+  "frames": [
+   "00643_BMR_p_2151.64.jpg",
+   "00644_BMR_p_2153.16.jpg",
+   "00645_BMR_p_2154.80.jpg",
+   "00646_BMR_p_2156.44.jpg",
+   "00647_BMR_a_2156.68.jpg",
+   "00648_BMR_a_2157.40.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-132",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2159,
+  "t1": 2163.36,
+  "q": "Henry is Olivias grandfather. Olivia is Lucy's sister. How is Henry related to Lucy?",
+  "qconf": 94.8,
+  "options": [
+   "uncle",
+   "father",
+   "grandfather"
+  ],
+  "key": ". grandfather",
+  "kconf": 72.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   21
+  ],
+  "after": [
+   0,
+   25
+  ],
+  "delta": [
+   0,
+   4
+  ],
+  "clock": 51,
+  "next_seen": "(brother + @ . : Uy is johns s;\\q nn. aor How is Petet ary as",
+  "text_frame": "00649_BMR_p_2159.00.jpg",
+  "key_frame": "00652_BMR_a_2162.64.jpg",
+  "frames": [
+   "00649_BMR_p_2159.00.jpg",
+   "00650_BMR_p_2160.60.jpg",
+   "00651_BMR_p_2162.20.jpg",
+   "00652_BMR_a_2162.64.jpg",
+   "00653_BMR_a_2163.36.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-133",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2164.96,
+  "t1": 2170.84,
+  "q": "Mary is Johns sister. Peter is Johns father. How is Peter related to Mary?",
+  "qconf": 95.4,
+  "options": [
+   "brother",
+   "uncle",
+   "father"
+  ],
+  "key": "father",
+  "kconf": 73.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   25
+  ],
+  "after": [
+   0,
+   29
+  ],
+  "delta": [
+   0,
+   4
+  ],
+  "clock": 45,
+  "next_seen": "tion + Virtual cereciii=| Git ersion Con —?——___€ j a",
+  "text_frame": "00654_BMR_p_2164.96.jpg",
+  "key_frame": "00657_BMR_p_2169.96.jpg",
+  "frames": [
+   "00654_BMR_p_2164.96.jpg",
+   "00655_BMR_p_2166.60.jpg",
+   "00656_BMR_p_2168.28.jpg",
+   "00657_BMR_p_2169.96.jpg",
+   "00658_BMR_a_2170.12.jpg",
+   "00659_BMR_a_2170.84.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-134",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2172.36,
+  "t1": 2174.68,
+  "q": "Git is to Version Control as Docker is to",
+  "qconf": 94.7,
+  "options": [
+   "Automation",
+   "Virtualization",
+   "Containerization"
+  ],
+  "key": ". Containerization",
+  "kconf": 63.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   29
+  ],
+  "after": [
+   0,
+   34
+  ],
+  "delta": [
+   0,
+   5
+  ],
+  "clock": 38,
+  "next_seen": "4 (West « I Sy ICI ist, Turn 270 @NUCIDER Wt: ! S i clockwise q s",
+  "text_frame": "00660_BMR_p_2172.36.jpg",
+  "key_frame": "00661_BMR_a_2173.92.jpg",
+  "frames": [
+   "00660_BMR_p_2172.36.jpg",
+   "00661_BMR_a_2173.92.jpg",
+   "00662_BMR_a_2174.68.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-135",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2176.24,
+  "t1": 2179.92,
+  "q": "Facing East, turn 270° anticlockwise, then 90° clockwise. Final direction is",
+  "qconf": 95.9,
+  "options": [
+   "West",
+   "North",
+   "South"
+  ],
+  "key": ". West",
+  "kconf": 57.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   34
+  ],
+  "after": [
+   0,
+   34
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 34,
+  "next_seen": "\\ ra ——_-—- Ss oN ; \\ 7 / Historian + Sociol | pie <a Straugraphy’ |s to 'GeolEa-saes - TIN e",
+  "text_frame": "00663_BMR_p_2176.24.jpg",
+  "key_frame": "00665_BMR_a_2179.28.jpg",
+  "frames": [
+   "00663_BMR_p_2176.24.jpg",
+   "00664_BMR_p_2177.80.jpg",
+   "00665_BMR_a_2179.28.jpg",
+   "00666_BMR_a_2179.92.jpg"
+  ],
+  "flags": [
+   "lowkey",
+   "math"
+  ]
+ },
+ {
+  "id": "qf1-136",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2181.56,
+  "t1": 2183.88,
+  "q": "\"Stratigraphy\" is to ''Geologist' as Ethnography’ is to:",
+  "qconf": 91.2,
+  "options": [
+   "Historian",
+   "Sociologist",
+   "Anthropologist"
+  ],
+  "key": "Anthropologist",
+  "kconf": 70.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   34
+  ],
+  "after": [
+   0,
+   34
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 29,
+  "next_seen": "(Sister - Da — = — “is the father of iS. How is C AE. ‘\\ w i Ne \\ : : Sy a ol",
+  "text_frame": "00667_BMR_p_2181.56.jpg",
+  "key_frame": "00668_BMR_a_2183.16.jpg",
+  "frames": [
+   "00667_BMR_p_2181.56.jpg",
+   "00668_BMR_a_2183.16.jpg",
+   "00669_BMR_a_2183.88.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-137",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2185.48,
+  "t1": 2189.88,
+  "q": "A is the father of B. C is the sister of B. How is C related to A?",
+  "qconf": 95.2,
+  "options": [
+   "Sister",
+   "Daughter",
+   "Cousin"
+  ],
+  "key": "Daughter",
+  "kconf": 66.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   34
+  ],
+  "after": [
+   0,
+   34
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 25,
+  "next_seen": "f _ € — mother) os s the brother of O ~  —————— . = —-- G. re. O ) , ‘ 9 — ——————— fs",
+  "text_frame": "00670_BML_p_2185.48.jpg",
+  "key_frame": "00673_BML_a_2189.24.jpg",
+  "frames": [
+   "00670_BML_p_2185.48.jpg",
+   "00671_BML_p_2187.08.jpg",
+   "00672_BML_p_2188.72.jpg",
+   "00673_BML_a_2189.24.jpg",
+   "00674_BML_a_2189.88.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-138",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2191.48,
+  "t1": 2193.6,
+  "q": "If M is the mother of N and N is the brother of 0, how is M related to O?",
+  "qconf": 94.6,
+  "options": [
+   "Aunt",
+   "Mother",
+   "Grandmother"
+  ],
+  "key": "Mother",
+  "kconf": 61.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   34
+  ],
+  "after": [
+   0,
+   36
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 20,
+  "next_seen": "(A debt-A jer —— Tha mars P : 2 . _ 2 ya Ta = ae = ie more you take ; : e | becom i ; ‘ x . Sf -",
+  "text_frame": "00675_BMR_p_2191.48.jpg",
+  "key_frame": "00676_BMR_a_2192.80.jpg",
+  "frames": [
+   "00675_BMR_p_2191.48.jpg",
+   "00676_BMR_a_2192.80.jpg",
+   "00677_BMR_a_2193.60.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-139",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2195.16,
+  "t1": 2196.8,
+  "q": "The more you take away from me, the larger | become. What am |?",
+  "qconf": 95.2,
+  "options": [
+   "A debt",
+   "A hole",
+   "Space"
+  ],
+  "key": "Ahole",
+  "kconf": 37.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   36
+  ],
+  "after": [
+   0,
+   38
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 16,
+  "next_seen": "— _ ZL az in (Stream - . _———— HILL is to MOU NE as —SBEt —— . .",
+  "text_frame": "00678_BMR_p_2195.16.jpg",
+  "key_frame": "00679_BMR_a_2196.08.jpg",
+  "frames": [
+   "00678_BMR_p_2195.16.jpg",
+   "00679_BMR_a_2196.08.jpg",
+   "00680_BMR_a_2196.80.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-140",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2198.4,
+  "t1": 2200.64,
+  "q": "HILL is to MOUNTAIN as CREEK is to",
+  "qconf": 95.5,
+  "options": [
+   "Stream",
+   "Ocean",
+   "River"
+  ],
+  "key": "River",
+  "kconf": 87.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   38
+  ],
+  "after": [
+   0,
+   41
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 13,
+  "next_seen": "I ee Ve a (A carrot Aa $$ . : ./ x < Vhat has (00 {aaeeantaanaesesstt tI een",
+  "text_frame": "00681_BMR_p_2198.40.jpg",
+  "key_frame": "00682_BMR_a_2200.00.jpg",
+  "frames": [
+   "00681_BMR_p_2198.40.jpg",
+   "00682_BMR_a_2200.00.jpg",
+   "00683_BMR_a_2200.64.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-141",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2202.2,
+  "t1": 2204.4,
+  "q": "What has roots but never grows?",
+  "qconf": 93.9,
+  "options": [
+   "A carrot",
+   "A word",
+   "A plant"
+  ],
+  "key": "Aword",
+  "kconf": 37.5,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   41
+  ],
+  "after": [
+   0,
+   44
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 9,
+  "next_seen": "(Ecology - Entorgg@ ————=— /Vhatis the study Of GaSe pattie ‘ - 2",
+  "text_frame": "00684_BMR_p_2202.20.jpg",
+  "key_frame": "00685_BMR_a_2203.56.jpg",
+  "frames": [
+   "00684_BMR_p_2202.20.jpg",
+   "00685_BMR_a_2203.56.jpg",
+   "00686_BMR_a_2204.40.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-142",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2205.96,
+  "t1": 2207.32,
+  "q": "What is the study of the origin of words called?",
+  "qconf": 96.0,
+  "options": [
+   "Ecology",
+   "Entomology",
+   "Etymology"
+  ],
+  "key": "Etymology",
+  "kconf": 38.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   44
+  ],
+  "after": [
+   0,
+   47
+  ],
+  "delta": [
+   0,
+   3
+  ],
+  "clock": 6,
+  "next_seen": "(M a \\Vhat COM CS jj_Eaamtaiataetaeamtial ali | ~ ——..",
+  "text_frame": "00687_BMR_p_2205.96.jpg",
+  "key_frame": "00688_BMR_a_2206.64.jpg",
+  "frames": [
+   "00687_BMR_p_2205.96.jpg",
+   "00688_BMR_a_2206.64.jpg",
+   "00689_BMR_a_2207.32.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-143",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2208.96,
+  "t1": 2211.84,
+  "q": "What comes next: B, E, H, Kx, ?",
+  "qconf": 89.9,
+  "options": [
+   "M",
+   "N",
+   "O"
+  ],
+  "key": "ON",
+  "kconf": 72.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   47
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 3,
+  "next_seen": "(M == Wises | “ gz =",
+  "text_frame": "00690_BMR_p_2208.96.jpg",
+  "key_frame": "00692_BMR_a_2211.16.jpg",
+  "frames": [
+   "00690_BMR_p_2208.96.jpg",
+   "00691_BMR_p_2210.60.jpg",
+   "00692_BMR_a_2211.16.jpg",
+   "00693_BMR_a_2211.84.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-144",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2410.6,
+  "t1": 2412.4,
+  "q": "The movie Anikulapo (2022) was directed by ___",
+  "qconf": 92.4,
+  "options": null,
+  "key": "Kunte Afolayan",
+  "kconf": 86.0,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 89,
+  "next_seen": "(So Of ————— What voic C'S Sens x — | kings | ; :",
+  "text_frame": "00729_BMR_p_2410.60.jpg",
+  "key_frame": "00730_BMR_p_2412.20.jpg",
+  "frames": [
+   "00729_BMR_p_2410.60.jpg",
+   "00730_BMR_p_2412.20.jpg",
+   "00731_BMR_a_2412.40.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-145",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2413.96,
+  "t1": 2416.8,
+  "q": "What voice type is often use to cast the role of kings and warriors?",
+  "qconf": 96.0,
+  "options": [
+   "Soprano",
+   "Baritone",
+   "Bass"
+  ],
+  "key": "Baritone",
+  "kconf": 77.5,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 85,
+  "next_seen": "(So Of ————— What voic C'S Sens x — | kings | ; :",
+  "text_frame": "00732_BMR_p_2413.96.jpg",
+  "key_frame": "00734_BMR_a_2416.80.jpg",
+  "frames": [
+   "00732_BMR_p_2413.96.jpg",
+   "00733_BMR_p_2415.56.jpg",
+   "00734_BMR_a_2416.80.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-146",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2418.44,
+  "t1": 2420.08,
+  "q": "Which sign is associated with the harvest maiden and ruled by Mercury?",
+  "qconf": 96.0,
+  "options": [
+   "Taurus",
+   "Libra",
+   "Virgo"
+  ],
+  "key": "Virgo",
+  "kconf": 85.5,
+  "player": "",
+  "school": "",
+  "before": [
+   null,
+   null
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": null,
+  "clock": 81,
+  "next_seen": ": A —— M — | i+ Kf ras = da 4 == Lake Retba wn fq Zits =e ch) ___ =i ; / \\ 7 -",
+  "text_frame": "00735_BMR_p_2418.44.jpg",
+  "key_frame": "00736_BMR_a_2420.08.jpg",
+  "frames": [
+   "00735_BMR_p_2418.44.jpg",
+   "00736_BMR_a_2420.08.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-147",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2421.6,
+  "t1": 2424.6,
+  "q": "Lake Retba, known for its pink water, is located in which African country?",
+  "qconf": 94.8,
+  "options": [
+   "Malawi",
+   "Kenya",
+   "Senegal"
+  ],
+  "key": ". Senegal",
+  "kconf": 74.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   0,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 78,
+  "next_seen": "(Sotegiass - Py —— «The type of gla hich {1=SxRAnMsION. borosilicat > Ga EAS sscware i ~~ J —— = — - BS . and kite & | \\ : >",
+  "text_frame": "00737_BMR_p_2421.60.jpg",
+  "key_frame": "00739_BMR_a_2424.60.jpg",
+  "frames": [
+   "00737_BMR_p_2421.60.jpg",
+   "00738_BMR_p_2423.24.jpg",
+   "00739_BMR_a_2424.60.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-148",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2426.2,
+  "t1": 2427.72,
+  "q": "The type of glass, which is a low-thermal-expansion borosilicate glass used for laboratory glassware and kitchenware, is",
+  "qconf": 95.6,
+  "options": [
+   "Soft glass",
+   "Pyrex glass",
+   "Flint glass"
+  ],
+  "key": "Pyrex glass",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   0,
+   2
+  ],
+  "after": [
+   2,
+   2
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 73,
+  "next_seen": "Jf < —+ -artes) = neg calculus ae. : m fn",
+  "text_frame": "00740_BML_p_2426.20.jpg",
+  "key_frame": "00741_BML_a_2427.72.jpg",
+  "frames": [
+   "00740_BML_p_2426.20.jpg",
+   "00741_BML_a_2427.72.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-149",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2429.36,
+  "t1": 2431.04,
+  "q": "Who is credited with inventing calculus alongside Isaac Newton?",
+  "qconf": 95.7,
+  "options": [
+   "Euler",
+   "Leibniz",
+   "Descartes"
+  ],
+  "key": "Leibniz",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   2
+  ],
+  "after": [
+   2,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 70,
+  "next_seen": "Vi -artes) ne calculus",
+  "text_frame": "00742_BML_p_2429.36.jpg",
+  "key_frame": "00743_BML_a_2431.04.jpg",
+  "frames": [
+   "00742_BML_p_2429.36.jpg",
+   "00743_BML_a_2431.04.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-150",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2432.6,
+  "t1": 2434.44,
+  "q": "Which natural resource is mostly found in the Katanga region of DR Congo?",
+  "qconf": 95.8,
+  "options": [
+   "Cobalt",
+   "Uranium",
+   "Coal"
+  ],
+  "key": ". Cobalt",
+  "kconf": 68.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   2
+  ],
+  "after": [
+   2,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 67,
+  "next_seen": "Who is the nt p ee 2) Ot as o",
+  "text_frame": "00744_BMR_p_2432.60.jpg",
+  "key_frame": "00746_BMR_a_2434.44.jpg",
+  "frames": [
+   "00744_BMR_p_2432.60.jpg",
+   "00745_BMR_p_2434.12.jpg",
+   "00746_BMR_a_2434.44.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-151",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2436,
+  "t1": 2438.76,
+  "q": "Who is the current president of Egypt (2025)?",
+  "qconf": 95.4,
+  "options": null,
+  "key": "Abdel Fattah el-Sisi",
+  "kconf": 91.7,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   2
+  ],
+  "after": [
+   2,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 64,
+  "next_seen": "1750-1780) ne and tem",
+  "text_frame": "00747_BML_p_2436.00.jpg",
+  "key_frame": "00749_BML_a_2438.76.jpg",
+  "frames": [
+   "00747_BML_p_2436.00.jpg",
+   "00748_BML_p_2437.56.jpg",
+   "00749_BML_a_2438.76.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-152",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2440.28,
+  "t1": 2444.44,
+  "q": "During which years did the whole tone and tempo of African-European contact change?",
+  "qconf": 95.6,
+  "options": [
+   "1910-1920",
+   "1880-1900",
+   "1750-1780"
+  ],
+  "key": ". 1880-1900",
+  "kconf": 72.5,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   2
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 59,
+  "next_seen": "“ J ——— / (G! ad N aNk — — The Africa er-s¢ coo : a Tom",
+  "text_frame": "00750_BMR_p_2440.28.jpg",
+  "key_frame": "00753_BMR_a_2444.44.jpg",
+  "frames": [
+   "00750_BMR_p_2440.28.jpg",
+   "00751_BMR_p_2441.96.jpg",
+   "00752_BMR_p_2443.56.jpg",
+   "00753_BMR_a_2444.44.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-153",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2446.64,
+  "t1": 2448.04,
+  "q": "The African singer-songwriter \"King Promise\" is from which country?",
+  "qconf": 92.8,
+  "options": [
+   "Ghana",
+   "Nigeria",
+   "Kenya"
+  ],
+  "key": "Ghana",
+  "kconf": 95.0,
+  "player": "",
+  "school": "",
+  "before": [
+   2,
+   2
+  ],
+  "after": [
+   4,
+   2
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 53,
+  "next_seen": "te tarot a! e if Icey} —— : : ; * a : - - —i : a © ° oN",
+  "text_frame": "00755_BML_p_2446.64.jpg",
+  "key_frame": "00756_BML_a_2448.04.jpg",
+  "frames": [
+   "00755_BML_p_2446.64.jpg",
+   "00756_BML_a_2448.04.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-154",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2449.68,
+  "t1": 2452.36,
+  "q": "Which water sign is symbolized by the crab claws?",
+  "qconf": 95.9,
+  "options": [
+   "Aquarius",
+   "Scorpio",
+   "Cancer"
+  ],
+  "key": "Cancer",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   2
+  ],
+  "after": [
+   4,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 50,
+  "next_seen": "\"fe F Indians) Ie a edited with",
+  "text_frame": "00757_BML_p_2449.68.jpg",
+  "key_frame": "00759_BML_a_2452.36.jpg",
+  "frames": [
+   "00757_BML_p_2449.68.jpg",
+   "00758_BML_p_2451.32.jpg",
+   "00759_BML_a_2452.36.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-155",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2453.88,
+  "t1": 2457.76,
+  "q": "What ancient civilization is credited with introducing the concept of zero?",
+  "qconf": 96.0,
+  "options": [
+   "Romans",
+   "Egyptians",
+   "Indians"
+  ],
+  "key": "Indians",
+  "kconf": 79.0,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   2
+  ],
+  "after": [
+   4,
+   2
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 46,
+  "next_seen": "(Tachomet stro isco eC An instrument ton sci 2ONMIE | ippear movi < ®",
+  "text_frame": "00760_BMR_p_2453.88.jpg",
+  "key_frame": "00763_BMR_a_2457.76.jpg",
+  "frames": [
+   "00760_BMR_p_2453.88.jpg",
+   "00761_BMR_p_2455.44.jpg",
+   "00762_BMR_p_2457.04.jpg",
+   "00763_BMR_a_2457.76.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-156",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2459.36,
+  "t1": 2462.44,
+  "q": "An instrument used to make cyclically moving objects appear slow-moving or stationary is",
+  "qconf": 94.9,
+  "options": [
+   "Tachometer",
+   "Stroboscope",
+   "Oscilloscope"
+  ],
+  "key": "Stroboscope",
+  "kconf": 90.0,
+  "player": "",
+  "school": "",
+  "before": [
+   4,
+   2
+  ],
+  "after": [
+   6,
+   2
+  ],
+  "delta": [
+   2,
+   0
+  ],
+  "clock": 4,
+  "next_seen": "N Te _, ~~ ory = Trigonor a » J™ iY . V7 “ o e ll -",
+  "text_frame": "00764_BML_p_2459.36.jpg",
+  "key_frame": "00766_BML_a_2462.44.jpg",
+  "frames": [
+   "00764_BML_p_2459.36.jpg",
+   "00765_BML_p_2461.00.jpg",
+   "00766_BML_a_2462.44.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-157",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2464.04,
+  "t1": 2465.72,
+  "q": "Emmy Noether is best known for her contributions to",
+  "qconf": 85.7,
+  "options": [
+   "Abstract algebra",
+   "Probability theory",
+   "Trigonometry"
+  ],
+  "key": "Abstract algebra",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   2
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 36,
+  "next_seen": "J fo A — Pi 4 slides) —_, i — , OS x Hf bota",
+  "text_frame": "00767_BML_p_2464.04.jpg",
+  "key_frame": "00769_BML_a_2465.72.jpg",
+  "frames": [
+   "00767_BML_p_2464.04.jpg",
+   "00768_BML_p_2465.56.jpg",
+   "00769_BML_a_2465.72.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-158",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2468.08,
+  "t1": 2469.32,
+  "q": "The Coarse adjustment knob of a microscope is used for",
+  "qconf": 95.8,
+  "options": [
+   "Rough focusing",
+   "Light control",
+   "Holding slides"
+  ],
+  "key": "Rough focusing",
+  "kconf": 77.3,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   2
+  ],
+  "after": [
+   6,
+   4
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 32,
+  "next_seen": "j \\ 4 ? (loao Lourenc se § Jee a . Zz! Who bec Ang¢ iest president F | ,epend 119 ‘ ‘, / _",
+  "text_frame": "00771_BMR_p_2468.08.jpg",
+  "key_frame": "00772_BMR_a_2469.32.jpg",
+  "frames": [
+   "00771_BMR_p_2468.08.jpg",
+   "00772_BMR_a_2469.32.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-159",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2470.84,
+  "t1": 2471.68,
+  "q": "Who became Angola's first president after independence in 1975?",
+  "qconf": 93.3,
+  "options": [
+   "Joao Lourenco",
+   "Jose Eduardo",
+   "Agostinho Neto"
+  ],
+  "key": ". Agostinho Neto",
+  "kconf": 72.7,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   4
+  ],
+  "after": [
+   6,
+   6
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 30,
+  "next_seen": "iilogical - bog —— —e axio! ies —- — SS x Py | the ele: soft tapos nathe an : i",
+  "text_frame": "00773_BMR_p_2470.84.jpg",
+  "key_frame": "00774_BMR_a_2471.68.jpg",
+  "frames": [
+   "00773_BMR_p_2470.84.jpg",
+   "00774_BMR_a_2471.68.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-160",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2473.2,
+  "t1": 2476.6,
+  "q": "axioms are substantive assertions about the elements of the domain of a specific mathematical theory.",
+  "qconf": 93.1,
+  "options": [
+   "Illogical",
+   "Logical",
+   "Non-logical"
+  ],
+  "key": "._ Non-logical",
+  "kconf": 41.5,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   6
+  ],
+  "after": [
+   6,
+   6
+  ],
+  "delta": [
+   0,
+   0
+  ],
+  "clock": 27,
+  "next_seen": "What was the ant that ex | betw the B tit IGF rs 2olithi ‘Caled: x c",
+  "text_frame": "00775_BMR_p_2473.20.jpg",
+  "key_frame": "00777_BMR_a_2475.88.jpg",
+  "frames": [
+   "00775_BMR_p_2473.20.jpg",
+   "00776_BMR_p_2474.84.jpg",
+   "00777_BMR_a_2475.88.jpg",
+   "00778_BMR_a_2476.60.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-161",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2478.12,
+  "t1": 2483.68,
+  "q": "What was the ancient cultural period that existed between the Palaeolithic age and Neolithic Age called?",
+  "qconf": 96.0,
+  "options": null,
+  "key": "Mesolithic",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   6
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 22,
+  "next_seen": "i 7 ‘i Wy . ilo Bridge",
+  "text_frame": "00779_BML_p_2478.12.jpg",
+  "key_frame": "00783_BML_a_2483.68.jpg",
+  "frames": [
+   "00779_BML_p_2478.12.jpg",
+   "00780_BML_p_2479.76.jpg",
+   "00781_BML_p_2481.36.jpg",
+   "00782_BML_p_2483.08.jpg",
+   "00783_BML_a_2483.68.jpg"
+  ],
+  "flags": []
+ },
+ {
+  "id": "qf1-162",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2486.04,
+  "t1": 2488.04,
+  "q": "Which river does the Katima Mulilo Bridge in Namibia cross?",
+  "qconf": 95.6,
+  "options": [
+   "Zambezi",
+   "Orange",
+   "Nile"
+  ],
+  "key": "Zambezi",
+  "kconf": 69.5,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   6
+  ],
+  "after": [
+   6,
+   8
+  ],
+  "delta": [
+   0,
+   2
+  ],
+  "clock": 14,
+  "next_seen": "T - A Which sign is ‘ae ----~ @",
+  "text_frame": "00785_BMR_p_2486.04.jpg",
+  "key_frame": "00787_BMR_a_2488.04.jpg",
+  "frames": [
+   "00785_BMR_p_2486.04.jpg",
+   "00786_BMR_p_2487.60.jpg",
+   "00787_BMR_a_2488.04.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-163",
+  "half": "BM",
+  "side": "BMR",
+  "t0": 2489.68,
+  "t1": 2493.24,
+  "q": "Which sign is known for being dreamy and artistic?",
+  "qconf": 95.9,
+  "options": [
+   "Libra",
+   "Taurus",
+   "Pisces"
+  ],
+  "key": "Pisces",
+  "kconf": 67.0,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   8
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 10,
+  "next_seen": "(S i ze i Which Afric: Reins th a Cie solar p ’ : \"",
+  "text_frame": "00788_BMR_p_2489.68.jpg",
+  "key_frame": "00791_BMR_a_2493.24.jpg",
+  "frames": [
+   "00788_BMR_p_2489.68.jpg",
+   "00789_BMR_p_2491.32.jpg",
+   "00790_BMR_p_2492.88.jpg",
+   "00791_BMR_a_2493.24.jpg"
+  ],
+  "flags": [
+   "lowkey"
+  ]
+ },
+ {
+  "id": "qf1-164",
+  "half": "BM",
+  "side": "BML",
+  "t0": 2495.56,
+  "t1": 2497.52,
+  "q": "Which African country has developed a floating solar power plant?",
+  "qconf": 96.0,
+  "options": [
+   "Sudan",
+   "Ghana",
+   "Chad"
+  ],
+  "key": "Ghana",
+  "kconf": 96.0,
+  "player": "",
+  "school": "",
+  "before": [
+   6,
+   3
+  ],
+  "after": [
+   null,
+   null
+  ],
+  "delta": null,
+  "clock": 3,
+  "next_seen": "4 o r, a» Blick § = dal / Tae 2d with 7 J > p ; “ionally",
+  "text_frame": "00793_BML_p_2495.56.jpg",
+  "key_frame": "00795_BML_a_2497.52.jpg",
+  "frames": [
+   "00793_BML_p_2495.56.jpg",
+   "00794_BML_p_2497.16.jpg",
+   "00795_BML_a_2497.52.jpg"
+  ],
+  "flags": []
+ }
+]

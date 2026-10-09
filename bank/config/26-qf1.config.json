@@ -1,0 +1,38 @@
+{
+ "code": "qf1",
+ "video": "9GKmb90WXqQ",
+ "match": "UNILORIN v UNN",
+ "stage": "qf",
+ "qb_top": "UNILORIN",
+ "qb_bottom": "UNN",
+ "bm_top": "UNILORIN",
+ "bm_bottom": "UNN",
+ "bm_subjects": {
+  "1": "DA",
+  "2": "AM",
+  "3": "VR",
+  "4": "GK"
+ },
+ "quarter_starts": {
+  "QB": [
+   769,
+   1014,
+   1218,
+   1439
+  ],
+  "BM": [
+   1669,
+   1820,
+   2118,
+   2411
+  ]
+ },
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/26-qf1.json",
+   "bank/review/26-qf1.json"
+  ]
+ ],
+ "out": "bank/master/26-qf1.json"
+}

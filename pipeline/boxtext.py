@@ -85,8 +85,9 @@ def read_box(im, kind):
     a = np.asarray(im.convert('RGB'))
     x0, y0, x1, y1 = BOX[kind]
     gt = green_top(a, x0, min(x1, x0 + 360), y0, y1 + 30) if kind == 'QB' else None
-    if gt is not None: y1 = min(y1, gt - 1)
+    if gt is not None and gt - 1 - y0 >= 20: y1 = min(y1, gt - 1)   # a green graphic at the very top is not the answer bar
     box = a[y0:y1, x0:x1]
+    if box.size == 0: return {'options': None, 'lines': [], 'conf': 0.0, 'low': True}
     gray = cv2.cvtColor(box, cv2.COLOR_RGB2GRAY)
     dark = gray < 150
     W = dark.shape[1]

@@ -1,0 +1,154 @@
+{
+  "26-qf3-bm-2657": {
+    "solution": "The culture grows from 100 to 2,700, so it is multiplied by 2,700 ÷ 100 = 27. Since 27 = 3³, it triples 3 times. Each tripling takes 4 hours, so the time is 3 × 4 = 12 hours.",
+    "trick": "Count the triplings: 100, 300, 900, 2,700 is three steps of 4 hours, so 12 hours.",
+    "check": "agree",
+    "computed": "12 hours",
+    "accept": ["12", "12 hours", "12 hrs", "12h"],
+    "comment": ""
+  },
+  "26-qf3-bm-2665": {
+    "solution": "The trace of a matrix equals the sum of its eigenvalues. So the trace is 2 + (−5) = −3.",
+    "trick": "Add the eigenvalues: 2 + (−5) = −3. The sum must be negative because 5 is bigger than 2, and −3 is the only negative option.",
+    "check": "agree",
+    "computed": "−3",
+    "accept": ["−3", "-3", "minus 3", "negative 3"],
+    "comment": ""
+  },
+  "26-qf3-bm-2671": {
+    "solution": "The dot product multiplies matching components and adds the results. F · d = (3)(5) + (4)(−2) = 15 − 8 = 7. Newtons times metres give joules, so the work is 7 J.",
+    "trick": "Multiply down and add: 3 × 5 = 15, 4 × (−2) = −8, and 15 − 8 = 7. The option 15J skips the second term, and 23J is what you get if the minus sign is lost.",
+    "check": "agree",
+    "computed": "7J",
+    "accept": ["7", "7 J", "7J", "7 joules", "7 joule"],
+    "comment": ""
+  },
+  "26-qf3-bm-2750": {
+    "solution": "Probability = favourable outcomes ÷ total outcomes. There are 3 black balls among 3 + 7 = 10 balls. So the probability is 3/10.",
+    "trick": "Black over total: 3 over (3 + 7) is 3/10. The white balls only add to the total at the bottom.",
+    "check": "agree",
+    "computed": "3/10",
+    "accept": ["3/10", "0.3", ".3", "30%"],
+    "comment": ""
+  },
+  "26-qf3-bm-2753": {
+    "solution": "For independent events, P(A and B) = P(A) × P(B). So P(A and B) = 0.6 × 0.3 = 0.18.",
+    "trick": "Do 6 × 3 = 18, then put back two decimal places to get 0.18. Also P(A and B) can never be bigger than the smaller probability, 0.3, so 0.9 and 0.5 are impossible.",
+    "check": "agree",
+    "computed": "0.18",
+    "accept": ["0.18", ".18", "18%", "9/50"],
+    "comment": ""
+  },
+  "26-qf3-bm-2757": {
+    "solution": "Put the values in order: 80, 120, 140, 150, 300. There are 5 values, so the median is the middle (3rd) one. The median is 140.",
+    "trick": "Pick the number that has two values below it and two above it. That is 140, and the large 300 does not change the median.",
+    "check": "agree",
+    "computed": "140",
+    "accept": ["140", "140 people", "140 attendees"],
+    "comment": ""
+  },
+  "26-qf3-bm-2765": {
+    "solution": "The colours do not matter, so there are 5 + 7 = 12 balls and we choose 3. The number of ways is 12C3 = (12 × 11 × 10) ÷ (3 × 2 × 1) = 1,320 ÷ 6 = 220.",
+    "trick": "Cancel early: (12 ÷ 3) × (10 ÷ 2) × 11 = 4 × 5 × 11 = 220. Also 11 appears on top but not on the bottom, so the answer must be a multiple of 11, and only 220 is.",
+    "check": "agree",
+    "computed": "220",
+    "accept": ["220", "220 ways"],
+    "comment": ""
+  },
+  "26-qf3-bm-2771": {
+    "solution": "Use P(rain and late) = P(late | rain) × P(rain). So P(rain and late) = 0.7 × 0.2 = 0.14.",
+    "trick": "Do 7 × 2 = 14, then put back two decimal places to get 0.14.",
+    "check": "agree",
+    "computed": "0.14",
+    "accept": ["0.14", ".14", "14%", "7/50"],
+    "comment": ""
+  },
+  "26-qf3-bm-2774": {
+    "solution": "AFRICA has 6 letters: A, F, R, I, C, A. The vowels are A, I and A, so there are 3, because the A counts each time it appears. The probability is 3 ÷ 6 = 1/2.",
+    "trick": "Count the vowels with repeats: A, I, A is 3 out of 6 letters, which is half. Counting the A only once would wrongly give 2/6 = 1/3.",
+    "check": "agree",
+    "computed": "1/2",
+    "accept": ["1/2", "0.5", ".5", "50%", "3/6"],
+    "comment": ""
+  },
+  "26-qf3-bm-2780": {
+    "solution": "Standard deviation measures how far the values sit from the mean. Every value is 15, so the mean is 15 and every deviation is 15 − 15 = 0. So the standard deviation is 0.",
+    "trick": "If all the values are identical there is no spread at all, so the standard deviation is 0 with no calculation.",
+    "check": "agree",
+    "computed": "0",
+    "accept": ["0", "zero", "0.0"],
+    "comment": ""
+  },
+  "26-qf3-bm-2786": {
+    "solution": "For a normal distribution, about 68% of values lie within 1 standard deviation of the mean, about 95% within 2 and about 99.7% within 3. The more exact figure for 2 standard deviations is 95.45%.",
+    "trick": "Recall 68, 95, 99.7 for 1, 2, 3 standard deviations. Two standard deviations is the 95 one, and 95.45% is the only option that starts with 95.",
+    "check": "agree",
+    "computed": "95.45%",
+    "accept": ["95.45", "95.45%", "95.4%", "95.4", "95%", "95", "about 95%"],
+    "comment": ""
+  },
+  "26-qf3-bm-2792": {
+    "solution": "List the 4 chosen numbers in increasing order and subtract 0, 1, 2, 3 from them. Each valid subset then becomes any 4 different numbers from 1 to 17, and the steps can be reversed. So the count is 17C4 = (17 × 16 × 15 × 14) ÷ (4 × 3 × 2 × 1) = 2,380.",
+    "trick": "Take 3 off 20 to get 17, then cancel: 17 × (16 ÷ 4) × (15 ÷ 3) × (14 ÷ 2) = 17 × 4 × 5 × 7 = 2,380. The option 4,845 is 20C4, the count with no restriction, so it is too big.",
+    "check": "agree",
+    "computed": "2,380",
+    "accept": ["2380", "2,380"],
+    "comment": ""
+  },
+  "26-qf3-bm-2799": {
+    "solution": "Let X be the number of boys. X is binomial with n = 10 and p = 1/2, so P(X = k) = 10Ck × (1/2)¹⁰ = 10Ck ÷ 1,024. P(X ≤ 3) = (1 + 10 + 45 + 120) ÷ 1,024 = 176 ÷ 1,024 = 11/64 ≈ 0.172.",
+    "trick": "Add 1 + 10 + 45 + 120 = 176 from row 10 of Pascal's triangle, then 176 ÷ 1,024 = 11/64 (divide both by 16), which is about 0.172. The spread is symmetric about 5, so the answer must be under half, and that rules out 0.712.",
+    "check": "agree",
+    "computed": "0.172",
+    "accept": ["0.172", "0.1719", "0.171875", "11/64", "17.2%", "176/1024"],
+    "comment": ""
+  },
+  "26-qf3-bm-2805": {
+    "solution": "z = (x − mean) ÷ SD = (130 − 100) ÷ 15 = 30 ÷ 15 = 2.",
+    "trick": "130 is 30 above the mean, and 30 is two lots of 15, so z = 2.",
+    "check": "agree",
+    "computed": "2",
+    "accept": ["2", "+2", "2.0"],
+    "comment": ""
+  },
+  "26-qf3-bm-2809": {
+    "solution": "Expected value = sum of each outcome × its probability. For a fair die, E = (1 + 2 + 3 + 4 + 5 + 6) × 1/6 = 21 ÷ 6 = 3.5.",
+    "trick": "For equally likely outcomes 1 to 6, the mean is the midpoint of the two ends: (1 + 6) ÷ 2 = 3.5.",
+    "check": "agree",
+    "computed": "3.5",
+    "accept": ["3.5", "7/2", "3½", "3.50"],
+    "comment": ""
+  },
+  "26-qf3-bm-2817": {
+    "solution": "A fitted regression line, y = a + bx, takes an x value and gives out a y value. A value that a model gives for a new input is a prediction. Interpretation and conclusion are things a person draws from the formula, not things it generates. So the answer is predictions.",
+    "trick": "A formula outputs numbers, and the numbers it gives for new inputs are predictions. Interpretation and conclusion are what people do afterwards.",
+    "check": "agree",
+    "computed": "Predictions",
+    "accept": ["Predictions", "predictions", "Prediction", "prediction"],
+    "comment": ""
+  },
+  "26-qf3-bm-2820": {
+    "solution": "Coefficient of variation = (SD ÷ mean) × 100%. So SD = CV × mean = 10% × 80 = 0.10 × 80 = 8.",
+    "trick": "10% of 80 is 8: move the decimal point of 80 one place left.",
+    "check": "agree",
+    "computed": "8",
+    "accept": ["8", "8.0"],
+    "comment": ""
+  },
+  "26-qf3-bm-2824": {
+    "solution": "For a straight line fit with one predictor, R² = r², so r = ±√0.64 = ±0.8. R² cannot show the direction of the trend, so r is 0.8 for an upward trend and −0.8 for a downward one. The question does not say which, and the show took the positive root, so the answer given is 0.8.",
+    "trick": "√0.64 = 0.8 because 8 × 8 = 64. That removes −0.9, since 0.9² = 0.81. Between 0.8 and −0.8, take the positive one, as the show did.",
+    "check": "unclear",
+    "computed": "±0.8 (sign cannot be found from R² alone)",
+    "accept": ["0.8", "+0.8", ".8", "0.80", "±0.8"],
+    "comment": "R² = 0.64 gives r = 0.8 or r = −0.8, and both values are among the options. The question does not say whether the trend rises or falls, so the sign cannot be decided."
+  },
+  "26-qf3-bm-2834": {
+    "solution": "A discrete variable takes separate values such as counts, while a continuous one takes any value in a range. The Poisson distribution counts events (0, 1, 2 and so on), so it is discrete, while the Exponential and Rayleigh distributions are continuous. Strictly, a discrete distribution has a probability mass function rather than a density, but only one option is discrete. So the answer is the Poisson distribution.",
+    "trick": "Poisson counts events in whole numbers, while the other two measure on a continuous scale, so pick Poisson.",
+    "check": "agree",
+    "computed": "Poisson Distribution",
+    "accept": ["Poisson", "poisson", "Poisson distribution", "poisson distribution"],
+    "comment": ""
+  }
+}

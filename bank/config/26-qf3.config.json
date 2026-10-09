@@ -1,0 +1,38 @@
+{
+ "code": "qf3",
+ "video": "Q7o4RGhg0Z0",
+ "match": "UNIBEN v UI",
+ "stage": "qf",
+ "qb_top": "UI",
+ "qb_bottom": "UNIBEN",
+ "bm_top": "UI",
+ "bm_bottom": "UNIBEN",
+ "bm_subjects": {
+  "1": "GK",
+  "2": "VR",
+  "3": "AM",
+  "4": "DA"
+ },
+ "quarter_starts": {
+  "QB": [
+   1462,
+   1606,
+   1752,
+   1906
+  ],
+  "BM": [
+   2320,
+   2451,
+   2585,
+   2750
+  ]
+ },
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/26-qf3.json",
+   "bank/review/26-qf3.json"
+  ]
+ ],
+ "out": "bank/master/26-qf3.json"
+}

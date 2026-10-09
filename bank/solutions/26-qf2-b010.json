@@ -1,0 +1,380 @@
+{
+  "26-qf2-qb-1612": {
+    "solution": "Total sales = A + B + C + D = 200 + 300 + 250 + 400. Adding in pairs, 200 + 400 = 600 and 300 + 250 = 550. So the total is 600 + 550 = ₦1,150.",
+    "trick": "Eliminate first: the total cannot be less than the biggest bar (400), so ₦250 is out, and it cannot be more than 4 × 400 = 1,600, so ₦4,120 is out. That leaves ₦1,150.",
+    "check": "agree",
+    "computed": "₦1,150",
+    "accept": [
+      "1150",
+      "1,150",
+      "₦1150",
+      "₦1,150",
+      "N1150",
+      "N1,150",
+      "1150 naira",
+      "1,150 naira"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1622": {
+    "solution": "Critical points are where f′(x) = 0. Here f′(x) = 3x² − 18x + 24 = 3(x² − 6x + 8) = 3(x − 2)(x − 4). So f′(x) = 0 at x = 2 and x = 4.",
+    "trick": "Divide f′ by 3 to get x² − 6x + 8. The two roots must add up to 6, and only 2 and 4 do that. The pair 2 and 6 adds to 8, and 4 and 8 adds to 12.",
+    "check": "agree",
+    "computed": "2 and 4",
+    "accept": [
+      "2 and 4",
+      "2, 4",
+      "2,4",
+      "4 and 2",
+      "x = 2 and x = 4",
+      "x=2 and x=4",
+      "x = 2, x = 4",
+      "x=2, x=4",
+      "2 & 4"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1630": {
+    "solution": "Maximum height H = (u sin θ)² ÷ (2g), using g = 9.8 m/s². The upward speed is 20 × sin 30° = 20 × 0.5 = 10 m/s. So H = 10² ÷ (2 × 9.8) = 100 ÷ 19.6 ≈ 5.1 m.",
+    "trick": "The upward speed is half of 20, so 10 m/s. Then H = 100 ÷ 19.6, which is just over 5 because 19.6 is just under 20. Only 5.1 m fits.",
+    "check": "agree",
+    "computed": "5.1 m",
+    "accept": [
+      "5.1",
+      "5.1m",
+      "5.1 m",
+      "5.1 metres",
+      "5.1 meters",
+      "5.10",
+      "5.10 m",
+      "5.102"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1639": {
+    "solution": "For a binomial distribution the standard deviation is √(npq), where q = 1 − p. Here n = 1,600 and p = q = 0.5, so npq = 1,600 × 0.25 = 400. So the standard deviation is √400 = 20.",
+    "trick": "When p = 0.5, the standard deviation is just √n ÷ 2. √1,600 = 40, and half of 40 is 20.",
+    "check": "agree",
+    "computed": "20",
+    "accept": [
+      "20",
+      "20.0"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1650": {
+    "solution": "One km/h is 1,000 m in 3,600 s, which is 1 ÷ 3.6 m/s. So divide by 3.6: 360 ÷ 3.6 = 100 m/s.",
+    "trick": "Divide by 3.6. Since 3.6 × 100 = 360, the answer is 100.",
+    "check": "agree",
+    "computed": "100 m/s",
+    "accept": [
+      "100",
+      "100m/s",
+      "100 m/s",
+      "100 ms⁻¹",
+      "100 m/sec",
+      "100 metres per second",
+      "100 meters per second"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1664": {
+    "solution": "For a binomial distribution, variance = npq, where q = 1 − p = 0.3. So variance = 80 × 0.7 × 0.3 = 80 × 0.21 = 16.8.",
+    "trick": "0.7 × 0.3 = 0.21. Then 8 × 21 = 168, so 80 × 0.21 = 16.8.",
+    "check": "agree",
+    "computed": "16.8",
+    "accept": [
+      "16.8",
+      "16.80",
+      "84/5"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1703": {
+    "solution": "Take the 800 MW as the electrical output, which is 40% of the heat put in. So heat input = 800 ÷ 0.4 = 2,000 MW. Waste = 2,000 − 800 = 1,200 MW. Over one hour that is 1,200 MWh.",
+    "trick": "The 800 MW is the useful 40%, so the wasted 60% is 1.5 times as big: 800 × 1.5 = 1,200 MW, which is 1,200 MWh in an hour. The total heat input is only 2,000 MWh, so 2,400 and 3,600 are too big.",
+    "check": "agree",
+    "computed": "1,200 MWh",
+    "accept": [
+      "1200",
+      "1,200",
+      "1200MWh",
+      "1,200MWh",
+      "1200 MWh",
+      "1,200 MWh",
+      "1.2 GWh",
+      "1.2GWh",
+      "1200 megawatt hours",
+      "1,200 megawatt hours"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1707": {
+    "solution": "Coefficient of variation CV = (standard deviation ÷ mean) × 100%. So standard deviation = 30% × mean = 0.30 × 60 = 18.",
+    "trick": "Find 30% of 60: 10% is 6, so 30% is 18.",
+    "check": "agree",
+    "computed": "18",
+    "accept": [
+      "18",
+      "18.0"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1714": {
+    "solution": "Time = distance ÷ speed = 50 ÷ 80 = 0.625 hours. One hour is 3,600 seconds, so 0.625 × 3,600 = 2,250 seconds.",
+    "trick": "At 80 km/h each kilometre takes 3,600 ÷ 80 = 45 seconds. So 50 km takes 50 × 45 = 2,250 seconds.",
+    "check": "agree",
+    "computed": "2,250 seconds",
+    "accept": [
+      "2250",
+      "2,250",
+      "2250s",
+      "2250 s",
+      "2,250s",
+      "2,250 s",
+      "2250 sec",
+      "2250 secs",
+      "2,250 sec",
+      "2250 seconds",
+      "2,250 seconds"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1747": {
+    "solution": "For independent events, P(A and B) = P(A) × P(B). So P(rain on both days) = 0.4 × 0.3 = 0.12.",
+    "trick": "4 × 3 = 12, and each number has one decimal place, so the answer has two: 0.12.",
+    "check": "agree",
+    "computed": "0.12",
+    "accept": [
+      "0.12",
+      ".12",
+      "0.120",
+      "12%",
+      "12 percent",
+      "3/25"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1751": {
+    "solution": "Standard deviation measures how far the values spread from the mean. If every value is 7, the mean is 7 and every deviation is 0. So the variance is 0 and the standard deviation is 0.",
+    "trick": "Identical values have no spread, and no spread means a standard deviation of 0. That rules out 49 and 256 straight away.",
+    "check": "agree",
+    "computed": "0",
+    "accept": [
+      "0",
+      "0.0",
+      "zero"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1754": {
+    "solution": "ⁿC₄ = n(n − 1)(n − 2)(n − 3) ÷ 24 = 70, so n(n − 1)(n − 2)(n − 3) = 70 × 24 = 1,680. Try n = 8: 8 × 7 × 6 × 5 = 1,680. So n = 8.",
+    "trick": "Test the options. ⁴C₄ = 1 and ⁶C₄ = 15 are both far below 70, so the answer is 8. Check: 8 × 7 × 6 × 5 ÷ 24 = 70.",
+    "check": "agree",
+    "computed": "8",
+    "accept": [
+      "8",
+      "n = 8",
+      "n=8"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1770": {
+    "solution": "A + B = C, so B = C − A. B = (7 − 3, −2 − 1) = (4, −3).",
+    "trick": "Subtract part by part. All three options start with 4, so only the second part matters: −2 − 1 = −3.",
+    "check": "agree",
+    "computed": "(4, −3)",
+    "accept": [
+      "(4, −3)",
+      "(4, -3)",
+      "(4,-3)",
+      "(4,−3)",
+      "4, −3",
+      "4, -3",
+      "4,-3",
+      "4 and −3",
+      "4 and -3",
+      "[4, -3]"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1790": {
+    "solution": "The 30 who study Math include the 10 who also study Physics. So only Math = 30 − 10 = 20 students.",
+    "trick": "Take the overlap off the Math total: 30 − 10 = 20. The Physics number is not needed.",
+    "check": "agree",
+    "computed": "20 students",
+    "accept": [
+      "20",
+      "20 students"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1795": {
+    "solution": "Inverse variation means P × V is constant. So k = 8 × 4 = 32. At V = 10: P = 32 ÷ 10 = 3.2 atm.",
+    "trick": "The volume goes from 4 to 10, which is 2.5 times bigger, so divide the pressure by 2.5: 8 ÷ 2.5 = 3.2. Pressure must fall when volume rises, so 20 atm is out.",
+    "check": "agree",
+    "computed": "3.2 atm",
+    "accept": [
+      "3.2",
+      "3.2atm",
+      "3.2 atm",
+      "3.20",
+      "3.20 atm",
+      "16/5"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1801": {
+    "solution": "The ratio 2 : 3 has 2 + 3 = 5 parts. One part is 5 kg ÷ 5 = 1 kg. Cashews are 2 parts, so 2 × 1 = 2 kg.",
+    "trick": "5 parts in a 5 kg mix means 1 kg a part, so the 2 cashew parts are 2 kg.",
+    "check": "agree",
+    "computed": "2 kg",
+    "accept": [
+      "2",
+      "2kg",
+      "2 kg",
+      "2.0 kg",
+      "2 kilograms",
+      "2 kilogram"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1809": {
+    "solution": "Work = ∫ F dx from x = 1 to x = 3 = ∫ 4x dx = [2x²] from 1 to 3. That is 2(3²) − 2(1²) = 18 − 2 = 16 J.",
+    "trick": "F = 4x is a straight line, so work = average force × distance. The average force is F at the middle, x = 2, which is 8 N, and the distance is 2 m. So 8 × 2 = 16 J.",
+    "check": "agree",
+    "computed": "16 J",
+    "accept": [
+      "16",
+      "16J",
+      "16 J",
+      "16 joules",
+      "16 Joules",
+      "16 joule"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1830": {
+    "solution": "Power = work done ÷ time = mgh ÷ t. So P = 1,000 × 9.8 × 5 ÷ 10 = 49,000 ÷ 10 = 4,900 W.",
+    "trick": "The weight is 1,000 × 9.8 = 9,800 N. The height gained is 5 m in 10 s, which is 0.5 m/s, so the power is 9,800 × 0.5 = 4,900 W.",
+    "check": "agree",
+    "computed": "4,900 W",
+    "accept": [
+      "4900",
+      "4,900",
+      "4900W",
+      "4,900W",
+      "4900 W",
+      "4,900 W",
+      "4900 watts",
+      "4,900 watts",
+      "4.9kW",
+      "4.9 kW",
+      "4.9 kilowatts"
+    ],
+    "comment": ""
+  },
+  "26-qf2-qb-1841": {
+    "solution": "Area of a rhombus = ½ × d₁ × d₂, where d₁ and d₂ are the diagonals. So area = ½ × 10 × 24 = 120 cm².",
+    "trick": "Half of 10 is 5, and 5 × 24 = 120.",
+    "check": "agree",
+    "computed": "120 cm²",
+    "accept": [
+      "120",
+      "120cm²",
+      "120 cm²",
+      "120cm2",
+      "120 cm2",
+      "120 square cm",
+      "120 sq cm",
+      "120 square centimetres",
+      "120 square centimeters"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2077": {
+    "solution": "f′(x) = 3x² − 12x + 9 = 3(x − 1)(x − 3), so the critical points are x = 1 and x = 3. The second derivative is f″(x) = 6x − 12. At x = 3 it is 6, which is positive, so that is a minimum. At x = 1 it is −6, which is negative, so the local maximum is at x = 1.",
+    "trick": "f′ = 3(x − 1)(x − 3), so the critical points are 1 and 3. This cubic has a positive x³ term, so it rises, falls, then rises again, which makes the smaller critical point the maximum: x = 1. Also 0 is out, because f′(0) = 9 is not zero.",
+    "check": "agree",
+    "computed": "x = 1",
+    "accept": [
+      "1",
+      "x = 1",
+      "x=1"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2083": {
+    "solution": "Percentage increase = (new − old) ÷ old × 100%. So (450 − 150) ÷ 150 × 100% = 300 ÷ 150 × 100% = 2 × 100% = 200%.",
+    "trick": "450 is 3 times 150, so the increase is 2 times the original, which is 200%. A figure of 300% would be the new size as a percentage of the old, not the increase.",
+    "check": "agree",
+    "computed": "200%",
+    "accept": [
+      "200",
+      "200%",
+      "200 %",
+      "200 percent",
+      "200 per cent"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2089": {
+    "solution": "Acceleration is the derivative of velocity: a = dv/dt = 6t − 12. At t = 2: a = 6(2) − 12 = 0 m/s².",
+    "trick": "Differentiate to get 6t − 12. At t = 2 that is 12 − 12 = 0. Or spot that v = 3t(t − 4) is zero at t = 0 and t = 4, so it turns at the midpoint t = 2, where the acceleration is 0.",
+    "check": "agree",
+    "computed": "0 m/s²",
+    "accept": [
+      "0",
+      "0 m/s²",
+      "0m/s²",
+      "0 m/s2",
+      "0m/s2",
+      "0 ms⁻²",
+      "zero"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2095": {
+    "solution": "Substitute t = 16 into P(t) = 2,000t + 480. P = 2,000 × 16 + 480 = 32,000 + 480 = 32,480.",
+    "trick": "All three options end in 480, so only the thousands matter: 2 × 16 = 32, which gives 32,480.",
+    "check": "agree",
+    "computed": "32,480",
+    "accept": [
+      "32480",
+      "32,480"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2102": {
+    "solution": "Wins : draws = 7 : 3. 21 wins is 21 ÷ 7 = 3 times the ratio, so draws = 3 × 3 = 9.",
+    "trick": "21 is 3 times 7, so the draws are 3 times 3, which is 9.",
+    "check": "agree",
+    "computed": "9",
+    "accept": [
+      "9",
+      "9 draws",
+      "nine"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2108": {
+    "solution": "The culture grew by a factor of (1.6 × 10⁶) ÷ (2 × 10⁵) = 8. Since 8 = 2³, that is 3 doublings in 3 hours. So the doubling time is 3 ÷ 3 = 1 hour.",
+    "trick": "Write 1.6 × 10⁶ as 16 × 10⁵. Then 2 to 16 is 2, 4, 8, 16, which is three doublings in 3 hours, so one hour each.",
+    "check": "agree",
+    "computed": "1 hour",
+    "accept": [
+      "1 hour",
+      "1",
+      "1h",
+      "1 h",
+      "1hr",
+      "1 hr",
+      "1 hours",
+      "one hour",
+      "60 minutes",
+      "60 min",
+      "60 mins"
+    ],
+    "comment": ""
+  }
+}

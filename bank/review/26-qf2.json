@@ -1,0 +1,633 @@
+{
+"qf2-001": {
+"s": "DA",
+"tp": "Quartiles"
+},
+"qf2-002": {
+"s": "AM",
+"tp": "Logarithms",
+"q": "An earthquake has magnitude 5.0 and another 7.0. How many times more intense is the second?",
+"n": "Two magnitude steps mean 10² = 100 times the shaking amplitude and about 32² ≈ 1,000 times the energy released. The show took 1,000."
+},
+"qf2-003": {
+"s": "DA",
+"tp": "Totals",
+"q": "Monthly expenses: Rent (₦50K), Food (₦30K), Transport (₦20K). What is the total?",
+"k": "₦100,000"
+},
+"qf2-004": {
+"s": "AM",
+"tp": "Percentages",
+"n": "1.10 × 0.95 × 1.08 = 1.1286, a rise of about 12.9%, which rounds to 13%.",
+"pl": "Stephen"
+},
+"qf2-005": {
+"s": "DA",
+"tp": "Correlation",
+"o": [
+"1",
+"−1",
+"0"
+],
+"k": "0"
+},
+"qf2-006": {
+"s": "AM",
+"tp": "Ratio",
+"pl": "Stephen"
+},
+"qf2-007": {
+"s": "DA",
+"tp": "Normal distribution",
+"q": "Determine the percentage of values between 60 and 80 in a dataset with mean 70 and SD 10.",
+"pl": "Stephen"
+},
+"qf2-008": {
+"s": "VR",
+"tp": "Riddles",
+"q": "I have roots that no one sees, I am taller than trees, up I go but never grow. What am I?",
+"pl": "Stephen"
+},
+"qf2-009": {
+"s": "GK",
+"tp": "Geography",
+"q": "Which Ghanaian city is referred to as the \"Garden City\"?"
+},
+"qf2-010": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Crows\" are to \"Murder\" as \"Bears\" are to",
+"pl": "Mathew"
+},
+"qf2-011": {
+"s": "VR",
+"tp": "Directions",
+"q": "A ship sails 30 km East, then turns 135° anticlockwise and sails 30 km. Net direction from start?",
+"n": "After the turn it heads North-West for 30 km, so it ends about 8.8 km east and 21.2 km north of the start: roughly North-East (closer to north)."
+},
+"qf2-012": {
+"s": "VR",
+"tp": "Blood relations"
+},
+"qf2-013": {
+"s": "VR",
+"tp": "Odd one out",
+"n": "Verditer and gamboge are pigments; sgraffito is a technique.",
+"pl": "Stephen"
+},
+"qf2-014": {
+"s": "DA",
+"tp": "Mean"
+},
+"qf2-015": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Mycology\" is to \"Fungi\" as \"Entomology\" is to:",
+"pl": "Stephen"
+},
+"qf2-016": {
+"skip": true
+},
+"qf2-017": {
+"s": "DA",
+"tp": "Skewness",
+"o": [
+"1",
+"−1",
+"0"
+],
+"k": "−1",
+"pl": "Stephen"
+},
+"qf2-018": {
+"s": "AM",
+"tp": "Percentages"
+},
+"qf2-019": {
+"s": "GK",
+"tp": "Geography",
+"q": "Which African country is the largest island?"
+},
+"qf2-020": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "Thrown upward, a baseball reaches its peak height according to h = −16t² + 64t. Find the time to maximum height."
+},
+"qf2-021": {
+"skip": true
+},
+"qf2-022": {
+"skip": true
+},
+"qf2-023": {
+"s": "AM",
+"tp": "Dilution",
+"q": "In a lab, mix 200 mL of 5 M solution with 800 mL water. What is the resulting molarity?",
+"k": "1 M"
+},
+"qf2-024": {
+"s": "AM",
+"tp": "Vectors",
+"q": "Find the angle between vectors A = 3i + 4j and B = 4i − 3j",
+"k": "90°"
+},
+"qf2-025": {
+"s": "AM",
+"tp": "Newton's laws",
+"pl": "Stephen"
+},
+"qf2-026": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Calculate the second derivative of f(x) = x³ at x = 2"
+},
+"qf2-027": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Auditory\" is to \"Sound\" as \"Gustatory\" is to ____"
+},
+"qf2-028": {
+"s": "AM",
+"tp": "Rates"
+},
+"qf2-029": {
+"s": "AM",
+"tp": "Calculus",
+"q": "If y = x³ + 2x², then the second derivative of y at x = 1 is:"
+},
+"qf2-030": {
+"s": "GK",
+"tp": "Agriculture"
+},
+"qf2-031": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "Given h(x) = x² − 2x + 5, find the minimum value."
+},
+"qf2-032": {
+"s": "AM",
+"tp": "Dilution",
+"q": "You have 900 mL of a 3 M HCl solution. If you dilute it to 3 L, what is the new molarity?",
+"k": "0.9 M"
+},
+"qf2-033": {
+"s": "GK",
+"tp": "Organisations"
+},
+"qf2-034": {
+"s": "DA",
+"tp": "Skewness",
+"sch": "FUTA"
+},
+"qf2-035": {
+"s": "DA",
+"tp": "Covariance"
+},
+"qf2-036": {
+"s": "AM",
+"tp": "Scale",
+"k": "5 tonnes or 500 kg",
+"n": "Strength grows with cross-section area, 10² = 100 times, giving 500 kg; scaling by volume (10³) gives 5 tonnes. The show accepted both."
+},
+"qf2-037": {
+"skip": true
+},
+"qf2-038": {
+"s": "VR",
+"tp": "Coding",
+"n": "The code is 10 × the number of letters: CHERRY has 6 letters.",
+"pl": "Stephen"
+},
+"qf2-039": {
+"s": "AM",
+"tp": "Optimisation",
+"o": [
+"30m × 30m",
+"50m × 50m",
+"20m × 20m"
+],
+"k": "50m × 50m"
+},
+"qf2-040": {
+"s": "GK",
+"tp": "History"
+},
+"qf2-041": {
+"s": "DA",
+"tp": "Midrange"
+},
+"qf2-042": {
+"s": "AM",
+"tp": "Energy",
+"k": "3 J"
+},
+"qf2-043": {
+"s": "DA",
+"tp": "Totals",
+"q": "A bar graph shows sales of 4 products: A (₦200), B (₦300), C (₦250), D (₦400). What is the total sales?",
+"o": [
+"₦250",
+"₦1,150",
+"₦4,120"
+],
+"k": "₦1,150"
+},
+"qf2-044": {
+"s": "VR",
+"tp": "Analogies",
+"k": "Ophthalmology : Ears",
+"pl": "Stephen"
+},
+"qf2-045": {
+"s": "AM",
+"tp": "Calculus",
+"q": "What are the critical points of f(x) = x³ − 9x² + 24x?",
+"o": [
+"2 and 4",
+"2 and 6",
+"4 and 8"
+],
+"k": "2 and 4"
+},
+"qf2-046": {
+"s": "AM",
+"tp": "Projectiles",
+"q": "A ball is launched at 20 m/s at 30°. Find its maximum height.",
+"n": "Uses g = 9.8 m/s²: (20 sin 30°)² ÷ (2 × 9.8) ≈ 5.1 m."
+},
+"qf2-047": {
+"s": "DA",
+"tp": "Binomial distribution"
+},
+"qf2-048": {
+"s": "GK",
+"tp": "History"
+},
+"qf2-049": {
+"s": "AM",
+"tp": "Units",
+"k": "100 m/s",
+"pl": "Stephen"
+},
+"qf2-050": {
+"s": "VR",
+"tp": "Ordering",
+"q": "In a line, Alex is left of Ben and right of Chris. Dan is right of Ben and left of Eve. Who is 2nd from the left?"
+},
+"qf2-051": {
+"s": "GK",
+"tp": "Food and culture",
+"pl": "Stephen"
+},
+"qf2-052": {
+"s": "DA",
+"tp": "Binomial distribution",
+"q": "Calculate the variance for a binomial distribution with parameters n = 80 and p = 0.7"
+},
+"qf2-053": {
+"s": "GK",
+"tp": "Food and culture"
+},
+"qf2-054": {
+"s": "GK",
+"tp": "Health",
+"n": "Cinchona is native to South America, though it is grown in parts of Africa."
+},
+"qf2-055": {
+"s": "GK",
+"tp": "Agriculture",
+"k": "Anchor Borrowers' Programme",
+"sch": "FUTA"
+},
+"qf2-056": {
+"s": "VR",
+"tp": "Number series"
+},
+"qf2-057": {
+"s": "AM",
+"tp": "Energy",
+"q": "A power plant generates 800 MW at 40% efficiency. How much thermal energy is wasted per hour?",
+"k": "1,200MWh"
+},
+"qf2-058": {
+"s": "DA",
+"tp": "Coefficient of variation"
+},
+"qf2-059": {
+"s": "AM",
+"tp": "Speed, distance, time"
+},
+"qf2-060": {
+"s": "DA",
+"tp": "Probability",
+"q": "P(rain Mon) = 0.4 and P(rain Tue) = 0.3 are independent. What's P(rain both days)?"
+},
+"qf2-061": {
+"s": "DA",
+"tp": "Standard deviation",
+"q": "If every value in a dataset is 7, what is the standard deviation?",
+"k": "0"
+},
+"qf2-062": {
+"s": "DA",
+"tp": "Combinations",
+"q": "If ⁿC₄ = 70, what is n?"
+},
+"qf2-063": {
+"skip": true
+},
+"qf2-064": {
+"s": "GK",
+"tp": "Food and culture",
+"pl": "Stephen"
+},
+"qf2-065": {
+"s": "AM",
+"tp": "Vectors",
+"q": "Vector A is (3, 1) and its sum with vector B gives C = (7, −2). Determine the components of vector B.",
+"o": [
+"(4, −7)",
+"(4, −3)",
+"(4, −6)"
+],
+"k": "(4, −3)"
+},
+"qf2-066": {
+"s": "GK",
+"tp": "Geography"
+},
+"qf2-067": {
+"s": "DA",
+"tp": "Sets"
+},
+"qf2-068": {
+"s": "AM",
+"tp": "Variation"
+},
+"qf2-069": {
+"s": "AM",
+"tp": "Ratio",
+"k": "2kg"
+},
+"qf2-070": {
+"s": "AM",
+"tp": "Integration",
+"o": [
+"20J",
+"16J",
+"25J"
+],
+"k": "16J",
+"sch": "FUTA"
+},
+"qf2-071": {
+"s": "GK",
+"tp": "Energy",
+"q": "Djibouti's geothermal potential is associated with",
+"pl": "Stephen"
+},
+"qf2-072": {
+"s": "GK",
+"tp": "Culture",
+"k": "Maasai"
+},
+"qf2-073": {
+"s": "AM",
+"tp": "Power",
+"q": "If a motor lifts a 1,000kg load 5 meters high in 10 seconds, how much power does it deliver (g = 9.8 m/s²)?",
+"k": "4,900W"
+},
+"qf2-074": {
+"s": "AM",
+"tp": "Mensuration",
+"o": [
+"80cm²",
+"140cm²",
+"120cm²"
+],
+"k": "120cm²"
+},
+"qf2-075": {
+"s": "GK",
+"tp": "Health",
+"pl": "Stephen"
+},
+"qf2-076": {
+"s": "VR",
+"tp": "Analogies",
+"q": "Entropy is to Disorder as Syntax is to ____"
+},
+"qf2-077": {
+"s": "VR",
+"tp": "Letter series",
+"q": "Complete the series PJB, MGC, JDD, ____",
+"a": "GAE",
+"t": "w",
+"n": "First letters go back 3 (P, M, J, G), middle letters go back 3 (J, G, D, A) and last letters go forward 1 (B, C, D, E). The show's answer bar wasn't captured."
+},
+"qf2-078": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The function f(x) = x³ − 6x² + 9x + 1 has a local maximum at x equals what?",
+"o": [
+"0",
+"1",
+"3"
+],
+"k": "1"
+},
+"qf2-079": {
+"s": "AM",
+"tp": "Percentages",
+"k": "200%"
+},
+"qf2-080": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Given v(t) = 3t² − 12t (velocity in m/s), find the acceleration at t = 2 s.",
+"o": [
+"1 m/s²",
+"2 m/s²",
+"0 m/s²"
+],
+"k": "0 m/s²"
+},
+"qf2-081": {
+"s": "AM",
+"tp": "Linear functions",
+"q": "P(t) = 2000t + 480. What is the population when t = 16 years?",
+"k": "32,480"
+},
+"qf2-082": {
+"s": "AM",
+"tp": "Ratio",
+"q": "In a league, the wins-to-draws ratio is 7:3. If a team has 21 wins, how many draws?",
+"k": "9"
+},
+"qf2-083": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "If a culture grows from 2 × 10⁵ to 1.6 × 10⁶ cells in 3 hours, what is the doubling time?"
+},
+"qf2-084": {
+"s": "AM",
+"tp": "Mixtures"
+},
+"qf2-085": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "A company's revenue from selling x units is modelled by R(x) = 50x − 2x². What number of units maximizes revenue?",
+"k": "12.5"
+},
+"qf2-086": {
+"s": "AM",
+"tp": "Ratio",
+"o": null,
+"k": "48 cups"
+},
+"qf2-087": {
+"s": "AM",
+"tp": "Mensuration",
+"q": "Longest straight rod that fits inside a 12 cm × 9 cm × 8 cm box: what is its length?",
+"k": "17cm"
+},
+"qf2-088": {
+"s": "AM",
+"tp": "Circles",
+"o": [
+"60π m",
+"140π m",
+"240π m"
+],
+"k": "240π m"
+},
+"qf2-089": {
+"s": "AM",
+"tp": "Genetics",
+"q": "In a Hardy-Weinberg population, 49% are homozygous recessive. What is the dominant allele frequency?",
+"k": "0.3"
+},
+"qf2-090": {
+"s": "AM",
+"tp": "Vectors",
+"o": [
+"5√5 knots",
+"16 knots",
+"4√3 knots"
+],
+"k": "5√5 knots"
+},
+"qf2-091": {
+"s": "AM",
+"tp": "Magnification"
+},
+"qf2-092": {
+"s": "AM",
+"tp": "Coordinate geometry",
+"q": "Two lines are said to be perpendicular if the product of their slopes is equal to ____",
+"o": [
+"1",
+"−1",
+"0"
+],
+"k": "−1"
+},
+"qf2-093": {
+"s": "AM",
+"tp": "Simultaneous equations",
+"q": "A system of equations is: 2x + y = 5; x − y = 1. What is the solution using matrices?",
+"o": [
+"x = 3, y = 2",
+"x = 1, y = 3",
+"x = 2, y = 1"
+],
+"k": "x = 2, y = 1"
+},
+"qf2-094": {
+"s": "DA",
+"tp": "Normal distribution",
+"q": "A standard normal random variable Z has variance equal to ____",
+"o": [
+"σ²",
+"0",
+"1"
+],
+"k": "1"
+},
+"qf2-095": {
+"s": "DA",
+"tp": "Percentages",
+"a": "2,125",
+"t": "w",
+"n": "The show's answer bar wasn't captured; the contestant got the points."
+},
+"qf2-096": {
+"s": "DA",
+"tp": "Percentiles",
+"a": "90%",
+"t": "d",
+"n": "At the 10th percentile, 10% scored 22 or less, so 90% scored higher. None of the options is right; the show took 80%."
+},
+"qf2-097": {
+"s": "DA",
+"tp": "Probability",
+"q": "Find the probability that a student joins at least one of two teams if P(debate) = 0.3 and P(Model UN) = 0.4, independent."
+},
+"qf2-098": {
+"s": "DA",
+"tp": "Geometric distribution"
+},
+"qf2-099": {
+"s": "DA",
+"tp": "Percentiles",
+"a": "90%",
+"t": "d",
+"n": "At the 10th percentile, 10% scored 22 or less, so 90% scored higher. None of the options is right; the show took 80%."
+},
+"qf2-100": {
+"s": "DA",
+"tp": "Permutations"
+},
+"qf2-101": {
+"s": "DA",
+"tp": "Charts"
+},
+"qf2-102": {
+"s": "DA",
+"tp": "Simple interest",
+"q": "Calculate the simple interest on ₦8,000 for 4 years at 9%.",
+"o": [
+"₦2,880",
+"₦4,680",
+"₦4,080"
+],
+"k": "₦2,880"
+},
+"qf2-103": {
+"s": "DA",
+"tp": "Combinations"
+},
+"qf2-104": {
+"s": "DA",
+"tp": "Range"
+},
+"qf2-105": {
+"s": "DA",
+"tp": "Percentages",
+"q": "A student wants to increase their GPA by 25%. If his current GPA is 3.5, what is the required GPA for the next semester?"
+},
+"qf2-106": {
+"s": "DA",
+"tp": "Expected value",
+"q": "A point (X, Y) is chosen uniformly in a rectangle with corners (0,0), (1,0), (1,2) and (0,2). Find the expected value of p².",
+"n": "Reading p² as the squared distance X² + Y² from the origin: E[X²] + E[Y²] = 1/3 + 4/3 = 5/3."
+},
+"qf2-107": {
+"s": "DA",
+"tp": "Expected value"
+},
+"qf2-108": {
+"s": "DA",
+"tp": "Permutations"
+}
+}

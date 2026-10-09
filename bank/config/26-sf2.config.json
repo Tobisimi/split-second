@@ -1,0 +1,38 @@
+{
+ "code": "sf2",
+ "video": "GCc2tTRc_qY",
+ "match": "UI v OAU",
+ "stage": "sf",
+ "qb_top": "OAU",
+ "qb_bottom": "UI",
+ "bm_top": "OAU",
+ "bm_bottom": "UI",
+ "bm_subjects": {
+  "1": "DA",
+  "2": "VR",
+  "3": "GK",
+  "4": "AM"
+ },
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/26-sf2.json",
+   "bank/review/26-sf2.json"
+  ]
+ ],
+ "out": "bank/master/26-sf2.json",
+ "quarter_starts": {
+  "QB": [
+   1393,
+   1523,
+   1669,
+   1822
+  ],
+  "BM": [
+   2216,
+   2348,
+   2479,
+   2756
+  ]
+ }
+}

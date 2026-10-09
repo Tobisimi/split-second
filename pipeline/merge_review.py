@@ -24,8 +24,11 @@ def autofix(q):
     q = re.sub(r'\s+([?.,])', r'\1', q)
     return q.strip()
 
-def quarters(recs):
-    """Number quarters per half by gaps of more than 60 s between questions."""
+def quarters(recs, starts=None):
+    """Number quarters per half by gaps of more than 60 s between questions, or by the config's
+    "quarter_starts": {"QB": [t1, t2, t3, t4], "BM": [...]} when the breaks between quarters are short."""
+    if starts:
+        return {r['id']: max(1, sum(1 for s in starts.get(r['half'], [0]) if s <= r['t0'] + 1)) for r in recs}
     out, last, n = {}, {}, {}
     for r in sorted(recs, key=lambda r: r['t0']):
         h = r['half']
@@ -39,7 +42,7 @@ def main(cfg_path):
     for raw, pf in cfg['parts']:
         raws += json.load(open(raw)); patch.update(json.load(open(pf)))
     raws.sort(key=lambda r: r['t0'])
-    qn = quarters(raws)
+    qn = quarters(raws, cfg.get('quarter_starts'))
     cards = sorted(cfg.get('cards', []))
     seq = {'QB': 0, 'BM': 0}; master, dropped, missing = [], [], []
     for r in raws:

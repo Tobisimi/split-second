@@ -1,0 +1,332 @@
+{
+  "26-qf2-bm-2117": {
+    "solution": "Let x litres be the 50% solution, so 1 − x litres is the 10% solution. The pure content gives 0.5x + 0.1(1 − x) = 0.3, so 0.4x = 0.2 and x = 0.5 L. The volume needed is 0.5 L = 500 mL.",
+    "trick": "30% is exactly halfway between 10% and 50%, so the two solutions are used in equal amounts. Half of 1 L is 500 mL.",
+    "check": "agree",
+    "computed": "500 mL",
+    "accept": [
+      "500",
+      "500mL",
+      "500 mL",
+      "500ml",
+      "500 ml",
+      "0.5L",
+      "0.5 L",
+      "0.5 litre",
+      "half a litre"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2123": {
+    "solution": "dR/dx = 50 − 4x, which is zero when x = 50 ÷ 4 = 12.5. Since d²R/dx² = −4 is negative, this is a maximum. Revenue is greatest at 12.5 units.",
+    "trick": "The zeros of x(50 − 2x) are x = 0 and x = 25, and the peak is halfway between them: 12.5.",
+    "check": "agree",
+    "computed": "12.5",
+    "accept": [
+      "12.5",
+      "12.5 units",
+      "25/2",
+      "12 1/2"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2126": {
+    "solution": "Sugar to flour is 2:8, so flour = sugar × 8 ÷ 2. That is 12 × 8 ÷ 2 = 96 ÷ 2 = 48. The recipe needs 48 cups of flour.",
+    "trick": "2:8 is the same as 1:4, so multiply 12 by 4 to get 48.",
+    "check": "agree",
+    "computed": "48 cups",
+    "accept": [
+      "48",
+      "48 cups",
+      "48cups"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2133": {
+    "solution": "The longest rod is the space diagonal of the box: d = √(l² + w² + h²) = √(12² + 9² + 8²) = √(144 + 81 + 64) = √289 = 17. The rod is 17 cm long.",
+    "trick": "Chain two Pythagorean triples. 12 and 9 give 15 (the 3, 4, 5 triple times 3), then 15 and 8 give 17 (the 8, 15, 17 triple).",
+    "check": "agree",
+    "computed": "17 cm",
+    "accept": [
+      "17",
+      "17cm",
+      "17 cm",
+      "17 centimetres",
+      "17 centimeters"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2136": {
+    "solution": "One rotation covers the circumference, C = πd = π × 40 = 40π m. Six rotations cover 6 × 40π = 240π m.",
+    "trick": "Just do 40 × 6 = 240 and keep the π.",
+    "check": "agree",
+    "computed": "240π m",
+    "accept": [
+      "240π",
+      "240π m",
+      "240pi",
+      "240 pi",
+      "240pi m",
+      "753.98",
+      "754"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2143": {
+    "solution": "The homozygous recessive frequency is q² = 0.49, so q = √0.49 = 0.7. The two allele frequencies add up to 1, so the dominant allele frequency is p = 1 − 0.7 = 0.3.",
+    "trick": "√0.49 = 0.7 is the recessive allele, so take it from 1 to get 0.3.",
+    "check": "agree",
+    "computed": "0.3",
+    "accept": [
+      "0.3",
+      ".3",
+      "30%",
+      "3/10"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2150": {
+    "solution": "Speed is the magnitude of the velocity, |v| = √(10² + 5²) = √(100 + 25) = √125. Since 125 = 25 × 5, √125 = 5√5, which is about 11.2. The speed is 5√5 knots.",
+    "trick": "Take out the common factor 5: v = 5(2i + j), so the speed is 5√(4 + 1) = 5√5.",
+    "check": "agree",
+    "computed": "5√5 knots",
+    "accept": [
+      "5√5",
+      "5√5 knots",
+      "5sqrt5",
+      "5 sqrt 5",
+      "5sqrt(5)",
+      "5 root 5",
+      "√125",
+      "11.18",
+      "11.2"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2155": {
+    "solution": "Total magnification is the eyepiece power times the objective power. That is 15 × 10 = 150, so the total magnification is 150x.",
+    "trick": "15 × 10 is just 15 with a zero added: 150.",
+    "check": "agree",
+    "computed": "150x",
+    "accept": [
+      "150",
+      "150x",
+      "150×",
+      "150 times"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2158": {
+    "solution": "Perpendicular lines have slopes that are negative reciprocals, so m₂ = −1/m₁. That makes m₁ × m₂ = −1, as with slopes 2 and −1/2. The product is −1.",
+    "trick": "Remember negative reciprocals: slopes 2 and −1/2 multiply to −1.",
+    "check": "agree",
+    "computed": "−1",
+    "accept": [
+      "−1",
+      "-1",
+      "minus 1",
+      "negative 1",
+      "minus one",
+      "negative one"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2165": {
+    "solution": "Write the system as AX = B with A = [[2, 1], [1, −1]], X = (x, y) and B = (5, 1). The determinant is 2(−1) − 1(1) = −3, so A⁻¹ = (1/3)[[1, 1], [1, −2]]. Then X = A⁻¹B = (1/3)(6, 3) = (2, 1). So x = 2 and y = 1.",
+    "trick": "Add the two equations to cancel y: 3x = 6, so x = 2, then y = 2 − 1 = 1. Only the third option has x = 2.",
+    "check": "agree",
+    "computed": "x = 2, y = 1",
+    "accept": [
+      "x = 2, y = 1",
+      "x=2, y=1",
+      "x=2,y=1",
+      "x = 2 and y = 1",
+      "x=2 y=1",
+      "2, 1",
+      "2,1",
+      "(2, 1)",
+      "(2,1)"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2204": {
+    "solution": "The standard normal Z has mean 0 and standard deviation 1 by definition. Its variance is therefore 1² = 1. The option σ² is just the general symbol for variance. For Z its value is 1, so the answer to give is 1.",
+    "trick": "Standard normal means mean 0 and variance 1, so pick 1. Zero is the mean, not the variance.",
+    "check": "agree",
+    "computed": "1",
+    "accept": [
+      "1",
+      "1.0",
+      "one"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2210": {
+    "solution": "The number accepted is 25% of 8,500, which is 8,500 ÷ 4 = 2,125 students.",
+    "trick": "25% is a quarter. Half of 8,500 is 4,250, and half of that is 2,125.",
+    "check": "agree",
+    "computed": "2,125",
+    "accept": [
+      "2125",
+      "2,125",
+      "2125 students",
+      "2,125 students"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2216": {
+    "solution": "The 10th percentile means 10% of the scores are at or below 22. So the share above 22 is 100% − 10% = 90%. None of the three printed options shows 90%, but 90% is the correct answer.",
+    "trick": "Subtract from 100: 100 − 10 = 90. The 10th percentile leaves 90% above it.",
+    "check": "agree",
+    "computed": "90%",
+    "accept": [
+      "90%",
+      "90",
+      "90 percent",
+      "0.9"
+    ],
+    "comment": "Agrees with the worked out 90%. None of the three options (80%, 60%, 40%) equals 90%, so the options need fixing. The show's 80% would fit a 20th percentile, not the 10th."
+  },
+  "26-qf2-bm-2222": {
+    "solution": "Because the events are independent, P(both) = 0.3 × 0.4 = 0.12. Then P(at least one) = 0.3 + 0.4 − 0.12 = 0.58. So the probability is 58%.",
+    "trick": "It must be above 40% (the larger single chance) and below 70% (the plain sum counts the overlap twice), so only 58% fits.",
+    "check": "agree",
+    "computed": "58%",
+    "accept": [
+      "58%",
+      "58",
+      "0.58",
+      "58 percent",
+      "29/50"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2230": {
+    "solution": "For a geometric distribution counting trials up to and including the first success, the expected number of trials is 1/p. With p = 0.2, that is 1 ÷ 0.2 = 5 trials.",
+    "trick": "0.2 is one fifth, so flip it: the expected number of trials is 5.",
+    "check": "agree",
+    "computed": "5",
+    "accept": [
+      "5",
+      "5 trials",
+      "five"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2239": {
+    "solution": "PENALTY has 7 different letters. T takes the first place and E takes the middle (fourth) place, which leaves 5 letters for the other 5 places. They can be arranged in 5! = 5 × 4 × 3 × 2 × 1 = 120 ways.",
+    "trick": "Two letters are locked in, so only the other 5 move: 5! = 120.",
+    "check": "agree",
+    "computed": "120",
+    "accept": [
+      "120",
+      "5!",
+      "5 factorial",
+      "120 words",
+      "120 ways"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2247": {
+    "solution": "A line chart joins points in time order, so it shows whether values rise, fall or stay steady over time. A scatter plot shows the link between two variables, and a bar chart compares categories. So the best choice for trends over time is the line chart.",
+    "trick": "The words 'trends' and 'over time' point straight to a line chart.",
+    "check": "agree",
+    "computed": "Line chart",
+    "accept": [
+      "line chart",
+      "line graph",
+      "line",
+      "a line chart"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2252": {
+    "solution": "Simple interest is I = PRT ÷ 100, with P = ₦8,000, R = 9 and T = 4. So I = 8,000 × 9 × 4 ÷ 100 = 80 × 36 = ₦2,880.",
+    "trick": "1% of 8,000 is 80, and 9% for 4 years is 36%, so 36 × 80 = 2,880.",
+    "check": "agree",
+    "computed": "₦2,880",
+    "accept": [
+      "2880",
+      "2,880",
+      "₦2880",
+      "₦2,880",
+      "N2880",
+      "N2,880"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2259": {
+    "solution": "Order does not matter, so use combinations: C(9, 4) = 9! ÷ (4! × 5!) = (9 × 8 × 7 × 6) ÷ (4 × 3 × 2 × 1) = 3,024 ÷ 24 = 126 ways.",
+    "trick": "Cancel before multiplying: 8 ÷ (4 × 2) = 1 and 6 ÷ 3 = 2, which leaves 9 × 7 × 2 = 126.",
+    "check": "agree",
+    "computed": "126",
+    "accept": [
+      "126",
+      "126 ways"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2262": {
+    "solution": "The seven daily ranges are 20, 25, 18, 22, 30, 15 and 24. The range of these is the largest minus the smallest: 30 − 15 = 15. So the answer is 15 °F.",
+    "trick": "Spot the biggest (30) and the smallest (15) and subtract: 15.",
+    "check": "agree",
+    "computed": "15 °F",
+    "accept": [
+      "15",
+      "15°F",
+      "15 °F",
+      "15F",
+      "15 F",
+      "15 degrees"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2272": {
+    "solution": "A 25% increase means multiplying by 1.25. So the required GPA is 3.5 × 1.25 = 3.5 + 0.875 = 4.375.",
+    "trick": "A quarter of 3.5 is 0.875 (3.5 ÷ 4), so add it: 3.5 + 0.875 = 4.375.",
+    "check": "agree",
+    "computed": "4.375",
+    "accept": [
+      "4.375",
+      "35/8",
+      "4 3/8"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2279": {
+    "solution": "Reading p² as the squared distance from the origin, p² = X² + Y². For a value uniform on (0, L), the mean of its square is L²/3. X runs over (0, 1) and Y over (0, 2), so E[X²] = 1/3 and E[Y²] = 4/3. Then E[p²] = 1/3 + 4/3 = 5/3.",
+    "trick": "For a value uniform on (0, L), the mean square is L²/3. So it is 1/3 + 4/3 = 5/3.",
+    "check": "unclear",
+    "computed": "5/3 (reading p² as the squared distance from the origin)",
+    "accept": [
+      "5/3",
+      "1 2/3",
+      "1.67",
+      "1.667",
+      "1.6667"
+    ],
+    "comment": "The question never says what p is. Reading p² as the squared distance from the origin, X² + Y², gives 5/3, which is the show's answer. Other readings give other values, for example E[(X + Y)²] = 8/3."
+  },
+  "26-qf2-bm-2283": {
+    "solution": "Expected values add, so the expected total is 40 × 5 = 200 presentations.",
+    "trick": "Do 4 × 5 = 20 and add the zero: 200.",
+    "check": "agree",
+    "computed": "200",
+    "accept": [
+      "200",
+      "200 presentations"
+    ],
+    "comment": ""
+  },
+  "26-qf2-bm-2291": {
+    "solution": "Order matters, because first and second place are different. There are 10 choices for first place and then 9 runners left for second, so 10 × 9 = 90 ways.",
+    "trick": "Ten choices, then nine: 10 × 9 = 90.",
+    "check": "agree",
+    "computed": "90 ways",
+    "accept": [
+      "90",
+      "90 ways"
+    ],
+    "comment": ""
+  }
+}

@@ -1,0 +1,1239 @@
+{
+"sf2-001": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "The bike rental shop earns R(x) = 320x − 4x² daily. Find rentals for maximum revenue."
+},
+"sf2-002": {
+"s": "VR",
+"tp": "Blood relations"
+},
+"sf2-003": {
+"s": "AM",
+"tp": "Compound interest",
+"q": "Evaluate compound interest: ₦100,000 at 10% per annum compounded annually for 3 years",
+"o": [
+"₦103,100",
+"₦133,100",
+"₦123,100"
+],
+"k": "₦133,100",
+"n": "₦133,100 is the amount after 3 years; the interest itself is ₦33,100."
+},
+"sf2-004": {
+"s": "AM",
+"tp": "Units",
+"q": "Convert 2,500 mm³ to cm³",
+"k": "2.5 cm³"
+},
+"sf2-005": {
+"s": "AM",
+"tp": "Scale"
+},
+"sf2-006": {
+"s": "AM",
+"tp": "Units",
+"k": "3,000 L"
+},
+"sf2-007": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "A woman introduces a girl as the daughter of her husband's sister's husband. How is the girl related to the woman?"
+},
+"sf2-008": {
+"s": "AM",
+"tp": "Temperature conversion"
+},
+"sf2-009": {
+"s": "VR",
+"tp": "Word puzzles",
+"q": "Remove the first and last letters of \"STARTLING\" to form a new word. What is it?"
+},
+"sf2-010": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "A ladder leans on a wall at 30° and reaches 10m height. Find the length of the ladder",
+"n": "The 30° is taken as the angle with the ground: length = 10 ÷ sin 30° = 20 m."
+},
+"sf2-011": {
+"s": "AM",
+"tp": "Complex numbers",
+"q": "Calculate the modulus of z = 3 + 4i"
+},
+"sf2-012": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "₦30,000 grows to ₦36,000 in 4 years at simple interest. What is the rate?"
+},
+"sf2-013": {
+"s": "AM",
+"tp": "Profit and loss",
+"q": "A trader buys 800 apples for ₦1,600 and sells them at 4 for ₦30. Calculate total profit.",
+"o": [
+"₦1,300",
+"₦1,200",
+"₦1,500"
+],
+"k": "₦1,200",
+"a": "₦4,400",
+"t": "d",
+"n": "As written, the trader sells 200 lots of 4 at ₦30, so revenue is ₦6,000 and profit is ₦6,000 − ₦1,600 = ₦4,400. The show's ₦1,200 would need a cost of ₦4,800."
+},
+"sf2-014": {
+"s": "DA",
+"tp": "Skewness",
+"q": "If a dataset has mean = 72, median = 96, and standard deviation = 12, what is Pearson's skewness?",
+"o": [
+"−12",
+"68",
+"−6"
+],
+"k": "−6"
+},
+"sf2-015": {
+"s": "GK",
+"tp": "Technology"
+},
+"sf2-016": {
+"s": "DA",
+"tp": "Probability",
+"q": "If 8 out of 100 components fail, what is the probability that a randomly selected component does not fail?"
+},
+"sf2-019": {
+"s": "GK",
+"tp": "Agriculture"
+},
+"sf2-020": {
+"s": "VR",
+"tp": "Number series"
+},
+"sf2-021": {
+"s": "GK",
+"tp": "History"
+},
+"sf2-024": {
+"s": "VR",
+"tp": "Word puzzles",
+"q": "What one-syllable word, ending in \"AFT\", refers to a type of vessel or airplane?",
+"k": "Craft",
+"n": "The show listed \"Craft or Aircraft\"."
+},
+"sf2-025": {
+"s": "VR",
+"tp": "Analogies",
+"q": "If \"QUANTUM\" is to \"PHYSICS\" as \"GENOME\" is to:"
+},
+"sf2-026": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The profit function f(x) = 2x² + 4x − 5 models earnings. What is the minimum achievable profit?",
+"o": [
+"−9",
+"−10",
+"−18"
+],
+"k": "−9",
+"a": "−7",
+"t": "d",
+"n": "The minimum is at x = −1, where f(−1) = 2 − 4 − 5 = −7. None of the options is right; the show's −9 looks like a slip."
+},
+"sf2-027": {
+"s": "DA",
+"tp": "Probability"
+},
+"sf2-029": {
+"s": "AM",
+"tp": "Rates",
+"q": "A tank holds 20,000 L and drains at 300 L/min. How long until 25% remains?"
+},
+"sf2-030": {
+"s": "DA",
+"tp": "Probability",
+"o": [
+"1/23",
+"1/45",
+"1/55"
+],
+"k": "1/55"
+},
+"sf2-031": {
+"s": "DA",
+"tp": "Coefficient of variation"
+},
+"sf2-034": {
+"s": "GK",
+"tp": "Food and culture"
+},
+"sf2-035": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "If A is the father of B, and C is the sister of B, how is A related to C?"
+},
+"sf2-036": {
+"s": "VR",
+"tp": "Number series"
+},
+"sf2-037": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Pulpit\" is to church as \"Proscenium\" is to ____"
+},
+"sf2-039": {
+"s": "DA",
+"tp": "Skewness",
+"q": "For a skewed dataset with mean = 160, median = 80, and standard deviation = 4, find the skewness."
+},
+"sf2-040": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Philology\" is to \"language\" as \"oenology\" is to:"
+},
+"sf2-041": {
+"s": "AM",
+"tp": "Mensuration",
+"k": "17m"
+},
+"sf2-042": {
+"s": "GK",
+"tp": "Health",
+"q": "Ghana's first modern hospital, established in 1923, is known as?"
+},
+"sf2-044": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "Determine the principal that will earn ₦18,000 in simple interest at 6% per year over 5 years.",
+"k": "₦60,000"
+},
+"sf2-045": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"sf2-046": {
+"s": "DA",
+"tp": "Coefficient of variation",
+"k": "12.5 mm"
+},
+"sf2-047": {
+"s": "DA",
+"tp": "Expected value",
+"k": "7.5"
+},
+"sf2-051": {
+"s": "DA",
+"tp": "Mean",
+"q": "Monthly expenses are Rent (₦50,000), Food (₦25,000), and Utilities (₦15,000). What is the average expense?",
+"k": "₦30,000"
+},
+"sf2-052": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"sf2-053": {
+"s": "VR",
+"tp": "Ordering"
+},
+"sf2-054": {
+"s": "VR",
+"tp": "Vocabulary",
+"q": "\"Entropy\" in thermodynamics often figuratively means ____"
+},
+"sf2-055": {
+"s": "DA",
+"tp": "z-scores",
+"k": "2"
+},
+"sf2-058": {
+"s": "GK",
+"tp": "Agriculture"
+},
+"sf2-059": {
+"s": "GK",
+"tp": "Science",
+"q": "South Africa's Council for Scientific and Industrial Research studied which plant for appetite suppression?"
+},
+"sf2-061": {
+"s": "DA",
+"tp": "Cumulative frequency"
+},
+"sf2-066": {
+"s": "GK",
+"tp": "Energy"
+},
+"sf2-067": {
+"s": "DA",
+"tp": "Probability"
+},
+"sf2-068": {
+"s": "GK",
+"tp": "Transport",
+"q": "Which city hosts Africa's largest urban train system, the Gautrain?"
+},
+"sf2-069": {
+"s": "GK",
+"tp": "Flags",
+"k": "Red, black and green"
+},
+"sf2-070": {
+"s": "DA",
+"tp": "Correlation",
+"k": "10"
+},
+"sf2-071": {
+"s": "VR",
+"tp": "Letter series",
+"o": null,
+"k": "F",
+"n": "Z, X, U, Q, L go back 2, 3, 4, 5 letters, so the next is 6 back: F. The options shown (J, G, H) didn't include the show's answer."
+},
+"sf2-072": {
+"skip": true
+},
+"sf2-073": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Kai says, “My father's only son's wife is my only sibling's spouse.” How is Kai related to his father's only son?",
+"n": "If Kai is a man, his father's only son is Kai himself, which is the show's answer. Read strictly, the statement is a little self-contradictory."
+},
+"sf2-075": {
+"s": "VR",
+"tp": "Coding",
+"q": "If \"JAVA\" is coded as 4 and \"PYTHON\" as 6, what is \"RUST\" coded as?",
+"k": "4"
+},
+"sf2-076": {
+"s": "VR",
+"tp": "Blood relations"
+},
+"sf2-079": {
+"s": "GK",
+"tp": "Technology",
+"q": "Nigeria's Zenvus technology is mainly used in:"
+},
+"sf2-080": {
+"skip": true
+},
+"sf2-081": {
+"s": "DA",
+"tp": "Probability",
+"o": [
+"1/6",
+"1/11",
+"1/66"
+],
+"k": "1/66"
+},
+"sf2-082": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"sf2-084": {
+"s": "AM",
+"tp": "Sound",
+"q": "An echo returns in 0.8 s (speed of sound = 340 m/s). How far is the reflecting surface?"
+},
+"sf2-087": {
+"s": "AM",
+"tp": "Dilution",
+"q": "What is the final molarity if 200 mL of 0.4 M NaOH is mixed with 300 mL of water?",
+"k": "0.16 M (4/25)"
+},
+"sf2-088": {
+"s": "GK",
+"tp": "Space",
+"k": "Anousheh Ansari"
+},
+"sf2-090": {
+"s": "DA",
+"tp": "Median"
+},
+"sf2-091": {
+"s": "AM",
+"tp": "Work rate",
+"k": "0.9 days"
+},
+"sf2-092": {
+"s": "AM",
+"tp": "Stoichiometry",
+"q": "If 3 moles of H₂ react with 1.5 moles of O₂ to form water, how many grams of H₂O are produced?",
+"o": [
+"54g",
+"18g",
+"36g"
+]
+},
+"sf2-094": {
+"s": "DA",
+"tp": "Expected value",
+"q": "Find the expected value for a game: win ₦200 with P = 0.3, lose ₦100 with P = 0.7",
+"o": [
+"−₦40",
+"−₦10",
+"−₦28"
+],
+"k": "−₦10"
+},
+"sf2-095": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Lion\" is to \"Roar\" as \"Owl\" is to:"
+},
+"sf2-096": {
+"s": "DA",
+"tp": "Percentiles",
+"q": "A student scored at the 75th percentile. If there are 200 students, how many scored higher?"
+},
+"sf2-097": {
+"s": "DA",
+"tp": "Probability"
+},
+"sf2-098": {
+"s": "DA",
+"tp": "Probability",
+"q": "The probability that a light bulb lasts 1 year is 0.5. If two bulbs, the probability that both last 1 year is what?"
+},
+"sf2-099": {
+"s": "DA",
+"tp": "Variance",
+"o": [
+"3",
+"9",
+"6"
+]
+},
+"sf2-100": {
+"s": "DA",
+"tp": "Combinations",
+"k": "7"
+},
+"sf2-101": {
+"s": "DA",
+"tp": "Probability",
+"q": "If a fair die is rolled twice, what is the probability that an even number follows an odd number?"
+},
+"sf2-102": {
+"s": "DA",
+"tp": "Probability",
+"q": "The probability that a light bulb lasts 1 year is 0.5. If two bulbs, the probability that both last 1 year is what?"
+},
+"sf2-103": {
+"s": "DA",
+"tp": "Probability",
+"q": "In a box of 3 orange, 3 green and 2 blue balls, draw 3 without replacement. What is P(2 green and 1 blue)?"
+},
+"sf2-104": {
+"s": "DA",
+"tp": "Probability",
+"q": "What is the probability of having 53 Tuesdays in a non-leap year?",
+"k": "1/7"
+},
+"sf2-105": {
+"s": "DA",
+"tp": "Permutations",
+"k": "1,080"
+},
+"sf2-106": {
+"s": "DA",
+"tp": "Correlation",
+"q": "In a scatterplot, X = {2, 4, 6}, Y = {3, 6, 9}. The value of the correlation coefficient r is"
+},
+"sf2-107": {
+"s": "DA",
+"tp": "Mean"
+},
+"sf2-108": {
+"s": "DA",
+"tp": "Mean",
+"q": "Find the missing number if the mean of 5, 7, 9, x, 13 is 10."
+},
+"sf2-109": {
+"s": "DA",
+"tp": "Quartiles",
+"q": "In a class of 50 students, the marks are normally distributed with Q1 = 40 and Q3 = 80. Find the IQR."
+},
+"sf2-110": {
+"s": "DA",
+"tp": "Bayes' theorem"
+},
+"sf2-111": {
+"s": "DA",
+"tp": "Permutations"
+},
+"sf2-112": {
+"s": "DA",
+"tp": "Regression",
+"q": "In linear regression, if R² = 0.81, the correlation coefficient is ____",
+"o": [
+"±0.81",
+"±0.90",
+"±0.95"
+],
+"k": "±0.90"
+},
+"sf2-113": {
+"s": "DA",
+"tp": "Sets",
+"q": "In a survey, 50 people like tea, 40 like coffee, and 20 like both. How many people like only tea?",
+"o": null,
+"k": "30"
+},
+"sf2-114": {
+"s": "DA",
+"tp": "z-scores",
+"q": "If mean = 50 and standard deviation = 10, what is the z-score of 60?",
+"o": [
+"0",
+"2",
+"1"
+]
+},
+"sf2-115": {
+"s": "DA",
+"tp": "Quartiles",
+"q": "Calculate the interquartile range for monthly library visits: 1200, 400, 600 and 1000"
+},
+"sf2-116": {
+"s": "DA",
+"tp": "Sets",
+"o": [
+"15%",
+"25%",
+"20%"
+],
+"k": "20%"
+},
+"sf2-117": {
+"s": "DA",
+"tp": "Probability"
+},
+"sf2-118": {
+"s": "DA",
+"tp": "Probability",
+"q": "In a bag of 7 red and 4 blue balls, two draws with replacement. What is P(the two are of different colours)?",
+"a": "56/121",
+"t": "w",
+"n": "The show's answer bar wasn't captured; the contestant got the points."
+},
+"sf2-119": {
+"s": "DA",
+"tp": "Combinations"
+},
+"sf2-120": {
+"s": "DA",
+"tp": "Sets"
+},
+"sf2-121": {
+"s": "DA",
+"tp": "Probability",
+"q": "In a class of 30 students (15 boys, 15 girls), 5 boys and 4 girls scored A. What is P(girl or A-grade)?"
+},
+"sf2-122": {
+"s": "VR",
+"tp": "Percentages",
+"q": "What is 25% of ¼ of 1,600?",
+"o": null,
+"k": "100"
+},
+"sf2-123": {
+"s": "VR",
+"tp": "Ordering",
+"k": "P",
+"n": "The clues don't settle whether P or S is taller; the show took P."
+},
+"sf2-124": {
+"s": "VR",
+"tp": "Directions",
+"q": "Facing West, turn 135° clockwise, then 90° anticlockwise. What is the final direction?",
+"n": "West turned 135° clockwise faces North-East; 90° anticlockwise from there faces North-West."
+},
+"sf2-125": {
+"s": "VR",
+"tp": "Analogies",
+"q": "Which alternative replaces the question mark? Flow : River :: Stagnant : ?"
+},
+"sf2-126": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Pointing to a child, a woman says: “His father is my son.” Who is the woman?"
+},
+"sf2-127": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "A's son is B's father. How is A related to B?"
+},
+"sf2-128": {
+"s": "VR",
+"tp": "Coding",
+"a": "KFZSM",
+"t": "d",
+"n": "Odd positions back one and even positions forward one turn L, E, A, R, N into K, F, Z, S, M. None of the options follows the rule; the show's KFBQM moves A forward and R back."
+},
+"sf2-129": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "Pointing to a photograph, a man says, “This man is my father's only son.” How is the man in the photo related to the speaker?"
+},
+"sf2-130": {
+"s": "VR",
+"tp": "Coding",
+"q": "If A = 2, B = 4, C = 6, then the word CAB = ____"
+},
+"sf2-131": {
+"s": "VR",
+"tp": "Odd one out",
+"q": "Which word is different: Pen, Pencil, Eraser, Paper",
+"n": "Pen and pencil write and paper is written on; the show took Eraser as the odd one."
+},
+"sf2-132": {
+"s": "VR",
+"tp": "Blood relations",
+"k": "Aunt/Uncle"
+},
+"sf2-133": {
+"s": "VR",
+"tp": "Analogies",
+"q": "API is to Software Integration as Synapse is to ____",
+"o": [
+"Neural Communication",
+"Data Storage",
+"Energy Transfer"
+]
+},
+"sf2-134": {
+"s": "VR",
+"tp": "Alphabet",
+"o": [
+"M",
+"L",
+"K"
+],
+"k": "L"
+},
+"sf2-135": {
+"s": "VR",
+"tp": "Blood relations"
+},
+"sf2-136": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"The Double Helix\" is to \"Watson and Crick\" as \"Penicillin\" is to:"
+},
+"sf2-137": {
+"s": "VR",
+"tp": "Directions",
+"q": "From a point, you go 3 km North, then 4 km East. Your straight-line distance from the start is?",
+"o": [
+"5 km",
+"7 km",
+"4 km"
+],
+"k": "5 km"
+},
+"sf2-138": {
+"s": "VR",
+"tp": "Coding",
+"q": "If CAT = DBU, then DOG = ____"
+},
+"sf2-139": {
+"s": "VR",
+"tp": "Ordering",
+"q": "Five boxes are arranged: Red is above Green but below Blue. Yellow is above Blue. White is below Green. Which box is at the bottom?"
+},
+"sf2-140": {
+"s": "VR",
+"tp": "Blood relations"
+},
+"sf2-141": {
+"s": "GK",
+"tp": "History"
+},
+"sf2-142": {
+"s": "GK",
+"tp": "Health",
+"n": "Crohn's disease also inflames the bowel lining; the show took ulcerative colitis."
+},
+"sf2-143": {
+"s": "GK",
+"tp": "Agriculture"
+},
+"sf2-144": {
+"s": "GK",
+"tp": "Culture"
+},
+"sf2-145": {
+"s": "GK",
+"tp": "Health"
+},
+"sf2-146": {
+"s": "GK",
+"tp": "Music",
+"q": "The typical vocal range for a tenor is ____",
+"o": [
+"A1 – A3",
+"G2 – G4",
+"C3 – C5"
+],
+"k": "C3 – C5"
+},
+"sf2-147": {
+"s": "GK",
+"tp": "History",
+"q": "The Kingdom of Kush was located in present-day ____"
+},
+"sf2-148": {
+"s": "GK",
+"tp": "Sport",
+"q": "The name of the Nigerian Football Team before they became the Super Eagles of Nigeria was ____",
+"k": "Green Eagles"
+},
+"sf2-149": {
+"s": "GK",
+"tp": "Technology",
+"q": "What is the full meaning of \"DOS\"?"
+},
+"sf2-150": {
+"s": "GK",
+"tp": "History",
+"q": "What is the former name of the People's Republic of Benin?",
+"o": null,
+"k": "Dahomey"
+},
+"sf2-151": {
+"s": "GK",
+"tp": "Animals",
+"q": "Which African animal is known as the \"Ship of the desert\"?",
+"k": "Camel"
+},
+"sf2-152": {
+"s": "GK",
+"tp": "Energy"
+},
+"sf2-153": {
+"s": "GK",
+"tp": "Sport"
+},
+"sf2-154": {
+"s": "GK",
+"tp": "Logic",
+"q": "In logic, a ____ is always true regardless of interpretation, with only logical constants having fixed meaning.",
+"o": [
+"Contradiction",
+"Tautology",
+"Rhetoric"
+]
+},
+"sf2-155": {
+"s": "GK",
+"tp": "Sport",
+"q": "The spot marked at the centre of the field from which the kick-off is made is called ____",
+"k": "Centre spot"
+},
+"sf2-156": {
+"s": "GK",
+"tp": "Health",
+"q": "Which stomach infection is caused by H. pylori bacteria?",
+"n": "H. pylori infection usually shows first as gastritis and is the main cause of stomach ulcers; the show took stomach ulcers."
+},
+"sf2-157": {
+"s": "GK",
+"tp": "Sport",
+"o": [
+"Red Devils",
+"UK Tourist",
+"Green Eagles"
+],
+"k": "UK Tourist",
+"n": "The national side toured Britain in 1949 as the \"UK Tourists\", before the Red Devils and Green Eagles names."
+},
+"sf2-158": {
+"s": "GK",
+"tp": "Animals"
+},
+"sf2-159": {
+"s": "GK",
+"tp": "History"
+},
+"sf2-160": {
+"s": "GK",
+"tp": "Sport",
+"q": "The only African player to have won the Ballon d'Or is"
+},
+"sf2-161": {
+"s": "GK",
+"tp": "Energy"
+},
+"sf2-162": {
+"s": "GK",
+"tp": "Organisations",
+"o": [
+"Kenya",
+"Nigeria",
+"South Africa"
+]
+},
+"sf2-163": {
+"s": "AM",
+"tp": "Vectors",
+"k": "17 N"
+},
+"sf2-164": {
+"s": "AM",
+"tp": "Genetics",
+"q": "In a dihybrid cross (AaBb × AaBb), the probability of an offspring having the dominant phenotype for both traits is:",
+"o": [
+"1/16",
+"3/16",
+"9/16"
+],
+"k": "9/16"
+},
+"sf2-165": {
+"s": "AM",
+"tp": "Half-life",
+"o": [
+"1/8",
+"1/4",
+"1/16"
+],
+"k": "1/8"
+},
+"sf2-166": {
+"s": "AM",
+"tp": "Percentages",
+"q": "During a sale, an $8,000 television receives a 25% discount. What's the final sale price for 24 televisions?"
+},
+"sf2-167": {
+"s": "AM",
+"tp": "Functions",
+"q": "A ladder is slipping down a wall. Its height y is related to its base distance x by y = √(100 − x²). What is y when x = 4?",
+"o": [
+"√84",
+"√43",
+"√68"
+],
+"k": "√84"
+},
+"sf2-168": {
+"s": "AM",
+"tp": "Errors",
+"q": "A rod is 50 cm ± 0.2 cm. Compute its relative error.",
+"k": "0.4%",
+"n": "0.2 ÷ 50 = 0.004, which is 0.4%. The show accepted either form."
+},
+"sf2-169": {
+"s": "AM",
+"tp": "Differential equations",
+"q": "Population growth: dP/dt = 25P(1 − P/100). What is the carrying capacity?"
+},
+"sf2-170": {
+"s": "AM",
+"tp": "Complex numbers",
+"q": "Find the modulus of −3 + 4i",
+"a": "5",
+"t": "w",
+"n": "The show's answer bar wasn't captured; the contestant got the points."
+},
+"sf2-171": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The revenue from selling x items is R(x) = −2x² + 20x + 50. What is the maximum possible revenue?",
+"o": [
+"50",
+"100",
+"150"
+]
+},
+"sf2-172": {
+"s": "AM",
+"tp": "Genetics",
+"o": [
+"27/64",
+"9/64",
+"1/64"
+],
+"k": "27/64"
+},
+"sf2-173": {
+"s": "AM",
+"tp": "Rates",
+"q": "Pipe A fills a tank in 6 hours. Pipe B empties it in 8 hours. How long will it take to fill the tank if both are opened?"
+},
+"sf2-174": {
+"s": "AM",
+"tp": "Expected value",
+"o": [
+"20",
+"48",
+"40"
+]
+},
+"sf2-175": {
+"s": "AM",
+"tp": "Integration",
+"q": "Water is pumped into a tank at a rate of R(t) = 6t + 4 L/min. How much water is added between t = 1 and t = 3 mins?",
+"o": [
+"48 litres",
+"32 litres",
+"16 litres"
+]
+},
+"sf2-176": {
+"s": "AM",
+"tp": "Vectors",
+"q": "If a force vector is F = 7i − 24j, determine its magnitude.",
+"k": "25"
+},
+"sf2-177": {
+"s": "AM",
+"tp": "Algebra",
+"k": "28"
+},
+"sf2-178": {
+"s": "AM",
+"tp": "Scale",
+"q": "A map has a scale of 1:50,000. If two villages are 8cm apart on the map, what is the actual distance between them?",
+"a": "4km",
+"t": "w",
+"n": "The show's answer bar wasn't captured; the contestant got the points."
+},
+"sf2-179": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A projectile's height is h(t) = −5t² + 30t. How long does it take to hit the ground?",
+"k": "6 seconds"
+},
+"sf2-180": {
+"s": "AM",
+"tp": "Percentages",
+"q": "Imran earns $600 per month from his job. If he is given a 25% pay rise, how much extra does he earn each month?"
+},
+"sf2-181": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "A tree 500m long leans against a wall at 30°. How high does it reach?",
+"n": "The 30° is taken as the angle with the ground: 500 × sin 30° = 250 m."
+},
+"sf2-185": {
+"s": "AM",
+"tp": "Units",
+"q": "The acceleration due to gravity, g, is 10 m/s². What is this value in km/h²?",
+"o": [
+"35,280 km/h²",
+"129,600 km/h²",
+"352,800 km/h²"
+],
+"k": "129,600 km/h²"
+},
+"sf2-186": {
+"s": "AM",
+"tp": "Vectors",
+"k": "17 N"
+},
+"sf2-187": {
+"s": "AM",
+"tp": "Genetics",
+"q": "In a dihybrid cross (AaBb × AaBb), the probability of an offspring having the dominant phenotype for both traits is:",
+"o": [
+"1/16",
+"3/16",
+"9/16"
+],
+"k": "9/16"
+},
+"sf2-017": {
+"s": "AM",
+"tp": "Ratio",
+"q": "Lucy and Joy share an inheritance of $4,500 in a ratio 5:4. How much does Joy get?",
+"o": [
+"$2,500",
+"$2,200",
+"$2,000"
+],
+"k": "$2,000"
+},
+"sf2-018": {
+"s": "AM",
+"tp": "Percentages",
+"q": "If the specimen increases from 1.2mm to 3.0mm, find the % magnification.",
+"o": null,
+"k": "150%"
+},
+"sf2-022": {
+"s": "AM",
+"tp": "Volume",
+"q": "What is the volume of an Egyptian pyramid with a length of 20 m and a vertical height of 50 m?",
+"o": null,
+"n": "A pyramid's volume is one third of base area × height: ⅓ × 20 × 20 × 50 ≈ 6,667 m³. The show's 20,000 m³ leaves out the one third.",
+"a": "6,667 m³ (20,000/3)",
+"t": "d",
+"k": "20,000 m³"
+},
+"sf2-023": {
+"s": "AM",
+"tp": "Algebra",
+"q": "The sum of three consecutive odd integers is 45. Find the smallest integer.",
+"o": null,
+"k": "13"
+},
+"sf2-028": {
+"s": "AM",
+"tp": "Power",
+"q": "Find the power used if 100 J of work is done in 5 s.",
+"o": null,
+"k": "20W"
+},
+"sf2-032": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Given f(x) = 2x² + 3, what is the second derivative of f(x)?",
+"o": null,
+"k": "4"
+},
+"sf2-033": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "A tech firm's smartphone revenue is R(x) = 300x − 15x². Calculate optimal production.",
+"o": null,
+"k": "10 units"
+},
+"sf2-038": {
+"s": "AM",
+"tp": "Pythagoras",
+"q": "A 20ft ladder leans against a wall. Its base is 16ft from the wall. How high does the ladder reach on the wall?",
+"o": null,
+"k": "12ft"
+},
+"sf2-043": {
+"s": "AM",
+"tp": "Work",
+"q": "A 5kg object is lifted 2m vertically. How much work is done?",
+"o": [
+"200 J",
+"98 J",
+"100 J"
+],
+"n": "The show used g = 9.8 m/s²; with g = 10 the work would be 100 J, which is also an option.",
+"k": "98 J"
+},
+"sf2-048": {
+"s": "AM",
+"tp": "Pythagoras",
+"q": "A rectangle has a diagonal of 50m and one side of 30m. Find the other side.",
+"o": [
+"20 meters",
+"40 meters",
+"30 meters"
+],
+"k": "40 meters"
+},
+"sf2-049": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "The bakery's bread revenue is R(x) = 360x − 9x². Find best loaves to bake.",
+"o": null,
+"k": "20 loaves"
+},
+"sf2-050": {
+"s": "AM",
+"tp": "Half-life",
+"q": "A drug decays exponentially with half-life 8 hrs. What % remains after 24 hrs?",
+"o": [
+"14.5%",
+"12.5%",
+"18.5%"
+],
+"k": "12.5%"
+},
+"sf2-056": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "A bacteria culture triples every 4 hours. How many times will it grow in 24 hours?",
+"o": [
+"3 times",
+"12 times",
+"6 times"
+],
+"n": "It triples 6 times (24 ÷ 4), so the culture ends up 3⁶ = 729 times its starting size.",
+"k": "6 times"
+},
+"sf2-057": {
+"s": "AM",
+"tp": "Errors",
+"q": "If side x of a cube has 2% error, what is the percentage error in its volume?",
+"o": [
+"8%",
+"24%",
+"6%"
+],
+"k": "6%"
+},
+"sf2-060": {
+"s": "AM",
+"tp": "Circles",
+"q": "A circular track has radius 45 m. What distance does an athlete cover in 3 laps?",
+"o": [
+"540π m",
+"270π m",
+"150π m"
+],
+"k": "270π m"
+},
+"sf2-062": {
+"s": "AM",
+"tp": "Ratio",
+"q": "Lucy and Joy share $4,500 in ratio 5:4. Lucy gives half her share to Joy. How much does Lucy have now?",
+"o": [
+"$2,560",
+"$2,250",
+"$1,250"
+],
+"k": "$1,250"
+},
+"sf2-063": {
+"s": "AM",
+"tp": "Rates",
+"q": "A pendulum swings with period 1.5s. How many swings in 6 minutes?",
+"o": null,
+"k": "240 swings"
+},
+"sf2-064": {
+"s": "AM",
+"tp": "Scale",
+"q": "A map scale is 1:25,000. If two towns are 8cm apart on the map, what is the actual distance in km?",
+"o": [
+"0.5km",
+"2km",
+"4km"
+],
+"k": "2km"
+},
+"sf2-065": {
+"s": "DA",
+"tp": "Correlation",
+"q": "A sample correlation coefficient is 0.75. What percentage of variation is explained?",
+"o": [
+"34.56%",
+"84.68%",
+"56.25%"
+],
+"k": "56.25%"
+},
+"sf2-074": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "The angle of elevation from 30m away to a tower's top is 45°. What is the tower's height?",
+"o": null,
+"k": "30 meters"
+},
+"sf2-077": {
+"s": "AM",
+"tp": "Scale",
+"q": "A model car is 1:18 scale. If the real car is 4.5m long, how long is the model?",
+"o": [
+"15cm",
+"30 cm",
+"25cm"
+],
+"k": "25cm"
+},
+"sf2-078": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The derivative of f(x) = cos 3x is ___",
+"o": null,
+"k": "−3 sin 3x"
+},
+"sf2-083": {
+"s": "AM",
+"tp": "Speed, distance, time",
+"q": "A train travels at 72 km/h. How many meters does it cover in 25 seconds?",
+"o": [
+"0.5m",
+"500m",
+"50m"
+],
+"k": "500m"
+},
+"sf2-085": {
+"s": "AM",
+"tp": "Chemistry calculations",
+"q": "If a reaction yields 36g NaCl from 20g reactants but the theoretical is 40g, what is the percentage yield?",
+"o": [
+"70%",
+"90%",
+"50%"
+],
+"k": "90%"
+},
+"sf2-086": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A car's distance is s(t) = 3t² − 6t. Find distance at t = 4.",
+"o": null,
+"k": "24 meters"
+},
+"sf2-089": {
+"s": "AM",
+"tp": "Integration",
+"q": "The marginal revenue function is MR(x) = 100 - 2x. What is the total revenue from x = 0 to x = 4?",
+"o": [
+"286",
+"198",
+"384"
+],
+"k": "384"
+},
+"sf2-093": {
+"s": "AM",
+"tp": "Volume",
+"q": "A military underground bunker measures 20 cm by 15 cm by 10 cm. What is its volume in cubic centimetres?",
+"o": null,
+"k": "3,000 cm³"
+},
+"sf2-182": {
+"s": "AM",
+"tp": "Linear algebra",
+"q": "The eigenvalues of a matrix are 5 and -1. What is its determinant?",
+"o": null,
+"k": "−5"
+},
+"sf2-183": {
+"s": "AM",
+"tp": "Trigonometry",
+"q": "From an 80m tower, the angle of depression to a car is 45°. How far is the car?",
+"o": null,
+"k": "80m"
+},
+"sf2-184": {
+"s": "AM",
+"tp": "Errors",
+"q": "The relative error for a measurement of 400 ± 0.5 cm is:",
+"o": [
+"12.5%",
+"0.125%",
+"1.25%"
+],
+"k": "0.125%"
+},
+"sf2-188": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "The height of a rocket is given by h(t) = −5t² + 100t. When does it hit the ground?",
+"o": [
+"10s",
+"20s",
+"40s"
+],
+"k": "20s"
+},
+"sf2-189": {
+"s": "AM",
+"tp": "Dilution",
+"q": "A drug solution is diluted from 40 mg/mL to 10 mg/mL. If the final volume is 100 mL, what was the initial volume taken?",
+"o": [
+"30mL",
+"25mL",
+"10mL"
+],
+"k": "25mL"
+}
+}

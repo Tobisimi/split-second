@@ -1,0 +1,34 @@
+{
+ "code": "qf2",
+ "video": "s2aWBH5Fk0o",
+ "match": "FUTA v LAUTECH",
+ "stage": "qf",
+ "qb_top": "FUTA",
+ "qb_bottom": "LAUTECH",
+ "bm_top": "FUTA",
+ "bm_bottom": "LAUTECH",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "DA"
+ },
+ "quarter_starts": {
+  "QB": [
+   1309,
+   1459,
+   1600,
+   1747
+  ],
+  "BM": [
+   2078,
+   2204
+  ]
+ },
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/26-qf2.json",
+   "bank/review/26-qf2.json"
+  ]
+ ],
+ "out": "bank/master/26-qf2.json"
+}

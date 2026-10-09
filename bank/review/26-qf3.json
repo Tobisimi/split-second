@@ -1,0 +1,898 @@
+{
+"qf3-001": {
+"skip": true
+},
+"qf3-002": {
+"skip": true
+},
+"qf3-003": {
+"skip": true
+},
+"qf3-004": {
+"skip": true
+},
+"qf3-021": {
+"skip": true
+},
+"qf3-142": {
+"skip": true
+},
+"qf3-143": {
+"skip": true
+},
+"qf3-144": {
+"skip": true
+},
+"qf3-145": {
+"skip": true
+},
+"qf3-005": {
+"s": "DA",
+"tp": "Stem-and-leaf",
+"q": "In a stem-and-leaf plot, stem 5 with leaves 1, 3, 8 represents what numbers?",
+"k": "51, 53, 58"
+},
+"qf3-007": {
+"s": "DA",
+"tp": "Outliers"
+},
+"qf3-008": {
+"s": "DA",
+"tp": "Probability",
+"k": "5/36"
+},
+"qf3-009": {
+"s": "GK",
+"tp": "Science",
+"o": [
+"Christian Happi",
+"Maurice Iwu",
+"Philip Emeagwali"
+]
+},
+"qf3-010": {
+"s": "GK",
+"tp": "Agriculture",
+"q": "Ethiopia's Enset plant is traditionally used for what?"
+},
+"qf3-014": {
+"s": "GK",
+"tp": "Science",
+"n": "Sydney Brenner's 2002 Nobel Prize was for work on organ development and programmed cell death, not IVF; the IVF prize went to Robert Edwards in 2010."
+},
+"qf3-018": {
+"s": "AM",
+"tp": "Interest",
+"q": "A perpetuity pays ₦5,000 yearly at 8% interest. What is its present value?",
+"k": "₦62,500"
+},
+"qf3-019": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Find the derivative of f(x) = 4x³ − 2x² + x at x = 1.",
+"k": "9"
+},
+"qf3-020": {
+"s": "AM",
+"tp": "Linear algebra",
+"q": "The eigenvalues of a 2 × 2 matrix are 3 and −2. What is the trace of the matrix?",
+"o": [
+"1",
+"−1",
+"−3"
+],
+"k": "1"
+},
+"qf3-022": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "₦8,000 grows to ₦9,600 in 4 years with simple interest. What is the annual rate?"
+},
+"qf3-023": {
+"s": "GK",
+"tp": "Culture",
+"k": "Manhood and identity"
+},
+"qf3-024": {
+"s": "GK",
+"tp": "Music"
+},
+"qf3-025": {
+"s": "AM",
+"tp": "Rates",
+"q": "What is the heartbeat of a cyclist who rides for 5/6 hours at a constant heart rate of 200 bpm?",
+"k": "9,996 beats",
+"a": "10,000 beats",
+"t": "d",
+"n": "5/6 of an hour is exactly 50 minutes, so 50 × 200 = 10,000 beats. The show's 9,996 comes from rounding 5/6 to 0.833."
+},
+"qf3-029": {
+"s": "GK",
+"tp": "History",
+"q": "Which African leader introduced the idea of the \"United States of Africa\"?"
+},
+"qf3-030": {
+"s": "DA",
+"tp": "Combinations",
+"q": "How many 5-bit numbers have exactly three 0s?",
+"o": null,
+"k": "10",
+"n": "Choose the 3 positions for the 0s: 5C3 = 10. The options shown (6, 15, 12) didn't include the show's answer."
+},
+"qf3-031": {
+"s": "GK",
+"tp": "Culture"
+},
+"qf3-032": {
+"s": "AM",
+"tp": "Errors",
+"q": "Find the absolute error if the actual value is 120 and the measured value is 115.",
+"k": "5"
+},
+"qf3-034": {
+"s": "DA",
+"tp": "Relative frequency",
+"q": "A histogram's bin (20–30) has frequency 15. If the total number of observations is 150, what is its relative frequency?"
+},
+"qf3-035": {
+"s": "AM",
+"tp": "Stoichiometry",
+"q": "In the reaction 2H₂ + O₂ → 2H₂O, how many grams of water are produced from 10g of H₂?",
+"o": [
+"45g",
+"180g",
+"90g"
+],
+"k": "90g"
+},
+"qf3-036": {
+"s": "VR",
+"tp": "Coding",
+"k": "3",
+"n": "The code counts vowels: STUDENT has 2, LECTURER 3 and TEACHER 3 (E, A, E)."
+},
+"qf3-037": {
+"skip": true
+},
+"qf3-039": {
+"s": "GK",
+"tp": "Film"
+},
+"qf3-041": {
+"s": "VR",
+"tp": "Coding",
+"q": "If 'RUG' is coded as 'SVH', what is the code for 'BAT'?"
+},
+"qf3-042": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"qf3-045": {
+"s": "AM",
+"tp": "Mensuration",
+"q": "Containing 360 cm³ volume, a box measures 12 cm long and 5 cm wide. How tall is it?",
+"k": "6cm"
+},
+"qf3-046": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Mitochondria is to Cell as Kernel is to...\""
+},
+"qf3-047": {
+"s": "GK",
+"tp": "Technology"
+},
+"qf3-048": {
+"s": "VR",
+"tp": "Analogies"
+},
+"qf3-049": {
+"s": "DA",
+"tp": "Probability",
+"o": [
+"4/256",
+"21/456",
+"91/216"
+],
+"k": "91/216"
+},
+"qf3-053": {
+"s": "AM",
+"tp": "Vectors",
+"k": "13"
+},
+"qf3-055": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Topology\" is to \"Surfaces\" as \"Numismatics\" is to:"
+},
+"qf3-056": {
+"s": "AM",
+"tp": "Scale",
+"q": "Determine the production engine's displacement from its 1:5 scale model displacing 8 cm³.",
+"k": "1 litre (1,000 cm³)"
+},
+"qf3-057": {
+"s": "VR",
+"tp": "Riddles"
+},
+"qf3-059": {
+"s": "AM",
+"tp": "Kinematics",
+"k": "1 m/s²"
+},
+"qf3-060": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Dog\" is to \"Puppy\" as \"Kangaroo\" is to:"
+},
+"qf3-061": {
+"s": "DA",
+"tp": "Permutations",
+"n": "Gold and bronze are two different places, so 15 × 14 = 210."
+},
+"qf3-062": {
+"s": "DA",
+"tp": "Totals",
+"q": "A bar chart shows monthly expenses: Rent (₦50,000), Food (₦30,000), Transport (₦20,000). What is the total expense?",
+"k": "₦100,000"
+},
+"qf3-063": {
+"s": "AM",
+"tp": "Errors",
+"q": "If the actual measurement is 25.0 m and the measured value is 24.1 m, what is the percentage error?"
+},
+"qf3-068": {
+"s": "GK",
+"tp": "Sport"
+},
+"qf3-071": {
+"s": "AM",
+"tp": "Integration",
+"k": "132"
+},
+"qf3-072": {
+"s": "DA",
+"tp": "Mean",
+"q": "Four siblings' average age is 22. Three are 20, 24 and 25. What is the fourth's age?"
+},
+"qf3-074": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "How many years will it take for ₦15,000 to earn ₦3,000 at 5% simple interest?"
+},
+"qf3-075": {
+"s": "DA",
+"tp": "Counting"
+},
+"qf3-076": {
+"skip": true
+},
+"qf3-077": {
+"s": "GK",
+"tp": "Animals",
+"n": "The two species are the African savanna elephant and the African forest elephant."
+},
+"qf3-078": {
+"s": "GK",
+"tp": "Geography"
+},
+"qf3-079": {
+"s": "GK",
+"tp": "Geography"
+},
+"qf3-080": {
+"s": "GK",
+"tp": "History"
+},
+"qf3-081": {
+"s": "GK",
+"tp": "Culture"
+},
+"qf3-082": {
+"s": "GK",
+"tp": "Music"
+},
+"qf3-083": {
+"s": "GK",
+"tp": "Agriculture",
+"q": "Which country is recognised as the world's largest exporter of shea butter?",
+"n": "Nigeria is the largest producer of shea nuts; export rankings vary, and Ghana and Burkina Faso are also often named. The show took Nigeria."
+},
+"qf3-084": {
+"s": "GK",
+"tp": "History",
+"q": "During Egypt's 25th dynasty, the black pharaohs ruled from which Nubian city?"
+},
+"qf3-085": {
+"s": "GK",
+"tp": "Economics",
+"q": "What is the name shared by the currency unit of Algeria and Tunisia?"
+},
+"qf3-086": {
+"s": "GK",
+"tp": "Geography"
+},
+"qf3-087": {
+"s": "GK",
+"tp": "Science"
+},
+"qf3-088": {
+"s": "GK",
+"tp": "Technology"
+},
+"qf3-089": {
+"s": "GK",
+"tp": "Health"
+},
+"qf3-090": {
+"s": "GK",
+"tp": "Geography"
+},
+"qf3-091": {
+"s": "GK",
+"tp": "Health",
+"k": "Thyroid gland",
+"n": "The compound is iodine; most of the body's iodine is held in the thyroid gland."
+},
+"qf3-092": {
+"s": "GK",
+"tp": "Health"
+},
+"qf3-093": {
+"s": "GK",
+"tp": "Health",
+"k": "Larynx (voice box)"
+},
+"qf3-094": {
+"s": "GK",
+"tp": "Mathematics",
+"k": "Infinity sign (∞)"
+},
+"qf3-095": {
+"s": "GK",
+"tp": "Politics",
+"k": "Hakainde Hichilema"
+},
+"qf3-096": {
+"s": "VR",
+"tp": "Directions"
+},
+"qf3-097": {
+"s": "VR",
+"tp": "Directions",
+"k": "North-West"
+},
+"qf3-098": {
+"s": "VR",
+"tp": "Blood relations",
+"q": "If M is N's father, and O is N's sister, how is O related to M?"
+},
+"qf3-099": {
+"s": "VR",
+"tp": "Riddles",
+"q": "I have cities but no houses, forests but no trees, and rivers but no water. What am I?"
+},
+"qf3-100": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"qf3-101": {
+"s": "VR",
+"tp": "Coding",
+"q": "If each letter moves back 1 position, what is \"TEST\"?"
+},
+"qf3-102": {
+"s": "VR",
+"tp": "Directions",
+"n": "Each direction is turned 135° anticlockwise: North-West becomes South."
+},
+"qf3-103": {
+"s": "VR",
+"tp": "Directions",
+"q": "At 3 PM, your shadow falls north-east. Which direction are you facing?",
+"k": "South-West",
+"n": "At 3 PM the sun is in the south-west, so the shadow points north-east; the show assumes you face the sun."
+},
+"qf3-104": {
+"s": "VR",
+"tp": "Riddles",
+"q": "You see a boat filled with people. It has not sunk, but when you look again, you don't see a single person on the boat. Why?"
+},
+"qf3-105": {
+"s": "VR",
+"tp": "Letter series",
+"q": "What will come next in the series: Z, X, U, Q, ...?",
+"n": "The gaps grow by one each time (2, 3, 4, 5), so next is 5 back from Q: L."
+},
+"qf3-106": {
+"s": "VR",
+"tp": "Directions"
+},
+"qf3-107": {
+"s": "VR",
+"tp": "Riddles",
+"n": "If tomorrow were yesterday, today would be two days later than it really is. Two days after Thursday is Saturday."
+},
+"qf3-108": {
+"s": "VR",
+"tp": "Odd one out",
+"q": "Which is not a data structure: Array, Tree, Graph, Java?",
+"k": "Java"
+},
+"qf3-109": {
+"s": "VR",
+"tp": "Blood relations"
+},
+"qf3-110": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"The Interpretation of Dreams\" is to \"Freud\" as \"The Structure of Scientific Revolutions\" is to"
+},
+"qf3-111": {
+"s": "AM",
+"tp": "Depreciation",
+"q": "A car's value depreciates by 10% per year. If bought for ₦3,000,000, its value after 2 years is ____",
+"o": [
+"₦2,430,000",
+"₦2,400,000",
+"₦2,500,000"
+],
+"k": "₦2,430,000"
+},
+"qf3-112": {
+"s": "AM",
+"tp": "Expected value"
+},
+"qf3-113": {
+"s": "AM",
+"tp": "Half-life",
+"o": [
+"1/2",
+"1/4",
+"1/8"
+],
+"k": "1/8"
+},
+"qf3-114": {
+"s": "AM",
+"tp": "Regression"
+},
+"qf3-115": {
+"s": "AM",
+"tp": "Expected value"
+},
+"qf3-116": {
+"s": "AM",
+"tp": "Transformations",
+"o": [
+"(−3, −4)",
+"(3, −6)",
+"(−3, 2)"
+],
+"k": "(−3, −4)"
+},
+"qf3-117": {
+"s": "AM",
+"tp": "Linear algebra",
+"o": [
+"All 0",
+"All 1",
+"1 and −1"
+],
+"k": "All 1"
+},
+"qf3-118": {
+"s": "AM",
+"tp": "Coordinate geometry",
+"q": "What is the distance between the points (−2, 3) and (4, −1)?",
+"o": [
+"√13",
+"4√13",
+"2√13"
+],
+"k": "2√13"
+},
+"qf3-119": {
+"s": "AM",
+"tp": "Percentages",
+"q": "If a person's heart rate increases from 65 bpm to 100 bpm, what is the percentage increase?",
+"n": "35 ÷ 65 ≈ 53.8%, which rounds to 54%."
+},
+"qf3-120": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "A projectile's height is h(t) = −4.5t² + 24t. What is its maximum height?"
+},
+"qf3-121": {
+"s": "AM",
+"tp": "Rates",
+"q": "Gbenga is earning $36 per hour making pancakes. How much is he earning in cents per second?",
+"k": "1 cent/s"
+},
+"qf3-122": {
+"s": "AM",
+"tp": "Vectors",
+"o": [
+"±14",
+"±24",
+"±44"
+],
+"k": "±24"
+},
+"qf3-123": {
+"s": "AM",
+"tp": "Exponential growth"
+},
+"qf3-124": {
+"s": "AM",
+"tp": "Linear algebra",
+"o": [
+"4",
+"−3",
+"6"
+],
+"k": "−3"
+},
+"qf3-125": {
+"s": "AM",
+"tp": "Vectors",
+"q": "The dot product of the force vector F = (3, 4) N and the displacement vector d = (5, −2) m is ____",
+"o": [
+"7J",
+"15J",
+"23J"
+],
+"k": "7J"
+},
+"qf3-126": {
+"s": "DA",
+"tp": "Probability"
+},
+"qf3-127": {
+"s": "DA",
+"tp": "Probability",
+"q": "If P(A) = 0.6 and P(B) = 0.3, assuming independence, P(A and B) = ____"
+},
+"qf3-128": {
+"s": "DA",
+"tp": "Median"
+},
+"qf3-129": {
+"s": "DA",
+"tp": "Combinations"
+},
+"qf3-130": {
+"s": "DA",
+"tp": "Probability",
+"q": "P(late | rain) = 0.7 and P(rain) = 0.2. What is P(rain and late)?"
+},
+"qf3-131": {
+"s": "DA",
+"tp": "Probability",
+"a": "1/2",
+"t": "d",
+"n": "AFRICA has 6 letters and 3 of them are vowels (A, I, A), so the probability is 3/6 = 1/2. The show's 1/3 looks wrong."
+},
+"qf3-132": {
+"s": "DA",
+"tp": "Standard deviation",
+"o": [
+"0",
+"1",
+"4"
+],
+"k": "0"
+},
+"qf3-133": {
+"s": "DA",
+"tp": "Normal distribution",
+"q": "In a normal distribution, roughly what percentage lies within two standard deviations of the mean?",
+"k": "95.45%"
+},
+"qf3-134": {
+"s": "DA",
+"tp": "Combinations",
+"n": "Choosing 4 non-consecutive numbers from 1 to 20 is the same as choosing 4 from 17: 17C4 = 2,380."
+},
+"qf3-135": {
+"s": "DA",
+"tp": "Binomial distribution"
+},
+"qf3-136": {
+"s": "DA",
+"tp": "z-scores",
+"o": [
+"4",
+"2",
+"3"
+]
+},
+"qf3-137": {
+"s": "DA",
+"tp": "Expected value",
+"o": [
+"2.5",
+"4.5",
+"3.5"
+]
+},
+"qf3-138": {
+"s": "DA",
+"tp": "Regression",
+"k": "Predictions"
+},
+"qf3-139": {
+"s": "DA",
+"tp": "Coefficient of variation",
+"q": "A dataset has mean 80 and coefficient of variation 10%. What is the standard deviation?"
+},
+"qf3-140": {
+"s": "DA",
+"tp": "Correlation",
+"q": "A scatterplot of 10 observations yields a regression R² = 0.64. What is the correlation coefficient r?",
+"o": [
+"−0.9",
+"−0.8",
+"0.8"
+],
+"n": "R² = 0.64 gives r = ±0.8; without the direction of the trend, −0.8 is just as possible. The show took 0.8."
+},
+"qf3-141": {
+"s": "DA",
+"tp": "Distributions"
+},
+"qf3-006": {
+"s": "DA",
+"tp": "Permutations",
+"q": "Arranging 5 distinct vases on a shelf, how many possible arrangements are there?",
+"o": [
+"60",
+"100",
+"120"
+],
+"k": "120"
+},
+"qf3-011": {
+"s": "AM",
+"tp": "Percentages",
+"q": "If 70% of light is absorbed from an intensity of 250 W/m², what intensity is transmitted?",
+"o": null,
+"k": "75 W/m²"
+},
+"qf3-012": {
+"s": "AM",
+"tp": "Units",
+"q": "A vehicle covers 120km in 2 hours. What is its speed in meters per second?",
+"o": [
+"15.50 m/s",
+"16.67 m/s",
+"18.58 m/s"
+],
+"k": "16.67 m/s"
+},
+"qf3-013": {
+"s": "AM",
+"tp": "Algebra",
+"q": "The sum of three consecutive even integers is 102. Find the largest number.",
+"o": null,
+"k": "36"
+},
+"qf3-015": {
+"s": "AM",
+"tp": "Proportion",
+"q": "A cake needs 80 cups of flour and 15 eggs. How many eggs will be required to make 70 of those cakes?",
+"o": null,
+"k": "1,050 eggs"
+},
+"qf3-016": {
+"s": "AM",
+"tp": "Vectors",
+"q": "An object shifts 3 units east and 4 units north. What is the magnitude of this movement?",
+"o": null,
+"k": "5 units"
+},
+"qf3-017": {
+"s": "AM",
+"tp": "Integration",
+"q": "The marginal cost of producing x items is given by MC(x) = 2x + 5. Find the cost of producing the first 10 items.",
+"o": [
+"150",
+"300",
+"75"
+],
+"k": "150"
+},
+"qf3-026": {
+"s": "AM",
+"tp": "Ratio",
+"q": "A hospital has a 5:2 ratio of nurses to doctors. If there are 600 nurses, how many doctors are there?",
+"o": null,
+"k": "240 doctors"
+},
+"qf3-027": {
+"s": "AM",
+"tp": "Calculus",
+"q": "The cost C(x) = 200 + 4x + 12x². Find the marginal cost at x = 20.",
+"o": [
+"246",
+"126",
+"484"
+],
+"k": "484"
+},
+"qf3-028": {
+"s": "VR",
+"tp": "Letter series",
+"q": "Complete the series PJB, MGC, JDD, ____",
+"o": [
+"GAE",
+"FBC",
+"HAD"
+],
+"n": "First letters go back 3 (P, M, J, G), middle letters go back 3 (J, G, D, A) and last letters go forward 1 (B, C, D, E). The show's answer bar wasn't captured.",
+"k": "GAE"
+},
+"qf3-033": {
+"s": "DA",
+"tp": "Counting",
+"q": "A password requires 1 letter followed by 1 digit (no repeats allowed). How many possible passwords exist?",
+"o": [
+"520",
+"340",
+"260"
+],
+"k": "260 passwords"
+},
+"qf3-038": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A car accelerates from 0 to 60 mph (26.8 m/s) in 6 seconds. Find its acceleration in m/s².",
+"o": [
+"8.48 m/s²",
+"6.77 m/s²",
+"4.47 m/s²"
+],
+"k": "4.47 m/s²"
+},
+"qf3-040": {
+"s": "AM",
+"tp": "Electricity",
+"q": "A transformer steps down 220V to 22V. If the primary coil has 1,000 turns, how many turns does the secondary have?",
+"o": [
+"200 turns",
+"300 turns",
+"100 turns"
+],
+"k": "100 turns"
+},
+"qf3-043": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "The profit P(q) = −2q² + 100q − 200. Find the quantity for maximum profit.",
+"o": [
+"30 units",
+"25 units",
+"50 units"
+],
+"k": "25 units"
+},
+"qf3-044": {
+"s": "AM",
+"tp": "Rates",
+"q": "A printer produces 24 pages in 8 minutes. How long will it take to print 60 pages?",
+"o": null,
+"k": "20 minutes"
+},
+"qf3-050": {
+"s": "AM",
+"tp": "Units",
+"q": "If Muyiwa's heart rate is 660 beats per minute, what is his heart rate in beats per second?",
+"o": [
+"11 bps",
+"0.11 bps",
+"110 bps"
+],
+"k": "11 bps"
+},
+"qf3-051": {
+"s": "AM",
+"tp": "Scale",
+"q": "A drone model is made at a 1:15 scale. If the model's wingspan is 30cm, what is the actual wingspan?",
+"o": null,
+"k": "450cm or 4.5m"
+},
+"qf3-052": {
+"s": "AM",
+"tp": "Percentages",
+"q": "How many grams of phenol should be used to prepare 640g of 1% solution in water?",
+"o": null,
+"k": "6.4 g"
+},
+"qf3-054": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "A city's population grows at 3% per year. How long until it doubles?",
+"o": [
+"23 years",
+"15 years",
+"30 years"
+],
+"n": "Doubling time at 3% is ln 2 ÷ ln 1.03 ≈ 23.4 years (the rule of 72 gives 72 ÷ 3 = 24).",
+"k": "23 years"
+},
+"qf3-058": {
+"s": "AM",
+"tp": "Ratio",
+"q": "A recipe calls for a 2:3 sugar-to-flour ratio. If 5 cups of sugar are used, how much flour is needed?",
+"o": null,
+"k": "7.5 cups"
+},
+"qf3-064": {
+"s": "AM",
+"tp": "Exponential growth",
+"q": "A bacterial culture doubles every 3 hours. After 15 hours it reaches 10,000 cells. What was the initial population?",
+"o": [
+"214 cells",
+"312.5 cells",
+"345 cells"
+],
+"k": "312.5 cells"
+},
+"qf3-065": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A ball thrown upward follows h(t) = −5t² + 25t. When does it reach its maximum height?",
+"o": null,
+"k": "2.5 seconds"
+},
+"qf3-066": {
+"s": "AM",
+"tp": "Pressure",
+"q": "A force of 300 N acts on an area of 0.5 m². Find the pressure in pascals.",
+"o": null,
+"k": "600Pa"
+},
+"qf3-067": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "The profit function f(x) = −2x² + 16x + 20 models earnings. What is the maximum profit?",
+"o": [
+"44",
+"68",
+"52"
+],
+"k": "52"
+},
+"qf3-069": {
+"s": "AM",
+"tp": "Vectors",
+"q": "Two vectors A = (10, 1) and B = (-6, 2) are added. What is the magnitude of their resultant?",
+"o": null,
+"a": "5",
+"t": "c",
+"n": "Confirmed when the show used this question in another match."
+},
+"qf3-070": {
+"s": "AM",
+"tp": "Rates",
+"q": "If a patient breathes 15 times per minute, how many breaths in 2 hours?",
+"o": [
+"5,400 breaths",
+"1,800 breaths",
+"3,600 breaths"
+],
+"k": "1,800 breaths"
+},
+"qf3-073": {
+"s": "AM",
+"tp": "Errors",
+"q": "The measured value is 4.8, actual is 5.0. What is the relative error?",
+"o": [
+"4%",
+"2%",
+"8%"
+],
+"k": "4%"
+}
+}
