@@ -3,6 +3,8 @@
 // captures a composite crop every cfg.periodic s of media time while a question is on screen, plus one capture
 // ~0.25 s after each green answer bar appears, plus 2 end-of-quarter cards. Skips non-quiz stretches by seeking.
 // Pilot (5 Oct 2026, LNb9hDxcp1o): 2x real time, ~1 MB per quiz minute, 132 frames / 5.5 min of video.
+// v3.2 (9 Oct): recovers from a stalled stream (seek back, then reload the video at the same time) instead of
+//   reading the same stale frame; seeks wait for real frame data before the layout is checked.
 // v3.1 (7 Oct): pauses while the tab is hidden and resumes when it is visible again.
 // v3 (5 Oct night): answer bar captured the moment it is seen (+1 more 0.6 s later); periodic 1.5 s.
 // v2 (5 Oct): waits out ads, logs video height per frame (lowQ count), __udSave waits for pending encodes,
@@ -22,7 +24,12 @@
   const adOn = () => !!(p && p.classList.contains('ad-showing'));
   const trySkipAd = () => { const b = document.querySelector('.ytp-skip-ad-button, .ytp-ad-skip-button, .ytp-ad-skip-button-modern'); if (b) b.click(); };
   async function waitAds(S) { let n = 0; while (adOn() && n < 240) { if (n === 0) S.log.push('ad at ' + v.currentTime.toFixed(1)); v.muted = true; trySkipAd(); await sleep(500); n++; } if (n) S.adWaits = (S.adWaits || 0) + 1; }
-  async function seek(t) { p.seekTo(t, true); for (let i=0; i<50 && (Math.abs(v.currentTime-t)>0.4 || v.readyState<2); i++) await sleep(120); await sleep(200); }
+  async function reload(t, play) { const id = p.getVideoData().video_id; p.loadVideoById(id, Math.max(0, t));
+    for (let i=0; i<160 && !(v.readyState>=2 && Math.abs(v.currentTime-t)<3); i++) await sleep(250);
+    try { p.setPlaybackQualityRange('hd1080','hd1080'); } catch (e) {} v.muted = true; if (play) p.playVideo(); else p.pauseVideo(); }
+  async function seek(t, S) { p.seekTo(t, true); for (let i=0; i<50 && (Math.abs(v.currentTime-t)>0.4 || v.readyState<2); i++) await sleep(120);
+    for (let i=0; i<60 && v.readyState<2; i++) await sleep(250);
+    if (v.readyState<2) { if (S) S.log.push('reload (seek) at ' + t.toFixed(1)); await reload(t, false); } await sleep(200); }
   window.__udStart = (opts = {}) => {
     const S = window.__ud = { items: [], bytes: 0, log: [], done: false, running: true, pending: 0 };
     S.cfg = Object.assign({ rate: 2, periodic: 1.5, scale: 0.75, q: 0.68, windows: [[0, v.duration]], searchAfter: 8, searchStep: 6, maxBytes: 380e6 }, opts);
@@ -52,12 +59,17 @@
       v.requestVideoFrameCallback(onFrame);
     }
     (async () => { S.t0 = performance.now();
-      for (let w = 0; w < S.cfg.windows.length; w++) { const [ws, we] = S.cfg.windows[w]; st.win = w; p.pauseVideo(); await waitAds(S); await seek(ws); await waitAds(S); st.lastProc = -1; st.lastBox = ws; st.wasBox = false; v.playbackRate = S.cfg.rate; p.playVideo(); await sleep(300); v.playbackRate = S.cfg.rate;
-        while (S.running) { await sleep(250); if (document.hidden) { if (!S.hid) { S.hid = 1; p.pauseVideo(); S.log.push('hidden at ' + v.currentTime.toFixed(1)); } continue; } if (S.hid) { S.hid = 0; S.log.push('visible at ' + v.currentTime.toFixed(1)); st.lastBox = v.currentTime; st.lastProc = -1; v.playbackRate = S.cfg.rate; p.playVideo(); } if (adOn()) { await waitAds(S); continue; } const t = v.currentTime; if (v.playbackRate !== S.cfg.rate) v.playbackRate = S.cfg.rate; if (t >= we || v.ended) break;
+      for (let w = 0; w < S.cfg.windows.length; w++) { const [ws, we] = S.cfg.windows[w]; st.win = w; p.pauseVideo(); await waitAds(S); await seek(ws, S); await waitAds(S); st.lastProc = -1; st.lastBox = ws; st.wasBox = false; v.playbackRate = S.cfg.rate; p.playVideo(); await sleep(300); v.playbackRate = S.cfg.rate;
+        while (S.running) { await sleep(250); if (document.hidden) { if (!S.hid) { S.hid = 1; p.pauseVideo(); S.log.push('hidden at ' + v.currentTime.toFixed(1)); } continue; } if (S.hid) { S.hid = 0; S.log.push('visible at ' + v.currentTime.toFixed(1)); st.lastBox = v.currentTime; st.lastProc = -1; v.playbackRate = S.cfg.rate; p.playVideo(); S.lastMove = performance.now(); } if (adOn()) { await waitAds(S); S.lastMove = performance.now(); continue; } const t = v.currentTime; if (v.playbackRate !== S.cfg.rate) v.playbackRate = S.cfg.rate; if (t >= we || v.ended) break;
+          if (t > (S.lastT || 0) + 0.05 || t < (S.lastT || 0) - 1) { S.lastT = t; S.lastMove = performance.now(); }
+          else if (performance.now() - (S.lastMove || performance.now()) > 12000) { S.lastMove = performance.now(); S.stalls = (S.stalls || 0) + 1; S.log.push('stall at ' + t.toFixed(1));
+            p.seekTo(Math.max(ws, t - 1), true); p.playVideo(); let moved = false; for (let i=0; i<40; i++) { await sleep(250); if (v.currentTime > t + 0.3) { moved = true; break; } }
+            if (!moved) { S.log.push('reload at ' + t.toFixed(1)); await reload(t - 1, true); v.playbackRate = S.cfg.rate; v.requestVideoFrameCallback(onFrame); }
+            st.lastBox = v.currentTime; st.lastProc = -1; S.lastT = v.currentTime; S.lastMove = performance.now(); continue; }
           if (st.mode === 'play' && t - st.lastBox > S.cfg.searchAfter && !st.cards.length) { st.mode = 'search'; p.pauseVideo(); let T = t, found = false; S.log.push('search from ' + t.toFixed(1));
-            while (T + S.cfg.searchStep < we) { T += S.cfg.searchStep; await seek(T); while (document.hidden) await sleep(1000); if (analyze().lay !== 'none') { found = true; break; } }
+            while (T + S.cfg.searchStep < we) { T += S.cfg.searchStep; await seek(T, S); while (document.hidden) await sleep(1000); if (analyze().lay !== 'none') { found = true; break; } }
             if (!found) { st.mode = 'play'; break; }
-            await seek(Math.max(ws, T - S.cfg.searchStep)); st.lastBox = v.currentTime; st.lastProc = -1; st.mode = 'play'; v.playbackRate = S.cfg.rate; p.playVideo(); S.log.push('found box near ' + T.toFixed(1)); } } }
+            await seek(Math.max(ws, T - S.cfg.searchStep), S); st.lastBox = v.currentTime; st.lastProc = -1; st.mode = 'play'; v.playbackRate = S.cfg.rate; p.playVideo(); S.log.push('found box near ' + T.toFixed(1)); S.lastMove = performance.now(); } } }
       p.pauseVideo(); S.running = false; S.wall = (performance.now() - S.t0) / 1000; S.done = true; })();
     v.requestVideoFrameCallback(onFrame); return { started: true, quality: p.getPlaybackQuality(), duration: v.duration };
   };
