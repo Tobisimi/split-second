@@ -379,7 +379,12 @@
 "s": "AM",
 "tp": "Calculus",
 "q": "Find the average rate of change of f(x) = x² − 5x on [1, 4]",
-"k": "0"
+"k": "0",
+"o": [
+"1",
+"0",
+"2"
+]
 },
 "qf1-078": {
 "s": "GK",

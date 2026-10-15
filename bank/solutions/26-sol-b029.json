@@ -1,0 +1,401 @@
+{
+ "26-qf1-qb-1455": {
+  "solution": "Breaths = rate × time. Two hours is 2 × 60 = 120 minutes, so breaths = 15 × 120 = 1,800. So the patient takes 1,800 breaths.",
+  "trick": "15 × 60 = 900 breaths an hour, so two hours is 1,800. The other options are 6 hours (5,400) and 4 hours (3,600).",
+  "check": "agree",
+  "computed": "1,800 breaths",
+  "accept": [
+   "1800",
+   "1,800",
+   "1800 breaths",
+   "1,800 breaths"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1460": {
+  "solution": "The total cost is the integral of the marginal cost from 0 to 6, taking the fixed cost as zero. ∫ from 0 to 6 of (6x + 4) dx = [3x² + 4x] from 0 to 6 = 3(36) + 4(6) = 108 + 24 = 132. So the total cost is 132.",
+  "trick": "MC is a straight line, so total cost = items × average MC. MC(0) = 4 and MC(6) = 40, so the average is 22, and 6 × 22 = 132.",
+  "check": "agree",
+  "computed": "132",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf1-qb-1464": {
+  "solution": "Relative error = absolute error ÷ actual value. The absolute error is |4.8 − 5.0| = 0.2. So the relative error is 0.2 ÷ 5.0 = 0.04, which is 4%.",
+  "trick": "1% of 5 is 0.05, and the error 0.2 is four of those. So 4%.",
+  "check": "agree",
+  "computed": "4%",
+  "accept": [
+   "4",
+   "4 %",
+   "4 percent",
+   "4 per cent",
+   "0.04"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1475": {
+  "solution": "At 25°C, pH + pOH = 14, so pH = 14 − 10 = 4. The hydrogen ion concentration is 10 raised to the power of −pH, so [H⁺] = 10⁻⁴ M. That is 0.0001 M.",
+  "trick": "Do 14 − 10 = 4, then write 10⁻⁴, which is 0.0001 (the 1 sits in the fourth decimal place).",
+  "check": "agree",
+  "computed": "0.0001 M (1 × 10⁻⁴ M)",
+  "accept": [
+   "0.0001",
+   "0.0001M",
+   "0.0001 M",
+   "0.0001 mol/L",
+   "1e-4",
+   "1e-4 M",
+   "1 × 10⁻⁴",
+   "1 × 10⁻⁴ M",
+   "1×10⁻⁴ M",
+   "1 × 10^-4",
+   "1 × 10^-4 M",
+   "1x10^-4",
+   "1 x 10^-4 M",
+   "10^-4",
+   "10^-4 M",
+   "10⁻⁴",
+   "10⁻⁴ M"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1487": {
+  "solution": "Average rate of change = (f(4) − f(1)) ÷ (4 − 1). Here f(1) = 1 − 5 = −4 and f(4) = 16 − 20 = −4. So the rate is (−4 − (−4)) ÷ 3 = 0 ÷ 3 = 0.",
+  "trick": "x² − 5x has roots 0 and 5, so it is symmetric about 2.5. The ends 1 and 4 are mirror points (1 + 4 = 5), so f(1) = f(4) and the rate is 0.",
+  "check": "agree",
+  "computed": "0",
+  "accept": [
+   "0",
+   "0.0",
+   "zero"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1504": {
+  "solution": "Convert to centimetres: 2 m = 200 cm. Number of books = 200 ÷ 3.2 = 62.5. Only whole books fit, so round down. The shelf holds 62 books.",
+  "trick": "Multiply both numbers by 5 to get 1000 ÷ 16. Since 1 ÷ 16 = 0.0625, that is 62.5, so 62 whole books.",
+  "check": "agree",
+  "computed": "62 books",
+  "accept": [
+   "62",
+   "62 books",
+   "sixty two",
+   "sixty two books"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1517": {
+  "solution": "The total cost is the integral of the marginal cost from 0 to 5, taking the fixed cost as zero. ∫ from 0 to 5 of (4x + 3) dx = [2x² + 3x] from 0 to 5 = 2(25) + 3(5) = 50 + 15 = 65. So the total cost is 65.",
+  "trick": "MC is a straight line, so total cost = items × average MC. MC(0) = 3 and MC(5) = 23, so the average is 13, and 5 × 13 = 65.",
+  "check": "agree",
+  "computed": "65",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf1-qb-1527": {
+  "solution": "The ratio 7:3 makes 7 + 3 = 10 parts. The second partner gets 3 parts, which is 3 ÷ 10 × 500,000 = 150,000. So the second partner receives ₦150,000.",
+  "trick": "One part is ₦500,000 ÷ 10 = ₦50,000. Three parts is ₦150,000.",
+  "check": "agree",
+  "computed": "₦150,000",
+  "accept": [
+   "150000",
+   "150,000",
+   "₦150000",
+   "N150,000",
+   "N150000",
+   "NGN150,000",
+   "NGN 150,000"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1535": {
+  "solution": "Test each number after 53. The numbers 54, 56 and 58 are even, 55 ends in 5, and 57 = 3 × 19. The number 59 is not divisible by 2, 3, 5 or 7, so it is prime. So the next prime is 59.",
+  "trick": "Cross out the evens and 55. The digits of 57 add to 12, so it is a multiple of 3. The next number, 59, is not in the 3, 5 or 7 times tables, so it is prime.",
+  "check": "agree",
+  "computed": "59",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf1-qb-1539": {
+  "solution": "Complete the square: x² − 6x + 10 = (x − 3)² + 1. A square is never negative, so the smallest value is 0 + 1, reached at x = 3. So the minimum value is 1.",
+  "trick": "Half of 6 is 3, and 3² = 9. The minimum is 10 − 9 = 1.",
+  "check": "agree",
+  "computed": "1",
+  "accept": [
+   "1.0",
+   "y = 1",
+   "f(3) = 1",
+   "min = 1"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1546": {
+  "solution": "Put x = 3 into y = √(25 − x²). Then y = √(25 − 9) = √16 = 4. So y = 4.",
+  "trick": "25 − 9 = 16, and √16 = 4. It is the 3, 4, 5 triangle with hypotenuse 5, so the missing side is 4.",
+  "check": "agree",
+  "computed": "4",
+  "accept": [
+   "4.0",
+   "y = 4"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1557": {
+  "solution": "The ball lands when its height is 0. Taking the throw from ground level, the height is s(t) = ∫ v dt = 20t − 4.9t². Setting 20t − 4.9t² = 0 gives t(20 − 4.9t) = 0, so t = 0 or t = 20 ÷ 4.9 ≈ 4.08. So the ball hits the ground after about 4.08 s.",
+  "trick": "The ball stops rising when v = 0, at t = 20 ÷ 9.8 ≈ 2.04 s. The fall takes as long as the rise, so double it: about 4.08 s. Only one option is above 4 s.",
+  "check": "agree",
+  "computed": "4.08 s",
+  "accept": [
+   "4.08",
+   "4.08s",
+   "4.08 s",
+   "4.08 sec",
+   "4.08 seconds",
+   "4.082",
+   "4.0816"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1819": {
+  "solution": "The dot product multiplies matching parts and adds them. A · B = (3)(2) + (4)(−1) = 6 − 4 = 2. So A · B = 2.",
+  "trick": "Multiply the i parts (3 × 2 = 6) and the j parts (4 × (−1) = −4), then add to get 2. The option 10 is what you get by dropping the minus sign.",
+  "check": "agree",
+  "computed": "2",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf1-bm-1824": {
+  "solution": "Work is the integral of force over distance. W = ∫ from 2 to 4 of 150x dx = [75x²] from 2 to 4 = 75(16) − 75(4) = 1,200 − 300 = 900. So the work done is 900 J.",
+  "trick": "The force rises in a straight line, so work = average force × distance. The average force is F(3) = 450, and the distance is 2 m, so 450 × 2 = 900 J.",
+  "check": "agree",
+  "computed": "900 J",
+  "accept": [
+   "900",
+   "900J",
+   "900 J",
+   "900 joules",
+   "900 joule"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1829": {
+  "solution": "Acid:water = 5:3, so water = acid × 3 ÷ 5. That is 25 × 3 ÷ 5 = 75 ÷ 5 = 15. So 15 L of water is needed.",
+  "trick": "25 L is 5 parts, so one part is 5 L. Water is 3 parts, which is 3 × 5 = 15 L.",
+  "check": "agree",
+  "computed": "15 L",
+  "accept": [
+   "15",
+   "15L",
+   "15 L",
+   "15 litres",
+   "15 liters"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1834": {
+  "solution": "Take 800 MW as the electrical output. At 30% efficiency the input is 800 ÷ 0.3 ≈ 2,667 MW, so the waste heat is 2,667 − 800 ≈ 1,867 MW. Over one hour, energy = power × time = 1,867 MW × 1 h. So the waste heat is about 1,867 MWh.",
+  "trick": "Waste ÷ output = 70 ÷ 30 = 7/3. So waste = 800 × 7/3 = 1,600 + 267 ≈ 1,867. The options 1,801 and 1,808 are too small.",
+  "check": "agree",
+  "computed": "1,867 MWh",
+  "accept": [
+   "1867",
+   "1,867",
+   "1867 MWh",
+   "1867MWh",
+   "1,867MWh",
+   "1866.67",
+   "1866.7",
+   "1866.67 MWh",
+   "1866.7 MWh"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1841": {
+  "solution": "Put x = 40 into P(x) = −x² + 200x − 100. P(40) = −1,600 + 8,000 − 100 = 6,300. So the profit is 6,300.",
+  "trick": "Write −x² + 200x as x(200 − x), which is 40 × 160 = 6,400. Then subtract 100 to get 6,300.",
+  "check": "agree",
+  "computed": "6,300",
+  "accept": [
+   "6300"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1849": {
+  "solution": "Marginal profit is the derivative of P(x). P′(x) = −2x + 50, so P′(20) = −40 + 50 = 10. So the marginal profit at x = 20 is 10.",
+  "trick": "Differentiate in your head: −x² becomes −2x, 50x becomes 50 and −100 disappears. So 50 − 2 × 20 = 10.",
+  "check": "agree",
+  "computed": "10",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf1-bm-1857": {
+  "solution": "Pick 4 of the 8 engineers and the other 2 places from the 10 analysts. The number of teams is C(8,4) × C(10,2) = 70 × 45 = 3,150. So 3,150 teams have exactly 4 engineers.",
+  "trick": "C(8,4) = 70 is worth remembering, and C(10,2) = 10 × 9 ÷ 2 = 45. Then 7 × 45 = 315, so 70 × 45 = 3,150.",
+  "check": "agree",
+  "computed": "3,150",
+  "accept": [
+   "3150"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1864": {
+  "solution": "Expand: (2 + 3i)(1 − i) = 2 − 2i + 3i − 3i². Since i² = −1, the last term −3i² becomes +3. So the product is 2 + 3 + i = 5 + i.",
+  "trick": "Real part: 2 + 3 = 5, because −3i² = +3. Imaginary part: 3i − 2i = i. Only the option 5 + i has real part 5.",
+  "check": "agree",
+  "computed": "5 + i",
+  "accept": [
+   "5+i",
+   "5 + 1i",
+   "5+1i",
+   "i + 5",
+   "i+5"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1871": {
+  "solution": "A line with slope m and y intercept c is y = mx + c. The point (0, 4) lies on the y axis, so c = 4. With m = −2, the line is y = −2x + 4.",
+  "trick": "(0, 4) is the y intercept, so the number added at the end is 4. The other options give 2 and 6 at x = 0.",
+  "check": "agree",
+  "computed": "y = −2x + 4",
+  "accept": [
+   "y=-2x+4",
+   "y = -2x + 4",
+   "y=−2x+4",
+   "y = −2x + 4",
+   "-2x + 4",
+   "-2x+4",
+   "−2x + 4",
+   "−2x+4",
+   "y = 4 - 2x",
+   "y=4-2x",
+   "y = 4 − 2x",
+   "y=4−2x"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1879": {
+  "solution": "Average rate of change = (f(4) − f(1)) ÷ (4 − 1). f(1) = 3 − 1 + 7 = 9 and f(4) = 48 − 4 + 7 = 51. So the rate is (51 − 9) ÷ 3 = 42 ÷ 3 = 14.",
+  "trick": "For ax² + bx + c between p and q, the average rate is a(p + q) + b. That is 3 × (1 + 4) − 1 = 14.",
+  "check": "agree",
+  "computed": "14",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf1-bm-1886": {
+  "solution": "Use the chain rule. The outer function sin becomes cos, keeping the inside x² + 3x. Then multiply by the derivative of the inside, which is 2x + 3. So f′(x) = (2x + 3)cos(x² + 3x).",
+  "trick": "Keep the inside, change sin to cos, then multiply by the derivative of the inside. The option 2x cos 3x changes the inside, and cos(x² + 3x) has no (2x + 3) factor.",
+  "check": "agree",
+  "computed": "(2x + 3)cos(x² + 3x)",
+  "accept": [
+   "(2x+3)cos(x²+3x)",
+   "(2x + 3)cos(x²+3x)",
+   "(2x + 3)cos(x^2 + 3x)",
+   "(2x+3)cos(x^2+3x)",
+   "(2x + 3) cos(x² + 3x)",
+   "(2x+3) cos(x²+3x)",
+   "(2x+3)*cos(x^2+3x)",
+   "cos(x² + 3x)(2x + 3)",
+   "cos(x^2+3x)(2x+3)"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1895": {
+  "solution": "Aa × Aa gives AA, Aa, aA and aa, a genotype ratio of 1:2:1. With A completely dominant, AA and Aa look the same, so 3 show the dominant trait and 1 shows the recessive trait. So the phenotypic ratio is 3:1.",
+  "trick": "Only one gene is involved, so 9:3:3:1 (two genes) is out. 1:2:1 counts genotypes, but phenotype means what you see, so the answer is 3:1.",
+  "check": "agree",
+  "computed": "3:1",
+  "accept": [
+   "3:1",
+   "3 : 1",
+   "3 to 1",
+   "three to one"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1901": {
+  "solution": "The magnitude of a cross product is |A × B| = |A||B| sin θ. For perpendicular vectors θ = 90° and sin 90° = 1. So |A × B| = 5 × 5 × 1 = 25.",
+  "trick": "Perpendicular means sin 90° = 1, so just multiply the lengths: 5 × 5 = 25.",
+  "check": "agree",
+  "computed": "25",
+  "accept": [],
+  "comment": ""
+ },
+ "26-qf1-bm-1906": {
+  "solution": "Each year the value falls by 10% of its current value, so it is multiplied by 0.9 each year. After 2 years the value is 1,000,000 × 0.9² = 1,000,000 × 0.81 = 810,000. So the car is worth ₦810,000.",
+  "trick": "Take 10% off twice. ₦1,000,000 becomes ₦900,000, then 10% of ₦900,000 is ₦90,000, which leaves ₦810,000.",
+  "check": "agree",
+  "computed": "₦810,000",
+  "accept": [
+   "810000",
+   "810,000",
+   "₦810000",
+   "N810,000",
+   "N810000",
+   "NGN810,000"
+  ],
+  "comment": ""
+ },
+ "26-qf3-qb-1554": {
+  "solution": "A perpetuity pays the same amount every year forever, so PV = payment ÷ rate, with the first payment a year from now. PV = 5,000 ÷ 0.08 = 62,500. So the present value is ₦62,500.",
+  "trick": "Dividing by 0.08 is dividing by 8 and then multiplying by 100. 5,000 ÷ 8 = 625, so the answer is 62,500.",
+  "check": "agree",
+  "computed": "₦62,500",
+  "accept": [
+   "62500",
+   "62,500",
+   "₦62500",
+   "N62,500",
+   "N62500",
+   "NGN62,500"
+  ],
+  "comment": ""
+ },
+ "26-qf3-qb-1607": {
+  "solution": "Simple interest I = P × R × T, so R = I ÷ (P × T). The interest is 9,600 − 8,000 = 1,600. So R = 1,600 ÷ (8,000 × 4) = 1,600 ÷ 32,000 = 0.05, which is 5% a year.",
+  "trick": "The interest 1,600 is 20% of 8,000. That took 4 years, so 20 ÷ 4 = 5% a year.",
+  "check": "agree",
+  "computed": "5%",
+  "accept": [
+   "5",
+   "5 %",
+   "0.05",
+   "5 percent",
+   "5 per cent",
+   "5% per year",
+   "5% per annum"
+  ],
+  "comment": ""
+ },
+ "26-qf3-qb-2004": {
+  "solution": "Simple interest I = P × R × T, so T = I ÷ (P × R). T = 3,000 ÷ (15,000 × 0.05) = 3,000 ÷ 750 = 4. So it takes 4 years.",
+  "trick": "₦3,000 is 20% of ₦15,000. At 5% a year, 20 ÷ 5 = 4 years.",
+  "check": "agree",
+  "computed": "4 years",
+  "accept": [
+   "4",
+   "4 years",
+   "4 year",
+   "four",
+   "four years",
+   "4 yrs",
+   "4yrs"
+  ],
+  "comment": ""
+ },
+ "26-qf3-bm-2584": {
+  "solution": "Each year the value falls by 10% of its current value, so it is multiplied by 0.9 each year. After 2 years the value is 3,000,000 × 0.9² = 3,000,000 × 0.81 = 2,430,000. So the car is worth ₦2,430,000.",
+  "trick": "0.9 × 0.9 = 0.81, and 3 × 0.81 = 2.43, so ₦2,430,000. The option ₦2,400,000 takes a flat 20% off the original price, which ignores that the second 10% is of a smaller value.",
+  "check": "agree",
+  "computed": "₦2,430,000",
+  "accept": [
+   "2430000",
+   "2,430,000",
+   "₦2430000",
+   "N2,430,000",
+   "N2430000",
+   "NGN2,430,000"
+  ],
+  "comment": ""
+ }
+}

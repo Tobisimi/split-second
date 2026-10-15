@@ -1656,7 +1656,7 @@
    "q": "Find the average rate of change of f(x) = x² − 5x on [1, 4]",
    "options": [
     "1",
-    "O",
+    "0",
     "2"
    ],
    "answer": "0",

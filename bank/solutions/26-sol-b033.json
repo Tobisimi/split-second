@@ -1,0 +1,356 @@
+{
+  "26-md12b-bm-2944": {
+    "solution": "Mean = sum ÷ number of values = (15 + 25 + 35 + 45) ÷ 4 = 120 ÷ 4 = 30.",
+    "trick": "The numbers go up in equal steps, so the mean is the middle point, halfway between 25 and 35, which is 30.",
+    "check": "agree",
+    "computed": "30",
+    "accept": [
+      "30.0"
+    ],
+    "comment": ""
+  },
+  "26-md12b-bm-2950": {
+    "solution": "Two dice give 6 × 6 = 36 equally likely outcomes. A sum of 9 comes from (3, 6), (4, 5), (5, 4) and (6, 3), which is 4 outcomes. So P = 4/36 = 1/9.",
+    "trick": "A sum of 7 has the most ways, 6. Every step away from 7 loses one way, so 9 has 6 − 2 = 4 ways, and 4/36 = 1/9.",
+    "check": "agree",
+    "computed": "1/9",
+    "accept": [
+      "4/36",
+      "2/18",
+      "0.111",
+      "0.1111",
+      "11.1%",
+      "11.11%"
+    ],
+    "comment": ""
+  },
+  "26-md12b-bm-2966": {
+    "solution": "Each of the 8 questions has 3 possible answers, and the choices are independent, so the total is 3⁸. Since 3⁴ = 81, 3⁸ = 81² = 6,561.",
+    "trick": "Powers of 3 end in 3, 9, 7, 1 and repeat every 4 steps. 8 is a multiple of 4, so 3⁸ ends in 1, and only 6,561 does.",
+    "check": "agree",
+    "computed": "6,561",
+    "accept": [
+      "6561"
+    ],
+    "comment": ""
+  },
+  "26-md12b-bm-2974": {
+    "solution": "Correlation measures how two variables move together. When X goes up and Y goes down, they move in opposite directions, so the correlation is negative.",
+    "trick": "Opposite directions means a negative sign. Same direction is positive, and no pattern at all is zero.",
+    "check": "agree",
+    "computed": "negative",
+    "accept": [
+      "negative correlation",
+      "a negative correlation",
+      "negatively correlated"
+    ],
+    "comment": ""
+  },
+  "26-md12b-bm-2977": {
+    "solution": "With the median given, use Pearson's second coefficient of skewness: 3 × (mean − median) ÷ SD. The mean is below the median, so the answer is negative. 3 × (80 − 85) ÷ 5 = 3 × (−5) ÷ 5 = −3.",
+    "trick": "Mean minus median is −5 and the SD is 5, so they cancel to −1. Then multiply by 3 to get −3.",
+    "check": "agree",
+    "computed": "−3",
+    "accept": [
+      "-3",
+      "-3.0",
+      "−3.0",
+      "minus 3",
+      "negative 3"
+    ],
+    "comment": ""
+  },
+  "26-md12b-bm-2983": {
+    "solution": "Mean = 150 ÷ 5 = 30. The squared deviations are 400, 100, 0, 100 and 400, which add up to 1000. Treat the list as the whole dataset and divide by n = 5 (dividing by 4 would give the sample variance, 250). Variance = 1000 ÷ 5 = 200.",
+    "trick": "For evenly spaced values, the population variance is step² × (n² − 1) ÷ 12. Here that is 10² × 24 ÷ 12 = 100 × 2 = 200.",
+    "check": "agree",
+    "computed": "200",
+    "accept": [
+      "200.0"
+    ],
+    "comment": ""
+  },
+  "26-md12b-bm-2987": {
+    "solution": "The question says 9 scores but lists only six, so use the six shown: 55, 60, 65, 85, 90, 95. Split them into a lower half (55, 60, 65) and an upper half (85, 90, 95). The first quartile is the median of the lower half, so Q1 = 60.",
+    "trick": "Q1 is the middle of the bottom half. The bottom three are 55, 60, 65, so Q1 is 60. The 30 is below every score, and 65 is the top of the bottom half, not its middle.",
+    "check": "unclear",
+    "computed": "60 (using the six scores listed)",
+    "accept": [
+      "60.0"
+    ],
+    "comment": "The stem says 9 exam scores but lists only six, so the data is incomplete as worded. Using the six shown, Q1 = 60 (median of the lower half), which matches the show's answer; other quartile methods give 58.75 or 61.25, and 60 is the nearest option either way."
+  },
+  "26-md12b-bm-2993": {
+    "solution": "The multiplication rule says P(A ∩ B) = P(A) × P(B | A). So P(A ∩ B) = 0.8 × 0.4 = 0.32. The value P(B) = 0.5 is not needed.",
+    "trick": "Multiply 8 × 4 = 32, then give it two decimal places: 0.32. P(B) is a decoy.",
+    "check": "agree",
+    "computed": "0.32",
+    "accept": [
+      ".32",
+      "32%",
+      "8/25"
+    ],
+    "comment": ""
+  },
+  "26-md12b-bm-3000": {
+    "solution": "Mean = (6 + 9 + 12 + 15 + 18) ÷ 5 = 60 ÷ 5 = 12.",
+    "trick": "The numbers go up in equal steps of 3, so the mean is the middle number, 12. No adding is needed.",
+    "check": "agree",
+    "computed": "12",
+    "accept": [
+      "12.0"
+    ],
+    "comment": ""
+  },
+  "26-md06a-qb-0623": {
+    "solution": "Interquartile range = Q3 − Q1 = 55 − 25 = 30.",
+    "trick": "Just subtract: 55 − 25 = 30.",
+    "check": "agree",
+    "computed": "30",
+    "accept": [
+      "30.0"
+    ],
+    "comment": ""
+  },
+  "26-md06a-qb-0654": {
+    "solution": "If 30% study math, the other 100% − 30% = 70% do not. 70% of 2,000 = 0.7 × 2,000 = 1,400.",
+    "trick": "10% of 2,000 is 200, so 70% is 7 × 200 = 1,400.",
+    "check": "agree",
+    "computed": "1,400",
+    "accept": [
+      "1400",
+      "1400 students",
+      "1,400 students"
+    ],
+    "comment": ""
+  },
+  "26-md06a-qb-0672": {
+    "solution": "Covariance = correlation × SD of X × SD of Y = −0.3 × 5 × 10 = −0.3 × 50 = −15.",
+    "trick": "5 × 10 = 50, and 0.3 of 50 is 15. The correlation is negative, so the answer is −15.",
+    "check": "agree",
+    "computed": "−15",
+    "accept": [
+      "-15",
+      "−15",
+      "-15.0",
+      "−15.0",
+      "minus 15",
+      "negative 15"
+    ],
+    "comment": ""
+  },
+  "26-md06a-qb-0701": {
+    "solution": "Each of the 5 positions can be 0 or 1, so the number of strings is 2 × 2 × 2 × 2 × 2 = 2⁵ = 32.",
+    "trick": "Double five times: 2, 4, 8, 16, 32. The option 25 is 5², which has the numbers the wrong way round.",
+    "check": "agree",
+    "computed": "32",
+    "accept": [
+      "2^5",
+      "2⁵"
+    ],
+    "comment": ""
+  },
+  "26-md06a-qb-0740": {
+    "solution": "z = (x − mean) ÷ SD = (110 − 90) ÷ 20 = 20 ÷ 20 = 1.",
+    "trick": "110 is 20 above the mean, and one SD is 20, so z = 1.",
+    "check": "agree",
+    "computed": "1",
+    "accept": [
+      "1.0",
+      "+1",
+      "z = 1",
+      "z=1",
+      "one"
+    ],
+    "comment": ""
+  },
+  "26-md06a-qb-0761": {
+    "solution": "Bowley's skewness = (Q3 + Q1 − 2 × median) ÷ (Q3 − Q1). So 0.2 = (80 + 40 − 2M) ÷ (80 − 40) = (120 − 2M) ÷ 40, which gives 120 − 2M = 8. So 2M = 112 and the median M = 56.",
+    "trick": "The midpoint of Q1 and Q3 is 60. Positive skew pulls the median below it by skew × IQR ÷ 2 = 0.2 × 40 ÷ 2 = 4, so the median is 60 − 4 = 56.",
+    "check": "agree",
+    "computed": "56",
+    "accept": [
+      "56.0"
+    ],
+    "comment": ""
+  },
+  "26-md06a-qb-1039": {
+    "solution": "In a stem and leaf plot, the stem holds the leading digit (the tens) and each leaf holds the last digit (the units). With no key shown, stem 2 with leaves 1, 3 and 5 stands for 21, 23 and 25.",
+    "trick": "Put the stem in front of each leaf: 2 with 1, 3, 5 gives 21, 23, 25.",
+    "check": "agree",
+    "computed": "21, 23, 25",
+    "accept": [
+      "21,23,25",
+      "21 23 25",
+      "21, 23 and 25",
+      "21, 23, and 25",
+      "21 and 23 and 25"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1615": {
+    "solution": "z = (x − mean) ÷ SD = (74 − 68) ÷ 3 = 6 ÷ 3 = 2, so the student is 2 SDs above the mean.",
+    "trick": "74 − 68 = 6, and 6 ÷ 3 = 2.",
+    "check": "agree",
+    "computed": "2",
+    "accept": [
+      "2.0",
+      "two",
+      "2 SD",
+      "2 SDs"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1617": {
+    "solution": "Renewables are 25% of 1,000 MW, so the rest is 100% − 25% = 75%. 75% of 1,000 MW = 750 MW.",
+    "trick": "A quarter of 1,000 is 250, so the other three quarters are 750 MW.",
+    "check": "agree",
+    "computed": "750 MW",
+    "accept": [
+      "750",
+      "750MW",
+      "750mw",
+      "750 mw",
+      "750 megawatts"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1621": {
+    "solution": "The variance would be multiplied by 9, but the standard deviation is measured in the same units as the data. So multiplying every value by 3 multiplies the SD by 3.",
+    "trick": "SD scales like the data, so it is ×3. The ×9 option is the variance, not the SD.",
+    "check": "agree",
+    "computed": "Be multiplied by 3",
+    "accept": [
+      "multiplied by 3",
+      "multiplied by three",
+      "×3",
+      "x3",
+      "3 times",
+      "times 3",
+      "tripled",
+      "it triples"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1625": {
+    "solution": "Fix one person to remove rotations, so all seatings = (10 − 1)! = 9! = 362,880. If the two sit together, treat them as one block: (9 − 1)! × 2 = 8! × 2 = 80,640. Not together = 362,880 − 80,640 = 282,240.",
+    "trick": "Once one of the pair is seated, the other has 9 seats to choose from and 2 are next to them, so 7 out of 9 seatings work. That is 7 × 8! = 7 × 40,320 = 282,240.",
+    "check": "agree",
+    "computed": "282,240",
+    "accept": [
+      "282240"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1635": {
+    "solution": "Red on the first draw and blue on the second is what counts, and the third draw does not matter. Red first is 3/12 = 1/4, and then 9 of the 11 marbles left are blue, so blue next is 9/11. The option 9/11 is just that second step, and none of the three options matches the full answer. Multiply the steps: 1/4 × 9/11 = 9/44.",
+    "trick": "Multiply the two chances: 3/12 is 1/4, and 1/4 × 9/11 = 9/44. Do not stop at 9/11, which skips the first draw.",
+    "check": "agree",
+    "computed": "9/44",
+    "accept": [
+      "0.2045",
+      "0.205",
+      "20.45%",
+      "20.5%",
+      "27/132"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1643": {
+    "solution": "Gold, silver and bronze go to 3 different runners in order, so the number of ways is 8P3 = 8 × 7 × 6 = 336.",
+    "trick": "8 choices for gold, 7 for silver, 6 for bronze: 8 × 7 = 56, then 56 × 6 = 336.",
+    "check": "agree",
+    "computed": "336",
+    "accept": [
+      "336 ways"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1649": {
+    "solution": "Mean = (25 + 50 + 75 + 90) ÷ 4 = 240 ÷ 4 = 60.",
+    "trick": "Guess 50. The 25 and 75 cancel out around it and the 50 sits on it, so only 90 matters. It is 40 above, and 40 ÷ 4 = 10, so the mean is 50 + 10 = 60.",
+    "check": "agree",
+    "computed": "60",
+    "accept": [
+      "60.0"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1653": {
+    "solution": "The median is the middle value when the heights are put in order. In order they are 5, 6, 8, so the median is 6, which is bar C.",
+    "trick": "Ignore the order of the bars. B is the tallest and A the shortest, so C is the one in the middle.",
+    "check": "agree",
+    "computed": "C",
+    "accept": [
+      "c",
+      "bar C",
+      "bar c"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1661": {
+    "solution": "Assuming the two selections are independent, P(neither) = P(wife not selected) × P(husband not selected) = (1 − 3/7) × (1 − 2/3) = 4/7 × 1/3 = 4/21.",
+    "trick": "Flip each chance: the wife misses with 4/7 and the husband with 1/3. Multiply across: 4 × 1 = 4 over 7 × 3 = 21.",
+    "check": "agree",
+    "computed": "4/21",
+    "accept": [
+      "0.1905",
+      "0.19",
+      "19.05%",
+      "19%"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1665": {
+    "solution": "Each digit appears in each place in 4 × 3 × 2 = 24 of the numbers. The digits add up to 1 + 3 + 5 + 7 + 9 = 25, so each place adds up to 24 × 25 = 600. The total is 600 × 1000 + 600 × 100 + 600 × 10 + 600 = 600 × 1111 = 666,600.",
+    "trick": "Total = 24 × 25 × 1111 = 600 × 1111. Do 6 × 1111 = 6666 and add two zeros to get 666,600.",
+    "check": "agree",
+    "computed": "666,600",
+    "accept": [
+      "666600"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1673": {
+    "solution": "Two coins give HH, HT, TH, TT. E (no tail) is only HH and F (no head) is only TT, so they can never happen together. Then P(E | F) = P(E ∩ F) ÷ P(F) = 0 ÷ (1/4) = 0.",
+    "trick": "No tail means HH and no head means TT. They cannot both happen, so the chance of one given the other is 0.",
+    "check": "agree",
+    "computed": "0",
+    "accept": [
+      "zero",
+      "0.0",
+      "0%"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1681": {
+    "solution": "This is 4P3. The first place has 4 choices, the second 3 and the third 2, so 4 × 3 × 2 = 24.",
+    "trick": "4 × 3 × 2 = 24. It equals 4! because once three digits are placed, the fourth is forced.",
+    "check": "agree",
+    "computed": "24",
+    "accept": [],
+    "comment": ""
+  },
+  "26-md06a-bm-1685": {
+    "solution": "The mean and the number of observations are not needed. Multiplying every observation by 3 multiplies the SD by 3, so the new SD = 3 × 4 = 12.",
+    "trick": "SD scales with the data: 3 × 4 = 12. The mean and the count are decoys.",
+    "check": "agree",
+    "computed": "12",
+    "accept": [
+      "12.0"
+    ],
+    "comment": ""
+  },
+  "26-md06a-bm-1691": {
+    "solution": "The shares 40, 30 and 30 add up to 100, so each one is already a per cent. The largest is 40, so the largest share is 40%.",
+    "trick": "The three numbers sum to 100, so no sums are needed: the biggest is 40%.",
+    "check": "agree",
+    "computed": "40%",
+    "accept": [
+      "40",
+      "40 percent",
+      "40 per cent"
+    ],
+    "comment": ""
+  }
+}

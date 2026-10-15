@@ -1,0 +1,242 @@
+{
+  "26-md12b-bm-2825": {
+    "solution": "Let the four numbers be n, n + 2, n + 4 and n + 6. Their sum is 4n + 12 = 360, so n = 87, which is odd. So no four consecutive even integers add up to 360, but four consecutive odd integers do: 87 + 89 + 91 + 93 = 360. All the options are odd, so the question must mean odd integers, and the largest is 93.",
+    "trick": "The mean of the four numbers is 360 ÷ 4 = 90. Numbers spaced 2 apart around 90 are 87, 89, 91 and 93, so the largest is 90 + 3 = 93.",
+    "check": "unclear",
+    "computed": "93 (reading the question as four consecutive odd integers)",
+    "accept": ["93"],
+    "comment": "No four consecutive even integers add up to 360 (4n + 12 = 360 gives n = 87, which is odd). Four consecutive odd integers do (87, 89, 91, 93), and all the options are odd, so 93 only holds if the question meant odd integers."
+  },
+  "26-md12b-bm-2832": {
+    "solution": "The absolute error is the size of the uncertainty in the reading, which is the ±0.5 mL given. Dividing it by the reading (0.5 ÷ 25.4 ≈ 2%) would give the relative error, which is not what is asked. So the absolute error is 0.5 mL.",
+    "trick": "Read it straight off the question: the absolute error is just the ± figure, 0.5 mL. Do not divide by 25.4, because that gives the relative error, about 2%.",
+    "check": "agree",
+    "computed": "0.5 mL",
+    "accept": ["0.5", "0.5mL", "0.5 mL", "0.5 ml", "0.5ml", "±0.5", "±0.5mL", "±0.5 mL", "+-0.5 mL", "+/-0.5 mL", "0.5 millilitres", "0.5 milliliters"],
+    "comment": ""
+  },
+  "26-md12b-bm-2839": {
+    "solution": "Use the half-life given in the question, 2,400 years. The time is 7,200 ÷ 2,400 = 3 half-lives. The fraction left is (1/2)³ = 1/8.",
+    "trick": "72 ÷ 24 = 3 half-lives, and halving three times gives 1/8, since 2³ = 8.",
+    "check": "agree",
+    "computed": "1/8",
+    "accept": ["1/8", "0.125", ".125", "12.5%", "12.5 %", "one eighth", "an eighth"],
+    "comment": ""
+  },
+  "26-md12b-bm-2843": {
+    "solution": "The amount of acid stays the same when solvent is added, so 15% of 7.5 L equals 6% of the final volume V. That gives V = 15 × 7.5 ÷ 6 = 18.75 L. The solvent added is 18.75 − 7.5 = 11.25 L.",
+    "trick": "The acid is fixed, so the volume grows by 15 ÷ 6 = 2.5 times. The added solvent is the extra 1.5 times the original, so 1.5 × 7.5 = 11.25 L.",
+    "check": "agree",
+    "computed": "11.25 L",
+    "accept": ["11.25", "11.25L", "11.25 L", "11.25l", "11.25 l", "11.25 litres", "11.25 liters", "11.25 litre", "11.25 liter", "45/4"],
+    "comment": ""
+  },
+  "26-md12b-bm-2849": {
+    "solution": "Let n be the number of texts. The bill is 16n + 40 = 56. So 16n = 56 − 40 = 16, and n = 16 ÷ 16 = 1.",
+    "trick": "Take off the $40 fee: 56 − 40 = 16, which is exactly one text at $16.",
+    "check": "agree",
+    "computed": "1",
+    "accept": ["1", "one", "1 text", "one text", "1 message"],
+    "comment": ""
+  },
+  "26-md12b-bm-2861": {
+    "solution": "North and east are at right angles, so the ground speed is the hypotenuse: √(35² + 12²) = √(1225 + 144) = √1369 = 37 km/h.",
+    "trick": "Recognise the Pythagorean triple 12, 35, 37. Check: 1225 + 144 = 1369 = 37², so no square root work is needed.",
+    "check": "agree",
+    "computed": "37 km/h",
+    "accept": ["37", "37km/h", "37 km/h", "37kmh", "37 kmh", "37 kph", "37kph", "37 km per hour"],
+    "comment": ""
+  },
+  "26-md12b-bm-2869": {
+    "solution": "Take the errors as independent, so they combine in quadrature: √(0.2² + 0.3²) = √(0.04 + 0.09) = √0.13 ≈ 0.36. Simply adding the errors would give ±0.5, which is not an option. So the error in a + b is ±0.36.",
+    "trick": "The combined error must be at least the bigger error (0.3) and at most their sum (0.5). Only ±0.36 sits in that range, so pick it.",
+    "check": "agree",
+    "computed": "±0.36",
+    "accept": ["0.36", "±0.36", "± 0.36", "+-0.36", "+/-0.36", "0.361", "±0.361", "0.3606", "±0.3606"],
+    "comment": ""
+  },
+  "26-md12b-bm-2876": {
+    "solution": "Flour per person = 100 ÷ 4 = 25 g. For 10 people: 25 × 10 = 250 g.",
+    "trick": "A quarter of 100 is 25, and ten of those is 250.",
+    "check": "agree",
+    "computed": "250 g",
+    "accept": ["250", "250g", "250 g", "250 grams", "250 gram"],
+    "comment": ""
+  },
+  "26-md12b-bm-2882": {
+    "solution": "Each year the population is multiplied by 1.10. After 2 years: 1,000,000 × 1.10² = 1,000,000 × 1.21 = 1,210,000. That is 1.210 million.",
+    "trick": "Growth of 10% twice is 1.1 × 1.1 = 1.21 (just 11² = 121), so the population is 1.21 million.",
+    "check": "agree",
+    "computed": "1.210 million (1,210,000)",
+    "accept": ["1.21 million", "1.210 million", "1.21", "1.210", "1,210,000", "1210000", "1.21m", "1.21M", "1.21 m", "1.21 M"],
+    "comment": ""
+  },
+  "26-md12b-bm-2889": {
+    "solution": "Take optimal to mean the production level that gives maximum revenue. R′(x) = 300 − 30x = 0 gives x = 10. Check: R(10) = 3,000 − 1,500 = 1,500, which is more than R(5) = 1,125 and R(20) = 0. So optimal production is 10.",
+    "trick": "Factor it: R = 15x(20 − x) is zero at x = 0 and x = 20. A parabola peaks halfway between its zeros, so x = 10.",
+    "check": "agree",
+    "computed": "10",
+    "accept": ["10", "x = 10", "x=10", "10 units", "10 phones", "10 smartphones"],
+    "comment": ""
+  },
+  "26-md12b-bm-2892": {
+    "solution": "The dot product is a · b = |a||b| cos θ. For perpendicular vectors θ = 90°, and cos 90° = 0. So the dot product is always 0.",
+    "trick": "Perpendicular means 90°, and cos 90° = 0, so the product vanishes whatever the lengths. The answer is 0.",
+    "check": "agree",
+    "computed": "0",
+    "accept": ["0", "zero", "nought", "naught"],
+    "comment": ""
+  },
+  "26-md12b-bm-2898": {
+    "solution": "The modulus of a quotient is the quotient of the moduli. |5 + 12i| = √(25 + 144) = 13 and |3 − 4i| = √(9 + 16) = 5. So the modulus is 13 ÷ 5 = 2.6.",
+    "trick": "Do not divide the complex numbers. Spot the 5, 12, 13 triple on top and 3, 4, 5 underneath: 13 ÷ 5 = 2.6.",
+    "check": "agree",
+    "computed": "2.6",
+    "accept": ["2.6", "2.60", "13/5", "2 3/5"],
+    "comment": ""
+  },
+  "26-md12b-bm-2904": {
+    "solution": "The total work is fixed: 5 workers × 12 days = 60 worker days. With 8 workers the time is 60 ÷ 8 = 7.5 days.",
+    "trick": "More workers means fewer days. 5 × 12 = 60, then 60 ÷ 8 = 7.5.",
+    "check": "agree",
+    "computed": "7.5 days",
+    "accept": ["7.5", "7.5 days", "7.5days", "7 1/2", "7 1/2 days", "7½", "7½ days", "15/2", "15/2 days", "seven and a half days"],
+    "comment": ""
+  },
+  "26-md12b-bm-2909": {
+    "solution": "There are 1,000 L in 1 m³ and 60 s in 1 min. So 250 m³/s = 250 × 1,000 × 60 L/min = 15,000,000 L/min. In standard form that is 1.5 × 10⁷ L/min.",
+    "trick": "250 × 60 = 15,000, then × 1,000 gives 15,000,000, which is 1.5 × 10⁷.",
+    "check": "agree",
+    "computed": "1.5 × 10⁷ L/min",
+    "accept": ["1.5 × 10⁷ L/min", "1.5 × 10⁷", "1.5×10⁷", "1.5x10^7", "1.5 x 10^7", "1.5 × 10^7", "1.5x10^7 L/min", "1.5 x 10^7 L/min", "1.5e7", "1.5E7", "15000000", "15,000,000", "15000000 L/min", "15,000,000 L/min", "15 million", "15 million L/min"],
+    "comment": ""
+  },
+  "26-md06a-qb-0578": {
+    "solution": "Take it as simple interest. The interest is 1,080,000 − 900,000 = ₦180,000. From I = PRT, R = 180,000 ÷ (900,000 × 4) = 0.05. So the annual rate is 5%.",
+    "trick": "180,000 is 20% of 900,000 (180 ÷ 900), and that is over 4 years, so 20% ÷ 4 = 5% a year.",
+    "check": "agree",
+    "computed": "5%",
+    "accept": ["5%", "5", "5 %", "5 percent", "5 per cent", "0.05", "5% per year", "5% a year", "5% p.a.", "5% per annum"],
+    "comment": ""
+  },
+  "26-md06a-qb-0627": {
+    "solution": "At 30 minutes the minute hand points at 6, which is 180° from 12. The hour hand moves 30° per hour, so at 4:30 it is at 4.5 × 30° = 135°. The angle between them is 180° − 135° = 45°.",
+    "trick": "The minute hand is on 6 and the hour hand is halfway between 4 and 5, at 4.5. That is 1.5 hours apart, and 1.5 × 30° = 45°.",
+    "check": "agree",
+    "computed": "45°",
+    "accept": ["45", "45°", "45 degrees", "45deg", "45 deg"],
+    "comment": ""
+  },
+  "26-md06a-qb-0688": {
+    "solution": "One lap is the circumference 2πr = 2 × (22/7) × 70 = 440 m, using π = 22/7. Four laps = 4 × 440 = 1,760 m. With the calculator value of π the exact figure is 560π ≈ 1,759 m, so 1,760 m is the option that fits.",
+    "trick": "Use π = 22/7 because 70 is a multiple of 7: 2 × 22 × 10 = 440 per lap, and 4 × 440 = 1,760.",
+    "check": "agree",
+    "computed": "1,760 m (560π ≈ 1,759 m)",
+    "accept": ["1760", "1,760", "1760m", "1760 m", "1,760 m", "1,760 meters", "1760 meters", "1,760 metres", "1760 metres", "1759", "1759.3", "1759.29", "560π", "560pi"],
+    "comment": ""
+  },
+  "26-md06a-qb-0714": {
+    "solution": "₦300K means ₦300,000. Simple interest I = PRT = 300,000 × 0.12 × 6 = ₦216,000. The total repayment is 300,000 + 216,000 = ₦516,000.",
+    "trick": "A total repayment must be more than the ₦300,000 borrowed, which rules out ₦104,000 and ₦206,000. To confirm, 12% × 6 = 72%, 72% of 300 is 216, and 300 + 216 = 516 (thousand).",
+    "check": "agree",
+    "computed": "₦516,000",
+    "accept": ["516000", "516,000", "₦516,000", "₦516000", "N516,000", "N516000", "516k", "516K", "₦516k", "₦516K", "NGN516,000", "516,000 naira", "516000 naira"],
+    "comment": ""
+  },
+  "26-md06a-qb-0722": {
+    "solution": "A 25% drop each year leaves 75% of the previous year's price. So 800 = P × 0.75 × 0.75 = 0.5625P, and P = 800 ÷ 0.5625 ≈ 1,422.22. The price 2 years ago was about $1,422.",
+    "trick": "Going back one year multiplies by 4/3. So 800 × 4/3 × 4/3 = 800 × 16/9 = 12,800 ÷ 9 ≈ 1,422.",
+    "check": "agree",
+    "computed": "$1,422 (about $1,422.22)",
+    "accept": ["1422", "1,422", "$1,422", "$1422", "1422.22", "1,422.22", "$1,422.22", "$1422.22", "1422.2", "12800/9"],
+    "comment": ""
+  },
+  "26-md06a-qb-1119": {
+    "solution": "The population doubles when (1.025)^t = 2, so t = ln 2 ÷ ln 1.025 = 0.6931 ÷ 0.02469 ≈ 28.07 years. The rule of 70 agrees: 70 ÷ 2.5 = 28. So it takes about 28 years.",
+    "trick": "Rule of 70: doubling time ≈ 70 ÷ the growth rate in percent. 70 ÷ 2.5 = 28 years, and the rule works well for small rates like this.",
+    "check": "agree",
+    "computed": "28 years (28.07 exactly)",
+    "accept": ["28", "28 years", "28years", "28 year", "28 yrs", "28yrs", "28.07", "28.1", "about 28", "about 28 years", "approximately 28 years"],
+    "comment": ""
+  },
+  "26-md06a-qb-1138": {
+    "solution": "C′(x) = 3x² − 12x + 15 = 3(x − 2)² + 3, which is always positive. So total cost only rises with output and has no true minimum. Marginal cost C′ is lowest at x = 2 (where C″ = 6x − 12 = 0), and of the options C(2) = 14 is the cheapest (C(3) = 18, C(4) = 28). So the expected answer is x = 2.",
+    "trick": "3x² − 12x + 15 has no real roots (144 − 180 is negative), so cost only rises as output grows. The smallest option, 2, is the cheapest.",
+    "check": "unclear",
+    "computed": "2 (the cheapest of the options; there is no true minimum)",
+    "accept": ["2", "x = 2", "x=2"],
+    "comment": "C′(x) = 3(x − 2)² + 3 is always positive, so total cost only rises and has no minimum, and x = 2 is only where marginal cost is lowest (it is also the cheapest of the three options). If cost meant average cost per unit, C ÷ x = x² − 6x + 15 is lowest at x = 3 instead."
+  },
+  "26-md06a-qb-1173": {
+    "solution": "Simple interest I = PRT, so R = I ÷ (P × T) = 3,600 ÷ (18,000 × 4) = 3,600 ÷ 72,000 = 0.05. The rate is 5% a year.",
+    "trick": "3,600 is 20% of 18,000 (36 ÷ 180), and that is over 4 years, so 20% ÷ 4 = 5% a year.",
+    "check": "agree",
+    "computed": "5%",
+    "accept": ["5%", "5", "5 %", "5 percent", "5 per cent", "0.05", "5% per year", "5% a year", "5% p.a.", "5% per annum"],
+    "comment": ""
+  },
+  "26-md06a-qb-1213": {
+    "solution": "To double, the interest must equal the principal, so I = ₦8,000. Using I = PRT, 8,000 = 8,000 × 0.05 × T, so T = 1 ÷ 0.05 = 20. It takes 20 years.",
+    "trick": "Doubling means earning 100% of the principal. At 5% a year that takes 100 ÷ 5 = 20 years. The ₦8,000 does not matter.",
+    "check": "agree",
+    "computed": "20 years",
+    "accept": ["20", "20 years", "20years", "20 year", "20 yrs", "20yrs", "twenty", "twenty years"],
+    "comment": ""
+  },
+  "26-md06a-bm-1280": {
+    "solution": "24 hours ÷ 8 hours = 3 half-lives. The amount left is 600 × (1/2)³ = 600 ÷ 8 = 75 mg.",
+    "trick": "Three half-lives means halve three times: 600, 300, 150, 75. Or simply 600 ÷ 8 = 75.",
+    "check": "agree",
+    "computed": "75 mg",
+    "accept": ["75", "75mg", "75 mg", "75 milligrams"],
+    "comment": ""
+  },
+  "26-md06a-bm-1284": {
+    "solution": "In Hardy Weinberg equilibrium the recessive genotype frequency is q² = 0.09, so q = 0.3 and p = 1 − 0.3 = 0.7. The heterozygote frequency is 2pq = 2 × 0.7 × 0.3 = 0.42.",
+    "trick": "q = 0.3 and p = 0.7, and 0.7 × 0.3 = 0.21. Double it for 2pq: 0.42. The 0.21 option is the trap that forgets the 2.",
+    "check": "agree",
+    "computed": "0.42",
+    "accept": ["0.42", ".42", "0.420", "42%", "42 %", "21/50"],
+    "comment": ""
+  },
+  "26-md06a-bm-1292": {
+    "solution": "A scale of 1:400 means the real height is 400 times the model height. So the height is 8.5 cm × 400 = 3,400 cm, which is 34 m.",
+    "trick": "At 1:400, 1 cm on the model is 4 m in real life. So 8.5 × 4 = 34 m.",
+    "check": "agree",
+    "computed": "34 m",
+    "accept": ["34", "34m", "34 m", "34 meters", "34 metres", "34 meter", "34 metre"],
+    "comment": ""
+  },
+  "26-md06a-bm-1310": {
+    "solution": "By the chain rule, f′(x) = 2 ÷ (2x − 1). At x = 2, f′(2) = 2 ÷ (4 − 1) = 2/3.",
+    "trick": "The derivative of ln(u) is u′ ÷ u. Here u′ = 2, and at x = 2, u = 2(2) − 1 = 3, so the answer is 2/3.",
+    "check": "agree",
+    "computed": "2/3",
+    "accept": ["2/3", "0.667", "0.6667", "0.66667", "0.666", "0.67", "⅔"],
+    "comment": ""
+  },
+  "26-md06a-bm-1312": {
+    "solution": "The area is A = s², so the error is ΔA ≈ 2s × Δs = 2 × 10.0 × 0.2 = 4 cm². The area is 100 ± 4 cm². Check: 10.2² = 104.04 and 9.8² = 96.04, both about 4 away from 100.",
+    "trick": "Squaring doubles the relative error: 0.2 ÷ 10 = 2%, so the area has 4% error, and 4% of 100 is 4.",
+    "check": "agree",
+    "computed": "100 ± 4 cm²",
+    "accept": ["100 ± 4 cm²", "100 ± 4", "100±4", "100 +- 4", "100 +/- 4", "100±4 cm²", "100 ± 4 cm2", "100±4cm²", "100 ± 4cm²", "100 ± 4 cm^2", "100 plus or minus 4"],
+    "comment": ""
+  },
+  "26-md06a-bm-1318": {
+    "solution": "For ax² + bx + c = 0 the sum of the roots is −b ÷ a. Here a = 2 and b = −5, so the sum is −(−5) ÷ 2 = 5/2. Check: 2x² − 5x − 3 = (2x + 1)(x − 3), with roots −1/2 and 3, which add to 5/2.",
+    "trick": "Sum of roots = −b ÷ a = 5 ÷ 2. No need to solve the equation.",
+    "check": "agree",
+    "computed": "5/2",
+    "accept": ["5/2", "2.5", "2.50", "2 1/2", "2½"],
+    "comment": ""
+  },
+  "26-md06a-bm-1333": {
+    "solution": "Put t = 3 into s(t) = t³ + 2t²: s(3) = 3³ + 2 × 3² = 27 + 18 = 45 units.",
+    "trick": "Factor out t²: t²(t + 2) = 9 × 5 = 45.",
+    "check": "agree",
+    "computed": "45 units",
+    "accept": ["45", "45 units", "45units", "45 unit"],
+    "comment": ""
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "26-md06a-bm-1339": {
+    "solution": "Relative error = absolute error ÷ measured value = 0.5 ÷ 25 = 0.02. As a percentage that is 0.02 × 100 = 2%.",
+    "trick": "Double both numbers: 0.5 ÷ 25 becomes 1 ÷ 50, which is 2 out of 100, so 2%.",
+    "check": "agree",
+    "computed": "2%",
+    "accept": ["2", "2%", "0.02", "1/50", "2 percent"],
+    "comment": ""
+  },
+  "26-md06a-bm-1343": {
+    "solution": "Efficiency = 0.80 × 0.55 = 0.44. Taking 750 MW as the electrical output, heat input = 750 ÷ 0.44 ≈ 1,704.5 MW, so heat dumped = 1,704.5 − 750 ≈ 954.5 MW. In one day (86,400 s) that is 954.5 × 10⁶ W × 86,400 s ≈ 8.25 × 10¹³ J.",
+    "trick": "Output per day is 750 × 86,400 ≈ 6.5 × 10¹³ J. Efficiency is under 50%, so more heat is dumped than electricity made, and the answer must be bigger than that. Only 8.25 × 10¹³ J is.",
+    "check": "agree",
+    "computed": "8.25 × 10¹³ J",
+    "accept": ["8.25e13", "8.25E13", "8.25 × 10^13", "8.25x10^13", "8.25 x 10^13", "8.25×10¹³", "8.25 × 10¹³", "8.25 × 10¹³ J", "8.25e13 J", "8.25*10^13", "8.247e13", "8.247 × 10¹³"],
+    "comment": ""
+  },
+  "26-md06a-bm-1347": {
+    "solution": "A ratio of 1:4 means 1 nurse for every 4 patients. So nurses = 34 ÷ 4 = 8.5. You cannot have half a nurse, so round up to 9 nurses.",
+    "trick": "32 patients need 8 nurses, and the 2 left over still need a 9th nurse.",
+    "check": "agree",
+    "computed": "9 nurses",
+    "accept": ["9", "9 nurses", "nine", "nine nurses"],
+    "comment": ""
+  },
+  "26-md06b-qb-2261": {
+    "solution": "Each hour the amount is multiplied by 0.5. After 2 hours it is 300 × 0.5² = 300 × 0.25 = 75 mg.",
+    "trick": "Halve twice: 300, 150, 75.",
+    "check": "agree",
+    "computed": "75 mg",
+    "accept": ["75", "75mg", "75 mg"],
+    "comment": ""
+  },
+  "26-md06b-qb-2300": {
+    "solution": "Cost before discount = 8 × $20 = $160. A 10% discount leaves 90%, so the total is 0.9 × $160 = $144.",
+    "trick": "10% of 160 is 16, so take 16 off 160: 144.",
+    "check": "agree",
+    "computed": "$144",
+    "accept": ["144", "$144", "144 dollars", "USD 144"],
+    "comment": ""
+  },
+  "26-md06b-qb-2306": {
+    "solution": "A 1:100 scale means the real size is 100 times the model. So the real height = 15 cm × 100 = 1,500 cm. Dividing by 100 to get metres gives 15 m.",
+    "trick": "On a 1:100 scale, centimetres on the model become metres in real life, so 15 cm is 15 m.",
+    "check": "agree",
+    "computed": "15 m",
+    "accept": ["15", "15m", "15 m", "15 metres", "15 meters"],
+    "comment": ""
+  },
+  "26-md06b-qb-2390": {
+    "solution": "The inlet fills 1/3 of the tank per hour and the outlet empties 1/4 per hour. Net rate = 1/3 − 1/4 = 4/12 − 3/12 = 1/12 per hour. Time to fill = 1 ÷ (1/12) = 12 hours.",
+    "trick": "Multiply the two times and divide by their difference: (3 × 4) ÷ (4 − 3) = 12 hours.",
+    "check": "agree",
+    "computed": "12 hours",
+    "accept": ["12", "12 hours", "12 hrs", "12 hr", "12h", "12 h"],
+    "comment": ""
+  },
+  "26-md06b-qb-2417": {
+    "solution": "Simple interest I = P × r × t, so P = I ÷ (r × t) = 2,000 ÷ (0.10 × 2) = 2,000 ÷ 0.2 = ₦10,000.",
+    "trick": "10% a year for 2 years is 20% of the principal. So ₦2,000 is one fifth of it, and 5 × 2,000 = ₦10,000.",
+    "check": "agree",
+    "computed": "₦10,000",
+    "accept": ["10000", "10,000", "₦10,000", "₦10000", "N10000", "N10,000", "NGN 10,000", "NGN10000"],
+    "comment": ""
+  },
+  "26-md06b-qb-2427": {
+    "solution": "Average rate of change = (f(6) − f(2)) ÷ (6 − 2). Here f(6) = 3(36) − 6 + 7 = 109 and f(2) = 3(4) − 2 + 7 = 17. So the rate = (109 − 17) ÷ 4 = 92 ÷ 4 = 23.",
+    "trick": "For ax² + bx + c, the average rate of change between p and q is a(p + q) + b. Here that is 3 × (2 + 6) − 1 = 23.",
+    "check": "agree",
+    "computed": "23",
+    "accept": ["23"],
+    "comment": ""
+  },
+  "26-md06b-qb-2443": {
+    "solution": "10% remaining means 90% has drained: 0.9 × 25,000 = 22,500 L. Time = 22,500 ÷ 500 = 45 minutes.",
+    "trick": "Emptying the whole tank takes 25,000 ÷ 500 = 50 minutes. Leaving 10% means using 90% of that time: 45.",
+    "check": "agree",
+    "computed": "45 minutes",
+    "accept": ["45", "45 minutes", "45 min", "45 mins"],
+    "comment": ""
+  },
+  "26-md06b-qb-2453": {
+    "solution": "The rocket is on the ground when h(t) = 0, so −5t² + 50t = 0. Factorising gives −5t(t − 10) = 0, so t = 0 (the launch) or t = 10. It hits the ground at t = 10 s.",
+    "trick": "Divide −5t² + 50t = 0 by −5t to get t − 10 = 0, so t = 10.",
+    "check": "agree",
+    "computed": "10 s",
+    "accept": ["10", "10s", "10 s", "10 sec", "10 secs", "10 seconds"],
+    "comment": ""
+  },
+  "26-md06b-qb-2522": {
+    "solution": "Use the chain rule: the derivative of sin(u) is cos(u) × u'. Here u = 3x² + 2x, so u' = 6x + 2. So f'(x) = (6x + 2)cos(3x² + 2x).",
+    "trick": "Keep the inside, change sin to cos, then multiply by the derivative of the inside, 6x + 2. Only the third option has cos together with 6x + 2.",
+    "check": "agree",
+    "computed": "(6x + 2)cos(3x² + 2x)",
+    "accept": ["(6x + 2)cos(3x² + 2x)", "(6x+2)cos(3x²+2x)", "(6x+2)cos(3x^2+2x)", "(6x + 2)cos(3x^2 + 2x)", "(6x+2)*cos(3x^2+2x)", "cos(3x²+2x)(6x+2)", "(6x + 2) cos(3x² + 2x)", "(6x+2) cos(3x²+2x)"],
+    "comment": ""
+  },
+  "26-md06b-qb-2626": {
+    "solution": "Taking 600 MW as the useful output at 25% efficiency, the input power = 600 ÷ 0.25 = 2,400 MW. The wasted heat power = 2,400 − 600 = 1,800 MW. Over 1 hour that is 1,800 MW × 1 h = 1,800 MWh.",
+    "trick": "At 25% efficiency, 1 part is useful and 3 parts are wasted, so the waste is 3 × 600 = 1,800 MWh.",
+    "check": "agree",
+    "computed": "1,800 MWh",
+    "accept": ["1800", "1,800", "1800 MWh", "1,800 MWh", "1800MWh", "1.8 GWh"],
+    "comment": ""
+  },
+  "26-md06b-qb-2636": {
+    "solution": "5 machines make 5 gadgets in 5 minutes, so each machine makes 1 gadget in 5 minutes. With 100 machines working at once, 100 gadgets take the same 5 minutes. The answer is 5 minutes.",
+    "trick": "One machine makes one gadget in 5 minutes. Multiply machines and gadgets by 100 together and the time does not change.",
+    "check": "agree",
+    "computed": "5 minutes",
+    "accept": ["5", "5 minutes", "5 min", "5 mins"],
+    "comment": ""
+  },
+  "26-md06b-qb-2644": {
+    "solution": "After t hours the culture is multiplied by \\(2^{t/2}\\). Set \\(2^{t/2} = 10\\), so t ÷ 2 = log₂10 = ln 10 ÷ ln 2 ≈ 2.3026 ÷ 0.6931 ≈ 3.32. So t = 2 × 3.32 ≈ 6.64 hours.",
+    "trick": "10 times lies between 8 times (3 doublings, 6 hours) and 16 times (4 doublings, 8 hours). Only 6.64 hours falls between 6 and 8.",
+    "check": "agree",
+    "computed": "6.64 hours",
+    "accept": ["6.64", "6.64 hours", "6.64 h", "6.64 hrs", "6.6", "6.644", "6.6439"],
+    "comment": ""
+  },
+  "26-md06b-qb-2652": {
+    "solution": "Take interest on the reducing balance at 6% ÷ 12 = 0.5% a month. Then n = −ln(1 − Pr ÷ PMT) ÷ ln(1 + r) = −ln(1 − 8,000 × 0.005 ÷ 400) ÷ ln(1.005) = −ln(0.9) ÷ ln(1.005) ≈ 21.1. After 21 payments about $50 is still owed, so a small 22nd payment is needed. The answer is 22 payments.",
+    "trick": "With no interest it would take 8,000 ÷ 400 = 20 payments. Interest adds to that, so the answer must be more than 20. Only 22 is.",
+    "check": "agree",
+    "computed": "22 payments (21.1, rounded up)",
+    "accept": ["22", "22 payments", "22 months"],
+    "comment": ""
+  },
+  "26-md06b-bm-2842": {
+    "solution": "Start with 100. After +20% it is 100 × 1.2 = 120. After −20% it is 120 × 0.8 = 96. The net change is 96 − 100 = −4, which is −4%.",
+    "trick": "Up then down by the same 20% gives (1 + 0.2)(1 − 0.2) = 1 − 0.2² = 0.96, so −4%.",
+    "check": "agree",
+    "computed": "−4%",
+    "accept": ["-4%", "−4%", "-4", "−4", "4% decrease", "4% loss", "decrease of 4%"],
+    "comment": ""
+  },
+  "26-md06b-bm-2846": {
+    "solution": "The horizontal component = F cos θ = 100 × cos 30°. Since cos 30° = √3 ÷ 2 ≈ 0.866, this is 100 × 0.866 = 86.6 N.",
+    "trick": "The angle is from the horizontal, so the horizontal part uses cos: 100 × 0.866 = 86.6 N. The 50 N option is the vertical part, 100 × sin 30°.",
+    "check": "agree",
+    "computed": "86.6 N",
+    "accept": ["86.6", "86.6N", "86.6 N", "86.60", "86.60 N", "50√3", "50√3 N"],
+    "comment": ""
+  },
+  "26-md06b-bm-2848": {
+    "solution": "Doubling every hour for 6 hours multiplies the count by 2⁶ = 64. So the count = 100 × 64 = 6,400.",
+    "trick": "2⁶ = 64, so the answer is 64 followed by two zeros: 6,400.",
+    "check": "agree",
+    "computed": "6,400",
+    "accept": ["6400", "6,400"],
+    "comment": ""
+  },
+  "26-md06b-bm-2882": {
+    "solution": "Substitute x = 4: y = 3(4²) − 2(4) + 7 = 3 × 16 − 8 + 7 = 48 − 8 + 7 = 47.",
+    "trick": "Do −2x + 7 first: −8 + 7 = −1. Then 3 × 16 = 48, and 48 − 1 = 47.",
+    "check": "agree",
+    "computed": "47",
+    "accept": ["47"],
+    "comment": ""
+  },
+  "26-md06b-bm-2886": {
+    "solution": "A 1:250 scale means real length = 250 × model length = 250 × 6 cm = 1,500 cm. Since 100 cm = 1 m, that is 15 m.",
+    "trick": "Each model centimetre is 250 cm, or 2.5 m, in real life. So 6 × 2.5 = 15 m.",
+    "check": "agree",
+    "computed": "15 m",
+    "accept": ["15", "15m", "15 m", "15 metres", "15 meters"],
+    "comment": ""
+  },
+  "26-md06b-bm-2894": {
+    "solution": "25% remaining means 75% has drained: 0.75 × 20,000 = 15,000 L. Time = 15,000 ÷ 300 = 50 minutes.",
+    "trick": "75% of 20,000 is 15,000. Cancel two zeros: 150 ÷ 3 = 50.",
+    "check": "agree",
+    "computed": "50 minutes",
+    "accept": ["50", "50 minutes", "50 min", "50 mins"],
+    "comment": ""
+  },
+  "26-md06b-bm-2898": {
+    "solution": "The 30 m base is adjacent to the 75° angle and the cable is the hypotenuse. So cos 75° = 30 ÷ L, which gives L = 30 ÷ cos 75° = 30 ÷ 0.2588 ≈ 115.9 m. The cable is about 116 m.",
+    "trick": "cos 75° ≈ 0.26, just over a quarter, so the cable is just under 4 × 30 = 120 m. Only 116 m fits.",
+    "check": "agree",
+    "computed": "116 m (115.9 m)",
+    "accept": ["116", "116m", "116 m", "115.9", "115.9m", "115.91", "116 metres", "116 meters"],
+    "comment": ""
+  },
+  "26-md06b-bm-2902": {
+    "solution": "Integrate the marginal cost: C(q) = ∫(6q − 12) dq = 3q² − 12q + k. The fixed cost is the value at q = 0, so k = 200. At q = 10: C = 3(100) − 12(10) + 200 = 300 − 120 + 200 = ₦380.",
+    "trick": "Integrate to 3q² − 12q + 200 and put in q = 10: 300 − 120 + 200 = 380.",
+    "check": "agree",
+    "computed": "₦380",
+    "accept": ["380", "₦380", "N380", "NGN 380", "NGN380"],
+    "comment": ""
+  },
+  "26-md06b-bm-2908": {
+    "solution": "For a 2 × 2 matrix [[a, b], [c, d]] the determinant is ad − bc. Here that is 2 × 4 − 3 × 1 = 8 − 3 = 5.",
+    "trick": "Multiply down the main diagonal and subtract the other diagonal: 8 − 3 = 5.",
+    "check": "agree",
+    "computed": "5",
+    "accept": ["5"],
+    "comment": ""
+  },
+  "26-md06b-bm-2916": {
+    "solution": "Cross Aa × Aa. The four equally likely offspring are AA, Aa, Aa and aa. With complete dominance, AA and Aa look the same, so 3 show the dominant trait and 1 shows the recessive trait. The phenotypic ratio is 3:1.",
+    "trick": "Four equal offspring types and only aa shows the recessive trait, so 3:1. The 1:2:1 option is the genotype ratio, not the phenotype ratio.",
+    "check": "agree",
+    "computed": "3:1",
+    "accept": ["3:1", "3 : 1", "3 to 1", "3/1"],
+    "comment": ""
+  },
+  "26-md06b-bm-2924": {
+    "solution": "Energy needed = work done = force × distance. The weight is already a force, 30 N. So E = 30 × 10 = 300 J.",
+    "trick": "Weight is already in newtons, so energy = 30 × 10 = 300 J with no g needed.",
+    "check": "agree",
+    "computed": "300 J",
+    "accept": ["300", "300J", "300 J", "300 joules"],
+    "comment": ""
+  },
+  "26-qf1-qb-0791": {
+    "solution": "If 70% is absorbed, 100% − 70% = 30% passes through, assuming none is reflected. So the transmitted intensity = 0.30 × 250 = 75 W/m².",
+    "trick": "10% of 250 is 25, and 30% is three of those: 75.",
+    "check": "agree",
+    "computed": "75 W/m²",
+    "accept": ["75", "75 W/m²", "75 W/m2", "75W/m2", "75 W/m^2"],
+    "comment": ""
+  },
+  "26-qf1-qb-0799": {
+    "solution": "Speed = distance ÷ time = 120 km ÷ 2 h = 60 km/h. To convert to m/s, multiply by 1,000 ÷ 3,600, which is the same as dividing by 3.6. So 60 ÷ 3.6 ≈ 16.67 m/s.",
+    "trick": "60 km/h is 1 km per minute, so the speed is 1,000 m per 60 s ≈ 16.67 m/s.",
+    "check": "agree",
+    "computed": "16.67 m/s",
+    "accept": ["16.67", "16.67 m/s", "16.67m/s", "16.7", "16.7 m/s", "16.7m/s", "50/3", "16.666", "16.6667"],
+    "comment": ""
+  },
+  "26-qf1-qb-0813": {
+    "solution": "Let the integers be n, n + 2 and n + 4. Their sum is 3n + 6 = 102, so 3n = 96 and n = 32. The numbers are 32, 34 and 36, so the largest is 36.",
+    "trick": "102 ÷ 3 = 34 is the middle number. The largest is 2 more: 36.",
+    "check": "agree",
+    "computed": "36",
+    "accept": ["36"],
+    "comment": ""
+  }
+}

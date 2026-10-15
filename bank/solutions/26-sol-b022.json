@@ -1,0 +1,422 @@
+{
+ "26-md01b-qb-2374": {
+  "solution": "Scale 1:50 means real size = model size × 50. So the true height = 40 cm × 50 = 2,000 cm, which is 20 m.",
+  "trick": "50 is half of 100, so 40 × 50 is half of 4,000, which is 2,000 cm. Drop two zeros for metres: 20 m.",
+  "check": "agree",
+  "computed": "20 m (2,000 cm)",
+  "accept": [
+   "20",
+   "20m",
+   "20 m",
+   "20 metres",
+   "20 meters",
+   "2000",
+   "2,000",
+   "2000cm",
+   "2,000cm",
+   "2000 cm",
+   "2,000 cm"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2383": {
+  "solution": "The petrol use is steady, so distance is in proportion to litres. 240 km ÷ 20 L = 12 km per litre. So 35 L × 12 km/L = 420 km.",
+  "trick": "35 ÷ 20 = 7/4. A quarter of 240 is 60, and 7 × 60 = 420 km.",
+  "check": "agree",
+  "computed": "420 km",
+  "accept": [
+   "420",
+   "420km",
+   "420 km"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2393": {
+  "solution": "Acceleration is the derivative of velocity. v = 3t² − 6t, so a = dv/dt = 6t − 6. At t = 2: a = 6(2) − 6 = 12 − 6 = 6 m/s².",
+  "trick": "Differentiate in your head: 3t² becomes 6t and −6t becomes −6. At t = 2 that is 12 − 6 = 6.",
+  "check": "agree",
+  "computed": "6 m/s²",
+  "accept": [
+   "6",
+   "6m/s²",
+   "6 m/s²",
+   "6m/s2",
+   "6 m/s2",
+   "6 m/s^2"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2401": {
+  "solution": "(f ∘ g)(x) means f(g(x)), so g is applied first. g(x) = 2x, so f(2x) = 2x + 3. The answer is 2x + 3.",
+  "trick": "Read it as f of g: double x first, then add 3. The 3 comes last, so it is not doubled.",
+  "check": "agree",
+  "computed": "2x + 3",
+  "accept": [
+   "2x+3",
+   "2x + 3",
+   "3 + 2x",
+   "3+2x"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2413": {
+  "solution": "As worded, a 45° angle of depression to the base does not match a 30 m roof and a 40 m gap. Reading the 45° as the angle of elevation from the roof to the top of the taller building, the rise above the roof = 40 × tan 45° = 40 × 1 = 40 m. So the extra height is 40 m.",
+  "trick": "tan 45° = 1, so the rise equals the run: 40 m across means 40 m up.",
+  "check": "unclear",
+  "computed": "40 m (reading 45° as the angle of elevation to the top of the taller building)",
+  "accept": [
+   "40",
+   "40m",
+   "40 m"
+  ],
+  "comment": "As worded the numbers do not fit: from a 30 m roof, 40 m away, the angle of depression to the base is about 37° (arctan of 30 ÷ 40), not 45°. The show's 40 m only works if 45° is the angle of elevation to the top of the taller building, giving 40 × tan 45° = 40 m above the roof."
+ },
+ "26-md01b-qb-2506": {
+  "solution": "Energy needed = work done against the weight = force × distance. The weight is already a force, so W = 10 N × 6 m = 60 J.",
+  "trick": "Weight is already in newtons, so energy is weight × height: 10 × 6 = 60 J. No need for g.",
+  "check": "agree",
+  "computed": "60 J",
+  "accept": [
+   "60",
+   "60J",
+   "60 J",
+   "60 joules",
+   "60 joule"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2514": {
+  "solution": "For z = 1 + i, the real part is 1 and the imaginary part is 1. The argument is θ = arctan(1 ÷ 1) = arctan 1 = 45°. The point (1, 1) is in the first quadrant, so θ = 45°.",
+  "trick": "The real and imaginary parts are equal, so the point sits on the 45° diagonal.",
+  "check": "agree",
+  "computed": "45°",
+  "accept": [
+   "45",
+   "45°",
+   "45 degrees",
+   "π/4",
+   "pi/4"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2518": {
+  "solution": "Multiply the matching components and add. A · B = (3)(1) + (4)(−2) = 3 − 8 = −5.",
+  "trick": "Multiply the i parts and the j parts: 3 × 1 = 3 and 4 × (−2) = −8. Then 3 − 8 = −5. The minus sign from the j parts is the one to watch.",
+  "check": "agree",
+  "computed": "−5",
+  "accept": [
+   "-5",
+   "−5",
+   "minus 5",
+   "negative 5"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2528": {
+  "solution": "The man, his shadow and the sun's ray make a right angled triangle. At 90° the sun would be directly overhead and there would be no shadow. Here tan θ = height ÷ shadow length = 1, so θ = 45°.",
+  "trick": "Shadow equal to height means the two short sides are equal, so it is a 45° triangle. At 60° the shadow would be shorter than the man, and at 90° there is no shadow.",
+  "check": "agree",
+  "computed": "45°",
+  "accept": [
+   "45",
+   "45°",
+   "45 degrees"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2532": {
+  "solution": "Area = ∫ from 1 to 5 of (3x + 1) dx = [1.5x² + x] from 1 to 5. At x = 5 this is 37.5 + 5 = 42.5, and at x = 1 it is 1.5 + 1 = 2.5. The area is 42.5 − 2.5 = 40.",
+  "trick": "The graph is a straight line, so area = width × height at the midpoint. At x = 3, y = 10, and the width is 4, so 40.",
+  "check": "agree",
+  "computed": "40",
+  "accept": [
+   "40",
+   "40 square units",
+   "40 units²"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2543": {
+  "solution": "Use the units asked for: 1.2 m = 120 cm and 8.4 kg = 8,400 g. Mass per cm = 8,400 g ÷ 120 cm = 70 g/cm.",
+  "trick": "8.4 ÷ 1.2 = 7 kg per metre. That is 7,000 g over 100 cm, so 70 g per cm.",
+  "check": "agree",
+  "computed": "70 g/cm",
+  "accept": [
+   "70",
+   "70g/cm",
+   "70 g/cm",
+   "70 g per cm",
+   "0.07 kg/cm"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2553": {
+  "solution": "The amount halves each day. After 3 days it has halved 3 times, so the fraction left is (1/2)³ = 1/8.",
+  "trick": "Halve three times: 1/2, then 1/4, then 1/8.",
+  "check": "agree",
+  "computed": "1/8",
+  "accept": [
+   "1/8",
+   "⅛",
+   "0.125",
+   ".125",
+   "12.5%",
+   "one eighth",
+   "an eighth"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2557": {
+  "solution": "On a frictionless slope, only the component of gravity along the slope speeds the box up. So a = g sin θ = 9.8 × sin 30° = 9.8 × 0.5 = 4.9 m/s².",
+  "trick": "sin 30° = 1/2, so the acceleration is half of g: 9.8 ÷ 2 = 4.9 m/s².",
+  "check": "agree",
+  "computed": "4.9 m/s²",
+  "accept": [
+   "4.9",
+   "4.9m/s²",
+   "4.9 m/s²",
+   "4.9m/s2",
+   "4.9 m/s2",
+   "4.9 m/s^2",
+   "4.905"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2565": {
+  "solution": "Ohm's law: V = IR, so I = V ÷ R. I = 24 V ÷ 8 Ω = 3 amperes.",
+  "trick": "24 ÷ 8 = 3. Voltage divided by resistance gives the current.",
+  "check": "agree",
+  "computed": "3 A",
+  "accept": [
+   "3",
+   "3A",
+   "3 A",
+   "3 amps",
+   "3 amp",
+   "3 ampere",
+   "3 amperes"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2571": {
+  "solution": "Scale 1:250 means real length = model length × 250. So 6 cm × 250 = 1,500 cm, which is 15 m.",
+  "trick": "Each model centimetre is 250 cm = 2.5 m in real life, so 6 × 2.5 = 15 m.",
+  "check": "agree",
+  "computed": "15 m",
+  "accept": [
+   "15",
+   "15m",
+   "15 m",
+   "15 meters",
+   "15 metres",
+   "15 meter",
+   "15 metre"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2577": {
+  "solution": "Ratio of B to A = B ÷ A = (5/8) ÷ (3/5). Dividing by a fraction means multiplying by its flip, so (5/8) × (5/3) = 25/24. The ratio is 25:24.",
+  "trick": "Put both over 40: 3/5 = 24/40 and 5/8 = 25/40. The ratio of B to A is just 25:24.",
+  "check": "agree",
+  "computed": "25:24",
+  "accept": [
+   "25:24",
+   "25/24",
+   "25 : 24",
+   "25 to 24"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2591": {
+  "solution": "bpm means beats per minute, which is a rate, so the total over 45 minutes is a count of beats. Total beats = rate × time = 140 × 45 = 6,300 beats.",
+  "trick": "140 × 45 is 14 × 45 with a zero added. 14 × 45 = 560 + 70 = 630, so the answer is 6,300.",
+  "check": "unclear",
+  "computed": "6,300 beats",
+  "accept": [
+   "6300",
+   "6,300",
+   "6300 beats",
+   "6,300 beats",
+   "6300 bpm",
+   "6,300 bpm"
+  ],
+  "comment": "The value 6,300 is right, but bpm means beats per minute, which is a rate. Over 45 minutes the total is a count, so the unit should be beats, not bpm."
+ },
+ "26-md01b-qb-2601": {
+  "solution": "Sugar is 4/6 of 120 L = 80 L and water is 40 L. Adding water leaves the sugar at 80 L. A 2:4 ratio needs the water to be double the sugar, which is 160 L. Water to add = 160 − 40 = 120 L.",
+  "trick": "Sugar stays at 80 L. For 2:4 the water must be twice that, 160 L. It is 40 L now, so add 120 L.",
+  "check": "agree",
+  "computed": "120 L",
+  "accept": [
+   "120",
+   "120L",
+   "120 L",
+   "120 litres",
+   "120 liters",
+   "120l"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2611": {
+  "solution": "Critical points are where f'(x) = 0. f(x) = x³ − 3x², so f'(x) = 3x² − 6x = 3x(x − 2). This is zero at x = 0 and x = 2.",
+  "trick": "Differentiate to 3x² − 6x, then factor out 3x: 3x(x − 2). The roots 0 and 2 read straight off.",
+  "check": "agree",
+  "computed": "x = 0 and x = 2",
+  "accept": [
+   "0 and 2",
+   "0, 2",
+   "0,2",
+   "x = 0 and x = 2",
+   "x=0, x=2",
+   "x = 0, 2",
+   "2 and 0"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2621": {
+  "solution": "Work = power × time. 5 minutes = 300 s, so W = 400 W × 300 s = 120,000 J.",
+  "trick": "5 minutes is 300 s. 4 × 3 = 12, then add the four zeros from 400 and 300: 120,000 J.",
+  "check": "agree",
+  "computed": "120,000 J",
+  "accept": [
+   "120000",
+   "120,000",
+   "120000J",
+   "120,000J",
+   "120000 J",
+   "120,000 J",
+   "120 kJ",
+   "120kJ"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2645": {
+  "solution": "R(x) = 640x − 20x² is a downward parabola, so revenue is greatest at the vertex. x = −b ÷ (2a) = −640 ÷ (−40) = 16. Check: R'(x) = 640 − 40x = 0 gives x = 16.",
+  "trick": "Factor it: R = 20x(32 − x), which is zero at x = 0 and x = 32. The peak is halfway between: 16.",
+  "check": "agree",
+  "computed": "16",
+  "accept": [
+   "16",
+   "16 signups",
+   "16 sign ups",
+   "x = 16",
+   "x=16"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2656": {
+  "solution": "Acceleration is the derivative of velocity. v = 4t² − 12t + 9, so a = 8t − 12. At t = 2: a = 16 − 12 = 4 m/s².",
+  "trick": "Differentiate: 4t² gives 8t, −12t gives −12, and the 9 vanishes. At t = 2: 16 − 12 = 4.",
+  "check": "agree",
+  "computed": "4 m/s²",
+  "accept": [
+   "4",
+   "4m/s²",
+   "4 m/s²",
+   "4m/s2",
+   "4 m/s2",
+   "4 m/s^2"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2666": {
+  "solution": "The vertical component is magnitude × sin θ, with θ measured from the horizontal. So the vertical component = 25 × sin 90° = 25 × 1 = 25.",
+  "trick": "A direction of 90° points straight up, so all 25 is vertical.",
+  "check": "agree",
+  "computed": "25",
+  "accept": [
+   "25",
+   "25 units"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2674": {
+  "solution": "Velocity is the integral of acceleration: v = ∫12t dt = 6t² + C. Since v = 0 at t = 0, C = 0. At t = 6: v = 6 × 6² = 6 × 36 = 216 units.",
+  "trick": "12t integrates to 6t², with no constant. At t = 6 that is 6 × 6 × 6 = 216.",
+  "check": "agree",
+  "computed": "216",
+  "accept": [
+   "216",
+   "216 units"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2684": {
+  "solution": "Assuming Hardy Weinberg equilibrium, a recessive trait shows only in people with two recessive alleles, so q² = 9% = 0.09. The recessive allele frequency is q = √0.09 = 0.3, which is 30%.",
+  "trick": "The trait frequency is q², so take the square root: √0.09 = 0.3 because 3 × 3 = 9.",
+  "check": "agree",
+  "computed": "30% (0.3)",
+  "accept": [
+   "30%",
+   "0.3",
+   "30",
+   "3/10",
+   "30 percent",
+   ".3"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2690": {
+  "solution": "The 200 mL holds 10% × 200 = 20 mL of solute, and adding water does not change that. For 4%, the total volume V satisfies 0.04 × V = 20, so V = 500 mL. Water added = 500 − 200 = 300 mL.",
+  "trick": "The solute stays the same, so the volume grows by 10 ÷ 4 = 2.5 times. 200 × 2.5 = 500 mL, so add 300 mL.",
+  "check": "agree",
+  "computed": "300 mL",
+  "accept": [
+   "300",
+   "300mL",
+   "300 mL",
+   "300ml",
+   "300 ml"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2700": {
+  "solution": "P(x) = −x² + 20x − 36 is a downward parabola, so the maximum is at x = −b ÷ (2a) = −20 ÷ (−2) = 10. P(10) = −100 + 200 − 36 = 64.",
+  "trick": "With −x² the peak is at half of the x coefficient, so x = 10. Then −100 + 200 − 36 = 64.",
+  "check": "agree",
+  "computed": "64",
+  "accept": [
+   "64",
+   "64 units"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2708": {
+  "solution": "Cost is the integral of marginal cost: C(x) = ∫(3x + 2) dx = 1.5x² + 2x, taking the fixed cost as zero. So C(8) = 1.5 × 64 + 2 × 8 = 96 + 16 = 112.",
+  "trick": "Marginal cost rises in a straight line, so total cost = items × average MC. MC(0) = 2 and MC(8) = 26, so the average is 14, and 8 × 14 = 112.",
+  "check": "agree",
+  "computed": "112",
+  "accept": [
+   "112"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2716": {
+  "solution": "Car B's speed = 300 km ÷ 4 h = 75 km/h. Car A's speed is 4/5 of Car B's, so 4/5 × 75 = 60 km/h.",
+  "trick": "Car B does 300 ÷ 4 = 75. One part of the ratio is 75 ÷ 5 = 15, so Car A is 4 × 15 = 60.",
+  "check": "agree",
+  "computed": "60 km/h",
+  "accept": [
+   "60",
+   "60km/h",
+   "60 km/h",
+   "60kmh",
+   "60 kph",
+   "60km/hr",
+   "60 km/hr"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2730": {
+  "solution": "The mass halves every 3 hours, so 12 hours gives 12 ÷ 3 = 4 halvings. Mass = 200 × (1/2)⁴ = 200 ÷ 16 = 12.5 g.",
+  "trick": "Halve four times: 200, 100, 50, 25, 12.5.",
+  "check": "agree",
+  "computed": "12.5 g",
+  "accept": [
+   "12.5",
+   "12.5g",
+   "12.5 g"
+  ],
+  "comment": ""
+ }
+}

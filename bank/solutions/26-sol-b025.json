@@ -1,0 +1,242 @@
+{
+  "26-md12b-qb-2152": {
+    "solution": "Let the width be w, so the length is 3w. The perimeter is 2(3w + w) = 8w. So 8w = 88 and w = 88 ÷ 8 = 11. The width is 11 meters.",
+    "trick": "The perimeter is 8 widths in total (two lengths of 3 widths each, plus two widths), so 88 ÷ 8 = 11.",
+    "check": "agree",
+    "computed": "11 meters",
+    "accept": ["11", "11m", "11 m", "11 metres"],
+    "comment": ""
+  },
+  "26-md12b-qb-2160": {
+    "solution": "The slit spacing is d = 1 ÷ 500 mm = 0.002 mm. Since 1 mm = 10⁻³ m, d = 2 × 10⁻⁶ m. The options are in nm, and 2 × 10⁻⁶ m = 2,000 nm. So the spacing is 2,000 nm.",
+    "trick": "1 mm is 1,000,000 nm, so the spacing is 1,000,000 ÷ 500 = 2,000 nm.",
+    "check": "agree",
+    "computed": "2,000 nm (2 × 10⁻⁶ m)",
+    "accept": ["2000", "2,000", "2000nm", "2000 nm", "2 μm", "2 µm", "2μm", "2um", "2e-6", "2x10^-6", "2×10⁻⁶", "2×10⁻⁶ m", "0.000002"],
+    "comment": ""
+  },
+  "26-md12b-qb-2166": {
+    "solution": "The diagonal is the hypotenuse of a right triangle. So the other side = √(50² − 30²) = √(2500 − 900) = √1600 = 40. The remaining side is 40 m.",
+    "trick": "30 and 50 are 3 and 5 times 10, so this is the 3, 4, 5 triangle scaled by 10. The missing side is 4 × 10 = 40.",
+    "check": "agree",
+    "computed": "40 m",
+    "accept": ["40", "40 m", "40 metres", "40 meters"],
+    "comment": ""
+  },
+  "26-md12b-qb-2186": {
+    "solution": "If 80% is absorbed, 100% − 80% = 20% passes through, assuming none is reflected. So the transmitted intensity = 20% of 400 = 0.2 × 400 = 80 W/m².",
+    "trick": "20% is one fifth, and 400 ÷ 5 = 80.",
+    "check": "agree",
+    "computed": "80 W/m²",
+    "accept": ["80", "80 W/m²", "80 W/m2", "80W/m2"],
+    "comment": ""
+  },
+  "26-md12b-qb-2203": {
+    "solution": "The graph is a downward parabola, so the peak is at t = −b ÷ (2a) = −20 ÷ (−10) = 2 s. Then h(2) = −5 × 4 + 20 × 2 = −20 + 40 = 20. The maximum height is 20 m.",
+    "trick": "Factor as h = 5t(4 − t). It is zero at t = 0 and t = 4, so the peak is at t = 2, where h = 5 × 2 × 2 = 20.",
+    "check": "agree",
+    "computed": "20 m",
+    "accept": ["20", "20 m", "20 metres", "20 meters"],
+    "comment": ""
+  },
+  "26-md12b-qb-2221": {
+    "solution": "Let the width be w, so the length is 2w + 3. The perimeter is 2(w + 2w + 3) = 6w + 6. So 6w + 6 = 54, which gives 6w = 48 and w = 8. The width is 8 meters.",
+    "trick": "Half the fence is 27, which is width plus length = 3w + 3. So 3w = 24 and w = 8.",
+    "check": "agree",
+    "computed": "8 meters",
+    "accept": ["8", "8m", "8 m", "8 metres"],
+    "comment": ""
+  },
+  "26-md12b-qb-2232": {
+    "solution": "The mass of solute is 15% of 400 g. That is 0.15 × 400 = 60 g.",
+    "trick": "10% of 400 is 40 and 5% is 20, so 15% is 40 + 20 = 60.",
+    "check": "agree",
+    "computed": "60 g",
+    "accept": ["60", "60g", "60 g", "60 grams"],
+    "comment": ""
+  },
+  "26-md12b-qb-2241": {
+    "solution": "Expand: (2 + 3i)(1 − i) = 2 − 2i + 3i − 3i². Since i² = −1, the last term is +3. So the product is 2 + 3 + i = 5 + i.",
+    "trick": "Real part: 2 × 1 − 3 × (−1) = 5. Imaginary part: 2 × (−1) + 3 × 1 = 1. So the answer is 5 + i.",
+    "check": "agree",
+    "computed": "5 + i",
+    "accept": ["5+i", "5 + 1i", "5+1i", "i + 5", "i+5"],
+    "comment": ""
+  },
+  "26-md12b-qb-2246": {
+    "solution": "Each year the car keeps 80% of the value it had the year before. After 3 years the value is 1,000,000 × 0.8³ = 1,000,000 × 0.512. So the value is ₦512,000.",
+    "trick": "8 × 8 × 8 = 512, so 0.8³ = 0.512 and the value is ₦512,000. The ₦640,000 option is the value after only 2 years (0.8² = 0.64).",
+    "check": "agree",
+    "computed": "₦512,000",
+    "accept": ["512000", "512,000", "₦512000", "N512,000", "N512000"],
+    "comment": ""
+  },
+  "26-md12b-qb-2256": {
+    "solution": "Time = 3 h 45 min = 3 × 60 + 45 = 225 min. Speed = distance ÷ time = 30 km ÷ 225 min = 2/15 ≈ 0.133 km/min. The 133 option would be metres per minute, so its unit is wrong. The answer is 0.133 km/min.",
+    "trick": "30 km in 225 minutes is well under 1 km per minute, so 13.3 and 133 are out. Only 0.133 is left.",
+    "check": "agree",
+    "computed": "0.133 km/min",
+    "accept": ["0.133", "0.1333", "0.133 km/min", "0.133km/min", "2/15", "2/15 km/min"],
+    "comment": ""
+  },
+  "26-md12b-qb-2281": {
+    "solution": "The ratio is manager : assistant = 5 : 2, and the assistant's 2 parts are ₦80,000. So 1 part = ₦40,000. The manager has 5 parts, so the salary is 5 × 40,000 = ₦200,000.",
+    "trick": "Half of 80,000 is 40,000 for one part, so five parts is 5 × 40,000 = 200,000.",
+    "check": "agree",
+    "computed": "₦200,000",
+    "accept": ["200000", "200,000", "₦200000", "N200,000", "N200000"],
+    "comment": ""
+  },
+  "26-md12b-qb-2287": {
+    "solution": "The tower, the ground and the line of sight form a right triangle, ignoring the man's own height. tan 45° = height ÷ 50 and tan 45° = 1. So the height is 50 × 1 = 50 m.",
+    "trick": "At 45° the height equals the distance, so the tower is 50 m.",
+    "check": "agree",
+    "computed": "50 m",
+    "accept": ["50", "50 m", "50 metres", "50 meters"],
+    "comment": ""
+  },
+  "26-md12b-qb-2290": {
+    "solution": "5 minutes = 5 × 60 = 300 s. Here one swing means one full back and forth, which takes the period of 2 s (counting each one way pass would give 300 instead). So the number of swings = 300 ÷ 2 = 150.",
+    "trick": "5 minutes is 300 s and each swing takes 2 s, so half of 300 is 150.",
+    "check": "agree",
+    "computed": "150 swings",
+    "accept": ["150", "150 swings", "150 oscillations", "150 cycles"],
+    "comment": ""
+  },
+  "26-md12b-qb-2294": {
+    "solution": "The tank is 40% full, so 100% − 40% = 60% is still empty. The oil needed is 60% of 8,000 = 0.6 × 8,000 = 4,800 litres.",
+    "trick": "10% of 8,000 is 800, so 60% is 6 × 800 = 4,800.",
+    "check": "agree",
+    "computed": "4,800 litres",
+    "accept": ["4800", "4,800", "4800 litres", "4800 L", "4800L", "4800 liters"],
+    "comment": ""
+  },
+  "26-md12b-qb-2309": {
+    "solution": "Distance = speed × time = 750 × 4.5. That is 750 × 4 = 3,000 plus 750 × 0.5 = 375. So the distance is 3,000 + 375 = 3,375 km.",
+    "trick": "4.5 is 4 and a half, so take 4 × 750 = 3,000 and add half of 750, which is 375. That gives 3,375.",
+    "check": "agree",
+    "computed": "3,375 km",
+    "accept": ["3375", "3,375", "3375 km", "3375km", "3,375 km"],
+    "comment": ""
+  },
+  "26-md12b-qb-2434": {
+    "solution": "The amount of HCl does not change on dilution: 6 M × 0.2 L = 1.2 mol. The final volume is 200 + 300 = 500 mL = 0.5 L, assuming the volumes add. So the new molarity = 1.2 ÷ 0.5 = 2.4 M.",
+    "trick": "The volume goes from 200 mL to 500 mL, so the acid keeps 200/500 = 2/5 of its strength. Then 2/5 of 6 is 2.4.",
+    "check": "agree",
+    "computed": "2.4 M",
+    "accept": ["2.4", "2.4 M", "2.4 mol/L", "2.4 molar"],
+    "comment": ""
+  },
+  "26-md12b-qb-2464": {
+    "solution": "Parent AO passes on A or O, and parent BO passes on B or O, each with chance 1/2. So the child is AB, AO, BO or OO, each with probability 1/4. Only AO gives type A, because AB is type AB, BO is type B and OO is type O. So the probability is 1/4 = 25%.",
+    "trick": "There are 4 equally likely children, so every chance is a multiple of 25%. That rules out 55% and 95%, leaving 25%.",
+    "check": "agree",
+    "computed": "25%",
+    "accept": ["25", "0.25", "1/4", "1 in 4", "one quarter", "a quarter"],
+    "comment": ""
+  },
+  "26-md12b-qb-2475": {
+    "solution": "C′(x) = 3x² − 12x + 15 = 3(x − 2)² + 3, which is always positive. So the cost keeps rising and has no turning point. The value x = 2 is where the marginal cost C′ is lowest (C″ = 6x − 12 = 0). Among the options, C(2) = 14, C(3) = 18 and C(4) = 28, so x = 2 is the answer.",
+    "trick": "3x² − 12x + 15 has no real roots, so the cost only rises with output. The cheapest of the options is the smallest one, 2.",
+    "check": "unclear",
+    "computed": "2 (cheapest of the options; no true minimum exists)",
+    "accept": ["x = 2", "x=2"],
+    "comment": "C′(x) = 3(x − 2)² + 3 is always positive, so cost only rises and has no turning point; x = 2 is where marginal cost C′ is lowest, not where cost is lowest. Among the three options x = 2 does give the lowest total cost (14, 18 and 28), but the question's wording is flawed."
+  },
+  "26-md12b-qb-2487": {
+    "solution": "3 hours = 180 minutes, and 180 ÷ 20 = 9 doublings. So the number of cells = 500 × 2⁹ = 500 × 512 = 256,000.",
+    "trick": "9 doublings means 2⁹ = 512. Then 500 × 512 is half of 1,000 × 512, which is 256,000.",
+    "check": "agree",
+    "computed": "256,000 cells",
+    "accept": ["256000", "256,000", "256000 cells"],
+    "comment": ""
+  },
+  "26-md12b-qb-2492": {
+    "solution": "1 kg = 1,000 g and 1 m³ = 1,000,000 cm³. So 13,600 kg/m³ = 13,600 × 1,000 g ÷ 1,000,000 cm³ = 13.6 g/cm³.",
+    "trick": "Going from kg/m³ to g/cm³ always divides by 1,000 (water is 1,000 kg/m³ and 1 g/cm³). So 13,600 becomes 13.6.",
+    "check": "agree",
+    "computed": "13.6 g/cm³",
+    "accept": ["13.6", "13.6 g/cm3", "13.6g/cm3", "13.6g/cm³", "13.6 g/cc"],
+    "comment": ""
+  },
+  "26-md12b-qb-2504": {
+    "solution": "Take East as x and North as y. After turning 120° anticlockwise the ship heads 120° from East. The 20 km leg adds 20 cos 120° = −10 (10 km west) and 20 sin 120° ≈ 17.3 (north). The total is 30 − 10 = 20 km east and 17.3 km north, about 41° north of east, so the direction is Northeast.",
+    "trick": "The second leg is only 20 km, shorter than the 30 km East, so the ship always ends up east of the start. Only Northeast has an east part.",
+    "check": "agree",
+    "computed": "Northeast",
+    "accept": ["NE", "North East", "north east", "north-east", "northeast"],
+    "comment": ""
+  },
+  "26-md12b-qb-2515": {
+    "solution": "Simple interest I = P × R × T ÷ 100. So 6,000 = P × 5 × 4 ÷ 100 = 0.2P. Then P = 6,000 ÷ 0.2 = ₦30,000.",
+    "trick": "5% for 4 years is 20% of P, so 6,000 is one fifth of P. Multiply by 5 to get ₦30,000.",
+    "check": "agree",
+    "computed": "₦30,000",
+    "accept": ["30000", "30,000", "₦30000", "N30,000", "N30000"],
+    "comment": ""
+  },
+  "26-md12b-qb-2542": {
+    "solution": "In 160 L, milk = 5/8 of 160 = 100 L and water = 3/8 of 160 = 60 L. Adding water leaves the milk at 100 L. For a 2 : 3 ratio, water must be 100 × 3/2 = 150 L. So the water to add = 150 − 60 = 90 L.",
+    "trick": "Milk stays at 100 L. At 2 : 3 each part is 50 L, so water is 150 L, and 150 − 60 = 90.",
+    "check": "agree",
+    "computed": "90 L",
+    "accept": ["90", "90 L", "90L", "90 litres", "90 liters"],
+    "comment": ""
+  },
+  "26-md12b-qb-2560": {
+    "solution": "The absolute value of a + bi is √(a² + b²). So |4 − 3i| = √(4² + (−3)²) = √(16 + 9) = √25 = 5.",
+    "trick": "4 and 3 are the short sides of the 3, 4, 5 triangle, so the answer is 5.",
+    "check": "agree",
+    "computed": "5",
+    "accept": ["5.0", "√25"],
+    "comment": ""
+  },
+  "26-md12b-qb-2590": {
+    "solution": "Sugar : flour = 2 : 3. The 6 cups of flour is 2 times 3 cups, so the sugar is 2 × 2 = 4 cups.",
+    "trick": "6 cups is double 3 cups, so double the 2 cups of sugar to get 4.",
+    "check": "agree",
+    "computed": "4 cups",
+    "accept": ["4 cups", "4.0"],
+    "comment": ""
+  },
+  "26-md12b-qb-2596": {
+    "solution": "The flagpole is the side opposite the angle and the shadow is the side next to it. So tan θ = opposite ÷ adjacent = 15 ÷ 20 = 0.75. Therefore θ = arctan(0.75) ≈ 36.9°.",
+    "trick": "The two sides given are opposite (15) and adjacent (20), and that pair means tan. So the answer is arctan(0.75).",
+    "check": "agree",
+    "computed": "arctan(0.75), about 36.9°",
+    "accept": ["arctan 0.75", "arctan(3/4)", "tan⁻¹(0.75)", "tan^-1(0.75)", "tan-1(0.75)", "atan(0.75)", "36.9°", "36.87°", "36.9", "36.87"],
+    "comment": ""
+  },
+  "26-md12b-qb-2627": {
+    "solution": "The average rate of change is (f(e) − f(1)) ÷ (e − 1). Here f(e) = ln e = 1 and f(1) = ln 1 = 0. So the rate is (1 − 0) ÷ (e − 1) = 1/(e − 1) ≈ 0.582.",
+    "trick": "ln e is 1 and ln 1 is 0, so the top is 1. Put that over e − 1 to get 1/(e − 1).",
+    "check": "agree",
+    "computed": "1/(e − 1)",
+    "accept": ["1/(e-1)", "1/(e - 1)", "1 / (e − 1)", "(e-1)^-1", "0.582", "0.58"],
+    "comment": ""
+  },
+  "26-md12b-qb-2635": {
+    "solution": "At 1:200, 1 cm on the map is 200 cm = 2 m in real life. So 20 cm becomes 40 m and 15 cm becomes 30 m. The real area = 40 × 30 = 1,200 m².",
+    "trick": "Each map centimetre is 2 m, so the field is 40 m by 30 m, and 40 × 30 = 1,200.",
+    "check": "agree",
+    "computed": "1,200 m²",
+    "accept": ["1200", "1,200", "1200 m²", "1200m²", "1200 m2", "1200m2", "1,200 m²", "1,200 m2"],
+    "comment": ""
+  },
+  "26-md12b-qb-2644": {
+    "solution": "The graph is a downward parabola, so the maximum is at x = −b ÷ (2a) = −10 ÷ (−2) = 5. Then f(5) = −25 + 50 − 9 = 16. The maximum profit is 16.",
+    "trick": "Factor as f = −(x − 1)(x − 9). The peak is midway between the roots 1 and 9, at x = 5, where f = −(4)(−4) = 16.",
+    "check": "agree",
+    "computed": "16",
+    "accept": [],
+    "comment": ""
+  },
+  "26-md12b-qb-2656": {
+    "solution": "Percentage change = (new − old) ÷ old × 100. So the change = (1,400 − 800) ÷ 800 × 100 = 600 ÷ 800 × 100 = 75%. The heart rate rose by 75%.",
+    "trick": "The rise is 600, and 600 out of 800 is 3/4, which is 75%.",
+    "check": "agree",
+    "computed": "75%",
+    "accept": ["75", "75 percent", "75 per cent"],
+    "comment": ""
+  }
+}

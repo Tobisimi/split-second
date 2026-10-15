@@ -1,0 +1,419 @@
+{
+ "26-md01a-qb-1030": {
+  "solution": "The order of choosing does not matter, so use combinations. C(12, 8) = 12! ÷ (8! × 4!) = (12 × 11 × 10 × 9) ÷ (4 × 3 × 2 × 1) = 11,880 ÷ 24 = 495. The answer is 495.",
+  "trick": "Choosing 8 pairs to wear is the same as choosing 4 to leave out, so work out C(12, 4). Cancel as you go: 12 ÷ (4 × 3) = 1 and 10 ÷ 2 = 5. That leaves 11 × 5 × 9 = 495.",
+  "check": "agree",
+  "computed": "495",
+  "accept": [
+   "495",
+   "495 ways"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1393": {
+  "solution": "Each arrangement puts the 5 different players into 5 positions, so there are 5 choices for the first, 4 for the next, and so on. That gives 5! = 5 × 4 × 3 × 2 × 1 = 120. The answer is 120.",
+  "trick": "Know the small factorials: 4! = 24, so 5! = 5 × 24 = 120.",
+  "check": "agree",
+  "computed": "120",
+  "accept": [
+   "120",
+   "120 ways"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1397": {
+  "solution": "z = (x − mean) ÷ SD = (63 − 55) ÷ 4 = 8 ÷ 4 = 2. The answer is 2.",
+  "trick": "The gap is 63 − 55 = 8, and 4 goes into 8 twice. So z = 2.",
+  "check": "agree",
+  "computed": "2",
+  "accept": [
+   "2",
+   "2.0",
+   "+2",
+   "z = 2",
+   "z=2"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1403": {
+  "solution": "Aa × Aa gives AA, Aa, aA and aa, each equally likely. Only aa shows the recessive trait, so the other 3 of the 4 outcomes show the dominant trait (assuming complete dominance). The probability is 3/4.",
+  "trick": "Only aa misses the dominant trait, and that is 1/2 × 1/2 = 1/4. So 1 − 1/4 = 3/4.",
+  "check": "agree",
+  "computed": "3/4",
+  "accept": [
+   "3/4",
+   "0.75",
+   ".75",
+   "75%",
+   "75 percent",
+   "three quarters"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1410": {
+  "solution": "Simple interest I = P × R × T = 18,000 × 0.045 × 2 = 1,620. The interest accrued is $1,620.",
+  "trick": "4.5% a year for 2 years is 9% of the loan. 10% of 18,000 is 1,800 and 1% is 180, so 9% is 1,800 − 180 = 1,620.",
+  "check": "agree",
+  "computed": "$1,620",
+  "accept": [
+   "1620",
+   "$1620",
+   "1,620",
+   "$1,620",
+   "1620 dollars",
+   "$1,620.00",
+   "1620.00"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1416": {
+  "solution": "Here the mean (40) is below the median (50), which is below the mode (60). Pearson's coefficient of skewness is (mean − mode) ÷ SD = (40 − 60) ÷ SD, which is negative. So the long tail is on the left and the skewness is negative.",
+  "trick": "Mean minus mode is 40 − 60 = −20, which is below zero, so the skew is negative.",
+  "check": "agree",
+  "computed": "Negative skew",
+  "accept": [
+   "Negative",
+   "negative skew",
+   "negatively skewed",
+   "negative skewness",
+   "left skewed",
+   "skewed left",
+   "skewed to the left",
+   "left skew"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1424": {
+  "solution": "From 1 to 20 there are 20 whole numbers and 10 of them are even. So P(even) = 10 ÷ 20 = 1/2. If 1 and 20 are left out, it is 9 even out of 18, which is still 1/2. The answer is 1/2.",
+  "trick": "Odd and even numbers alternate, and there is an even count of numbers here, so exactly half are even: 1/2.",
+  "check": "agree",
+  "computed": "1/2",
+  "accept": [
+   "1/2",
+   "0.5",
+   ".5",
+   "50%",
+   "half",
+   "one half",
+   "10/20"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1430": {
+  "solution": "Each time X goes up by 5, Y goes down by 5, so Y = 20 − X exactly. All the points lie on one straight line sloping down. So the correlation coefficient is r = −1.",
+  "trick": "Y is exactly 20 − X, a perfect downhill line, so r = −1 with no working.",
+  "check": "agree",
+  "computed": "−1",
+  "accept": [
+   "−1",
+   "-1",
+   "−1.0",
+   "-1.0",
+   "r = −1",
+   "r = -1",
+   "r=-1",
+   "negative 1",
+   "negative one",
+   "minus 1",
+   "minus one"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1436": {
+  "solution": "The number who like at least one = 35 + 30 − 20 = 45, because the 20 who like both were counted twice. So the number who like neither = 60 − 45 = 15. The answer is 15.",
+  "trick": "Neither = total − A − B + both = 60 − 35 − 30 + 20 = 15.",
+  "check": "agree",
+  "computed": "15",
+  "accept": [
+   "15",
+   "15 people",
+   "15 students"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1444": {
+  "solution": "A line graph joins points in order along the horizontal axis, so it shows how a value changes over time. Data recorded over time is called time-series data.",
+  "trick": "Line graph means change over time, so the word is time-series.",
+  "check": "agree",
+  "computed": "Time-series",
+  "accept": [
+   "Time-series",
+   "time series",
+   "timeseries",
+   "time-series data",
+   "time series data",
+   "data over time"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1450": {
+  "solution": "40 and 60 are 1 SD below and above the mean (50 ± 10). By the empirical rule, about 68% of the data lies within 1 SD of the mean. The answer is 68% (more exactly 68.27%).",
+  "trick": "40 to 60 is the mean ± 1 SD, and for a normal distribution that always holds about 68%.",
+  "check": "agree",
+  "computed": "About 68% (68.27%)",
+  "accept": [
+   "68%",
+   "68",
+   "0.68",
+   "68 percent",
+   "about 68%",
+   "approximately 68%",
+   "68.27%",
+   "68.26%",
+   "68.3%",
+   "0.6827",
+   "0.6826",
+   "0.683"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1456": {
+  "solution": "The tosses are independent, so P(7 heads) = (1/2)⁷ = 1/128. The answer is 1/128.",
+  "trick": "It is 1 over 2⁷. Double 2 six more times: 4, 8, 16, 32, 64, 128. So 1/128.",
+  "check": "agree",
+  "computed": "1/128",
+  "accept": [
+   "1/128",
+   "0.0078125",
+   "0.00781",
+   "0.0078",
+   "0.78%",
+   "0.781%"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1464": {
+  "solution": "For a discrete uniform distribution on 1 to 9, the mean is the average of the smallest and largest values: (1 + 9) ÷ 2 = 5. Check: the sum is 45 and 45 ÷ 9 = 5. The answer is 5.",
+  "trick": "The values are evenly spaced, so the mean is the middle one, 5.",
+  "check": "agree",
+  "computed": "5",
+  "accept": [
+   "5",
+   "5.0"
+  ],
+  "comment": ""
+ },
+ "26-md01a-bm-1470": {
+  "solution": "With the n ÷ 4 rule, the position of Q1 is 20 ÷ 4 = 5, so Q1 is at the 5th value. Some books use (n + 1) ÷ 4 = 21 ÷ 4 = 5.25 instead, which is a quarter of the way from the 5th to the 6th value. So the question can be read two ways, but the expected answer is the 5th value.",
+  "trick": "Take a quarter of the 20 values: 20 ÷ 4 = 5, so the 5th value.",
+  "check": "unclear",
+  "computed": "5th value (n ÷ 4 rule); 5.25th by (n + 1) ÷ 4",
+  "accept": [
+   "5th value",
+   "5th",
+   "5",
+   "fifth",
+   "fifth value",
+   "the 5th value",
+   "5th position",
+   "5th item",
+   "5th term",
+   "5th observation"
+  ],
+  "comment": "The position of Q1 depends on the quartile rule, and the question names none. The n ÷ 4 rule gives the 5th value, which is the show's answer, but the (n + 1) ÷ 4 rule gives 5.25 (a quarter of the way from the 5th to the 6th value), and the median of the lower half is the average of the 5th and 6th values."
+ },
+ "26-md01b-qb-2366": {
+  "solution": "z = (x − mean) ÷ SD = (100 − 84) ÷ 32 = 16 ÷ 32 = 0.5. The answer is 0.5.",
+  "trick": "The gap is 100 − 84 = 16, which is half of 32. So z = 0.5.",
+  "check": "agree",
+  "computed": "0.5",
+  "accept": [
+   "0.5",
+   ".5",
+   "0.50",
+   "1/2",
+   "+0.5",
+   "z = 0.5"
+  ],
+  "comment": ""
+ },
+ "26-md01b-qb-2508": {
+  "solution": "Order does not matter, so use combinations. C(12, 8) = C(12, 4) = (12 × 11 × 10 × 9) ÷ (4 × 3 × 2 × 1) = 11,880 ÷ 24 = 495.",
+  "trick": "Choosing 8 means leaving out 4, so use C(12, 4). Cancel as you go: 12 ÷ (4 × 3) = 1 and 10 ÷ 2 = 5, leaving 11 × 5 × 9 = 495.",
+  "check": "agree",
+  "computed": "495",
+  "accept": [
+   "495",
+   "495 ways"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-2951": {
+  "solution": "z = (x − mean) ÷ SD = (85 − 78) ÷ 4 = 7 ÷ 4 = 1.75. The answer is 1.75.",
+  "trick": "7 ÷ 4 is just under 2, since 8 ÷ 4 would be 2. Only 1.75 is below 2, so pick it without dividing.",
+  "check": "agree",
+  "computed": "1.75",
+  "accept": [
+   "1.75",
+   "7/4",
+   "1 3/4",
+   "+1.75",
+   "1.750"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-2955": {
+  "solution": "The students taking at least one language number 150 − 20 = 130. Using total = French + Arabic − both, 130 = 100 + 60 − both. So both = 160 − 130 = 30.",
+  "trick": "The two class lists add to 100 + 60 = 160, but only 150 − 20 = 130 students take a language. The extra 30 are the students counted twice.",
+  "check": "agree",
+  "computed": "30",
+  "accept": [
+   "30",
+   "30 students"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-2959": {
+  "solution": "With 8 left out, the data are 11, 14, 17, 20. The sum is 62 and there are 4 values, so the mean is 62 ÷ 4 = 15.5. The answer is 15.5.",
+  "trick": "The four numbers rise by 3 each time, so the mean is halfway between the first and last: (11 + 20) ÷ 2 = 15.5.",
+  "check": "agree",
+  "computed": "15.5",
+  "accept": [
+   "15.5",
+   "15.50",
+   "31/2"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-2963": {
+  "solution": "Black marbles = 3/4 × 48 = 36. So red marbles = 48 − 36 = 12. The answer is 12.",
+  "trick": "If black is 3/4 of the jar, red is 1/4. And 48 ÷ 4 = 12.",
+  "check": "agree",
+  "computed": "12",
+  "accept": [
+   "12",
+   "12 red",
+   "12 marbles",
+   "12 red marbles"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-2981": {
+  "solution": "The order of the toppings does not matter, so use combinations. C(6, 3) = (6 × 5 × 4) ÷ (3 × 2 × 1) = 120 ÷ 6 = 20. The answer is 20 pizzas.",
+  "trick": "In (6 × 5 × 4) ÷ (3 × 2 × 1), the 6 on top cancels the whole bottom (3 × 2 × 1 = 6), leaving 5 × 4 = 20.",
+  "check": "agree",
+  "computed": "20 pizzas",
+  "accept": [
+   "20 pizzas",
+   "20",
+   "20 ways"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-2989": {
+  "solution": "The students who study only CHM 101 are those in CHM 101 who are not also in PHY 101. So only CHM 101 = 40 − 20 = 20. The answer is 20.",
+  "trick": "Only CHM = all CHM minus those who also take PHY: 40 − 20 = 20. The 10 option is the number who study only PHY 101 (30 − 20).",
+  "check": "agree",
+  "computed": "20",
+  "accept": [
+   "20",
+   "20 students"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-2997": {
+  "solution": "For a single shot (a Bernoulli trial) with p = 0.3, the variance is p(1 − p) = 0.3 × 0.7 = 0.21. The answer is 0.21.",
+  "trick": "p(1 − p) = 0.3 × 0.7, and 3 × 7 = 21 with two decimal places gives 0.21.",
+  "check": "agree",
+  "computed": "0.21",
+  "accept": [
+   "0.21",
+   ".21",
+   "21/100"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-3004": {
+  "solution": "A variable that assigns a real number to each outcome in a sample space is the definition of a random variable. Its value depends on the chance outcome. So the missing word is random.",
+  "trick": "Random variable is the standard probability term. Static and defined are not used for this.",
+  "check": "agree",
+  "computed": "Random",
+  "accept": [
+   "Random",
+   "random variable"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-3008": {
+  "solution": "Put the data in order: 5, 7, 18, 30. Taking the median of each half, Q1 = (5 + 7) ÷ 2 = 6 and Q3 = (18 + 30) ÷ 2 = 24. So IQR = Q3 − Q1 = 24 − 6 = 18. The answer is 18.",
+  "trick": "Half the top pair minus half the bottom pair: (18 + 30 − 5 − 7) ÷ 2 = 36 ÷ 2 = 18.",
+  "check": "agree",
+  "computed": "18",
+  "accept": [
+   "18",
+   "18 hours"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-3014": {
+  "solution": "Choose the men and the women separately, then multiply. C(8, 3) = (8 × 7 × 6) ÷ 6 = 56 and C(6, 2) = (6 × 5) ÷ 2 = 15. So the number of committees = 56 × 15 = 840. The answer is 840.",
+  "trick": "C(8, 3) = 56 and C(6, 2) = 15. Halve one and double the other: 56 × 15 = 28 × 30 = 840.",
+  "check": "agree",
+  "computed": "840",
+  "accept": [
+   "840",
+   "840 committees",
+   "840 ways"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-3018": {
+  "solution": "There are 6 values, so the 40th percentile is at position 0.4 × (6 + 1) = 2.8. That is 0.8 of the way from the 2nd value (10) to the 3rd value (15). So P40 = 10 + 0.8 × 5 = 14. The answer is 14.",
+  "trick": "Position 0.4 × 7 = 2.8, so the answer lies between the 2nd and 3rd values, 10 and 15, and only 14 fits. For the exact value go 4/5 of the way up: 10 + 4 = 14.",
+  "check": "agree",
+  "computed": "14",
+  "accept": [
+   "14",
+   "14.0"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-3026": {
+  "solution": "The mean (40) is above the median (35), so a long tail on the right is pulling the mean up. That is a positive (right) skew. A symmetrical or zero skew distribution has the mean equal to the median, and a negative skew has the mean below the median. None of the three options shows it, but the correct answer is positively skewed.",
+  "trick": "Compare mean with median. Mean above median means positive skew, below means negative, and equal means symmetrical. Here 40 is above 35, so positive.",
+  "check": "agree",
+  "computed": "Positively skewed",
+  "accept": [
+   "Positively skewed",
+   "positive",
+   "positive skew",
+   "positively",
+   "positive skewness",
+   "right skewed",
+   "skewed right",
+   "skewed to the right",
+   "right skew"
+  ],
+  "comment": "Agrees with the corrected answer, positively skewed. None of the three options (Negatively skewed, Symmetrical, Zero skewed) is right, so the options need fixing. The show's Symmetrical would need the mean to equal the median, but here the mean is 5 above it."
+ },
+ "26-md01b-bm-3032": {
+  "solution": "There are 4 + 5 + 6 = 15 students, and 5 of them are Art. P(all 3 are Art) = C(5, 3) ÷ C(15, 3) = 10 ÷ 455 = 2/91. The answer is 2/91.",
+  "trick": "Multiply draw by draw: 5/15 × 4/14 × 3/13 = 1/3 × 2/7 × 3/13. The 3s cancel, leaving 2/(7 × 13) = 2/91.",
+  "check": "agree",
+  "computed": "2/91",
+  "accept": [
+   "2/91",
+   "0.022",
+   "0.0220",
+   "0.02198",
+   "0.021978",
+   "2.2%",
+   "10/455"
+  ],
+  "comment": ""
+ },
+ "26-md01b-bm-3040": {
+  "solution": "z = (x − mean) ÷ SD = (4 − 4) ÷ 0.5 = 0. So a 4-week project is 0 SD above the mean. The answer is 0.",
+  "trick": "4 weeks is exactly the mean, so there is no gap and the answer is 0.",
+  "check": "agree",
+  "computed": "0",
+  "accept": [
+   "0",
+   "0 SD",
+   "zero",
+   "0.0",
+   "0 standard deviations"
+  ],
+  "comment": ""
+ }
+}

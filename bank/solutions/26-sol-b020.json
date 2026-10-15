@@ -1,0 +1,242 @@
+{
+  "26-md01a-qb-0523": {
+    "solution": "The magnitude of F = 3i + 4j is √(3² + 4²) = √(9 + 16) = √25. So the magnitude is 5 N.",
+    "trick": "Spot the 3, 4, 5 right triangle. Sides 3 and 4 always give a hypotenuse of 5.",
+    "check": "agree",
+    "computed": "5 N",
+    "accept": ["5", "5N", "5 N", "5 newtons", "5 newton"],
+    "comment": ""
+  },
+  "26-md01a-qb-0529": {
+    "solution": "Ohm's law says I = V ÷ R. So I = 60 ÷ 15 = 4. The current is 4 amperes.",
+    "trick": "Ask how many 15s fit into 60. Four, because 15 × 4 = 60.",
+    "check": "agree",
+    "computed": "4 A",
+    "accept": ["4", "4A", "4 A", "4 amps", "4 amp", "4 ampere", "4 amperes"],
+    "comment": ""
+  },
+  "26-md01a-qb-0541": {
+    "solution": "A downward parabola peaks at x = −b ÷ 2a = −12 ÷ (−6) = 2. Then f(2) = −3(2²) + 12(2) + 7 = −12 + 24 + 7 = 19. So the maximum profit is 19.",
+    "trick": "Top value = c + b² ÷ (4a), using a = 3 without its minus sign. That is 7 + 144 ÷ 12 = 7 + 12 = 19.",
+    "check": "agree",
+    "computed": "19",
+    "accept": [],
+    "comment": ""
+  },
+  "26-md01a-qb-0555": {
+    "solution": "Raise each power by one and divide by the new power. 2x becomes 2x² ÷ 2 = x², and 1 becomes x. Add the constant C. So the antiderivative is x² + x + C.",
+    "trick": "Think backwards. The derivative of x² is 2x and the derivative of x is 1, so the answer is x² + x. Do not forget + C.",
+    "check": "agree",
+    "computed": "x² + x + C",
+    "accept": ["x^2 + x + C", "x^2+x+c", "x²+x+c", "x² + x + c", "x squared plus x plus c", "x^2 + x", "x²+x", "x² + x"],
+    "comment": ""
+  },
+  "26-md01a-qb-0581": {
+    "solution": "Put x = 5 into P(x) = −2x² + 20x − 5000. P(5) = −2(25) + 20(5) − 5000 = −50 + 100 − 5000 = −4,950. So the profit when x = 5 is −4,950.",
+    "trick": "Do the small numbers first: −50 + 100 = 50. Then 50 − 5000 = −4,950.",
+    "check": "agree",
+    "computed": "−4950",
+    "accept": ["-4950", "−4,950", "-4,950", "minus 4950", "minus 4,950", "negative 4950", "negative 4,950"],
+    "comment": ""
+  },
+  "26-md01a-qb-0592": {
+    "solution": "At the same time of day, height ÷ shadow is the same for the pole and the tree. So h ÷ 12 = 5 ÷ 3, and h = 5 × 12 ÷ 3 = 20. The tree is 20 m tall.",
+    "trick": "The shadow goes from 3 m to 12 m, which is 4 times longer. So the height is 4 times longer too: 5 × 4 = 20.",
+    "check": "agree",
+    "computed": "20 m",
+    "accept": ["20", "20m", "20 m", "20 metres", "20 meters"],
+    "comment": ""
+  },
+  "26-md01a-qb-0617": {
+    "solution": "The dot product multiplies matching components and adds the results. A · B = (2)(−1) + (−1)(3) = −2 − 3 = −5. So A · B = −5.",
+    "trick": "Multiply the i parts and the j parts, then add: 2 × (−1) = −2 and (−1) × 3 = −3. Together that is −5.",
+    "check": "agree",
+    "computed": "−5",
+    "accept": ["-5", "−5", "minus 5", "negative 5"],
+    "comment": ""
+  },
+  "26-md01a-qb-0650": {
+    "solution": "On a 1:50,000 map, 1 cm stands for 50,000 cm on the ground. So 4 cm is 4 × 50,000 = 200,000 cm. There are 100,000 cm in 1 km, so 200,000 ÷ 100,000 = 2. The actual distance is 2 km.",
+    "trick": "On a 1:50,000 map, 1 cm is 0.5 km, because 50,000 cm is 500 m. So 4 cm is 2 km.",
+    "check": "agree",
+    "computed": "2 km",
+    "accept": ["2", "2km", "2 km", "2 kilometres", "2 kilometers"],
+    "comment": ""
+  },
+  "26-md01a-qb-0674": {
+    "solution": "The cans weigh 60 × 1.5 = 90 kg. The packaging is the rest of the total: 100 − 90 = 10 kg. So the packaging weighs 10 kg.",
+    "trick": "60 cans at 1.5 kg is 60 plus half of 60, which is 90. Then 100 − 90 = 10.",
+    "check": "agree",
+    "computed": "10 kg",
+    "accept": ["10", "10kg", "10 kg", "10 kilograms"],
+    "comment": ""
+  },
+  "26-md01a-qb-0701": {
+    "solution": "Put t = 3 into a(t) = 10t − 5. a(3) = 10(3) − 5 = 30 − 5 = 25. So the acceleration is 25 m/s².",
+    "trick": "Ten threes are 30, take away 5, and you get 25.",
+    "check": "agree",
+    "computed": "25 m/s²",
+    "accept": ["25", "25m/s²", "25 m/s²", "25 m/s^2", "25m/s^2", "25 m/s2", "25 metres per second squared", "25 meters per second squared"],
+    "comment": ""
+  },
+  "26-md01a-qb-0730": {
+    "solution": "Price per kg = ₦2,500 ÷ 5 = ₦500. So 12 kg costs 12 × ₦500 = ₦6,000.",
+    "trick": "It is ₦500 per kg. Twelve of them is ten 500s plus two 500s: 5,000 + 1,000 = 6,000.",
+    "check": "agree",
+    "computed": "₦6,000",
+    "accept": ["6000", "6,000", "₦6000", "₦6,000", "N6000", "N6,000", "6000 naira", "6,000 naira"],
+    "comment": ""
+  },
+  "26-md01a-qb-0738": {
+    "solution": "Measure the angle from ground level. Then tan 45° = height ÷ 80. Since tan 45° = 1, the height is 80 × 1 = 80. So the lighthouse is 80 m tall.",
+    "trick": "A 45° angle makes the two sides of the right triangle equal, so the height equals the distance: 80 m.",
+    "check": "agree",
+    "computed": "80 m",
+    "accept": ["80", "80m", "80 m", "80 metres", "80 meters"],
+    "comment": ""
+  },
+  "26-md01a-qb-0746": {
+    "solution": "15 days ÷ 5 days = 3 half lives. Each half life halves the mass, so what remains is 80 × (1/2)³ = 80 ÷ 8 = 10. So 10 g remains.",
+    "trick": "Three halvings means dividing by 8. 80 ÷ 8 = 10.",
+    "check": "agree",
+    "computed": "10 g",
+    "accept": ["10", "10g", "10 g", "10 grams", "10 gram"],
+    "comment": ""
+  },
+  "26-md01a-qb-0835": {
+    "solution": "Each whole number step on the Richter scale multiplies the wave amplitude by 10. In energy released, one step is about 32 times (10 to the power 1.5). The expected answer uses the amplitude figure. From 6.0 to 7.0 is one step, so a 7.0 quake is 10 times stronger.",
+    "trick": "Each step up the scale is 10 times the amplitude, and 6.0 to 7.0 is one step. So the answer is 10.",
+    "check": "unclear",
+    "computed": "10 times (by amplitude)",
+    "accept": ["10", "10 times", "ten times", "tenfold", "10x", "10 times stronger", "10 times bigger", "10 times greater"],
+    "comment": "The question does not say what 'stronger' measures. By wave amplitude one step is 10 times, but by energy released it is about 32 times, and the show's 10 times is the amplitude figure."
+  },
+  "26-md01a-qb-0859": {
+    "solution": "Take the target as the number of subscribers that gives maximum revenue. The peak of R(x) = 30x − 0.5x² is at x = −b ÷ 2a = −30 ÷ (2 × (−0.5)) = 30. Here x is in thousands, so the target is 30,000 subscribers.",
+    "trick": "R = x(30 − 0.5x) is zero at x = 0 and x = 60, and the peak sits halfway, at x = 30. That is 30,000.",
+    "check": "unclear",
+    "computed": "30,000 subscribers (if the target means the revenue maximising level)",
+    "accept": ["30000", "30,000", "30000 subscribers", "30,000 subscribers", "30k", "30 thousand", "30 thousand subscribers"],
+    "comment": "The question never says what the target is for. The show's 30,000 is the number of subscribers that maximises revenue (x = 30, in thousands)."
+  },
+  "26-md01a-qb-0871": {
+    "solution": "Let t be the number of years ago. Then (20 − t) ÷ (30 − t) = 3 ÷ 5. Cross multiplying gives 5(20 − t) = 3(30 − t), so 100 − 5t = 90 − 3t, which means 10 = 2t and t = 5. Check: 15 and 25 are in the ratio 3:5. So it was 5 years ago.",
+    "trick": "The age gap never changes: 30 − 20 = 10. In 3:5 the gap is 2 parts, so 1 part is 5 and Luke was 3 × 5 = 15. That is 20 − 15 = 5 years ago.",
+    "check": "agree",
+    "computed": "5 years",
+    "accept": ["5", "5 years", "five years", "5 yrs", "5 years ago"],
+    "comment": ""
+  },
+  "26-md01a-qb-0877": {
+    "solution": "Half a dozen is 6 oranges per crate. Crates = 36,000 ÷ 6 = 6,000. So he can fill 6,000 crates.",
+    "trick": "36 ÷ 6 = 6, then put back the three zeros: 6,000.",
+    "check": "agree",
+    "computed": "6,000 crates",
+    "accept": ["6000", "6,000", "6000 crates", "6,000 crates"],
+    "comment": ""
+  },
+  "26-md01a-qb-0883": {
+    "solution": "Speed = 3,000 km ÷ 10 h = 300 km/h. Since 1 km = 1,000 m, that is 300 × 1,000 = 300,000 m per hour. So the car travels 300,000 m/hr.",
+    "trick": "Divide by 10 first to get 300 km each hour, then add three zeros for metres: 300,000.",
+    "check": "agree",
+    "computed": "300,000 m/hr",
+    "accept": ["300000", "300,000", "300000 m/hr", "300,000 m/hr", "300000 m/h", "300,000 m/h", "300000m/hr", "300000 metres per hour", "300,000 metres per hour", "300000 meters per hour"],
+    "comment": ""
+  },
+  "26-md01a-qb-0899": {
+    "solution": "Water pressure is P = ρgh. Using ρ = 1,000 kg/m³ and g = 9.8 m/s², and counting the water alone (gauge pressure), P = 1,000 × 9.8 × 3 = 29,400. So the pressure is 29,400 Pa.",
+    "trick": "Do 9.8 × 3 = 29.4, then multiply by 1,000 to get 29,400.",
+    "check": "agree",
+    "computed": "29,400 Pa",
+    "accept": ["29400", "29,400", "29400Pa", "29400 Pa", "29,400 Pa", "29.4 kPa", "29.4kPa", "29.4 kilopascals"],
+    "comment": ""
+  },
+  "26-md01a-qb-0905": {
+    "solution": "A 25% discount means you pay 75%. 75% of $8,000 = 0.75 × 8,000 = $6,000. So the sale price is $6,000.",
+    "trick": "25% is a quarter. A quarter of 8,000 is 2,000, and 8,000 − 2,000 = 6,000.",
+    "check": "agree",
+    "computed": "$6,000",
+    "accept": ["6000", "6,000", "$6000", "$6,000", "6000 dollars", "6,000 dollars"],
+    "comment": ""
+  },
+  "26-md01a-qb-0909": {
+    "solution": "Mass goes with volume, and volume scales with the cube of the length scale (same material, same shape). The scale is 100, so the mass is 0.5 × 100³ = 0.5 × 1,000,000 = 500,000 kg. So engineers should expect 500,000 kg.",
+    "trick": "100³ is a million, which is six zeros. Half a million is 500,000.",
+    "check": "agree",
+    "computed": "500,000 kg",
+    "accept": ["500000", "500,000", "500000kg", "500,000kg", "500000 kg", "500,000 kg", "500 tonnes", "500 tonne", "500 t"],
+    "comment": ""
+  },
+  "26-md01a-qb-0938": {
+    "solution": "Period = total time ÷ number of oscillations = 50 ÷ 20 = 2.5. So the period is 2.5 s, which is 5/2 seconds.",
+    "trick": "Cancel a zero from each number: 50 ÷ 20 = 5 ÷ 2 = 2.5.",
+    "check": "agree",
+    "computed": "2.5 s",
+    "accept": ["2.5", "5/2", "2.5s", "2.5 s", "2.5 seconds", "2.5 sec", "2.50", "2 1/2", "5/2 s", "5/2 seconds"],
+    "comment": ""
+  },
+  "26-md01a-qb-0944": {
+    "solution": "The culture doubles once every 3 hours, so in 24 hours it doubles 24 ÷ 3 = 8 times. Its size then ends up 2⁸ = 256 times the start. The expected answer counts the doublings. So the answer is 8.",
+    "trick": "Divide the time by the doubling time: 24 ÷ 3 = 8.",
+    "check": "unclear",
+    "computed": "8 doublings (the size grows 256 times)",
+    "accept": ["8", "8 times", "eight", "eight times", "8 doublings", "8 doubles"],
+    "comment": "'How many times will it grow' could mean the number of doublings (8) or the overall growth factor (2⁸ = 256). The show's answer of 8 counts doublings."
+  },
+  "26-md01a-qb-0950": {
+    "solution": "Area = the integral of (2x + 3) from 0 to 4 = [x² + 3x] from 0 to 4 = (16 + 12) − 0 = 28. So the area is 28.",
+    "trick": "The line is straight, so area = width × height at the middle. At x = 2 the height is 7, so 4 × 7 = 28.",
+    "check": "agree",
+    "computed": "28",
+    "accept": [],
+    "comment": ""
+  },
+  "26-md01a-qb-0979": {
+    "solution": "One full cycle is 2π radians. A quarter of a cycle is 2π ÷ 4 = π/2. So the phase difference is π/2 radians.",
+    "trick": "A quarter cycle is 90°, and 90° is π/2 radians.",
+    "check": "agree",
+    "computed": "π/2 radians",
+    "accept": ["π/2", "pi/2", "π/2 rad", "π/2 radians", "pi/2 rad", "pi/2 radians", "pi over 2", "pi by 2", "π over 2", "0.5π", "0.5pi", "1.57", "1.571", "1.5708"],
+    "comment": ""
+  },
+  "26-md01a-qb-0987": {
+    "solution": "Both parts of the trip are at 60 mph, so the total time is distance ÷ speed = 30 ÷ 60 = 0.5 hour. The split x = 2y gives x = 20 min and y = 10 min, but it does not change the total. So the travel time is 30 minutes.",
+    "trick": "At 60 mph you cover a mile every minute, so 30 miles takes 30 minutes.",
+    "check": "agree",
+    "computed": "30 minutes",
+    "accept": ["30", "30 minutes", "30 mins", "30 min", "0.5 hours", "0.5 hour", "0.5 hr", "0.5 h", "half an hour", "half hour", "1/2 hour"],
+    "comment": ""
+  },
+  "26-md01a-qb-0993": {
+    "solution": "Take the 4 L/min as measured at the starting pressure. Gas lost = 4 × 50 = 200 L. The pressure fell by 250 − 50 = 200 kPa, which is 4/5 of the original. So 200 L is 4/5 of the tank, and V = 200 ÷ (4/5) = 250. The tank volume is 250 L.",
+    "trick": "200 L escaped and the pressure fell by 200 kPa, so each litre lost costs 1 kPa. The tank started at 250 kPa, so it holds 250 L.",
+    "check": "unclear",
+    "computed": "250 L (if the 4 L/min is measured at the starting pressure)",
+    "accept": ["250", "250L", "250 L", "250 litres", "250 liters", "250 litre", "250 liter"],
+    "comment": "The question does not say at what pressure the 4 L/min is measured. At the starting 250 kPa the volume is 250 L (the show's answer), at 50 kPa it would be 50 L, and if the flow is taken at the falling tank pressure it is about 124 L."
+  },
+  "26-md01a-qb-1004": {
+    "solution": "Speed = 864 ÷ 16 = 54 km/h. To get m/s, multiply by 1,000 and divide by 3,600, which is the same as dividing by 3.6. 54 ÷ 3.6 = 15. So the speed is 15 m/s.",
+    "trick": "Do 864 ÷ 16 = 54 km/h. Remember that 36 km/h is 10 m/s, and 54 is 1.5 times 36, so the speed is 15 m/s.",
+    "check": "agree",
+    "computed": "15 m/s",
+    "accept": ["15", "15m/s", "15 m/s", "15 metres per second", "15 meters per second"],
+    "comment": ""
+  },
+  "26-md01a-qb-1012": {
+    "solution": "Relative error = error ÷ actual value. The error is 25 − 23.4 = 1.6, so the relative error is 1.6 ÷ 25 = 0.064. As a percentage, that is 6.4%.",
+    "trick": "The error is 1.6. Multiply top and bottom by 4: 1.6 ÷ 25 = 6.4 ÷ 100 = 6.4%.",
+    "check": "agree",
+    "computed": "6.4%",
+    "accept": ["6.4", "6.4%", "0.064", "6.4 percent", "6.4 per cent"],
+    "comment": ""
+  },
+  "26-md01a-qb-1020": {
+    "solution": "Solve det(A − λI) = 0. That gives (2 − λ)(2 − λ) − (1)(1) = 0, so (2 − λ)² = 1. Then 2 − λ = 1 or 2 − λ = −1, so λ = 1 or λ = 3. The eigenvalues are 1 and 3.",
+    "trick": "For a matrix like [[a, b], [b, a]] the eigenvalues are a + b and a − b, so 2 + 1 = 3 and 2 − 1 = 1. They add up to the trace 4 and multiply to the determinant 3.",
+    "check": "agree",
+    "computed": "1 and 3",
+    "accept": ["1 and 3", "1, 3", "1,3", "3 and 1", "3, 1", "3,1", "1 or 3", "1 & 3", "one and three", "λ = 1, 3", "λ = 1 and 3"],
+    "comment": ""
+  }
+}

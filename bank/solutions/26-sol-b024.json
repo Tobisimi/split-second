@@ -1,0 +1,242 @@
+{
+  "26-md12a-qb-0724": {
+    "solution": "On this scale 1 cm on the map stands for 2 km on the ground. So 5 cm stands for 5 × 2 = 10 km. Since 1 km = 1,000 m, the distance is 10 km, which is 10,000 m.",
+    "trick": "Double the map distance: 5 doubled is 10 km. Add three zeros for metres: 10,000 m.",
+    "check": "agree",
+    "computed": "10 km (10,000 m)",
+    "accept": ["10km", "10 km", "10", "10 kilometres", "10 kilometers", "10000m", "10,000m", "10000 m", "10,000 m", "10000", "10,000", "10000 metres", "10,000 metres"],
+    "comment": ""
+  },
+  "26-md12a-qb-0731": {
+    "solution": "The minute hand at 40 minutes is at 40 × 6 = 240° from the 12. The hour hand at 3:40 is at 3 × 30 + 40 × 0.5 = 90 + 20 = 110°. The gap is 240 − 110 = 130°, which is less than 180°, so the angle between the hands is 130°.",
+    "trick": "Picture the minute hand on the 8 and the hour hand on the 3: that is 5 marks of 30°, so 150°. The hour hand has crept 40 × 0.5 = 20° towards the 8, so 150 − 20 = 130°.",
+    "check": "agree",
+    "computed": "130°",
+    "accept": ["130", "130°", "130 degrees"],
+    "comment": ""
+  },
+  "26-md12a-qb-0756": {
+    "solution": "Area = ∫ from 1 to 4 of 3x dx = [3x²/2] from 1 to 4. At x = 4 this is 3 × 16 ÷ 2 = 24, and at x = 1 it is 3 × 1 ÷ 2 = 1.5. So the area is 24 − 1.5 = 22.5.",
+    "trick": "y = 3x is a straight line, so use the average height. It runs from 3 at x = 1 to 12 at x = 4, so the average is 7.5. Multiply by the width 3: 22.5.",
+    "check": "agree",
+    "computed": "22.5",
+    "accept": ["22.5", "22.50", "45/2"],
+    "comment": ""
+  },
+  "26-md12a-qb-0759": {
+    "solution": "Homozygous recessives have frequency q². With q = 0.3, q² = 0.3 × 0.3 = 0.09. As a percentage that is 9%.",
+    "trick": "Square it: 3 × 3 = 9, so 0.3 squared is 0.09, which is 9%.",
+    "check": "agree",
+    "computed": "9%",
+    "accept": ["9%", "9", "0.09", "9 percent"],
+    "comment": ""
+  },
+  "26-md12a-qb-0765": {
+    "solution": "The sum of the first n natural numbers is n(n + 1) ÷ 2. Setting n(n + 1) ÷ 2 = 210 gives n(n + 1) = 420. Since 20 × 21 = 420, n = 20.",
+    "trick": "Double 210 to get 420, then look for two neighbouring numbers that multiply to 420. √420 is a little over 20, so try 20 × 21 = 420, which fits. So n = 20.",
+    "check": "agree",
+    "computed": "20",
+    "accept": ["20", "n = 20", "n=20"],
+    "comment": ""
+  },
+  "26-md12a-qb-0772": {
+    "solution": "The culture doubles every hour, so after 5 hours the count is multiplied by 2⁵ = 32. The number of cells is 500 × 32 = 16,000.",
+    "trick": "Double five times: 500, 1,000, 2,000, 4,000, 8,000, 16,000.",
+    "check": "agree",
+    "computed": "16,000 cells",
+    "accept": ["16000", "16,000", "16000 cells", "16,000 cells"],
+    "comment": ""
+  },
+  "26-md12a-qb-0806": {
+    "solution": "For f(x) = ln(u), the derivative is u' ÷ u. Here u = x² + 1, so f'(x) = 2x ÷ (x² + 1). At x = 2 the top is 4 and the bottom is 4 + 1 = 5, so f'(2) = 4/5.",
+    "trick": "The top is the derivative of the inside, 2x = 4. The bottom is the inside itself, x² + 1 = 5. So 4/5.",
+    "check": "agree",
+    "computed": "4/5",
+    "accept": ["4/5", "0.8", ".8", "0.80"],
+    "comment": ""
+  },
+  "26-md12a-qb-0831": {
+    "solution": "Take the projection as the scalar projection, which is a length: (A · B) ÷ |B|. Here A · B = 12 × 3 + 16 × 4 = 36 + 64 = 100, and |B| = √(9 + 16) = 5. Since A = 4B, the vector projection would be A itself, (12, 16), with the same length. So the projection is 100 ÷ 5 = 20.",
+    "trick": "(12, 16) is 4 × (3, 4), so A already points along B. The projection is just the length of A: 4 × 5 = 20.",
+    "check": "agree",
+    "computed": "20",
+    "accept": ["20", "20 units"],
+    "comment": ""
+  },
+  "26-md12a-qb-0837": {
+    "solution": "Let the nuts be x kg, so the dried fruit is 30 − x kg. The total value must be 9x + 4(30 − x) = 7 × 30 = 210. That gives 5x + 120 = 210, so x = 18. So the mix needs 18 kg of nuts and 30 − 18 = 12 kg of dried fruit.",
+    "trick": "Only 18 + 12 adds up to 30 kg, because the other options total 23 and 38. As a check, 7 is 3 above 4 and 2 below 9, so the nuts to fruit ratio is 3 : 2, which is 18 : 12.",
+    "check": "agree",
+    "computed": "18 kg and 12 kg",
+    "accept": ["18kg and 12kg", "18 kg and 12 kg", "18 and 12", "18, 12", "18kg, 12kg", "18kg nuts and 12kg fruit", "18 kg nuts and 12 kg fruit"],
+    "comment": ""
+  },
+  "26-md12a-qb-0848": {
+    "solution": "Relative error = absolute error ÷ measured value. That is 0.5 ÷ 20 = 0.025. As a percentage, 0.025 × 100 = 2.5%.",
+    "trick": "0.5 in 20 is the same as 1 in 40, and 1 ÷ 40 = 0.025, which is 2.5%.",
+    "check": "agree",
+    "computed": "2.5% (0.025)",
+    "accept": ["2.5%", "0.025", "2.5", "1/40", "2.5 percent", "2.5 %"],
+    "comment": ""
+  },
+  "26-md12a-qb-0936": {
+    "solution": "Put t = 2 into V(t) = 300 + 4t. Then V(2) = 300 + 4 × 2 = 308. Note that this formula rises with time, so it does not really describe depreciation, but we use it as written. The value after 2 years is 308.",
+    "trick": "Add 4 × 2 = 8 to 300 to get 308.",
+    "check": "agree",
+    "computed": "308",
+    "accept": ["308"],
+    "comment": ""
+  },
+  "26-md12a-qb-0954": {
+    "solution": "Add the i parts and the j parts separately. The i part is 3 + (−2) = 1 and the j part is 4 + 5 = 9. So A + B = i + 9j.",
+    "trick": "Add straight across: 3 − 2 = 1 for i, and 4 + 5 = 9 for j.",
+    "check": "agree",
+    "computed": "i + 9j",
+    "accept": ["i + 9j", "i+9j", "1i + 9j", "1i+9j", "9j + i", "9j+i", "(1, 9)", "(1,9)"],
+    "comment": ""
+  },
+  "26-md12a-qb-0959": {
+    "solution": "The interest earned is 31,000 − 25,000 = ₦6,000. For simple interest I = P × R × T, so R = I ÷ (P × T) = 6,000 ÷ (25,000 × 4). That is 6,000 ÷ 100,000 = 0.06, so the rate is 0.06, or 6% a year.",
+    "trick": "The money grew by 6,000 on 25,000, which is 24%. Spread over 4 years, 24 ÷ 4 = 6% a year, so 0.06.",
+    "check": "agree",
+    "computed": "0.06 (6% a year)",
+    "accept": ["0.06", ".06", "6%", "6", "6 percent", "0.06 per year"],
+    "comment": ""
+  },
+  "26-md12a-qb-0973": {
+    "solution": "In one minute sound travels 1,200 × 60 = 72,000 m. Since 1 km = 1,000 m, that is 72,000 ÷ 1,000 = 72 km. So the speed is 72 km per minute.",
+    "trick": "1,200 m every second is 1.2 km every second. Times 60 seconds: 1.2 × 60 = 72.",
+    "check": "agree",
+    "computed": "72 km/min",
+    "accept": ["72", "72km/min", "72 km/min", "72km/mins", "72 km/mins", "72 kilometres per minute", "72 kilometers per minute"],
+    "comment": ""
+  },
+  "26-md12a-qb-0989": {
+    "solution": "One lap is the circumference, 2πr = 2 × π × 70 = 140π m. Four laps are 4 × 140π = 560π m. With π = 22/7 this is 560 × 22 ÷ 7 = 80 × 22 = 1,760 m. A calculator π gives about 1,759 m, so the closest option is 1,760 m.",
+    "trick": "70 is a multiple of 7, so use π = 22/7. One lap is 2 × 22 × 10 = 440 m, and four laps are 4 × 440 = 1,760 m.",
+    "check": "agree",
+    "computed": "1,760 m",
+    "accept": ["1760", "1,760", "1760m", "1,760m", "1760 m", "1,760 m", "1760 meters", "1,760 meters", "1760 metres", "1,760 metres", "1.76km", "1.76 km", "1759", "1759.3", "1759.29", "560π", "560pi"],
+    "comment": ""
+  },
+  "26-md12a-qb-0997": {
+    "solution": "The longest straight line in a box is the space diagonal, d = √(l² + w² + h²). So d = √(15² + 10² + 6²) = √(225 + 100 + 36) = √361. Since 19 × 19 = 361, d = 19 cm.",
+    "trick": "Add the squares: 225 + 100 + 36 = 361. That is 19², so the answer is 19.",
+    "check": "agree",
+    "computed": "19 cm",
+    "accept": ["19", "19cm", "19 cm", "19 centimetres", "19 centimeters"],
+    "comment": ""
+  },
+  "26-md12a-qb-1034": {
+    "solution": "The filter blocks 40%, so 60% of the light passes through each centimetre. After 3 cm the fraction passing is 0.6 × 0.6 × 0.6 = 0.216. That is 21.6%.",
+    "trick": "Two cm already leave 0.6 × 0.6 = 36%, so three cm must leave less than 36%. Only 21.6% fits, and 6 × 6 × 6 = 216 confirms it.",
+    "check": "agree",
+    "computed": "21.6%",
+    "accept": ["21.6%", "21.6", "0.216", "21.6 percent"],
+    "comment": ""
+  },
+  "26-md12a-bm-1332": {
+    "solution": "The dot product multiplies matching components and adds the results. A · B = 2 × 0 + (−1) × 4 + 3 × (−2) = 0 − 4 − 6. So A · B = −10.",
+    "trick": "The first product is 0 and the other two are −4 and −6. Both are negative, so the total must be negative, and only −10 is.",
+    "check": "agree",
+    "computed": "−10",
+    "accept": ["-10", "−10", "minus 10", "negative 10"],
+    "comment": ""
+  },
+  "26-md12a-bm-1338": {
+    "solution": "The volume V = (4/3)πr³ depends on r³, so a small percentage error in r is multiplied by 3 in V. That gives about 3 × 2% = 6%. Exactly, 1.02³ = 1.0612, an increase of 6.12%, so 6% is the closest option.",
+    "trick": "The power is 3, so triple the percentage error: 3 × 2 = 6%.",
+    "check": "agree",
+    "computed": "6%",
+    "accept": ["6%", "6", "6 percent", "6.1%", "6.12%"],
+    "comment": ""
+  },
+  "26-md12a-bm-1344": {
+    "solution": "Percentage yield = (actual yield ÷ theoretical yield) × 100. That is (45 ÷ 50) × 100 = 0.9 × 100 = 90%.",
+    "trick": "45 out of 50 is 90 out of 100, so just double the 45: 90%.",
+    "check": "agree",
+    "computed": "90%",
+    "accept": ["90%", "90", "0.9", "90 percent"],
+    "comment": ""
+  },
+  "26-md12a-bm-1351": {
+    "solution": "With no fixed cost, the total cost is the integral of the marginal cost. C(4) = ∫ from 0 to 4 of (3x + 2) dx = [1.5x² + 2x] from 0 to 4. That is 1.5 × 16 + 2 × 4 = 24 + 8 = 32.",
+    "trick": "MC is a straight line, so use the average height. It runs from 2 at x = 0 to 3 × 4 + 2 = 14 at x = 4, so the average is 8. Multiply by the width 4: 32.",
+    "check": "agree",
+    "computed": "32",
+    "accept": ["32"],
+    "comment": ""
+  },
+  "26-md12a-bm-1356": {
+    "solution": "The magnitude of the projection of A on B is |A · B| ÷ |B|. A · B = 15 × 3 + 20 × 4 = 45 + 80 = 125, and |B| = √(9 + 16) = 5. So the magnitude is 125 ÷ 5 = 25.",
+    "trick": "(15, 20) is 5 × (3, 4), so A lies along B and its projection is all of A. The length is 5 × 5 = 25.",
+    "check": "agree",
+    "computed": "25",
+    "accept": ["25"],
+    "comment": ""
+  },
+  "26-md12a-bm-1361": {
+    "solution": "Percentage yield = (actual yield ÷ theoretical yield) × 100. That is (40 ÷ 50) × 100 = 0.8 × 100 = 80%.",
+    "trick": "40 out of 50 is 4/5, and 4/5 is 80%. Or double both: 80 out of 100.",
+    "check": "agree",
+    "computed": "80%",
+    "accept": ["80%", "80", "0.8", "80 percent"],
+    "comment": ""
+  },
+  "26-md12a-bm-1365": {
+    "solution": "Multiply the matrix by the point: [0, 1; 1, 1] × (2, 3) = (0 × 2 + 1 × 3, 1 × 2 + 1 × 3) = (3, 5). The question calls this a 30° rotation, but it is not one: its determinant is −1 and it changes lengths. A true 30° counterclockwise rotation of (2, 3) would give about (0.23, 3.60), which is not an option. So, applying the matrix as given, (2, 3) goes to (3, 5).",
+    "trick": "Ignore the rotation talk and multiply. This matrix turns (x, y) into (y, x + y), so (2, 3) becomes (3, 2 + 3) = (3, 5). Only (3, 5) is what the matrix actually produces.",
+    "check": "unclear",
+    "computed": "(3, 5), by applying the matrix as given",
+    "accept": ["(3, 5)", "(3,5)", "3, 5", "3,5", "3 5"],
+    "comment": "The matrix [0, 1; 1, 1] is not a rotation (its determinant is −1 and it changes lengths), so the question contradicts itself. Applying the matrix as given sends (2, 3) to (3, 5), the show's answer, while a true 30° counterclockwise rotation would give about (0.23, 3.60), which is not among the options."
+  },
+  "26-md12a-bm-1370": {
+    "solution": "10 minutes is 10 × 60 = 600 s. The number of cycles is 600 ÷ 3.5 = 171.4. Only complete cycles count, so the answer is 171.",
+    "trick": "600 ÷ 3.5 is the same as 1,200 ÷ 7. Since 7 × 171 = 1,197, it is 171 and a bit, so 171 complete cycles.",
+    "check": "agree",
+    "computed": "171",
+    "accept": ["171", "171 cycles"],
+    "comment": ""
+  },
+  "26-md12a-bm-1379": {
+    "solution": "Magnified size = magnification × actual size. So it is 40 × 0.5 mm = 20 mm.",
+    "trick": "Forty halves make 20, so half of 40 is 20 mm.",
+    "check": "agree",
+    "computed": "20 mm",
+    "accept": ["20mm", "20 mm", "20", "2cm", "2 cm"],
+    "comment": ""
+  },
+  "26-md12a-bm-1387": {
+    "solution": "The ball is highest where its slope is zero. h'(t) = −10t + 20 = 0, so t = 20 ÷ 10 = 2. The ball reaches its maximum height at t = 2 s.",
+    "trick": "Factor: h = −5t(t − 4), which is zero at t = 0 and t = 4. The peak is halfway between, at t = 2.",
+    "check": "agree",
+    "computed": "2 s",
+    "accept": ["2", "2s", "2 s", "2 sec", "2 secs", "2 seconds", "t = 2", "t=2"],
+    "comment": ""
+  },
+  "26-md12a-bm-1395": {
+    "solution": "Hydrogen gas H₂ has molar mass 2 × 1 = 2 g/mol, so 200 g is 200 ÷ 2 = 100 mol. The reaction 2H₂ + O₂ → 2H₂O gives 1 mol of water for each mol of H₂, so 100 mol of water forms. Water has molar mass 2 × 1 + 16 = 18 g/mol. So the mass of water is 100 × 18 = 1,800 g.",
+    "trick": "Water is 2 g of hydrogen in every 18 g, so hydrogen is 1/9 of the water by mass. Multiply by 9: 200 × 9 = 1,800 g. Mind the zeros: 180 g would need only 20 g of hydrogen.",
+    "check": "agree",
+    "computed": "1,800 g",
+    "accept": ["1800", "1,800", "1800g", "1,800g", "1800 g", "1,800 g", "1800 grams", "1,800 grams", "1.8kg", "1.8 kg"],
+    "comment": ""
+  },
+  "26-md12a-bm-1404": {
+    "solution": "At maximum height the vertical velocity is zero. Setting 25 − 20t = 0 gives 20t = 25, so t = 25 ÷ 20 = 1.25. The projectile is highest at t = 1.25 s.",
+    "trick": "The velocity drops by 20 every second, so after 1 s it is 5 m/s. The last 5 takes a quarter of a second, so 1.25 s.",
+    "check": "agree",
+    "computed": "1.25 s",
+    "accept": ["1.25", "1.25s", "1.25 s", "1.25 sec", "1.25 seconds", "5/4", "5/4 s"],
+    "comment": ""
+  },
+  "26-md12a-bm-1412": {
+    "solution": "She sold 200 apples in sets of 4, so there are 200 ÷ 4 = 50 sets. At ₦30 a set, she received 50 × 30 = ₦1,500. Profit = selling price − cost price = 1,500 − 1,200 = ₦300.",
+    "trick": "200 apples is 50 sets of 4, and 50 × 30 = 1,500. Then 1,500 − 1,200 = 300.",
+    "check": "agree",
+    "computed": "₦300",
+    "accept": ["300", "₦300", "N300", "300 naira", "₦300.00", "N300.00"],
+    "comment": ""
+  }
+}

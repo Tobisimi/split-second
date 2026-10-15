@@ -1,0 +1,380 @@
+{
+ "26-qf1-qb-0780": {
+  "solution": "Each of the three jobs is different, so order matters and this is a permutation. 8P3 = 8 × 7 × 6 = 336.",
+  "trick": "Multiply 8 × 7 = 56, then 56 × 6 = 336. The answer must be a multiple of 7, and only 336 is.",
+  "check": "agree",
+  "computed": "336",
+  "accept": [
+   "336"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-0786": {
+  "solution": "Drawing with replacement keeps the chances the same on each draw. P(red) = 4 ÷ 10 = 0.4, so P(both red) = 0.4 × 0.4 = 0.16.",
+  "trick": "4 × 4 = 16, and the two decimal places in 0.4 × 0.4 give 0.16.",
+  "check": "agree",
+  "computed": "0.16",
+  "accept": [
+   "0.16",
+   ".16",
+   "16%",
+   "4/25",
+   "16/100"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1032": {
+  "solution": "A PIN can start with 0, so the first digit has 10 choices. No digit repeats, so the second has 9 choices and the third has 8. The number of PINs is 10 × 9 × 8 = 720.",
+  "trick": "9 × 8 = 72, then put the 10 on the end as a zero: 720.",
+  "check": "agree",
+  "computed": "720",
+  "accept": [
+   "720"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1042": {
+  "solution": "Choose which 2 of the 5 places hold a 1, and the other three places are 0. The number of ways is 5C2 = (5 × 4) ÷ (2 × 1) = 10.",
+  "trick": "5 × 4 ÷ 2 = 10.",
+  "check": "agree",
+  "computed": "10",
+  "accept": [
+   "10"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1048": {
+  "solution": "The letter has 26 choices and the digit has 10 choices. A letter can never be the same as a digit, so the no repeats rule changes nothing. The total is 26 × 10 = 260 passwords.",
+  "trick": "26 × 10 is just 26 with a zero added: 260. The no repeats rule does not matter here.",
+  "check": "agree",
+  "computed": "260 passwords",
+  "accept": [
+   "260",
+   "260 passwords"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1121": {
+  "solution": "The three posts are different, so order matters. 6P3 = 6 × 5 × 4 = 120.",
+  "trick": "6 × 5 = 30, then 30 × 4 = 120.",
+  "check": "agree",
+  "computed": "120",
+  "accept": [
+   "120"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1139": {
+  "solution": "Correlation r = Cov(X, Y) ÷ (SD of X × SD of Y). So SD of Y = Cov ÷ (r × SD of X) = 20 ÷ (0.5 × 5) = 20 ÷ 2.5 = 8.",
+  "trick": "20 ÷ 5 = 4, and dividing by r = 0.5 doubles it to 8.",
+  "check": "agree",
+  "computed": "8",
+  "accept": [
+   "8",
+   "8.0"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1470": {
+  "solution": "Gold, silver and bronze are different places, so order matters. 10P3 = 10 × 9 × 8 = 720.",
+  "trick": "10 × 9 = 90, then 90 × 8 = 720. Order matters, so do not divide by 3! (that would give 120).",
+  "check": "agree",
+  "computed": "720",
+  "accept": [
+   "720"
+  ],
+  "comment": ""
+ },
+ "26-qf1-qb-1481": {
+  "solution": "The share of variability explained is the coefficient of determination, r². Here r² = 0.5² = 0.25, which is 25%.",
+  "trick": "Square it: 0.5 × 0.5 = 0.25, so 25%. The 50% option is only r written as a percentage.",
+  "check": "agree",
+  "computed": "25%",
+  "accept": [
+   "25%",
+   "25",
+   "25 percent",
+   "0.25",
+   "1/4"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1669": {
+  "solution": "Each toss is heads or tails, so there are 2⁶ = 64 equally likely outcomes. The number with exactly 2 heads is 6C2 = (6 × 5) ÷ 2 = 15. So P = 15/64 ≈ 0.234, which is not exactly an option, and the nearest one is 0.2.",
+  "trick": "15/64 is just under 1/4 (16/64), so 0.2 is the nearest option. 0.5 is far too high and 0.1 is too low.",
+  "check": "unclear",
+  "computed": "15/64 ≈ 0.234",
+  "accept": [
+   "0.2",
+   "0.23",
+   "0.234",
+   "0.2344",
+   "15/64",
+   "23.4%"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1674": {
+  "solution": "The values are already in order, and the median is the 5th value, 12. Leaving the median out, Q1 is the middle of the lower four values (5, 7, 8, 10), so Q1 = 7.5. Q3 is the middle of the upper four values (14, 15, 18, 20), so Q3 = 16.5. IQR = Q3 − Q1 = 16.5 − 7.5 = 9.",
+  "trick": "Q1 is the average of the 2nd and 3rd values (7 and 8), and Q3 is the average of the 7th and 8th values (15 and 18). So IQR = (15 + 18 − 7 − 8) ÷ 2 = 18 ÷ 2 = 9.",
+  "check": "agree",
+  "computed": "9",
+  "accept": [
+   "9",
+   "9.0",
+   "9 lbs",
+   "9 lb"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1679": {
+  "solution": "Exactly one solves it if A solves and B fails, or A fails and B solves. That is (1/2)(2/3) + (1/2)(1/3) = 1/3 + 1/6 = 1/2.",
+  "trick": "A's chance is 1/2 either way, so factor it out: 1/2 × (2/3 + 1/3) = 1/2 × 1 = 1/2. B's chance drops out.",
+  "check": "agree",
+  "computed": "1/2",
+  "accept": [
+   "1/2",
+   "0.5",
+   "50%",
+   "half",
+   "one half",
+   "½"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1684": {
+  "solution": "Income is a number, so it is quantitative, not qualitative. It is an amount that can take any value in a range, such as ₦152,500.50, rather than a count of whole items. So income is treated as continuous data.",
+  "trick": "Cross out Qualitative first, since income is a number. It is a measured amount, not a count, so choose Continuous.",
+  "check": "agree",
+  "computed": "Continuous",
+  "accept": [
+   "Continuous",
+   "continuous",
+   "continuous data"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1689": {
+  "solution": "Using coefficient of skewness = (mean − median) ÷ SD, we get (20 − 10) ÷ 5 = 2.0. Pearson's second coefficient, 3 × (mean − median) ÷ SD, would give 6, which is not an option. So the answer is 2.0.",
+  "trick": "(20 − 10) ÷ 5 = 2. The options hold no 6, so leave out the extra factor of 3.",
+  "check": "unclear",
+  "computed": "2.0 (using (mean − median) ÷ SD)",
+  "accept": [
+   "2.0",
+   "2"
+  ],
+  "comment": "The question does not say which skewness formula to use. (mean − median) ÷ SD gives the show's 2.0, but Pearson's second coefficient, 3 × (mean − median) ÷ SD, gives 6, which is not an option."
+ },
+ "26-qf1-bm-1692": {
+  "solution": "Number preferring A = 45% of 800 = 0.45 × 800 = 360.",
+  "trick": "800 ÷ 100 = 8, so 45% is 45 × 8 = 360. It also sits exactly between 40% (320) and 50% (400).",
+  "check": "agree",
+  "computed": "360",
+  "accept": [
+   "360",
+   "360 respondents",
+   "360 people"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1696": {
+  "solution": "2 paise per rupee is 2 per 100, so the rate is 2% a year. After 2 years the amount is 100,000 × (1.02)² = 100,000 × 1.0404 = Rs.104,040. So compound interest = 104,040 − 100,000 = Rs.4,040.",
+  "trick": "Simple interest would be 2% × 2 = 4% of 100,000 = 4,000, and compound interest is slightly more, so only Rs.4,040 fits. Year one gives 2,000 and year two gives 2% of 102,000 = 2,040.",
+  "check": "agree",
+  "computed": "Rs.4,040",
+  "accept": [
+   "4040",
+   "4,040",
+   "Rs.4040",
+   "Rs 4040",
+   "Rs.4,040",
+   "Rs 4,040",
+   "Rs4040",
+   "Rs4,040"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1703": {
+  "solution": "For independent variables, E(XY) = E(X)E(Y). So Cov(X, Y) = E(XY) − E(X)E(Y) = 0. The covariance is 0.",
+  "trick": "Independent variables do not move together, so their covariance is 0.",
+  "check": "agree",
+  "computed": "0",
+  "accept": [
+   "0",
+   "zero"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1707": {
+  "solution": "Multiples of 4: 4, 8, 12, 16, 20 (5 numbers). Multiples of 5: 5, 10, 15, 20 (4 numbers). The number 20 is in both lists, so the total is 5 + 4 − 1 = 8. P = 8 ÷ 20 = 0.4.",
+  "trick": "List them in order: 4, 5, 8, 10, 12, 15, 16, 20. That is 8 numbers, and 8 ÷ 20 = 0.4.",
+  "check": "agree",
+  "computed": "0.4",
+  "accept": [
+   "0.4",
+   "2/5",
+   "40%",
+   "8/20",
+   ".4"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1712": {
+  "solution": "The interquartile range is Q3 − Q1 = ₦90,000 − ₦30,000 = ₦60,000.",
+  "trick": "Subtract the thousands: 90 − 30 = 60, so ₦60,000.",
+  "check": "agree",
+  "computed": "₦60,000",
+  "accept": [
+   "60000",
+   "60,000",
+   "₦60,000",
+   "₦60000",
+   "N60,000",
+   "N60000"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1715": {
+  "solution": "Each of the 6 questions can be answered in 10 ways, and the choices are independent. So the number of answer sheets is 10 × 10 × 10 × 10 × 10 × 10 = 10⁶ = 1,000,000.",
+  "trick": "10⁶ is a 1 followed by six zeros: 1,000,000.",
+  "check": "agree",
+  "computed": "1,000,000",
+  "accept": [
+   "1000000",
+   "1,000,000",
+   "10^6",
+   "10⁶",
+   "one million",
+   "1 million"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1718": {
+  "solution": "Guessing each question is like tossing a coin, so there are 2¹⁰ = 1,024 equally likely answer sheets. Passing needs 8, 9 or 10 correct. That is 10C8 + 10C9 + 10C10 = 45 + 10 + 1 = 56 ways. So P(pass) = 56 ÷ 1,024 = 7/128.",
+  "trick": "8 or more right is 2 or fewer wrong, which is 1 + 10 + 45 = 56 ways. Then 56/1024 = 7/128 after dividing top and bottom by 8.",
+  "check": "agree",
+  "computed": "7/128",
+  "accept": [
+   "7/128",
+   "56/1024",
+   "0.0547",
+   "0.055",
+   "5.47%",
+   "5.5%"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1722": {
+  "solution": "For a binomial distribution the expected value is E(X) = np = 10 × 0.3 = 3.",
+  "trick": "n × p = 10 × 0.3 = 3. Ten lots of 0.3 make 3.",
+  "check": "agree",
+  "computed": "3",
+  "accept": [
+   "3",
+   "3.0"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1725": {
+  "solution": "Each coin can land in 2 ways, so two coins give 2 × 2 = 4 outcomes: HH, HT, TH and TT.",
+  "trick": "Two coins with two ways each is 2 × 2 = 4. The 8 option is for three coins.",
+  "check": "agree",
+  "computed": "4",
+  "accept": [
+   "4",
+   "four"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1728": {
+  "solution": "There are 60 minutes in an hour, so 5 hours = 5 × 60 = 300 minutes.",
+  "trick": "5 × 6 = 30, then add a zero: 300.",
+  "check": "agree",
+  "computed": "300 minutes",
+  "accept": [
+   "300",
+   "300 minutes",
+   "300 mins",
+   "300 min"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1733": {
+  "solution": "Treat the two books that must stay together as one block. Then 7 items can be arranged in 7! = 5,040 ways. The two books can swap places inside the block in 2 ways. So the total is 5,040 × 2 = 10,080.",
+  "trick": "7! = 5,040 is already more than 108 or 1,080, so only 10,080 can be right. It is exactly 2 × 5,040.",
+  "check": "agree",
+  "computed": "10,080",
+  "accept": [
+   "10080",
+   "10,080"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1737": {
+  "solution": "List them: CAT, CTA, ACT, ATC, TCA, TAC. For 3 different letters the count is 3! = 3 × 2 × 1 = 6 ways.",
+  "trick": "3 × 2 × 1 = 6. Three different letters always give 6 arrangements.",
+  "check": "agree",
+  "computed": "6 ways",
+  "accept": [
+   "6",
+   "6 ways",
+   "six",
+   "3!"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1740": {
+  "solution": "People who like tea or coffee = 90 + 108 − 46 = 152, since the 46 who like both were counted twice. Neither = 200 − 152 = 48.",
+  "trick": "200 − 90 − 108 = 2, then add back the 46 who were counted twice: 2 + 46 = 48.",
+  "check": "agree",
+  "computed": "48",
+  "accept": [
+   "48",
+   "48 people"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1745": {
+  "solution": "The values are already in order, and the median is the 4th value, 12. Leaving the median out, Q1 is the middle of the lower three values (6, 8, 10), so Q1 = 8. Q3 is the middle of the upper three values (14, 16, 18), so Q3 = 16. IQR = 16 − 8 = 8.",
+  "trick": "Q1 is the 2nd value (8) and Q3 is the 6th value (16), which are four steps of 2 apart. So the IQR is 4 × 2 = 8.",
+  "check": "agree",
+  "computed": "8",
+  "accept": [
+   "8",
+   "8.0"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1748": {
+  "solution": "Percentage = (8 ÷ 20) × 100 = 0.4 × 100 = 40%.",
+  "trick": "100 ÷ 20 = 5, so multiply the 8 by 5: 40%.",
+  "check": "agree",
+  "computed": "40%",
+  "accept": [
+   "40%",
+   "40",
+   "40 percent",
+   "0.4",
+   "2/5"
+  ],
+  "comment": ""
+ },
+ "26-qf1-bm-1753": {
+  "solution": "A fair die has 6 equally likely faces. The faces that are 5 or greater are 5 and 6, which is 2 faces. So P = 2/6 = 1/3.",
+  "trick": "Only 5 and 6 count, so it is 2 out of 6, which is 1/3. The 5 itself counts, so the answer is not 1/6.",
+  "check": "agree",
+  "computed": "1/3",
+  "accept": [
+   "1/3",
+   "2/6",
+   "0.33",
+   "0.333",
+   "33.3%",
+   "33.33%",
+   "33%",
+   "one third",
+   "⅓"
+  ],
+  "comment": ""
+ }
+}

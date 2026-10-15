@@ -1,0 +1,460 @@
+{
+  "26-md01a-qb-1038": {
+    "solution": "A 1:50 scale means the real bridge is 50 times as long as the model. Real length = 20 cm × 50 = 1,000 cm. Since 100 cm = 1 m, that is 10 m. The bridge is 10 m long.",
+    "trick": "At 1:50, one model centimetre stands for 50 cm, which is half a metre. So just halve the model length: 20 ÷ 2 = 10 m.",
+    "check": "agree",
+    "computed": "10 m",
+    "accept": [
+      "10",
+      "10m",
+      "10 m",
+      "10 metres",
+      "10 meters",
+      "1000cm",
+      "1000 cm",
+      "1,000 cm"
+    ],
+    "comment": ""
+  },
+  "26-md01a-qb-1044": {
+    "solution": "Red is 3 parts out of 3 + 2 = 5 parts. Red = 3/5 × 20 L = 12 L. The answer is 12 L.",
+    "trick": "Split 20 L into 5 equal parts of 4 L, then take 3 of them: 3 × 4 = 12 L.",
+    "check": "agree",
+    "computed": "12 L",
+    "accept": [
+      "12",
+      "12L",
+      "12 L",
+      "12l",
+      "12 litres",
+      "12 liters",
+      "12 litre",
+      "12 liter"
+    ],
+    "comment": ""
+  },
+  "26-md01a-qb-1054": {
+    "solution": "Taking every game as a win or a loss, the 28 games split into 5 + 2 = 7 equal parts. One part is 28 ÷ 7 = 4 games. Wins = 5 × 4 = 20 games.",
+    "trick": "28 ÷ 7 = 4 games a part, so wins are 5 × 4 = 20. Check: 2 × 4 = 8 losses, and 20 + 8 = 28.",
+    "check": "agree",
+    "computed": "20 games",
+    "accept": [
+      "20",
+      "20 games",
+      "20 wins"
+    ],
+    "comment": ""
+  },
+  "26-md01a-qb-1062": {
+    "solution": "Boys are 3 parts, so one part is 24 ÷ 3 = 8 students. Girls are 5 parts: 5 × 8 = 40. There are 40 girls.",
+    "trick": "Divide by the boys' number, then multiply by the girls' number: 24 ÷ 3 = 8, and 8 × 5 = 40.",
+    "check": "agree",
+    "computed": "40 girls",
+    "accept": [
+      "40",
+      "40 girls"
+    ],
+    "comment": ""
+  },
+  "26-md01a-qb-1066": {
+    "solution": "Daily charge = 5 days × $30 = $150. The rest is for mileage: $210 − $150 = $60. Miles = 60 ÷ 0.20 = 300 miles.",
+    "trick": "Take off the $150 for the days to leave $60. Each mile costs 20 cents, so a dollar buys 5 miles: 60 × 5 = 300.",
+    "check": "agree",
+    "computed": "300 miles",
+    "accept": [
+      "300",
+      "300 miles",
+      "300mi",
+      "300 mi"
+    ],
+    "comment": ""
+  },
+  "26-md01a-qb-1078": {
+    "solution": "Molar mass of NH₃ = 14 + 3 × 1 = 17. Hydrogen makes up 3 of those 17 units. So hydrogen in 85 g = 3/17 × 85 = 15 g.",
+    "trick": "85 is 5 × 17, so the sample is 5 lots of NH₃. Each lot holds 3 g of hydrogen, so 5 × 3 = 15 g.",
+    "check": "agree",
+    "computed": "15 g",
+    "accept": [
+      "15",
+      "15g",
+      "15 g",
+      "15 grams",
+      "15 gram"
+    ],
+    "comment": ""
+  },
+  "26-md01a-bm-1229": {
+    "solution": "24 hr ÷ 8 hr = 3 half-lives. Each half-life halves the amount, so 600 becomes 300, then 150, then 75. So 75 mg remains.",
+    "trick": "Three halvings means dividing by 2 × 2 × 2 = 8. And 600 ÷ 8 = 75.",
+    "check": "agree",
+    "computed": "75 mg",
+    "accept": [
+      "75",
+      "75mg",
+      "75 mg",
+      "75 milligrams"
+    ],
+    "comment": ""
+  },
+  "26-md01a-bm-1249": {
+    "solution": "Differentiate three times. f'(x) = 12x² − 12x + 2, then f''(x) = 24x − 12, then f'''(x) = 24. The third derivative is 24.",
+    "trick": "Only the cubic term survives three derivatives, and it gives 4 × 3 × 2 × 1 = 24. The x², x and constant terms all vanish.",
+    "check": "agree",
+    "computed": "24",
+    "accept": [
+      "24",
+      "24.0",
+      "f'''(x) = 24",
+      "f'''(x)=24"
+    ],
+    "comment": ""
+  },
+  "26-md01a-bm-1302": {
+    "solution": "Items without defects = 100% − 12% = 88% of the batch. 88% of 800 = 0.88 × 800 = 704.",
+    "trick": "1% of 800 is 8, so 12% is 96. Then 800 − 96 = 704.",
+    "check": "agree",
+    "computed": "704",
+    "accept": [
+      "704",
+      "704 items"
+    ],
+    "comment": ""
+  },
+  "26-md01a-bm-1312": {
+    "solution": "Speed = distance ÷ time = 120 km ÷ 2 h = 60 km/h. Distance in 7 h = 60 × 7 = 420 km.",
+    "trick": "The car does 60 km every hour, so 7 hours gives 7 × 60 = 420 km.",
+    "check": "agree",
+    "computed": "420 km",
+    "accept": [
+      "420",
+      "420km",
+      "420 km",
+      "420 kilometres",
+      "420 kilometers"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2173": {
+    "solution": "Magnitude = √(a² + b²), so 13 = √(5² + b²). Squaring gives 169 = 25 + b², so b² = 144. The question does not give the sign of b, so b = −12 would fit too, but the expected answer is the positive root, b = 12.",
+    "trick": "Spot the 5, 12, 13 Pythagorean triple, because 25 + 144 = 169. So b = 12.",
+    "check": "unclear",
+    "computed": "12 (or −12)",
+    "accept": [
+      "12",
+      "+12",
+      "b = 12",
+      "b=12",
+      "±12",
+      "+-12",
+      "plus or minus 12",
+      "12 or -12",
+      "-12 or 12",
+      "-12",
+      "−12"
+    ],
+    "comment": "b² = 144 gives b = 12 or b = −12, and the question does not say which sign. The show took the positive root, and the accept list also takes −12 and ±12."
+  },
+  "26-md01b-qb-2179": {
+    "solution": "Taking the 30° as the angle between the ladder and the ground, the height up the wall is the side opposite that angle. Height = ladder × sin 30° = 10 × 0.5 = 5 m.",
+    "trick": "sin 30° = 1/2, so the ladder reaches half its length: 10 ÷ 2 = 5 m.",
+    "check": "agree",
+    "computed": "5 m",
+    "accept": [
+      "5",
+      "5m",
+      "5 m",
+      "5 metres",
+      "5 meters"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2185": {
+    "solution": "1,000 L of water has a mass of 1,000 kg. Using g = 9.8 m/s², the work done is mgh = 1,000 × 9.8 × 15 = 147,000 J. Power = work ÷ time = 147,000 ÷ 60 = 2,450 W.",
+    "trick": "Lifting 15 m in 60 s is 0.25 m/s, a quarter of a metre each second. The weight is 1,000 × 9.8 = 9,800 N, and a quarter of 9,800 is 2,450 W.",
+    "check": "agree",
+    "computed": "2,450 W",
+    "accept": [
+      "2450",
+      "2450W",
+      "2450 W",
+      "2,450",
+      "2,450W",
+      "2,450 W",
+      "2450 watts",
+      "2,450 watts",
+      "2.45kW",
+      "2.45 kW",
+      "2.45 kilowatts"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2195": {
+    "solution": "Amount of active ingredient = concentration × volume = 45 mg/mL × 120 mL. The mL cancel, leaving 45 × 120 = 5,400 mg.",
+    "trick": "45 × 12 = 540, so 45 × 120 = 5,400. Just add the zero.",
+    "check": "agree",
+    "computed": "5,400 mg",
+    "accept": [
+      "5400",
+      "5400mg",
+      "5400 mg",
+      "5,400",
+      "5,400mg",
+      "5,400 mg",
+      "5.4g",
+      "5.4 g",
+      "5.4 grams"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2205": {
+    "solution": "CH₄ + 2O₂ → CO₂ + 2H₂O, so 1 mol of CH₄ gives 1 mol of CO₂. Using C = 12, H = 1 and O = 16, CH₄ is 16 g/mol and CO₂ is 44 g/mol. Moles of CH₄ = 44 ÷ 16 = 2.75, so the mass of CO₂ = 2.75 × 44 = 121 g.",
+    "trick": "The CO₂ to CH₄ mass ratio is 44 : 16, which is 11 : 4. So 44 ÷ 4 = 11, then 11 × 11 = 121 g.",
+    "check": "agree",
+    "computed": "121 g",
+    "accept": [
+      "121",
+      "121g",
+      "121 g",
+      "121 grams",
+      "121 gram"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2210": {
+    "solution": "Girls are 5 parts, so one part is 25 ÷ 5 = 5 students. Boys are 3 parts: 3 × 5 = 15. Total = 15 + 25 = 40 students.",
+    "trick": "One part is 5, and the ratio has 3 + 5 = 8 parts in all. So 8 × 5 = 40.",
+    "check": "agree",
+    "computed": "40",
+    "accept": [
+      "40",
+      "40 students"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2218": {
+    "solution": "Put x = 20 into P(x) = −2x² + 400x − 5,000. P(20) = −2 × 400 + 400 × 20 − 5,000 = −800 + 8,000 − 5,000 = 2,200.",
+    "trick": "Do 8,000 − 5,000 = 3,000 first, then take off 2 × 400 = 800. That leaves 2,200.",
+    "check": "agree",
+    "computed": "2,200",
+    "accept": [
+      "2200",
+      "2,200"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2226": {
+    "solution": "Let y = (3x − 5)/2 and solve for x. Then 2y = 3x − 5, so 3x = 2y + 5 and x = (2y + 5)/3. Writing x in place of y, the inverse is f⁻¹(x) = (2x + 5)/3.",
+    "trick": "Undo the steps in reverse order. f multiplies by 3, subtracts 5, then divides by 2, so the inverse multiplies by 2, adds 5, then divides by 3. Quick check: f(3) = 2, and (2 × 2 + 5)/3 = 3.",
+    "check": "agree",
+    "computed": "f⁻¹(x) = (2x + 5)/3",
+    "accept": [
+      "(2x+5)/3",
+      "(2x + 5)/3",
+      "(2x + 5) / 3",
+      "(2x+5)÷3",
+      "(5 + 2x)/3",
+      "(5+2x)/3",
+      "2x/3 + 5/3",
+      "(2/3)x + 5/3",
+      "f^-1(x) = (2x+5)/3",
+      "f⁻¹(x) = (2x + 5)/3",
+      "f-1(x) = (2x+5)/3",
+      "y = (2x+5)/3",
+      "y = (2x + 5)/3"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2234": {
+    "solution": "Magnitude = √(3² + 4² + 12²) = √(9 + 16 + 144) = √169 = 13.",
+    "trick": "Chain two Pythagorean triples: 3 and 4 give 5, then 5 and 12 give 13.",
+    "check": "agree",
+    "computed": "13",
+    "accept": [
+      "13",
+      "13 units"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2242": {
+    "solution": "The equation has the form dy/dx + P(x)y = Q(x), here with P(x) = 2 and Q(x) = sin x. It is first order, and y and dy/dx appear only to the power 1 and are never multiplied together. So it is a linear differential equation.",
+    "trick": "Spot the pattern dy/dx + (something in x) × y = (something in x). Since y and dy/dx appear only to the power 1, it is linear.",
+    "check": "agree",
+    "computed": "Linear differential equation",
+    "accept": [
+      "linear",
+      "linear differential equation",
+      "linear ode",
+      "first order linear",
+      "first order linear differential equation",
+      "first order linear ode",
+      "first-order linear differential equation",
+      "linear first order differential equation",
+      "linear first order",
+      "first order linear equation"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2248": {
+    "solution": "Put t = 5 into s(t) = 4t² + 10t. s(5) = 4 × 25 + 10 × 5 = 100 + 50 = 150 m.",
+    "trick": "4 × 25 = 100 and 10 × 5 = 50, so the total is 150.",
+    "check": "agree",
+    "computed": "150 m",
+    "accept": [
+      "150",
+      "150m",
+      "150 m",
+      "150 metres",
+      "150 meters"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2256": {
+    "solution": "The sample fell from 5 g to 2.5 g, which is exactly half. It took 10 hours to halve, and the time to halve is the half-life. The half-life is 10 hours.",
+    "trick": "5 to 2.5 is one halving, so the half-life is simply the time given: 10 hours.",
+    "check": "agree",
+    "computed": "10 hours",
+    "accept": [
+      "10",
+      "10h",
+      "10 h",
+      "10hr",
+      "10 hr",
+      "10hrs",
+      "10 hrs",
+      "10 hours"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2264": {
+    "solution": "A 1:150 scale means real length = model length × 150. So 5 cm × 150 = 750 cm. Dividing by 100 to change to metres gives 7.5 m. The real length is 7.5 m, or 750 cm.",
+    "trick": "At 1:150, every model centimetre is 150 cm, which is 1.5 m. So 5 × 1.5 = 7.5 m.",
+    "check": "agree",
+    "computed": "7.5 m (750 cm)",
+    "accept": [
+      "7.5",
+      "7.5m",
+      "7.5 m",
+      "7.5 metres",
+      "7.5 meters",
+      "750",
+      "750cm",
+      "750 cm",
+      "750 centimetres",
+      "750 centimeters"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2272": {
+    "solution": "Let the width be w, so the length is 2w + 5. Length plus width is half the perimeter, 82 ÷ 2 = 41, so (2w + 5) + w = 41. Then 3w = 36, so the width is 12 cm.",
+    "trick": "Half the perimeter is 41, so 3w + 5 = 41. Take off 5 to get 36, then divide by 3 to get 12. Check: the length is 29, and 29 + 12 = 41.",
+    "check": "agree",
+    "computed": "12 cm",
+    "accept": [
+      "12",
+      "12cm",
+      "12 cm",
+      "12 centimetres",
+      "12 centimeters"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2307": {
+    "solution": "Absolute error = percentage error × reading = 0.3% × 150 = 0.003 × 150 = 0.45.",
+    "trick": "1% of 150 is 1.5, so 0.3% is 0.3 × 1.5 = 0.45.",
+    "check": "agree",
+    "computed": "0.45",
+    "accept": [
+      "0.45",
+      "±0.45",
+      "+-0.45",
+      "+/-0.45",
+      "0.450"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2317": {
+    "solution": "Diluting does not change the amount of NaOH, so C₁V₁ = C₂V₂. Then 8 × 200 = 2 × V₂, so V₂ = 1,600 ÷ 2 = 800 mL.",
+    "trick": "The concentration falls from 8 M to 2 M, which is 4 times weaker. So the volume must be 4 times bigger: 200 × 4 = 800 mL.",
+    "check": "agree",
+    "computed": "800 mL",
+    "accept": [
+      "800",
+      "800mL",
+      "800 mL",
+      "800ml",
+      "800 ml",
+      "0.8L",
+      "0.8 L",
+      "0.8 l",
+      "0.8 litres",
+      "0.8 liters"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2330": {
+    "solution": "At constant temperature, Boyle's law says P₁V₁ = P₂V₂. So 1 × 5 = 2.5 × V₂, giving V₂ = 5 ÷ 2.5 = 2 L.",
+    "trick": "Pressure goes up 2.5 times, so the volume falls to 1/2.5 of 5 L. Double both numbers: 5 ÷ 2.5 = 10 ÷ 5 = 2 L.",
+    "check": "agree",
+    "computed": "2 L",
+    "accept": [
+      "2",
+      "2L",
+      "2 L",
+      "2l",
+      "2 l",
+      "2 litres",
+      "2 liters",
+      "2.0 L",
+      "2.0"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2340": {
+    "solution": "Cost = fixed charge + rate × minutes = ₦2,000 + ₦5 × 250 = ₦2,000 + ₦1,250 = ₦3,250.",
+    "trick": "250 × 5 is half of 2,500, which is 1,250. Then 2,000 + 1,250 = 3,250.",
+    "check": "agree",
+    "computed": "₦3,250",
+    "accept": [
+      "3250",
+      "3,250",
+      "₦3250",
+      "₦3,250",
+      "N3250",
+      "N3,250",
+      "3250 naira",
+      "3,250 naira"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2348": {
+    "solution": "Flour to sugar is 2 : 1, so the sugar is half the flour. 5 cups ÷ 2 = 2.5 cups of sugar.",
+    "trick": "Sugar is half the flour, and half of 5 is 2.5.",
+    "check": "agree",
+    "computed": "2.5 cups",
+    "accept": [
+      "2.5",
+      "2.5 cups",
+      "2.5 cup",
+      "2 1/2",
+      "2 1/2 cups",
+      "5/2",
+      "5/2 cups",
+      "2.50 cups"
+    ],
+    "comment": ""
+  },
+  "26-md01b-qb-2354": {
+    "solution": "Absolute uncertainty = 2% of 150 = 0.02 × 150 = 3.",
+    "trick": "1% of 150 is 1.5, so 2% is double that: 3.",
+    "check": "agree",
+    "computed": "3",
+    "accept": [
+      "3",
+      "±3",
+      "+-3",
+      "+/-3",
+      "3.0"
+    ],
+    "comment": ""
+  }
+}

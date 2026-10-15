@@ -1,0 +1,242 @@
+{
+  "26-md06a-bm-1697": {
+    "solution": "Mean = sum ÷ number of values. The sum is 10 + 20 + 40 + 60 + 80 = 210, and there are 5 months. So the mean is 210 ÷ 5 = 42.",
+    "trick": "Pair them: 20 + 80 = 100 and 40 + 60 = 100, plus 10 makes 210. Then 210 ÷ 5 = 42.",
+    "check": "agree",
+    "computed": "42",
+    "accept": ["42.0", "forty two"],
+    "comment": ""
+  },
+  "26-md06a-bm-1701": {
+    "solution": "Each flip is H or T, so 3 flips give 2³ = 8 equally likely outcomes. Exactly 2 heads can happen in C(3,2) = 3 ways: HHT, HTH and THH. So the probability is 3/8.",
+    "trick": "Exactly 2 heads means exactly 1 tail, and the tail can fall in 3 places. That is 3 outcomes out of 8, so 3/8.",
+    "check": "agree",
+    "computed": "3/8",
+    "accept": ["0.375", "37.5%", "three eighths", "⅜"],
+    "comment": ""
+  },
+  "26-md06b-qb-2231": {
+    "solution": "The sectors of a pie chart add up to 360°. The other sectors take 360° − 60° = 300°. As a percentage, 300 ÷ 360 × 100 = 83.33%.",
+    "trick": "60° is one sixth of 360°, so the others make five sixths. Five sixths is 83.33%.",
+    "check": "agree",
+    "computed": "83.33%",
+    "accept": ["83.33", "83.3%", "83.3", "83 1/3%", "83⅓%", "5/6"],
+    "comment": ""
+  },
+  "26-md06b-qb-2242": {
+    "solution": "The correlation is r = cov ÷ (SD of X × SD of Y), so SD of Y = cov ÷ (r × SD of X). That is 48 ÷ (0.6 × 8) = 48 ÷ 4.8. So the standard deviation of Y is 10.",
+    "trick": "0.6 × 8 = 4.8, and 48 is ten times 4.8. So the answer is 10.",
+    "check": "agree",
+    "computed": "10",
+    "accept": ["10.0", "ten"],
+    "comment": ""
+  },
+  "26-md06b-qb-2316": {
+    "solution": "By the usual rule, the mean is pulled towards the long tail of a skewed distribution. Here the mean (600) is below the median (4,800), so the tail is on the left. So the skewness is Left-skewed.",
+    "trick": "The mean follows the tail, and a mean below the median points left. Central and vertical are not skewness directions, so only Left-skewed fits.",
+    "check": "agree",
+    "computed": "Left-skewed",
+    "accept": ["left skewed", "left", "negatively skewed", "negative skew", "skewed left", "left skew", "negative"],
+    "comment": ""
+  },
+  "26-md06b-qb-2374": {
+    "solution": "Owning a car or a bike or both is 60% + 40% − 30% = 70%, because the 30% who own both were counted twice. So the share owning neither is 100% − 70% = 30%.",
+    "trick": "Here 60 + 40 = 100 exactly, so the group owning neither is the same size as the overlap. That is 30%.",
+    "check": "agree",
+    "computed": "30%",
+    "accept": ["30", "0.3", "30 percent", "thirty percent"],
+    "comment": ""
+  },
+  "26-md06b-qb-2480": {
+    "solution": "A 3% false positive rate means 3% of healthy people test positive, so 97% do not. The expected number who do not test positive is 0.97 × 800 = 776.",
+    "trick": "3% of 800 is 3 × 8 = 24, so take it off: 800 − 24 = 776. The option 824 adds the 24 instead.",
+    "check": "agree",
+    "computed": "776",
+    "accept": ["776 people"],
+    "comment": ""
+  },
+  "26-md06b-qb-2534": {
+    "solution": "For independent events, P(A and B) = P(A) × P(B). So P(pass both) = 0.25 × 0.45 = 0.1125, which is 11.25%.",
+    "trick": "0.25 is a quarter, so take a quarter of 45%: 45 ÷ 4 = 11.25%.",
+    "check": "agree",
+    "computed": "11.25%",
+    "accept": ["11.25", "0.1125", "9/80", "11.25 percent"],
+    "comment": ""
+  },
+  "26-md06b-qb-2562": {
+    "solution": "The correlation is r = cov ÷ (SD of X × SD of Y), so SD of Y = cov ÷ (r × SD of X). That is 36 ÷ (0.6 × 6) = 36 ÷ 3.6. So the standard deviation of Y is 10.",
+    "trick": "0.6 × 6 = 3.6, and 36 is ten times 3.6. So the answer is 10.",
+    "check": "agree",
+    "computed": "10",
+    "accept": ["10.0", "ten"],
+    "comment": ""
+  },
+  "26-md06b-qb-2572": {
+    "solution": "There are 2⁵ = 32 equally likely strings. The number with exactly three 0s is C(5,3) = 10, the ways to choose which 3 of the 5 places hold the 0s. So the probability is 10/32 = 5/16.",
+    "trick": "Count the places for the two 1s instead: 5 × 4 ÷ 2 = 10. Then 10 out of 32 cuts down to 5/16.",
+    "check": "agree",
+    "computed": "5/16",
+    "accept": ["0.3125", "31.25%", "10/32"],
+    "comment": ""
+  },
+  "26-md06b-qb-2578": {
+    "solution": "Quartile deviation = (Q3 − Q1) ÷ 2 = IQR ÷ 2. So IQR = 2 × quartile deviation = 2 × 5 = 10.",
+    "trick": "Quartile deviation is half the IQR, so just double the 5 to get 10.",
+    "check": "agree",
+    "computed": "10",
+    "accept": ["10.0", "ten"],
+    "comment": ""
+  },
+  "26-md06b-qb-2660": {
+    "solution": "The mean is 30 ÷ 5 = 6, and the squared deviations are 16, 4, 0, 4 and 16, which add to 40. This is the population variance, so divide by n = 5 (dividing by 4 would give the sample variance, 10, which is not an option). Variance = 40 ÷ 5 = 8 kg².",
+    "trick": "Halve the weights to get 1, 2, 3, 4, 5, whose variance is 2. Doubling the data multiplies the variance by 4, so 2 × 4 = 8.",
+    "check": "agree",
+    "computed": "8 kg² (population variance)",
+    "accept": ["8", "8.0", "8 kg²", "8kg²", "8 kg^2", "8 kg2"],
+    "comment": ""
+  },
+  "26-md06b-bm-3071": {
+    "solution": "BALLOON has 7 letters, and L and O each appear twice. The number of arrangements is 7! ÷ (2! × 2!) = 5040 ÷ 4 = 1,260.",
+    "trick": "7! is 5040, and 5040 ÷ 4 = 1,260. Quick check: the answer keeps the factor 7, and only 1,260 is a multiple of 7.",
+    "check": "agree",
+    "computed": "1,260",
+    "accept": ["1260", "1,260 ways", "1260 ways", "1,260 arrangements", "1260 arrangements", "1,260 permutations", "1260 permutations"],
+    "comment": ""
+  },
+  "26-md06b-bm-3077": {
+    "solution": "A supervised algorithm learns from examples that come with labels. A decision tree is trained on labelled data to predict a class or a value. DBSCAN (clustering) and PCA (dimension reduction) work without labels, so they are unsupervised. So the answer is Decision Trees.",
+    "trick": "DBSCAN groups points and PCA shrinks dimensions, and neither needs labels. That leaves Decision Trees as the supervised one.",
+    "check": "agree",
+    "computed": "Decision Trees",
+    "accept": ["decision tree", "decision trees", "a decision tree", "Decision Tree"],
+    "comment": ""
+  },
+  "26-md06b-bm-3083": {
+    "solution": "A fair die has 6 equally likely faces, and 3 of them are odd: 1, 3 and 5. So P(odd) = 3/6 = 1/2.",
+    "trick": "Odd and even faces are equal in number, so the chance is half.",
+    "check": "agree",
+    "computed": "1/2",
+    "accept": ["0.5", "50%", "half", "one half", "3/6", "½", ".5"],
+    "comment": ""
+  },
+  "26-md06b-bm-3087": {
+    "solution": "Simple interest is I = P × R × T, where P is the loan, R the yearly rate and T the years. So I = 2,000 × 0.05 × 3 = $300.",
+    "trick": "5% of 2,000 is 100 a year, so 3 years is 300.",
+    "check": "agree",
+    "computed": "$300",
+    "accept": ["300", "$300", "300 dollars", "USD 300", "USD300", "US$300", "300 USD"],
+    "comment": ""
+  },
+  "26-md06b-bm-3093": {
+    "solution": "Mean = total ÷ number of subjects, so total = mean × number of subjects. Total marks = 68 × 5 = 340 marks.",
+    "trick": "68 × 5 is half of 68 × 10, so 680 ÷ 2 = 340.",
+    "check": "agree",
+    "computed": "340 marks",
+    "accept": ["340", "340.0", "three hundred and forty"],
+    "comment": ""
+  },
+  "26-md06b-bm-3097": {
+    "solution": "The mean, range and variance all depend on the size of every value, so one extreme value can drag them a long way. The median and IQR depend only on the order of the values, so they barely move. So the answer is Median & IQR.",
+    "trick": "The other two options both contain the mean, which one extreme value can drag. Only Median & IQR avoids it.",
+    "check": "agree",
+    "computed": "Median & IQR",
+    "accept": ["median and IQR", "median and interquartile range", "median & interquartile range", "median, IQR", "median IQR"],
+    "comment": ""
+  },
+  "26-md06b-bm-3103": {
+    "solution": "The 70% who take math include the 30% who also take history. Only math = 70% − 30% = 40%.",
+    "trick": "Just take the overlap off math: 70 − 30 = 40. The 50% for history is not needed.",
+    "check": "agree",
+    "computed": "40%",
+    "accept": ["40", "0.4", "40 percent", "forty percent"],
+    "comment": ""
+  },
+  "26-md06b-bm-3109": {
+    "solution": "Ordinal data can be put in order, like poor, fair and good, but the gaps between levels are not equal or measurable. The mean and standard deviation rely on those gaps, but the median needs only the order. So the most suitable measure is the Median.",
+    "trick": "Ordinal means ranked order only. Mean and standard deviation need real distances between values, so the median is what is left.",
+    "check": "agree",
+    "computed": "Median",
+    "accept": ["median", "the median"],
+    "comment": ""
+  },
+  "26-md06b-bm-3113": {
+    "solution": "Triangulation means checking a qualitative finding against more than one source, method or researcher. The T-test and the chi-squared test are statistical tests for quantitative data, not ways to validate qualitative findings. So the answer is Triangulation.",
+    "trick": "T-test and chi-squared are tests on numbers, so they are out. Triangulation is what is left.",
+    "check": "agree",
+    "computed": "Triangulation",
+    "accept": ["triangulation", "triangulation method"],
+    "comment": ""
+  },
+  "26-md06b-bm-3121": {
+    "solution": "The numbers 1 to 10 contain 5 even numbers: 2, 4, 6, 8 and 10. So P(even) = 5/10 = 1/2.",
+    "trick": "Every second number is even, so exactly half of 1 to 10 are.",
+    "check": "agree",
+    "computed": "1/2",
+    "accept": ["0.5", "50%", "5/10", "half", "one half", "½", ".5"],
+    "comment": ""
+  },
+  "26-md06b-bm-3125": {
+    "solution": "For a normal distribution, about 68% of the data lies within 1 SD of the mean, about 95% within 2 SD, and about 99.7% within 3 SD. The exact 95% point is 1.96 SD, which rounds to 2. So the answer is 2 SD of the mean.",
+    "trick": "Remember 68, 95, 99.7 for 1, 2, 3 SD. The 95 goes with 2 SD.",
+    "check": "agree",
+    "computed": "2 SD of the mean",
+    "accept": ["2 SD", "two SD", "2 standard deviations", "two standard deviations", "within 2 SD", "2"],
+    "comment": ""
+  },
+  "26-md06b-bm-3131": {
+    "solution": "The target population is the whole group a researcher wants to study and draw conclusions about. A sample is later taken from it. So the answer is target population.",
+    "trick": "The key words are 'want to study': the group you aim to study is the target population.",
+    "check": "agree",
+    "computed": "target population",
+    "accept": ["the target population", "Target population", "Target Population"],
+    "comment": ""
+  },
+  "26-md06b-bm-3135": {
+    "solution": "Order matters, because 1st, 2nd and 3rd are different places. The number of arrangements is 6P3 = 6 × 5 × 4 = 120.",
+    "trick": "Fill 1st, 2nd and 3rd in turn: 6 × 5 × 4 = 30 × 4 = 120. The 720 option is 6!, which would rank all six clubs.",
+    "check": "agree",
+    "computed": "120",
+    "accept": ["120 ways", "120 arrangements"],
+    "comment": ""
+  },
+  "26-md06b-bm-3141": {
+    "solution": "A z value of 6 is far out in the right tail, and even z = 3 already gives an area of 0.9987 to its left. The exact value is P(Z < 6) ≈ 0.999999999, which is almost 1. Of the three options, the nearest is 0.99.",
+    "trick": "z = 6 is far above the mean, so nearly all the area lies to its left. Pick the option nearest 1, which is 0.99.",
+    "check": "agree",
+    "computed": "about 0.999999999, so 0.99 (nearest option)",
+    "accept": ["0.99", ".99", "99%", "0.999999999"],
+    "comment": ""
+  },
+  "26-md06b-bm-3147": {
+    "solution": "In the usual wording, a table listing every value of a random variable with its probability is called a probability distribution. A probability density function belongs to continuous variables, so it is not a table of values. So the answer is Probability Distribution.",
+    "trick": "A table of values and their probabilities is the textbook wording for a probability distribution. Density functions are for continuous variables, so that option is out.",
+    "check": "agree",
+    "computed": "Probability Distribution",
+    "accept": ["probability distribution", "a probability distribution", "probability distribution table"],
+    "comment": ""
+  },
+  "26-md06b-bm-3155": {
+    "solution": "Choose one jack, one queen and one king: 4 × 4 × 4 = 64 ways. The number of possible hands of 3 cards is C(52,3) = 52 × 51 × 50 ÷ 6 = 22100. So the probability is 64/22100.",
+    "trick": "All three options sit over 22100, so only the top matters: 4 jacks × 4 queens × 4 kings = 64.",
+    "check": "agree",
+    "computed": "64/22100",
+    "accept": ["16/5525", "0.0029", "0.00290", "0.002896", "0.29%"],
+    "comment": ""
+  },
+  "26-qf1-qb-0771": {
+    "solution": "IQR = Q3 − Q1 = 60 − 40 = 20. The lower outlier threshold is Q1 − 4 × IQR = 40 − 4 × 20 = 40 − 80. So the threshold is −40.",
+    "trick": "Go down 4 IQRs from Q1: 4 × 20 = 80, and 40 − 80 = −40.",
+    "check": "agree",
+    "computed": "−40",
+    "accept": ["-40", "minus 40", "negative 40", "-40.0", "−40.0"],
+    "comment": ""
+  },
+  "26-qf1-qb-0777": {
+    "solution": "Five distinct vases in a row can be arranged in 5! ways. 5! = 5 × 4 × 3 × 2 × 1 = 120.",
+    "trick": "5 × 4 = 20, then 20 × 3 = 60, then 60 × 2 = 120.",
+    "check": "agree",
+    "computed": "120",
+    "accept": ["120 ways", "120 arrangements"],
+    "comment": ""
+  }
+}

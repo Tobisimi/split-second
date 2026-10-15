@@ -1,0 +1,242 @@
+{
+  "26-qf1-qb-0823": {
+    "solution": "For simple interest, I = P × R × T ÷ 100, so R = 100 × I ÷ (P × T). The interest is 12,500 − 10,000 = ₦2,500. So R = 100 × 2,500 ÷ (10,000 × 5) = 250,000 ÷ 50,000 = 5. The rate is 5% per year.",
+    "trick": "The gain is ₦2,500 over 5 years, which is ₦500 a year. ₦500 is 5% of ₦10,000.",
+    "check": "agree",
+    "computed": "5% per year",
+    "accept": ["5", "5%", "5 percent", "5 per cent", "0.05", "5% per year", "5% per annum", "5% p.a."],
+    "comment": ""
+  },
+  "26-qf1-qb-0833": {
+    "solution": "One cake needs 15 eggs, so 70 cakes need 15 × 70 = 1,050 eggs. The 80 cups of flour do not affect the egg count. So 1,050 eggs are required.",
+    "trick": "Ignore the flour. 15 × 7 = 105, so 15 × 70 = 1,050.",
+    "check": "agree",
+    "computed": "1,050 eggs",
+    "accept": ["1050", "1,050", "1050 eggs", "1,050 eggs"],
+    "comment": ""
+  },
+  "26-qf1-qb-0848": {
+    "solution": "East and north are at right angles, so the movement is the hypotenuse of a right triangle. Magnitude = √(3² + 4²) = √(9 + 16) = √25 = 5. So the magnitude is 5 units.",
+    "trick": "3 and 4 make the 3, 4, 5 right triangle, so the answer is 5.",
+    "check": "agree",
+    "computed": "5 units",
+    "accept": ["5", "5 units", "5units"],
+    "comment": ""
+  },
+  "26-qf1-qb-0851": {
+    "solution": "The cost of the first 10 items is the area under the MC curve from x = 0 to x = 10. So cost = ∫ (2x + 5) dx = [x² + 5x] from 0 to 10 = (100 + 50) − 0 = 150. No fixed cost is given, so the cost is 150.",
+    "trick": "MC climbs in a straight line from 5 at x = 0 to 25 at x = 10, so its average is (5 + 25) ÷ 2 = 15. Then 15 × 10 items = 150.",
+    "check": "agree",
+    "computed": "150",
+    "accept": ["150"],
+    "comment": ""
+  },
+  "26-qf1-qb-0856": {
+    "solution": "Differentiate term by term: f'(x) = 12x² − 4x + 1. At x = 1, f'(1) = 12 − 4 + 1 = 9. So the derivative at x = 1 is 9.",
+    "trick": "At x = 1 every power of x is 1, so f'(1) is each coefficient times its power: 4 × 3 − 2 × 2 + 1 × 1 = 12 − 4 + 1 = 9.",
+    "check": "agree",
+    "computed": "9",
+    "accept": ["9"],
+    "comment": ""
+  },
+  "26-qf1-qb-0865": {
+    "solution": "The trace of a matrix equals the sum of its eigenvalues. So trace = 3 + (−2) = 1. The trace is 1.",
+    "trick": "Add the eigenvalues: 3 − 2 = 1. Do not multiply them, because the product (−6) is the determinant.",
+    "check": "agree",
+    "computed": "1",
+    "accept": ["1"],
+    "comment": ""
+  },
+  "26-qf1-qb-0866": {
+    "solution": "Total beats = heart rate × time. 5/6 of an hour is 5/6 × 60 = 50 minutes, so beats = 200 × 50 = 10,000. The listed 9,996 comes from rounding 5/6 to 0.833, so it is only close. The exact answer is 10,000 beats.",
+    "trick": "5/6 of 60 minutes is 50 minutes. Then 200 × 50 = 10,000.",
+    "check": "agree",
+    "computed": "10,000 beats",
+    "accept": ["10000", "10,000", "10000 beats", "10,000 beats"],
+    "comment": ""
+  },
+  "26-qf1-qb-0893": {
+    "solution": "A ratio of 5:2 means 5 parts nurses to 2 parts doctors. 5 parts = 600, so 1 part = 600 ÷ 5 = 120. Doctors = 2 × 120 = 240. So there are 240 doctors.",
+    "trick": "600 ÷ 5 = 120 is one part. Double it to get 240.",
+    "check": "agree",
+    "computed": "240 doctors",
+    "accept": ["240", "240 doctors"],
+    "comment": ""
+  },
+  "26-qf1-qb-1019": {
+    "solution": "Marginal cost is the derivative of the cost function: C'(x) = 4 + 24x. At x = 20, C'(20) = 4 + 24 × 20 = 4 + 480 = 484. So the marginal cost is 484.",
+    "trick": "The 200 vanishes and 12x² becomes 24x. So 24 × 20 = 480, plus 4 is 484. Only one option is near 480.",
+    "check": "agree",
+    "computed": "484",
+    "accept": ["484"],
+    "comment": ""
+  },
+  "26-qf1-qb-1024": {
+    "solution": "Absolute error = |actual value − measured value| = |120 − 115| = 5. So the absolute error is 5.",
+    "trick": "It is just the gap between the two numbers, with no sign: 5.",
+    "check": "agree",
+    "computed": "5",
+    "accept": ["5"],
+    "comment": ""
+  },
+  "26-qf1-qb-1061": {
+    "solution": "With H = 1 and O = 16, H₂ is 2 g/mol and H₂O is 18 g/mol, so 10 g of H₂ is 10 ÷ 2 = 5 mol. The equation gives 1 mol of water for each mol of H₂ (with enough O₂), so 5 mol of water forms. Mass = 5 × 18 = 90 g.",
+    "trick": "Water is 9 times as heavy as the hydrogen in it, since 4 g of H₂ makes 36 g of water. So 10 × 9 = 90.",
+    "check": "agree",
+    "computed": "90 g",
+    "accept": ["90", "90g", "90 g", "90 grams"],
+    "comment": ""
+  },
+  "26-qf1-qb-1077": {
+    "solution": "Acceleration = change in speed ÷ time = (26.8 − 0) ÷ 6 = 4.4667. Rounded to 2 decimal places, that is 4.47 m/s².",
+    "trick": "26.8 is a bit under 30, and 30 ÷ 6 = 5. So the answer is a little under 5, and only 4.47 fits.",
+    "check": "agree",
+    "computed": "4.47 m/s²",
+    "accept": ["4.47", "4.47 m/s²", "4.47 m/s2", "4.47m/s²", "4.47m/s2", "4.47 m/s^2", "4.467", "4.4667"],
+    "comment": ""
+  },
+  "26-qf1-qb-1093": {
+    "solution": "For a transformer, Vs ÷ Vp = Ns ÷ Np. So Ns = Np × Vs ÷ Vp = 1,000 × 22 ÷ 220 = 100. So the secondary has 100 turns.",
+    "trick": "22 is one tenth of 220, so the turns fall to one tenth too: 1,000 ÷ 10 = 100.",
+    "check": "agree",
+    "computed": "100 turns",
+    "accept": ["100", "100 turns"],
+    "comment": ""
+  },
+  "26-qf1-qb-1098": {
+    "solution": "The q² term is negative, so the profit curve opens downward and peaks at q = −b ÷ (2a) = −100 ÷ (2 × (−2)) = −100 ÷ (−4) = 25. So the profit is greatest at 25 units.",
+    "trick": "Ignore the −200. The peak of −2q² + 100q is at q = 100 ÷ (2 × 2) = 25.",
+    "check": "agree",
+    "computed": "25 units",
+    "accept": ["25", "25 units"],
+    "comment": ""
+  },
+  "26-qf1-qb-1102": {
+    "solution": "The printer makes 24 ÷ 8 = 3 pages per minute. Time for 60 pages = 60 ÷ 3 = 20 minutes. So it takes 20 minutes.",
+    "trick": "24 pages in 8 minutes is 3 pages a minute. 60 ÷ 3 = 20.",
+    "check": "agree",
+    "computed": "20 minutes",
+    "accept": ["20", "20 minutes", "20 min", "20 mins"],
+    "comment": ""
+  },
+  "26-qf1-qb-1108": {
+    "solution": "Volume = length × width × height, so height = 360 ÷ (12 × 5) = 360 ÷ 60 = 6. So the box is 6 cm tall.",
+    "trick": "12 × 5 = 60, and 360 ÷ 60 = 6.",
+    "check": "agree",
+    "computed": "6 cm",
+    "accept": ["6", "6cm", "6 cm"],
+    "comment": ""
+  },
+  "26-qf1-qb-1115": {
+    "solution": "There are 60 seconds in a minute, so divide the beats per minute by 60. Beats per second = 660 ÷ 60 = 11. So his heart rate is 11 beats per second.",
+    "trick": "Drop a zero from top and bottom: 660 ÷ 60 = 66 ÷ 6 = 11.",
+    "check": "agree",
+    "computed": "11 bps",
+    "accept": ["11", "11 bps", "11bps", "11 beats per second", "11 beats/s"],
+    "comment": ""
+  },
+  "26-qf1-qb-1133": {
+    "solution": "A 1:15 scale means the real wingspan is 15 times the model's. So actual = 30 × 15 = 450 cm, which is 4.5 m since 100 cm = 1 m. The actual wingspan is 450 cm, or 4.5 m.",
+    "trick": "30 × 15 is 30 × 10 plus 30 × 5, which is 300 + 150 = 450 cm. Move the decimal point two places for 4.5 m.",
+    "check": "agree",
+    "computed": "450 cm (4.5 m)",
+    "accept": ["450", "450cm", "450 cm", "4.5", "4.5m", "4.5 m", "4.5 metres", "4.5 meters"],
+    "comment": ""
+  },
+  "26-qf1-qb-1217": {
+    "solution": "A 1% solution by mass has 1 g of phenol in every 100 g of solution. So phenol = 1% of 640 g = 0.01 × 640 = 6.4 g. So 6.4 g of phenol is needed.",
+    "trick": "1% means divide by 100: 640 ÷ 100 = 6.4.",
+    "check": "agree",
+    "computed": "6.4 g",
+    "accept": ["6.4", "6.4g", "6.4 g", "6.4 grams"],
+    "comment": ""
+  },
+  "26-qf1-qb-1221": {
+    "solution": "Add the components: (8 + 4, −2 + 7) = (12, 5). Magnitude = √(12² + 5²) = √(144 + 25) = √169 = 13. So the resultant has magnitude 13.",
+    "trick": "The sum is (12, 5), which is the 5, 12, 13 right triangle. So the answer is 13.",
+    "check": "agree",
+    "computed": "13",
+    "accept": ["13"],
+    "comment": ""
+  },
+  "26-qf1-qb-1227": {
+    "solution": "Doubling means 1.03ⁿ = 2, so n = ln 2 ÷ ln 1.03 = 0.6931 ÷ 0.02956 ≈ 23.4 years. The closest option is 23 years.",
+    "trick": "Rule of 70: 70 ÷ 3 ≈ 23. The rule of 72 gives 24, but 23 is still the closest option.",
+    "check": "agree",
+    "computed": "about 23.4 years, so 23 years",
+    "accept": ["23", "23 years", "23.4", "23.4 years", "23.45", "23.45 years"],
+    "comment": ""
+  },
+  "26-qf1-qb-1235": {
+    "solution": "A 1:5 scale applies to lengths, so volumes scale by 5³ = 125. The engine's displacement = 8 × 125 = 1,000 cm³. Since 1,000 cm³ = 1 litre, the displacement is 1 litre.",
+    "trick": "Cube the scale: 5³ = 125. Then 8 × 125 = 1,000 cm³, which is 1 litre.",
+    "check": "agree",
+    "computed": "1,000 cm³ (1 litre)",
+    "accept": ["1000", "1,000", "1000cm³", "1000 cm³", "1,000 cm³", "1000cm3", "1000 cm3", "1,000 cm3", "1 litre", "1 liter", "1 L", "1L", "1 l", "1l"],
+    "comment": ""
+  },
+  "26-qf1-qb-1241": {
+    "solution": "The ratio sugar : flour = 2 : 3, so flour = sugar × 3 ÷ 2. That is 5 × 3 ÷ 2 = 15 ÷ 2 = 7.5. So 7.5 cups of flour are needed.",
+    "trick": "2 parts are 5 cups, so 1 part is 2.5. Three parts are 7.5.",
+    "check": "agree",
+    "computed": "7.5 cups",
+    "accept": ["7.5", "7.5 cups", "7.5cups", "15/2", "7 1/2", "7½"],
+    "comment": ""
+  },
+  "26-qf1-qb-1264": {
+    "solution": "Acceleration = change in speed ÷ time = (15 − 5) ÷ 10 = 10 ÷ 10 = 1. The acceleration is 1 m/s².",
+    "trick": "Speed gains 10 m/s in 10 s, so that is 1 m/s every second.",
+    "check": "agree",
+    "computed": "1 m/s²",
+    "accept": ["1", "1 m/s²", "1 m/s2", "1m/s²", "1m/s2", "1 m/s^2", "1.0"],
+    "comment": ""
+  },
+  "26-qf1-qb-1270": {
+    "solution": "Error = |25.0 − 24.1| = 0.9 m. Percentage error = error ÷ actual value × 100 = 0.9 ÷ 25.0 × 100 = 3.6%. So the percentage error is 3.6%.",
+    "trick": "Dividing by 25 and then multiplying by 100 is the same as multiplying by 4. So 0.9 × 4 = 3.6.",
+    "check": "agree",
+    "computed": "3.6%",
+    "accept": ["3.6", "3.6%", "3.6 percent", "3.6 per cent"],
+    "comment": ""
+  },
+  "26-qf1-qb-1279": {
+    "solution": "One doubling takes 3 hours, so 15 hours gives 15 ÷ 3 = 5 doublings, which is a growth factor of 2⁵ = 32. Initial population = 10,000 ÷ 32 = 312.5. The initial population was 312.5 cells.",
+    "trick": "Undo the 5 doublings by halving 10,000 five times: 5,000, 2,500, 1,250, 625, 312.5.",
+    "check": "agree",
+    "computed": "312.5 cells",
+    "accept": ["312.5", "312.5 cells", "312.50", "625/2"],
+    "comment": ""
+  },
+  "26-qf1-qb-1290": {
+    "solution": "The graph of h is a downward parabola, so the maximum is at t = −b ÷ (2a) = −25 ÷ (2 × (−5)) = −25 ÷ (−10) = 2.5. So the ball is highest at 2.5 seconds.",
+    "trick": "Factor: h = 5t(5 − t). It is zero at t = 0 and t = 5, so the peak is halfway, at t = 2.5.",
+    "check": "agree",
+    "computed": "2.5 seconds",
+    "accept": ["2.5", "2.5 seconds", "2.5 s", "2.5s", "2.5 sec", "2.5 secs", "5/2", "2 1/2", "2½"],
+    "comment": ""
+  },
+  "26-qf1-qb-1294": {
+    "solution": "Pressure = force ÷ area = 300 N ÷ 0.5 m² = 600 N/m². So the pressure is 600 Pa.",
+    "trick": "Dividing by 0.5 is the same as doubling: 300 × 2 = 600.",
+    "check": "agree",
+    "computed": "600 Pa",
+    "accept": ["600", "600Pa", "600 Pa", "600 pascals", "600 N/m²", "600 N/m2"],
+    "comment": ""
+  },
+  "26-qf1-qb-1298": {
+    "solution": "The graph is a downward parabola, so the maximum is at x = −b ÷ (2a) = −16 ÷ (−4) = 4. Then f(4) = −2(16) + 16(4) + 20 = −32 + 64 + 20 = 52. So the maximum profit is 52.",
+    "trick": "The peak is at x = 16 ÷ 4 = 4. Then f(4) = −32 + 64 + 20 = 52.",
+    "check": "agree",
+    "computed": "52",
+    "accept": ["52"],
+    "comment": ""
+  },
+  "26-qf1-qb-1336": {
+    "solution": "Add the components: (10 + (−6), 1 + 2) = (4, 3). Magnitude = √(4² + 3²) = √(16 + 9) = √25 = 5. So the magnitude is 5.",
+    "trick": "The sum is (4, 3), which is the 3, 4, 5 right triangle. So the answer is 5.",
+    "check": "agree",
+    "computed": "5",
+    "accept": ["5"],
+    "comment": ""
+  }
+}

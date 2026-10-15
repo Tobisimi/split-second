@@ -1,0 +1,90 @@
+{
+  "26-qf1-bm-1758": {
+    "solution": "Put I in the first place and in the last place. The 9 letters left are I, I, M, P, P, S, S, S, S, so the number of arrangements is 9! ÷ (2! × 4! × 2!) = 362,880 ÷ 96 = 3,780.",
+    "trick": "Cancel 4! from 9! to leave 9 × 8 × 7 × 6 × 5, then divide by 2 × 2. Do 9 × 8 ÷ 4 = 18 first, then 18 × 7 × 6 × 5 = 18 × 210 = 3,780.",
+    "check": "agree",
+    "computed": "3,780",
+    "accept": ["3780", "3780 ways", "3,780 ways"],
+    "comment": ""
+  },
+  "26-qf3-qb-1461": {
+    "solution": "In a stem-and-leaf plot each number is its stem followed by its leaf. With no key given, the stem is the tens digit and the leaf is the units digit. So stem 5 with leaves 1, 3 and 8 gives 51, 53 and 58.",
+    "trick": "Write the stem 5 in front of each leaf: 51, 53, 58.",
+    "check": "agree",
+    "computed": "51, 53, 58",
+    "accept": ["51,53,58", "51 53 58", "51, 53 and 58", "51, 53, and 58"],
+    "comment": ""
+  },
+  "26-qf3-qb-1471": {
+    "solution": "The IQR is Q3 − Q1 = 80 − 40 = 40. Mild outliers start 1.5 × IQR above Q3 (extreme ones start 3 × IQR above, at 200). So the upper threshold is 80 + 1.5 × 40 = 80 + 60 = 140.",
+    "trick": "The IQR is 40, and 1.5 × 40 is 60 (40 plus half of 40). Then 80 + 60 = 140.",
+    "check": "agree",
+    "computed": "140",
+    "accept": [],
+    "comment": ""
+  },
+  "26-qf3-qb-1476": {
+    "solution": "Two dice have 6 × 6 = 36 equally likely outcomes. The sum 8 comes from (2,6), (3,5), (4,4), (5,3) and (6,2), which is 5 outcomes. So the probability is 5/36.",
+    "trick": "Sum 7 has the most ways, 6, and each step away from 7 loses one way. So 8 has 5 ways out of 36, which is 5/36.",
+    "check": "agree",
+    "computed": "5/36",
+    "accept": ["0.139", "0.1389", "13.9%", "13.89%", "5 out of 36", "5 in 36"],
+    "comment": ""
+  },
+  "26-qf3-qb-1667": {
+    "solution": "Take a 5-bit number as five bit places, where leading zeros are allowed. Choose which 3 of the 5 places hold the 0s, and the other 2 places must be 1s. So the count is 5C3 = 5! ÷ (3! × 2!) = 120 ÷ 12 = 10.",
+    "trick": "Choosing the 3 places for the zeros is the same as choosing the 2 places for the ones. So 5C2 = 5 × 4 ÷ 2 = 10.",
+    "check": "unclear",
+    "computed": "10 (leading zeros allowed)",
+    "accept": ["10", "ten", "10 numbers"],
+    "comment": "The question does not say whether a 5-bit number may start with 0. Allowing leading zeros gives 5C3 = 10, which is the show's answer; if the first bit must be 1, only 4C3 = 4 numbers fit (17, 18, 20 and 24)."
+  },
+  "26-qf3-qb-1694": {
+    "solution": "Relative frequency = frequency ÷ total number of observations = 15 ÷ 150 = 0.1. As a percentage that is 0.1 × 100 = 10%.",
+    "trick": "15 is 150 with the last zero dropped, so the bin holds one tenth of the data, which is 10%.",
+    "check": "agree",
+    "computed": "10%",
+    "accept": ["10", "0.1", "0.10", "1/10", "10 percent"],
+    "comment": ""
+  },
+  "26-qf3-qb-1808": {
+    "solution": "Use the complement. The chance of no six in one roll is 5/6, so no six in three rolls is (5/6)³ = 125/216. Then at least one six is 1 − 125/216 = 91/216.",
+    "trick": "Three dice give 216 outcomes, and 5 × 5 × 5 = 125 of them have no six. So 216 − 125 = 91, giving 91/216, which is also the only option over 216.",
+    "check": "agree",
+    "computed": "91/216",
+    "accept": ["0.4213", "0.421", "42.1%", "42.13%"],
+    "comment": ""
+  },
+  "26-qf3-qb-1914": {
+    "solution": "Gold and bronze are different places, so order matters, and silver is not part of the question. Gold can go to any of the 15 participants, then bronze to any of the other 14. So there are 15 × 14 = 210 outcomes.",
+    "trick": "Double the 15 and halve the 14: 30 × 7 = 210.",
+    "check": "agree",
+    "computed": "210",
+    "accept": ["210 ways", "210 outcomes"],
+    "comment": ""
+  },
+  "26-qf3-qb-1919": {
+    "solution": "The total is the sum of the three bars: ₦50,000 + ₦30,000 + ₦20,000 = ₦100,000.",
+    "trick": "Pair 30 and 20 to make 50, then 50 + 50 = 100, so ₦100,000.",
+    "check": "agree",
+    "computed": "₦100,000",
+    "accept": ["100000", "100,000", "₦100000", "N100,000", "N100000", "100k", "₦100k"],
+    "comment": ""
+  },
+  "26-qf3-qb-1985": {
+    "solution": "The total of the four ages is mean × number of siblings = 22 × 4 = 88. The three known ages add up to 20 + 24 + 25 = 69. So the fourth is 88 − 69 = 19 years.",
+    "trick": "Measure each age from 22: 20 is −2, 24 is +2 and 25 is +3, a net +3. The fourth must cancel that with −3, so 22 − 3 = 19.",
+    "check": "agree",
+    "computed": "19 years",
+    "accept": ["19", "19 years old", "19 yrs"],
+    "comment": ""
+  },
+  "26-qf3-qb-2014": {
+    "solution": "Each of the 2 letter places has 26 choices and each of the 3 digit places has 10 choices, and letters and digits can repeat. So the number of plates is 26 × 26 × 10 × 10 × 10 = 676 × 1,000 = 676,000.",
+    "trick": "26 × 26 = 676 (26 × 25 = 650, plus 26). The three digit places just add three zeros, so 676,000.",
+    "check": "agree",
+    "computed": "676,000",
+    "accept": ["676000", "676,000 plates", "676000 plates"],
+    "comment": ""
+  }
+}

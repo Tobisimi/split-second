@@ -1,38 +1,35 @@
-"""Write AM/DA questions that still need a solution into batch files for the solution writers.
-Usage: python3 solution_batches.py <batch_size> master/*.json
-Skips ids already present in solutions/out/*.json. Writes solutions/in/<name>.json and prints the names."""
+"""Write the Applied Maths and Data Analysis questions that still need a solution into batch files for the solution
+writers. Run `npm run bank` first: the built bank (src/data/questions.json) holds one copy of each question, and a copy
+there without a solution is what still needs one (a solution written for any twin is already borrowed by the build).
+Usage: python3 pipeline/solution_batches.py <batch_size> [AM|DA ...]
+Writes /home/claude/ud/solutions/in/bNNN.json (one subject per batch) and prints the batch names and sizes."""
 import glob, json, os, sys
 
-ROOT = '/home/claude/ud'
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+OUT = '/home/claude/ud/solutions/in'
 
-def main(size, files):
-    done = set()
-    for p in glob.glob('/home/claude/split-second/bank/solutions/*.json'):
-        done |= set(json.load(open(p)))
-    import re
-    norm = lambda t: re.sub(r'[^a-z0-9]', '', (t or '').lower())
-    dkey = lambda q: norm(q['q'])[:160] + '|' + '|'.join(sorted(norm(o) for o in (q.get('options') or [])))
-    solved = set()
-    for f in glob.glob('/home/claude/split-second/bank/master/*.json'):
-        for q in json.load(open(f))['questions']:
-            if q['id'] in done: solved.add(dkey(q))
-    todo, queued = [], set()
-    for f in files:
-        m = json.load(open(f))
-        for q in m['questions']:
-            if q['subject'] in ('AM', 'DA') and q['id'] not in done and dkey(q) not in solved and dkey(q) not in queued:
-                queued.add(dkey(q))
-                item = {'id': q['id'], 'subject': q['subject'], 'topic': q['topic'], 'question': q['q'],
-                        'options': q['options'], 'answer': q['answer'],
-                        'answer_source': 'shown on the show' if q['tag'] == 'confirmed' else 'worked out, not confirmed'}
-                if q.get('note'): item['note'] = q['note']
-                todo.append(item)
+def main(size, subjects):
+    bank = json.load(open(os.path.join(ROOT, 'src/data/questions.json')))
+    master = {}
+    for p in glob.glob(os.path.join(ROOT, 'bank/master/*.json')):
+        for q in json.load(open(p))['questions']: master[q['id']] = q
     names = []
-    for i in range(0, len(todo), size):
-        name = f"b{len(glob.glob(f'{ROOT}/solutions/in/b*.json')) + 1:03d}"
-        json.dump(todo[i:i + size], open(f'{ROOT}/solutions/in/{name}.json', 'w'), indent=1, ensure_ascii=False)
-        names.append((name, len(todo[i:i + size])))
+    for subj in subjects:
+        todo = []
+        for b in bank:
+            if b['subject'] != subj or b.get('solution'): continue
+            q = master[b['id']]
+            item = {'id': q['id'], 'subject': q['subject'], 'topic': q.get('topic', ''), 'question': q['q'],
+                    'options': q.get('options'), 'answer': q['answer'],
+                    'answer_source': 'shown on the show' if q['tag'] == 'confirmed' else 'worked out, not confirmed'}
+            if q.get('showKey') and q['tag'] == 'disputed': item['show_answer'] = q['showKey']
+            if q.get('note'): item['note'] = q['note']
+            todo.append(item)
+        for i in range(0, len(todo), size):
+            name = f"b{len(glob.glob(f'{OUT}/b*.json')) + 1:03d}"
+            json.dump(todo[i:i + size], open(f'{OUT}/{name}.json', 'w'), indent=1, ensure_ascii=False)
+            names.append((name, subj, len(todo[i:i + size])))
     print(names)
 
 if __name__ == '__main__':
-    main(int(sys.argv[1]), sys.argv[2:])
+    main(int(sys.argv[1]), sys.argv[2:] or ['AM', 'DA'])

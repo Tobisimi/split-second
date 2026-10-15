@@ -1,0 +1,426 @@
+{
+ "26-md12a-qb-0491": {
+  "solution": "Percentile rank is the percentage of scores that lie below a given score. Here 60% of the students scored below 75, so a score of 75 has a percentile rank of 60. The answer is 60, the 60th percentile.",
+  "trick": "The question already says 60% scored below 75, and that percentage is the percentile rank. So just say 60.",
+  "check": "agree",
+  "computed": "60",
+  "accept": [
+   "60",
+   "60%",
+   "60th",
+   "60th percentile",
+   "60 percentile"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-0525": {
+  "solution": "The listed sectors add up to 10% + 20% + 20% = 50%, so the remaining sectors are 100% − 50% = 50% of the chart. A full circle is 360°, so the angle is 50% × 360° = 180°. The answer is 180°.",
+  "trick": "The three shares make 50%, which is half the pie. Half of 360° is 180°.",
+  "check": "agree",
+  "computed": "180°",
+  "accept": [
+   "180",
+   "180°",
+   "180 degrees"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-0531": {
+  "solution": "z = (x − mean) ÷ σ = (17 − 15) ÷ 2 = 2 ÷ 2 = 1. The answer is 1.",
+  "trick": "17 is 2 above the mean of 15, and the SD is 2. One SD above the mean means z = 1.",
+  "check": "agree",
+  "computed": "1",
+  "accept": [
+   "1",
+   "1.0",
+   "+1",
+   "z = 1",
+   "z=1"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-0535": {
+  "solution": "X's profit is 150% of Y's, so X = 1.5 × ₦200,000 = ₦300,000. The answer is ₦300,000.",
+  "trick": "150% means the whole plus half. Half of 200,000 is 100,000, so 200,000 + 100,000 = 300,000.",
+  "check": "agree",
+  "computed": "₦300,000",
+  "accept": [
+   "300000",
+   "300,000",
+   "₦300,000",
+   "₦300000",
+   "N300,000",
+   "N300000",
+   "300000 naira",
+   "300,000 naira",
+   "300k",
+   "₦300k"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-0570": {
+  "solution": "The mean is 50 and the SD is 5, so 45 and 55 are exactly one SD below and above the mean. In a normal distribution about 68% of values lie within one SD of the mean. The answer is 68%.",
+  "trick": "45 to 55 is the mean ± 1 SD. Use the 68, 95, 99.7 rule, so the answer is 68%.",
+  "check": "agree",
+  "computed": "68%",
+  "accept": [
+   "68%",
+   "68",
+   "68 percent",
+   "68.27%",
+   "68.3%"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-0603": {
+  "solution": "There are 4 + 5 + 3 = 12 balls. P(first red) = 4/12, and P(second red) = 3/11 because one red ball has gone. So P(both red) = 4/12 × 3/11 = 12/132 = 1/11. The answer is 1/11.",
+  "trick": "Multiply the tops and the bottoms: (4 × 3) ÷ (12 × 11). The 4 × 3 = 12 cancels the 12 on the bottom, leaving 1/11.",
+  "check": "agree",
+  "computed": "1/11",
+  "accept": [
+   "1/11",
+   "0.0909",
+   "0.091",
+   "9.09%",
+   "9.1%"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-0683": {
+  "solution": "The lower fence is Q1 − 1.5 × IQR. IQR = 45 − 15 = 30, so the fence is 15 − 1.5 × 30 = 15 − 45 = −30. The show's 30 has lost its minus sign. The answer is −30.",
+  "trick": "IQR is 30 and 1.5 × 30 = 45. Then 15 − 45 = −30, so keep the minus sign.",
+  "check": "agree",
+  "computed": "−30",
+  "accept": [
+   "-30",
+   "−30",
+   "minus 30",
+   "negative 30",
+   "-30.0",
+   "−30.0"
+  ],
+  "comment": "Agrees with the corrected answer, −30. None of the three options (15, 60, 30) is right, so the options need fixing. The show's 30 has lost its minus sign."
+ },
+ "26-md12a-qb-0698": {
+  "solution": "Here r = 0.78, so the correlation is positive and fairly strong, and read as a percentage it is 78%. Strictly, the share of the variation in scores explained by study hours is r² = 0.78² ≈ 0.61, or 61%. The question asks for the percentage of correlation, so the answer is 78%.",
+  "trick": "Just turn 0.78 into 78%. Square r only when the question says variation explained.",
+  "check": "unclear",
+  "computed": "78% as correlation strength; r² ≈ 61% as variation explained",
+  "accept": [
+   "78",
+   "78%",
+   "0.78",
+   "78 percent"
+  ],
+  "comment": "The wording 'percentage of correlation' is loose. Read as the strength of the correlation, r = 0.78 gives 78%, which is the show's answer. Read as the share of variation in scores explained by study hours, it is r² ≈ 61%."
+ },
+ "26-md12a-qb-0780": {
+  "solution": "Relative frequency = frequency ÷ total observations = 15 ÷ 150 = 0.1. As a percentage that is 10%. The answer is 10%.",
+  "trick": "15 out of 150 is 1 out of 10, which is 10%.",
+  "check": "agree",
+  "computed": "10%",
+  "accept": [
+   "10%",
+   "10",
+   "0.1",
+   "0.10",
+   "1/10",
+   "10 percent"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-0788": {
+  "solution": "Five different trophies in a row can be arranged in 5! ways. 5! = 5 × 4 × 3 × 2 × 1 = 120. The answer is 120.",
+  "trick": "Know that 4! = 24, so 5! = 5 × 24 = 120.",
+  "check": "agree",
+  "computed": "120",
+  "accept": [
+   "120",
+   "120 ways"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-0826": {
+  "solution": "People who like Tea or Coffee: 40% + 30% − 10% = 60%, because the 10% who like both were counted twice. Those who like neither are 100% − 60% = 40%. The answer is 40%.",
+  "trick": "40 + 30 = 70, minus the 10 counted twice gives 60. Then 100 − 60 = 40.",
+  "check": "agree",
+  "computed": "40%",
+  "accept": [
+   "40%",
+   "40",
+   "40 percent"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-0854": {
+  "solution": "A perfect straight line means the correlation coefficient has size 1. A downward line means the relationship is negative, so r = −1. The answer is −1.",
+  "trick": "Perfect means 1 in size and downward means negative, so −1.",
+  "check": "agree",
+  "computed": "−1",
+  "accept": [
+   "-1",
+   "−1",
+   "minus 1",
+   "negative 1",
+   "r = -1",
+   "r = −1",
+   "r=-1",
+   "-1.0",
+   "−1.0"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-0940": {
+  "solution": "Put x = 10 into y = 1.2x + 5. That gives y = 1.2 × 10 + 5 = 12 + 5 = 17. The answer is 17.",
+  "trick": "1.2 × 10 is 12 (just move the decimal point), and 12 + 5 = 17.",
+  "check": "agree",
+  "computed": "17",
+  "accept": [
+   "17",
+   "17.0",
+   "y = 17",
+   "y=17"
+  ],
+  "comment": ""
+ },
+ "26-md12a-qb-1007": {
+  "solution": "Here the mean (100) is above the median (95), which is above the mode (90). The mean is pulled towards the long tail, so the tail is on the high side. That is a right (positive) skew. The answer is right skewed.",
+  "trick": "The mean is the biggest of the three, so the tail points up the number line to the right. Right skewed.",
+  "check": "agree",
+  "computed": "Right-skewed",
+  "accept": [
+   "Right-skewed",
+   "right skewed",
+   "right skew",
+   "skewed right",
+   "skewed to the right",
+   "right",
+   "positive skew",
+   "positively skewed",
+   "positive"
+  ],
+  "comment": ""
+ },
+ "26-md12a-bm-1534": {
+  "solution": "It is easier to use the complement. P(no heads) = P(all four tails) = (1/2)⁴ = 1/16. So P(at least one head) = 1 − 1/16 = 15/16. The answer is 15/16.",
+  "trick": "The only way to get no heads is all tails, which is 1 out of 16 outcomes. So the answer is 15 out of 16.",
+  "check": "agree",
+  "computed": "15/16",
+  "accept": [
+   "15/16",
+   "0.9375",
+   "93.75%"
+  ],
+  "comment": ""
+ },
+ "26-md12a-bm-1541": {
+  "solution": "The first marble was red and is not put back, so 3 red and 6 blue marbles remain, 9 in all. P(next is blue) = 6/9 = 2/3. The answer is 6/9, which equals 2/3.",
+  "trick": "Removing a red leaves the 6 blue untouched but cuts the total to 9. So it is 6/9 straight away.",
+  "check": "agree",
+  "computed": "6/9 (= 2/3)",
+  "accept": [
+   "6/9",
+   "2/3",
+   "0.667",
+   "0.6667",
+   "0.67",
+   "66.7%",
+   "66.67%",
+   "67%"
+  ],
+  "comment": ""
+ },
+ "26-md12a-bm-1560": {
+  "solution": "One common rule puts the P-th percentile at position P/100 × (n + 1). Here that is 70/100 × (10 + 1) = 0.7 × 11 = 7.7. So the 70th percentile sits 0.7 of the way from the 7th value to the 8th value. The answer is the 7.7th value.",
+  "trick": "Multiply 0.7 by 11, not 10. 0.7 × 11 = 7.7.",
+  "check": "unclear",
+  "computed": "7.7th value using the (n + 1) rule; 7th value by nearest rank",
+  "accept": [
+   "7.7th value",
+   "7.7th",
+   "7.7",
+   "the 7.7th value",
+   "7.7th position"
+  ],
+  "comment": "The position depends on the percentile rule, and the question names none. The (n + 1) rule gives 0.7 × 11 = 7.7, which is the show's answer, but the nearest rank rule gives 0.7 × 10 = 7, the 7th value, and that is also an option."
+ },
+ "26-md12a-bm-1564": {
+  "solution": "A sector's central angle is its share of 360°. For 55%, the angle is 55% × 360° = 0.55 × 360° = 198°. The answer is 198°.",
+  "trick": "10% of 360° is 36°, so 50% is 180° and 5% is 18°. Then 180° + 18° = 198°.",
+  "check": "agree",
+  "computed": "198°",
+  "accept": [
+   "198",
+   "198°",
+   "198 degrees"
+  ],
+  "comment": ""
+ },
+ "26-md12a-bm-1574": {
+  "solution": "Simple interest = P × R × T ÷ 100 = 2,000 × 5 × 3 ÷ 100 = 30,000 ÷ 100 = ₦300. The answer is ₦300.",
+  "trick": "5% of ₦2,000 is ₦100 for one year. Three years is ₦300.",
+  "check": "agree",
+  "computed": "₦300",
+  "accept": [
+   "300",
+   "₦300",
+   "N300",
+   "300 naira",
+   "₦300.00",
+   "300.00"
+  ],
+  "comment": ""
+ },
+ "26-md12a-bm-1579": {
+  "solution": "The deviations from the mean are −3, −1, 1, 3 for both X (mean 5) and Y (mean 4). Population covariance = Σ(dx × dy) ÷ n = (9 + 1 + 1 + 9) ÷ 4 = 20 ÷ 4 = 5. The answer is 5.",
+  "trick": "Y is just X − 1, so the covariance equals the variance of X. The deviations of X from its mean 5 are −3, −1, 1, 3, so the variance is (9 + 1 + 1 + 9) ÷ 4 = 5.",
+  "check": "agree",
+  "computed": "5",
+  "accept": [
+   "5",
+   "5.0"
+  ],
+  "comment": ""
+ },
+ "26-md12a-bm-1586": {
+  "solution": "When the bars have unequal widths (a histogram with unequal class widths), a wide bar looks bigger even if it holds few values. So divide each frequency by its class width to get the frequency density, and plot that. Then the area of each bar stands for its frequency. The answer is use frequency density.",
+  "trick": "Unequal widths means height alone misleads, so divide by the width. Frequency ÷ width is frequency density.",
+  "check": "agree",
+  "computed": "Use frequency density",
+  "accept": [
+   "Use frequency density",
+   "use frequency density",
+   "frequency density"
+  ],
+  "comment": ""
+ },
+ "26-md12b-qb-2196": {
+  "solution": "Upper fence = Q3 + 1.5 × IQR. IQR = 30 − 10 = 20, so the fence is 30 + 1.5 × 20 = 30 + 30 = 60. The answer is 60.",
+  "trick": "IQR is 20 and 1.5 × 20 = 30. Add that to Q3: 30 + 30 = 60.",
+  "check": "agree",
+  "computed": "60",
+  "accept": [
+   "60",
+   "60.0"
+  ],
+  "comment": ""
+ },
+ "26-md12b-qb-2209": {
+  "solution": "Each of the 4 places can hold any of the 10 digits from 0 to 9, and digits can repeat in a PIN. So the number of PINs is 10 × 10 × 10 × 10 = 10⁴ = 10,000. The answer is 10,000.",
+  "trick": "Four places with 10 choices each: write 1 followed by four zeros, 10,000.",
+  "check": "agree",
+  "computed": "10,000",
+  "accept": [
+   "10000",
+   "10,000",
+   "10 000",
+   "10⁴",
+   "10^4",
+   "10,000 PINs",
+   "10000 PINs",
+   "10,000 ways",
+   "10000 ways"
+  ],
+  "comment": ""
+ },
+ "26-md12b-qb-2276": {
+  "solution": "For independent events, P(A and B) = P(A) × P(B) = 0.25 × 0.5 = 0.125. The answer is 0.125.",
+  "trick": "0.5 is a half, so just halve 0.25 to get 0.125.",
+  "check": "agree",
+  "computed": "0.125",
+  "accept": [
+   "0.125",
+   ".125",
+   "1/8",
+   "12.5%",
+   "0.1250"
+  ],
+  "comment": ""
+ },
+ "26-md12b-qb-2371": {
+  "solution": "Coefficient of variation = SD ÷ mean = 225 ÷ 150 = 1.5. As a percentage that is 1.5 × 100 = 150%. The answer is 1.5 or 150%.",
+  "trick": "225 is 150 plus half of 150, so the ratio is 1.5. That is 150%.",
+  "check": "agree",
+  "computed": "1.5 (150%)",
+  "accept": [
+   "1.5",
+   "150%",
+   "150",
+   "1.50",
+   "150 percent",
+   "3/2"
+  ],
+  "comment": ""
+ },
+ "26-md12b-qb-2402": {
+  "solution": "For a uniform distribution from 10 to 30, P(X < 15) = (15 − 10) ÷ (30 − 10) = 5 ÷ 20 = 1/4. The answer is 1/4.",
+  "trick": "The full range is 20 wide, and the part below 15 is 5 wide. So 5 out of 20 is 1/4.",
+  "check": "agree",
+  "computed": "1/4",
+  "accept": [
+   "1/4",
+   "0.25",
+   ".25",
+   "25%",
+   "25 percent"
+  ],
+  "comment": ""
+ },
+ "26-md12b-qb-2603": {
+  "solution": "Gold, silver and bronze are different places, so order matters. There are 10 choices for gold, then 9 for silver, then 8 for bronze: 10 × 9 × 8 = 720. The answer is 720.",
+  "trick": "Multiply three descending numbers from 10: 10 × 9 = 90, then 90 × 8 = 720.",
+  "check": "agree",
+  "computed": "720",
+  "accept": [
+   "720",
+   "720 ways"
+  ],
+  "comment": ""
+ },
+ "26-md12b-bm-2924": {
+  "solution": "The mean is pulled towards the tail of a distribution, so a mean below the median points to a long tail on the left. That is negative skew. The answer is negative skew.",
+  "trick": "Mean below median means the tail is dragged to the left, so negative skew. Mean above median would be positive.",
+  "check": "agree",
+  "computed": "Negative skew",
+  "accept": [
+   "Negative skew",
+   "negative",
+   "negatively skewed",
+   "negative skewness",
+   "left skewed",
+   "left-skewed",
+   "left skew",
+   "skewed left",
+   "skewed to the left"
+  ],
+  "comment": ""
+ },
+ "26-md12b-bm-2931": {
+  "solution": "Choose which 4 of the 10 places hold an A: C(10, 4) = 210 ways. Each of the other 6 places is B or C, so there are 2⁶ = 64 ways. Multiply: 210 × 64 = 13,440. The answer is 13,440.",
+  "trick": "All strings number 3¹⁰ = 59,049, and ours are only some of them, so the count must be below 59,049. That rules out 153,090 and 59,049, leaving 13,440.",
+  "check": "agree",
+  "computed": "13,440",
+  "accept": [
+   "13440",
+   "13,440",
+   "13 440",
+   "13,440 strings",
+   "13440 strings"
+  ],
+  "comment": ""
+ },
+ "26-md12b-bm-2938": {
+  "solution": "z = (X − mean) ÷ SD = (115 − 100) ÷ 15 = 15 ÷ 15 = 1. The answer is 1.",
+  "trick": "115 is exactly 15 above the mean, and the SD is 15. That is one SD up, so z = 1.",
+  "check": "agree",
+  "computed": "1",
+  "accept": [
+   "1",
+   "1.0",
+   "+1",
+   "z = 1",
+   "z=1"
+  ],
+  "comment": ""
+ }
+}
