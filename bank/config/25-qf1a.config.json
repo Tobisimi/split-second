@@ -1,0 +1,38 @@
+{
+ "season": "25",
+ "video": "r6ullYv8bwk",
+ "stage": "qf",
+ "bm_max_step": 40,
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/25-qf1.json",
+   "bank/review/25-qf1.json"
+  ]
+ ],
+ "code": "qf1a",
+ "match": "YABATECH v Veritas, 2025",
+ "window": [
+  0,
+  1700
+ ],
+ "qb_top": "YABATECH",
+ "qb_bottom": "VERITAS",
+ "bm_top": "YABATECH",
+ "bm_bottom": "VERITAS",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "DA",
+  "3": "GK",
+  "4": "VR"
+ },
+ "quarter_starts": {
+  "BM": [
+   1110,
+   1230,
+   1355,
+   1425
+  ]
+ },
+ "out": "bank/master/25-qf1a.json"
+}

@@ -1,0 +1,1135 @@
+{
+"25qf1-001": {
+"skip": true
+},
+"25qf1-002": {
+"skip": true
+},
+"25qf1-003": {
+"skip": true
+},
+"25qf1-004": {
+"skip": true
+},
+"25qf1-005": {
+"skip": true
+},
+"25qf1-006": {
+"skip": true
+},
+"25qf1-007": {
+"tp": "Pharmacy calculations",
+"k": "400 mL",
+"a": "625 mL",
+"t": "d",
+"n": "The show's bar read 400 mL (50 × 8); an 8% w/v solution has 8 g in 100 mL, so 50 g makes 50 ÷ 0.08 = 625 mL.",
+"s": "AM"
+},
+"25qf1-008": {
+"tp": "Growth",
+"k": "8,100",
+"s": "AM"
+},
+"25qf1-009": {
+"tp": "Mean",
+"q": "If the average of the monthly malaria data 25, y, 12, 19, 13, 25 and 10 is 36, what is the value of y?",
+"k": "143",
+"a": "148",
+"t": "d",
+"n": "The show's bar read 143; seven values averaging 36 add to 252, and 252 − 104 = 148.",
+"s": "DA"
+},
+"25qf1-010": {
+"tp": "Percentages",
+"k": "$87.50",
+"s": "AM"
+},
+"25qf1-011": {
+"tp": "Percentages",
+"k": "$7,200",
+"s": "AM"
+},
+"25qf1-012": {
+"tp": "Percentages",
+"k": "95%",
+"s": "AM"
+},
+"25qf1-013": {
+"tp": "Sets",
+"q": "Given sets A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, find the difference A − B.",
+"k": "{1, 2}",
+"s": "DA"
+},
+"25qf1-014": {
+"tp": "pH",
+"q": "What is the pH of a solution with a hydrogen ion concentration of 10⁻⁵?",
+"k": "5",
+"s": "AM"
+},
+"25qf1-015": {
+"tp": "z-scores",
+"k": "5",
+"s": "DA"
+},
+"25qf1-016": {
+"tp": "Probability",
+"k": "9/100 or 0.09",
+"s": "DA"
+},
+"25qf1-017": {
+"skip": true
+},
+"25qf1-018": {
+"tp": "Probability",
+"k": "0",
+"s": "DA"
+},
+"25qf1-019": {
+"tp": "Permutations",
+"s": "DA"
+},
+"25qf1-020": {
+"tp": "Growth",
+"k": "110,250",
+"a": "106,090",
+"t": "d",
+"n": "The show's bar read 110,250, which is 5% growth; at 3% it is 100,000 × 1.03² = 106,090.",
+"s": "AM"
+},
+"25qf1-021": {
+"skip": true
+},
+"25qf1-022": {
+"tp": "pH",
+"k": "1 × 10⁻¹² M",
+"s": "AM"
+},
+"25qf1-023": {
+"tp": "Percentages",
+"k": "62.5%",
+"s": "AM"
+},
+"25qf1-024": {
+"tp": "Rates",
+"k": "3,600 beats",
+"s": "AM"
+},
+"25qf1-025": {
+"tp": "Rates",
+"k": "160 minutes",
+"s": "AM"
+},
+"25qf1-026": {
+"tp": "Dilution",
+"k": "2,500 mL",
+"s": "AM"
+},
+"25qf1-027": {
+"skip": true
+},
+"25qf1-028": {
+"tp": "Magnification",
+"k": "1 mm",
+"s": "AM"
+},
+"25qf1-029": {
+"tp": "Percentages",
+"k": "100%",
+"s": "AM"
+},
+"25qf1-030": {
+"tp": "Cubes",
+"q": "The number 684 is the sum of the cubes of which three consecutive integers?",
+"o": [
+"5, 6, 7",
+"8, 9, 10",
+"3, 4, 5"
+],
+"k": "5, 6, 7",
+"s": "AM"
+},
+"25qf1-031": {
+"tp": "Sets",
+"k": "30",
+"s": "DA"
+},
+"25qf1-032": {
+"tp": "Rates",
+"q": "If Johnson's heart rate is 65 beats per minute (bpm), how many heartbeats will he experience in 48 minutes?",
+"k": "3,120 beats",
+"s": "AM"
+},
+"25qf1-033": {
+"tp": "Rates of change",
+"q": "What is the rate of increase of the side length of an equilateral triangle if its perimeter is 18 cm and the perimeter is increasing at 1 cm/s?",
+"k": "1/3 cm/s",
+"s": "AM"
+},
+"25qf1-034": {
+"tp": "Percentages",
+"q": "A company's profits increased by 25% this year. If the profits were $500,000 last year, what are the profits this year?",
+"k": "$625,000",
+"s": "AM"
+},
+"25qf1-035": {
+"tp": "Probability",
+"k": "7/75",
+"s": "DA"
+},
+"25qf1-036": {
+"skip": true
+},
+"25qf1-037": {
+"tp": "Magnification",
+"k": "2",
+"s": "AM"
+},
+"25qf1-038": {
+"skip": true
+},
+"25qf1-039": {
+"skip": true
+},
+"25qf1-040": {
+"tp": "Percentages",
+"k": "25%",
+"s": "AM"
+},
+"25qf1-041": {
+"tp": "z-scores",
+"q": "What is the z-score of a data point with a value of 40 in a dataset with a mean of 30 and a standard deviation of 5?",
+"o": [
+"2",
+"12",
+"14"
+],
+"k": "2",
+"s": "DA"
+},
+"25qf1-042": {
+"skip": true
+},
+"25qf1-043": {
+"skip": true
+},
+"25qf1-044": {
+"skip": true
+},
+"25qf1-045": {
+"skip": true
+},
+"25qf1-046": {
+"tp": "Probability",
+"k": "1/13",
+"s": "DA"
+},
+"25qf1-047": {
+"tp": "Ratios",
+"q": "A classroom has a student to teacher ratio of 20:8. If there are 400 students, how many teachers are there?",
+"k": "160 teachers",
+"s": "AM"
+},
+"25qf1-048": {
+"tp": "Half-life",
+"k": "6.67 or 6⅔ years",
+"s": "AM"
+},
+"25qf1-049": {
+"skip": true
+},
+"25qf1-050": {
+"tp": "Percentages",
+"k": "20%",
+"s": "AM"
+},
+"25qf1-051": {
+"tp": "Mixtures",
+"q": "What is the result of mixing a 2.75 molar solution with a 6.25 molar solution in equal amounts?",
+"k": "4.5 M",
+"s": "AM"
+},
+"25qf1-052": {
+"skip": true
+},
+"25qf1-053": {
+"tp": "Units",
+"q": "72 pieces of chair make how many gross?",
+"k": "0.5 gross or half a gross",
+"s": "AM"
+},
+"25qf1-054": {
+"tp": "Volume",
+"q": "A spherical tank with a diameter of 6 m is 50% full of water. If it drains at 3 cubic meters per minute, how many minutes, expressed with π, will it take to empty?",
+"k": "6π minutes",
+"s": "AM"
+},
+"25qf1-055": {
+"skip": true
+},
+"25qf1-056": {
+"tp": "Arithmetic",
+"k": "5 kg",
+"s": "AM"
+},
+"25qf1-057": {
+"tp": "Combinations",
+"s": "DA"
+},
+"25qf1-058": {
+"skip": true
+},
+"25qf1-059": {
+"skip": true
+},
+"25qf1-060": {
+"skip": true
+},
+"25qf1-061": {
+"tp": "Percentages",
+"q": "If a TV's price decreases from ₦80,000 to ₦48,000, what is the percentage decrease in price?",
+"k": "40%",
+"s": "AM"
+},
+"25qf1-062": {
+"tp": "Ratio strength",
+"q": "What is 2 ppm of lead in water in ratio strength?",
+"o": [
+"1:500,000",
+"1:50,000",
+"1:5,000,000"
+],
+"k": "1:500,000",
+"s": "AM"
+},
+"25qf1-063": {
+"tp": "Trigonometry",
+"k": "200 cot 28°",
+"s": "AM"
+},
+"25qf1-064": {
+"skip": true
+},
+"25qf1-065": {
+"skip": true
+},
+"25qf1-066": {
+"tp": "Pharmacy calculations",
+"q": "The amount of AgNO₃ needed to make up 30 mL of 0.5% w/v AgNO₃ is",
+"k": "0.15 g"
+},
+"25qf1-067": {
+"tp": "Rates of change",
+"q": "What is the side length of an equilateral triangle if its perimeter is currently 14 cm and increasing at a rate of 1 cm/s, after 10 seconds?",
+"k": "8 cm"
+},
+"25qf1-068": {
+"tp": "Percentages",
+"k": "4%",
+"a": "4% decrease"
+},
+"25qf1-069": {
+"tp": "Depreciation",
+"q": "If a car depreciates by 25% each year, how much will it be worth after 2 years if its original price was $20,000?",
+"k": "$11,250"
+},
+"25qf1-070": {
+"tp": "Algebra",
+"k": "23"
+},
+"25qf1-071": {
+"tp": "Units",
+"q": "A car's engine displacement is 8.5 L. If 1 L is equal to 1,000 cm³, what is the engine displacement in cm³?",
+"k": "8,500 cm³"
+},
+"25qf1-072": {
+"tp": "Probability",
+"q": "A fair coin is flipped three times in a row. What is the probability that the first flip results in heads and the next two in tails?",
+"k": "12.5%",
+"s": "DA"
+},
+"25qf1-073": {
+"tp": "Ratios",
+"q": "In a fruit salad, the ratio of apples to oranges is 8:6. If there are 4,200 oranges, how many apples are there?",
+"k": "5,600 apples"
+},
+"25qf1-074": {
+"skip": true
+},
+"25qf1-075": {
+"tp": "Percentages",
+"q": "If a student's score on a test increased from 750 to 900, what was the percentage increase?",
+"k": "20%"
+},
+"25qf1-076": {
+"tp": "Profit and loss",
+"q": "800 cycles were sold for ₦524,000 resulting in a loss of 50%. What was the cost price of a cycle?",
+"k": "₦1,310"
+},
+"25qf1-077": {
+"skip": true
+},
+"25qf1-078": {
+"skip": true
+},
+"25qf1-079": {
+"tp": "Interquartile range",
+"q": "What is the interquartile range of 3, 6, 9, 12, and 15?",
+"o": [
+"6",
+"3",
+"9"
+],
+"k": "6",
+"n": "This takes Q1 = 6 and Q3 = 12 (halves that include the median); leaving the median out gives 4.5 and 13.5, an IQR of 9."
+},
+"25qf1-080": {
+"tp": "z-scores",
+"q": "A dataset has 180 data points with a mean of 50 and a standard deviation of 8. What is the z-score for a data point with a value of 42?",
+"k": "1",
+"a": "−1",
+"t": "d",
+"n": "The show's bar read 1; 42 is below the mean, so the z-score is negative: (42 − 50) ÷ 8 = −1."
+},
+"25qf1-081": {
+"tp": "Combinations"
+},
+"25qf1-082": {
+"tp": "z-scores",
+"q": "Find the z-score corresponding to a raw score of 132 from a normal distribution with a mean of 100 and a standard deviation of 16.",
+"k": "2"
+},
+"25qf1-083": {
+"tp": "Quartiles",
+"k": "5"
+},
+"25qf1-084": {
+"tp": "Combinations",
+"q": "In a table tennis tournament, each player plays exactly one game against each of the other players. If there are 10 players, how many games are played?",
+"k": "45"
+},
+"25qf1-085": {
+"skip": true
+},
+"25qf1-086": {
+"tp": "Mode",
+"k": "No mode"
+},
+"25qf1-087": {
+"tp": "Sets",
+"q": "Given sets A = {1, 2, 3, 4} and B = {3, 4, 5, 6}, find B − A.",
+"k": "{5, 6}"
+},
+"25qf1-088": {
+"tp": "Quartile deviation",
+"k": "1.5"
+},
+"25qf1-089": {
+"tp": "Probability",
+"k": "0"
+},
+"25qf1-090": {
+"tp": "Combinations",
+"q": "If a team of 5 people is to be selected from a group of 10, how many different teams can be formed?",
+"o": [
+"252",
+"50",
+"178"
+],
+"k": "252"
+},
+"25qf1-091": {
+"tp": "Combinations",
+"o": [
+"12 ways",
+"10 ways",
+"20 ways"
+],
+"k": "10 ways"
+},
+"25qf1-092": {
+"skip": true
+},
+"25qf1-093": {
+"skip": true
+},
+"25qf1-094": {
+"skip": true
+},
+"25qf1-095": {
+"tp": "Combinations"
+},
+"25qf1-096": {
+"tp": "Probability",
+"o": [
+"1/12",
+"1/13",
+"1/15"
+],
+"k": "1/13"
+},
+"25qf1-097": {
+"tp": "z-scores",
+"q": "A dataset has 155 data points with a mean of 12 and a standard deviation of 4. What is the z-score for a data point with a value of 20?",
+"o": [
+"4",
+"2",
+"6"
+],
+"k": "2"
+},
+"25qf1-098": {
+"skip": true
+},
+"25qf1-099": {
+"skip": true
+},
+"25qf1-100": {
+"skip": true
+},
+"25qf1-101": {
+"skip": true
+},
+"25qf1-102": {
+"tp": "Partnership",
+"k": "8 months",
+"n": "8 months is how long Luke's money was in the business; he joined after 4 months.",
+"s": "AM"
+},
+"25qf1-103": {
+"skip": true
+},
+"25qf1-104": {
+"skip": true
+},
+"25qf1-105": {
+"skip": true
+},
+"25qf1-106": {
+"skip": true
+},
+"25qf1-107": {
+"skip": true
+},
+"25qf1-108": {
+"skip": true
+},
+"25qf1-109": {
+"skip": true
+},
+"25qf1-110": {
+"skip": true
+},
+"25qf1-111": {
+"skip": true
+},
+"25qf1-112": {
+"skip": true
+},
+"25qf1-113": {
+"skip": true
+},
+"25qf1-114": {
+"skip": true
+},
+"25qf1-115": {
+"skip": true
+},
+"25qf1-116": {
+"skip": true
+},
+"25qf1-117": {
+"skip": true
+},
+"25qf1-118": {
+"skip": true
+},
+"25qf1-119": {
+"skip": true
+},
+"25qf1-120": {
+"skip": true
+},
+"25qf1-121": {
+"skip": true
+},
+"25qf1-122": {
+"skip": true
+},
+"25qf1-123": {
+"skip": true
+},
+"25qf1-124": {
+"skip": true
+},
+"25qf1-125": {
+"skip": true
+},
+"25qf1-126": {
+"skip": true
+},
+"25qf1-127": {
+"skip": true
+},
+"25qf1-128": {
+"skip": true
+},
+"25qf1-129": {
+"skip": true
+},
+"25qf1-130": {
+"skip": true
+},
+"25qf1-131": {
+"skip": true
+},
+"25qf1-132": {
+"skip": true
+},
+"25qf1-133": {
+"skip": true
+},
+"25qf1-134": {
+"tp": "Growth",
+"q": "If a bacterial population doubles every 20 minutes, how many cells will there be after 1 hour if the initial population is 100?",
+"k": "800 cells",
+"s": "AM"
+},
+"25qf1-135": {
+"tp": "z-scores",
+"q": "A dataset has 155 data points with a mean of 12 and a standard deviation of 4. What is the z-score for a data point with a value of 20?",
+"k": "2",
+"s": "DA"
+},
+"25qf1-136": {
+"skip": true
+},
+"25qf1-137": {
+"skip": true
+},
+"25qf1-138": {
+"skip": true
+},
+"25qf1-139": {
+"skip": true
+},
+"25qf1-140": {
+"tp": "Magnification",
+"q": "If a telescope has a magnification power of 200x and a star appears to be 0.4 mm in diameter, what is the actual diameter?",
+"k": "0.002 mm or 2 × 10⁻³ mm",
+"s": "AM"
+},
+"25qf1-141": {
+"tp": "Ratio strength",
+"q": "What is 10 ppm of iron in water in ratio strength?",
+"o": [
+"1:10,000",
+"1:100,000",
+"1:1,000"
+],
+"k": "1:100,000",
+"s": "AM"
+},
+"25qf1-142": {
+"skip": true
+},
+"25qf1-143": {
+"tp": "Mean, median and mode",
+"q": "If the mean and the mode are given as 35 and 30, find the median.",
+"k": "33.33 or 33⅓",
+"s": "DA"
+},
+"25qf1-144": {
+"tp": "Units",
+"k": "1 × 10⁻¹³ m",
+"s": "AM"
+},
+"25qf1-145": {
+"tp": "Concentration",
+"k": "250 mg",
+"s": "AM"
+},
+"25qf1-146": {
+"tp": "Volume",
+"k": "108π cubic inches",
+"s": "AM"
+},
+"25qf1-147": {
+"skip": true
+},
+"25qf1-148": {
+"tp": "Percentages",
+"k": "33%",
+"s": "AM"
+},
+"25qf1-149": {
+"tp": "Percentages",
+"q": "In a bag of marbles, 28% are red, 42% are blue, and the rest are white. If there are 3,600 marbles in total, how many are white?",
+"k": "1,080",
+"s": "AM"
+},
+"25qf1-150": {
+"tp": "Percentages",
+"k": "140%",
+"s": "AM"
+},
+"25qf1-151": {
+"tp": "Linear functions",
+"k": "1,600 km/L",
+"s": "AM"
+},
+"25qf1-152": {
+"skip": true
+},
+"25qf1-153": {
+"tp": "Probability",
+"k": "75%",
+"s": "DA"
+},
+"25qf1-154": {
+"skip": true
+},
+"25qf1-155": {
+"skip": true
+},
+"25qf1-156": {
+"tp": "Ratios",
+"k": "$340,000",
+"s": "AM"
+},
+"25qf1-157": {
+"tp": "pH",
+"k": "1 × 10⁻¹¹ M",
+"s": "AM"
+},
+"25qf1-158": {
+"skip": true
+},
+"25qf1-159": {
+"skip": true
+},
+"25qf1-160": {
+"skip": true
+},
+"25qf1-161": {
+"tp": "Median",
+"q": "The mileage of 13 cars of the same model was tested by a manufacturer: 9, 23, 5, 13, 25, 13, 23, 22, 12, 1, 10, 19, 16. Calculate the median.",
+"k": "13",
+"s": "DA"
+},
+"25qf1-162": {
+"tp": "Percentages",
+"k": "21%",
+"s": "AM"
+},
+"25qf1-163": {
+"tp": "Permutations",
+"q": "Find the number of ways of arranging the letters of the word DANGER so that no vowel occupies an odd place.",
+"k": "144",
+"s": "DA"
+},
+"25qf1-164": {
+"tp": "Percentages",
+"q": "In a school 60% are boys and the rest are girls. If the number of girls is 360, find the number of boys.",
+"k": "540",
+"s": "AM"
+},
+"25qf1-165": {
+"tp": "Rates",
+"k": "1,120 minutes",
+"s": "AM"
+},
+"25qf1-166": {
+"tp": "Area",
+"k": "9,600 m²",
+"s": "AM"
+},
+"25qf1-167": {
+"skip": true
+},
+"25qf1-168": {
+"skip": true
+},
+"25qf1-169": {
+"tp": "Percentages",
+"q": "If a laptop's value increases from ₦200,000 to ₦460,000, what is the percentage increase in value?",
+"k": "130%",
+"s": "AM"
+},
+"25qf1-170": {
+"tp": "Ratio strength",
+"q": "What is 0.05% in ratio strength?",
+"o": [
+"1:2000",
+"1:1000",
+"1:5000"
+],
+"k": "1:2000",
+"s": "AM"
+},
+"25qf1-171": {
+"tp": "Interest",
+"q": "Juliet invests $450 in a building society account. At the end of the year, she receives 20% interest. How much interest does she get?",
+"k": "$90",
+"s": "AM"
+},
+"25qf1-172": {
+"tp": "Permutations",
+"q": "How many permutations of the letters of the word 'APPLE' are there?",
+"k": "60",
+"s": "DA"
+},
+"25qf1-173": {
+"tp": "Pharmacy calculations",
+"k": "240 mL",
+"a": "About 667 mL",
+"t": "d",
+"n": "The show's bar read 240 mL (40 × 6); a 6% w/v solution has 6 g in 100 mL, so 40 g makes 40 ÷ 0.06 ≈ 667 mL.",
+"s": "AM"
+},
+"25qf1-174": {
+"tp": "Area",
+"q": "A side of a square-shaped park is 10 m. If a square-shaped garden with a side of 20 m is developed around the park, what will be the total area of the park including the garden?",
+"o": [
+"200 m²",
+"400 m²",
+"100 m²"
+],
+"k": "400 m²",
+"s": "AM"
+},
+"25qf1-175": {
+"skip": true
+},
+"25qf1-176": {
+"skip": true
+},
+"25qf1-177": {
+"tp": "Percentages",
+"k": "28%",
+"s": "AM"
+},
+"25qf1-178": {
+"skip": true
+},
+"25qf1-179": {
+"tp": "Probability",
+"k": "3/5",
+"s": "DA"
+},
+"25qf1-180": {
+"skip": true
+},
+"25qf1-181": {
+"tp": "Percentages",
+"q": "In a bag of marbles, 30% are red, 35% are blue, and the rest are green. If there are 2,500 marbles in total, how many are green?",
+"k": "875",
+"s": "AM"
+},
+"25qf1-182": {
+"tp": "Percentages",
+"k": "180%",
+"s": "AM"
+},
+"25qf1-183": {
+"skip": true
+},
+"25qf1-184": {
+"skip": true
+},
+"25qf1-185": {
+"tp": "Rates",
+"q": "A patient is prescribed 250 mL of medication per day. If the medication comes in 6,000 mL bottles, how many days will one bottle last?",
+"k": "24 days",
+"s": "AM"
+},
+"25qf1-186": {
+"tp": "Probability",
+"q": "Three grapes and three apples are in a box. If two fruits are chosen at random, what is the probability that one is a grape and the other an apple?",
+"k": "3/5",
+"s": "DA"
+},
+"25qf1-187": {
+"skip": true
+},
+"25qf1-188": {
+"skip": true
+},
+"25qf1-189": {
+"skip": true
+},
+"25qf1-190": {
+"skip": true
+},
+"25qf1-191": {
+"skip": true
+},
+"25qf1-192": {
+"skip": true
+},
+"25qf1-193": {
+"skip": true
+},
+"25qf1-194": {
+"skip": true
+},
+"25qf1-195": {
+"skip": true
+},
+"25qf1-196": {
+"skip": true
+},
+"25qf1-197": {
+"skip": true
+},
+"25qf1-198": {
+"skip": true
+},
+"25qf1-199": {
+"skip": true
+},
+"25qf1-200": {
+"skip": true
+},
+"25qf1-201": {
+"skip": true
+},
+"25qf1-202": {
+"skip": true
+},
+"25qf1-203": {
+"skip": true
+},
+"25qf1-204": {
+"skip": true
+},
+"25qf1-205": {
+"skip": true
+},
+"25qf1-206": {
+"skip": true
+},
+"25qf1-207": {
+"tp": "Probability",
+"q": "What is the probability of drawing a ticket with a number that is a multiple of 3 or 5 from a pool of 20 tickets numbered 1 to 20?",
+"k": "45%",
+"s": "DA"
+},
+"25qf1-208": {
+"tp": "Ratios",
+"q": "A lemonade stand mixes 2 parts water with 6 parts lemon juice. If they want to make 32 liters of lemonade, how much lemon juice should they use?",
+"k": "24 liters"
+},
+"25qf1-209": {
+"tp": "Growth",
+"k": "6,400 bacteria"
+},
+"25qf1-210": {
+"tp": "Percentages",
+"k": "20%"
+},
+"25qf1-211": {
+"tp": "Mixtures",
+"q": "In what ratio does a trader mix two varieties of beans costing $25 per kg and $18 per kg respectively to get a mixture worth $20 per kg?",
+"k": "5:2",
+"n": "5 : 2 is cheaper to dearer ($18 beans to $25 beans); in the order the question lists them ($25 to $18) it is 2 : 5."
+},
+"25qf1-212": {
+"tp": "Proportion",
+"k": "480,000"
+},
+"25qf1-213": {
+"tp": "Volume",
+"q": "A room is 4 meters long, 3 meters wide, and 2.5 meters high. What is its volume in cubic meters?",
+"k": "30 m³"
+},
+"25qf1-214": {
+"tp": "Growth",
+"k": "750"
+},
+"25qf1-215": {
+"tp": "Percentages",
+"q": "If a shirt originally costs ₦2,400 and is now on sale for ₦1,800, what is the percentage decrease in price?",
+"k": "25%"
+},
+"25qf1-216": {
+"tp": "Rates",
+"q": "A car uses one liter of petrol for every 16 km. If one liter of petrol costs ₦63.00, how far can the car go with ₦756.00 worth of petrol?",
+"o": [
+"192 km",
+"205 km",
+"410 km"
+],
+"k": "192 km"
+},
+"25qf1-217": {
+"tp": "3D geometry",
+"q": "What is the length of the body diagonal of a cuboid that has side lengths of 8 units, 9 units and 12 units?",
+"k": "17 units"
+},
+"25qf1-218": {
+"tp": "Density",
+"q": "The density of a substance is 2 grams per cubic centimetre (g/cm³). What is its mass if its volume is 20 m³?",
+"k": "40,000,000 g"
+},
+"25qf1-219": {
+"tp": "Arithmetic",
+"q": "How many bags of weight 32 lb can a plane carry if it is loaded with exactly 16,000 lb of luggage?",
+"k": "500"
+},
+"25qf1-220": {
+"skip": true
+},
+"25qf1-221": {
+"skip": true
+},
+"25qf1-222": {
+"skip": true
+},
+"25qf1-223": {
+"skip": true
+},
+"25qf1-224": {
+"skip": true
+},
+"25qf1-225": {
+"skip": true
+},
+"25qf1-226": {
+"skip": true
+},
+"25qf1-227": {
+"skip": true
+},
+"25qf1-228": {
+"skip": true
+},
+"25qf1-229": {
+"skip": true
+},
+"25qf1-230": {
+"skip": true
+},
+"25qf1-231": {
+"skip": true
+},
+"25qf1-232": {
+"skip": true
+},
+"25qf1-233": {
+"skip": true
+},
+"25qf1-234": {
+"skip": true
+},
+"25qf1-235": {
+"skip": true
+},
+"25qf1-236": {
+"skip": true
+},
+"25qf1-237": {
+"skip": true
+},
+"25qf1-238": {
+"skip": true
+},
+"25qf1-239": {
+"tp": "Probability",
+"k": "7/15 or 21/45"
+},
+"25qf1-240": {
+"tp": "Permutations",
+"q": "In how many ways can the letters of the word \"CRANE\" be arranged?",
+"o": [
+"60",
+"120",
+"56"
+],
+"k": "120"
+},
+"25qf1-241": {
+"tp": "Combinations"
+},
+"25qf1-242": {
+"skip": true
+},
+"25qf1-243": {
+"skip": true
+},
+"25qf1-244": {
+"skip": true
+},
+"25qf1-245": {
+"tp": "Combinations"
+},
+"25qf1-246": {
+"tp": "Combinations",
+"o": [
+"240",
+"60",
+"120"
+],
+"k": "120",
+"t": "w"
+},
+"25qf1-247": {
+"tp": "z-scores",
+"q": "Given a dataset with a mean of 55, a standard deviation of 14, and a z-score of 0.675 for the 75th percentile, what is the 75th percentile?",
+"o": [
+"84.45",
+"64.45",
+"74.45"
+],
+"k": "64.45"
+},
+"25qf1-248": {
+"tp": "z-scores",
+"q": "A survey found that the average height of adults in a city is 190 cm with a standard deviation of 7 cm. What is the z-score of a person who is 204 cm tall?",
+"o": [
+"2",
+"1",
+"4"
+],
+"k": "2"
+},
+"25qf1-249": {
+"tp": "Mean",
+"q": "Find the average of the data: 1/3, 2/3, 1, 4/3, 5/3, 2",
+"k": "3",
+"a": "7/6",
+"t": "d",
+"n": "The show's bar read 3; the six values add to 7, so the mean is 7/6 ≈ 1.17."
+},
+"25qf1-250": {
+"tp": "Mean",
+"q": "Jack bought an average of 12 shoes a month over 8 months: 10, 7, 9, 17, 10, 19, 11 and z. What is the value of z?",
+"k": "13"
+},
+"25qf1-251": {
+"tp": "Counting",
+"q": "In a group of 14 people, how many different pairs can be formed if each pair consists of one man and one woman?",
+"k": "49",
+"n": "This assumes 7 men and 7 women."
+},
+"25qf1-252": {
+"tp": "Combinations",
+"k": "220"
+},
+"25qf1-253": {
+"tp": "Probability distributions",
+"q": "If the probability of hitting the target is 0.3, find the mean and variance (for one shot).",
+"k": "0.3 and 0.21 respectively"
+},
+"25qf1-254": {
+"tp": "Combinations",
+"k": "15"
+},
+"25qf1-255": {
+"tp": "Probability",
+"q": "If two fair dice are rolled, what's the probability the sum of the numbers rolled is 7?",
+"k": "1/6 or 6/36"
+},
+"25qf1-256": {
+"skip": true
+}
+}

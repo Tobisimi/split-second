@@ -1,0 +1,38 @@
+{
+ "season": "25",
+ "video": "r6ullYv8bwk",
+ "stage": "qf",
+ "bm_max_step": 40,
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/25-qf1.json",
+   "bank/review/25-qf1.json"
+  ]
+ ],
+ "code": "qf1b",
+ "match": "OOU v Bells, 2025",
+ "window": [
+  1900,
+  3401
+ ],
+ "qb_top": "OOU",
+ "qb_bottom": "BELLS",
+ "bm_top": "OOU",
+ "bm_bottom": "BELLS",
+ "bm_subjects": {
+  "1": "GK",
+  "2": "AM",
+  "3": "VR",
+  "4": "DA"
+ },
+ "quarter_starts": {
+  "BM": [
+   2620,
+   2755,
+   2875,
+   2980
+  ]
+ },
+ "out": "bank/master/25-qf1b.json"
+}

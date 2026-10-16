@@ -1,0 +1,995 @@
+{
+ "25-qf1a-qb-0448": {
+  "solution": "A w/v percentage is grams per 100 mL, so 8% means 8 g in 100 mL. 50 g makes 50 ÷ 8 × 100 = 625 mL.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0458": {
+  "solution": "2 hours is 4 periods of 30 minutes: 100 × 3⁴ = 100 × 81 = 8,100.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0467": {
+  "solution": "Seven values with mean 36 add to 7 × 36 = 252. The others add to 104, so y = 252 − 104 = 148.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0476": {
+  "solution": "The new price is 160% of the old: 140 ÷ 1.6 = $87.50.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "87.5",
+   "$87.5"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-qb-0486": {
+  "solution": "25% off $800 is $600 a dress, and 12 × 600 = $7,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0496": {
+  "solution": "Decrease = 13,300,000, and 13,300,000 ÷ 14,000,000 = 0.95 = 95%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0501": {
+  "solution": "A − B keeps what is in A but not in B: {1, 2}.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1, 2",
+   "1 and 2",
+   "(1, 2)"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-qb-0514": {
+  "solution": "pH = −log₁₀[H⁺] = −log₁₀(10⁻⁵) = 5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0521": {
+  "solution": "z = (80 − 50) ÷ 6 = 5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0528": {
+  "solution": "With replacement: 3/10 × 3/10 = 9/100 = 0.09.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "9/100",
+   "0.09"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-qb-0554": {
+  "solution": "There are no green balls, so the probability is 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "zero"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-qb-0558": {
+  "solution": "⁴P₃ = 4 × 3 × 2 = 24.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0563": {
+  "solution": "100,000 × 1.03 × 1.03 = 106,090.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0580": {
+  "solution": "pOH = 14 − 2 = 12, so [OH⁻] = 10⁻¹² M.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "10^-12",
+   "1e-12",
+   "10⁻¹² M"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-qb-0585": {
+  "solution": "Decrease = 250, and 250 ÷ 400 = 62.5%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0596": {
+  "solution": "60 beats a minute for 60 minutes: 3,600.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0602": {
+  "solution": "80% of 3,000 m³ is 2,400 m³, and 2,400 ÷ 15 = 160 minutes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0613": {
+  "solution": "A fifth of the concentration needs five times the volume: 5 × 500 = 2,500 mL.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0631": {
+  "solution": "Magnified size = 100 × 0.01 mm = 1 mm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0639": {
+  "solution": "Increase = 70 on 70, so 100%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0646": {
+  "solution": "5³ + 6³ + 7³ = 125 + 216 + 343 = 684.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0654": {
+  "solution": "150 − 20 = 130 offer at least one, so both = 100 + 60 − 130 = 30.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0665": {
+  "solution": "65 × 48 = 3,120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0687": {
+  "solution": "P = 3s, so dP/dt = 3 ds/dt and ds/dt = 1/3 cm/s. (The 18 cm does not matter.)",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/3",
+   "0.33 cm/s",
+   "0.333"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-qb-0699": {
+  "solution": "500,000 × 1.25 = $625,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0706": {
+  "solution": "P(blue, then blue) = 8/25 × 7/24 = 56/600 = 7/75.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0726": {
+  "solution": "Magnification = image size ÷ object size = 4 ÷ 2 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0747": {
+  "solution": "Increase = 250 on 1,000, so 25%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0752": {
+  "solution": "z = (40 − 30) ÷ 5 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0775": {
+  "solution": "4 kings out of 52: 1/13.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0779": {
+  "solution": "400 students is 20 × 20, so teachers = 20 × 8 = 160.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0789": {
+  "solution": "One-eighth is three halvings, so 3 half-lives take 20 years: 20 ÷ 3 ≈ 6.67 years.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "6.67",
+   "20/3",
+   "6 2/3"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-qb-0811": {
+  "solution": "Decrease = 160, and 160 ÷ 800 = 20%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0819": {
+  "solution": "Equal volumes average the molarities: (2.75 + 6.25) ÷ 2 = 4.5 M.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0838": {
+  "solution": "A gross is 144, so 72 is half a gross.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.5",
+   "half",
+   "1/2"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-qb-0848": {
+  "solution": "Radius 3 m: V = (4/3)π × 27 = 36π m³. Half full holds 18π m³, and 18π ÷ 3 = 6π ≈ 18.8 minutes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "6π",
+   "6pi",
+   "18.85"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-qb-0870": {
+  "solution": "The items weigh 6 × 2.5 = 15 kg, so the packaging is 20 − 15 = 5 kg.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0878": {
+  "solution": "⁸C₃ = (8 × 7 × 6) ÷ 6 = 56.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0904": {
+  "solution": "Decrease = 32,000, and 32,000 ÷ 80,000 = 40%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0915": {
+  "solution": "2 parts per million = 2 : 1,000,000 = 1 : 500,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-qb-0924": {
+  "solution": "tan 28° = 200 ÷ distance, so distance = 200 ÷ tan 28° = 200 cot 28° ≈ 376 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "376 m",
+   "376",
+   "200/tan 28"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-bm-1114": {
+  "solution": "A w/v percentage is grams per 100 mL: 0.5 g per 100 mL, so 30 mL needs 0.5 × 0.3 = 0.15 g.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1122": {
+  "solution": "After 10 s the perimeter is 14 + 10 = 24 cm, so each side is 24 ÷ 3 = 8 cm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1130": {
+  "solution": "1.2 × 0.8 = 0.96, a 4% decrease.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "-4%",
+   "4%",
+   "4 percent decrease"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-bm-1138": {
+  "solution": "20,000 × 0.75 × 0.75 = $11,250.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1146": {
+  "solution": "Three consecutive integers average the middle one: 72 ÷ 3 = 24, so they are 23, 24, 25.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1154": {
+  "solution": "8.5 × 1,000 = 8,500 cm³.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1162": {
+  "solution": "One exact sequence (H, T, T) out of 2³ = 8: 1/8 = 12.5%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/8",
+   "0.125"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-bm-1169": {
+  "solution": "6 parts = 4,200, so 1 part = 700 and apples = 8 × 700 = 5,600.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1184": {
+  "solution": "Increase = 150 on 750, so 20%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1190": {
+  "solution": "Each sold for 524,000 ÷ 800 = ₦655. At a 50% loss that is half the cost, so the cost was ₦1,310.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1237": {
+  "solution": "With the median counted in each half, Q1 = 6 and Q3 = 12, so IQR = 6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1243": {
+  "solution": "z = (42 − 50) ÷ 8 = −1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "-1"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-bm-1249": {
+  "solution": "⁶C₃ = 20.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1254": {
+  "solution": "z = (132 − 100) ÷ 16 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1260": {
+  "solution": "Eleven values in order; the lower half 1, 4, 5, 6, 7 has middle value 5, so Q1 = 5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1263": {
+  "solution": "Every pair plays once: ¹⁰C₂ = 45.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1278": {
+  "solution": "All 16 readings are different, so no value repeats and there is no mode.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "none",
+   "no modal value"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-bm-1279": {
+  "solution": "B − A keeps what is in B but not in A: {5, 6}.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "5, 6",
+   "5 and 6"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-bm-1286": {
+  "solution": "Q1 = 1.5 and Q3 = 4.5 (leaving out the median), so QD = (4.5 − 1.5) ÷ 2 = 1.5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1291": {
+  "solution": "There are no white balls, so the probability is 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "zero"
+  ],
+  "comment": ""
+ },
+ "25-qf1a-bm-1294": {
+  "solution": "¹⁰C₅ = 252.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1301": {
+  "solution": "⁵C₃ = 10.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1317": {
+  "solution": "¹²C₄ = 495.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1322": {
+  "solution": "4 aces out of 52: 1/13.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1325": {
+  "solution": "z = (20 − 12) ÷ 4 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1a-bm-1386": {
+  "solution": "Profit shares follow capital × time: 8,500 × 12 : 4,250 × m = 3 : 1, so 4,250m = 34,000 and m = 8 months.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-1969": {
+  "solution": "1 hour is 3 doublings: 100 × 2³ = 800.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-1975": {
+  "solution": "z = (20 − 12) ÷ 4 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2014": {
+  "solution": "Actual = 0.4 ÷ 200 = 0.002 mm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.002",
+   "2 x 10^-3 mm",
+   "2e-3"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-qb-2027": {
+  "solution": "10 : 1,000,000 = 1 : 100,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2043": {
+  "solution": "Mode ≈ 3 median − 2 mean, so 30 = 3M − 70 and M = 100/3 ≈ 33.33.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "33.33",
+   "100/3",
+   "33 1/3"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-qb-2052": {
+  "solution": "1 fermi = 10⁻¹⁵ m, so 100 fermi = 10⁻¹³ m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "10^-13",
+   "1e-13",
+   "10⁻¹³ m"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-qb-2063": {
+  "solution": "25 ppm is 25 mg per kg, so 10 kg needs 250 mg.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2073": {
+  "solution": "V = πr²h = π × 36 × 3 = 108π in³.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "108π",
+   "108pi",
+   "339.3"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-qb-2095": {
+  "solution": "After a 25% cut, the price is 3/4 of the original; getting back needs 4/3 of it, an increase of 33⅓%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "33 1/3%",
+   "33.33%",
+   "33.3%",
+   "1/3"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-qb-2105": {
+  "solution": "White = 100 − 28 − 42 = 30%, and 30% of 3,600 = 1,080.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2119": {
+  "solution": "Increase = 140,000 on 100,000, so 140%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2131": {
+  "solution": "y = 20 × 60 + 400 = 1,600.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2148": {
+  "solution": "The product is odd only when both dice are odd (1/4), so even is 3/4 = 75%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2169": {
+  "solution": "Debt = 8.5 × equity = 8.5 × $40,000 = $340,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2176": {
+  "solution": "pOH = 14 − 3 = 11, so [OH⁻] = 10⁻¹¹ M.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "10^-11",
+   "1e-11",
+   "10⁻¹¹ M"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-qb-2213": {
+  "solution": "In order: 1, 5, 9, 10, 12, 13, 13, 16, 19, 22, 23, 23, 25. The 7th value is 13.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2238": {
+  "solution": "Increase = 10.5 on 50, so 21%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2250": {
+  "solution": "The vowels A and E go in the even places 2, 4, 6: ³P₂ = 6 ways. The 4 consonants fill the rest: 4! = 24. Total 6 × 24 = 144.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2259": {
+  "solution": "Girls are 40%, so 1% is 9 and boys (60%) are 540.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2266": {
+  "solution": "45 pages per 60 minutes is 3/4 page a minute: 840 ÷ 0.75 = 1,120 minutes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2276": {
+  "solution": "120 × 80 = 9,600 m².",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2305": {
+  "solution": "Increase = 260,000 on 200,000, so 130%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2317": {
+  "solution": "0.05% = 0.05 : 100 = 1 : 2,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2326": {
+  "solution": "20% of 450 = $90.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2336": {
+  "solution": "5 letters with P twice: 5! ÷ 2! = 60.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2342": {
+  "solution": "A w/v percentage is grams per 100 mL, so 6% means 6 g in 100 mL. 40 g makes 40 ÷ 6 × 100 ≈ 666.7 mL.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "666.7 mL",
+   "667",
+   "666.7",
+   "2000/3"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-qb-2370": {
+  "solution": "The outer square is 20 m by 20 m: 400 m².",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2402": {
+  "solution": "He is 125 − 90 = 35 marks short, and 35 ÷ 125 = 28%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2415": {
+  "solution": "3 red out of 5 balls: 3/5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2427": {
+  "solution": "Green = 35%, and 35% of 2,500 = 875.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2437": {
+  "solution": "Increase = 180 on 100, so 180%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2459": {
+  "solution": "6,000 ÷ 250 = 24 days.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-qb-2469": {
+  "solution": "Pairs: ⁶C₂ = 15. One of each: 3 × 3 = 9. So 9/15 = 3/5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2763": {
+  "solution": "Multiples of 3: 6. Multiples of 5: 4. Both (15): 1. So 6 + 4 − 1 = 9 of 20 = 45%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "9/20",
+   "0.45"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-bm-2771": {
+  "solution": "Lemon juice is 6 of 8 parts: 6/8 × 32 = 24 L.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2780": {
+  "solution": "Six doublings: 100 × 2⁶ = 6,400.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2786": {
+  "solution": "Decrease = 24 on 120, so 20%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2791": {
+  "solution": "By alligation: cheaper : dearer = (25 − 20) : (20 − 18) = 5 : 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "5 : 2"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-bm-2797": {
+  "solution": "4,000 a day for 120 days: 480,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2803": {
+  "solution": "4 × 3 × 2.5 = 30 m³.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2810": {
+  "solution": "It gains 3,000 in 4 hours, 750 an hour (a linear rate).",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2817": {
+  "solution": "Decrease = 600 on 2,400, so 25%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2824": {
+  "solution": "756 ÷ 63 = 12 L, and 12 × 16 = 192 km.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2833": {
+  "solution": "√(8² + 9² + 12²) = √(64 + 81 + 144) = √289 = 17.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2843": {
+  "solution": "20 m³ = 20,000,000 cm³, and 2 × 20,000,000 = 40,000,000 g (40 tonnes).",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "4 x 10^7 g",
+   "40000 kg",
+   "40,000 kg"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-bm-2849": {
+  "solution": "16,000 ÷ 32 = 500.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2988": {
+  "solution": "P(blue, then blue) = 7/10 × 6/9 = 42/90 = 7/15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "7/15",
+   "21/45"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-bm-2995": {
+  "solution": "5 different letters: 5! = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-2999": {
+  "solution": "⁹C₄ = 126.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-3018": {
+  "solution": "¹⁰C₅ = 252.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-3022": {
+  "solution": "¹⁰C₃ = (10 × 9 × 8) ÷ 6 = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-3028": {
+  "solution": "x = 55 + 0.675 × 14 = 55 + 9.45 = 64.45.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-3031": {
+  "solution": "z = (204 − 190) ÷ 7 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-3034": {
+  "solution": "In thirds the values are 1 to 6, which add to 21 thirds = 7. Six values: 7 ÷ 6 = 7/6 ≈ 1.17.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1.17",
+   "1 1/6"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-bm-3040": {
+  "solution": "8 months averaging 12 make 96. The seven known months add to 83, so z = 13.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-3047": {
+  "solution": "With 7 men and 7 women, each man can pair with each woman: 7 × 7 = 49.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-3053": {
+  "solution": "n(n − 3) ÷ 2 = 54 gives n = 12. Any 3 vertices make a triangle: ¹²C₃ = 220.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-3061": {
+  "solution": "One shot is a Bernoulli trial: mean p = 0.3, variance p(1 − p) = 0.3 × 0.7 = 0.21.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.3, 0.21",
+   "0.3 and 0.21"
+  ],
+  "comment": ""
+ },
+ "25-qf1b-bm-3067": {
+  "solution": "⁶C₄ = 15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf1b-bm-3072": {
+  "solution": "Six ways of 36: 1/6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/6",
+   "6/36"
+  ],
+  "comment": ""
+ }
+}
