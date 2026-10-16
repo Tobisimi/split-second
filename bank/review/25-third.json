@@ -1,0 +1,794 @@
+{
+"25thd-001": {
+"skip": true
+},
+"25thd-002": {
+"skip": true
+},
+"25thd-003": {
+"skip": true
+},
+"25thd-004": {
+"skip": true
+},
+"25thd-005": {
+"skip": true
+},
+"25thd-006": {
+"skip": true
+},
+"25thd-007": {
+"skip": true
+},
+"25thd-008": {
+"skip": true
+},
+"25thd-009": {
+"skip": true
+},
+"25thd-010": {
+"skip": true
+},
+"25thd-011": {
+"skip": true
+},
+"25thd-012": {
+"skip": true
+},
+"25thd-013": {
+"skip": true
+},
+"25thd-014": {
+"tp": "Probability",
+"k": "25/102 or 0.24",
+"s": "DA"
+},
+"25thd-015": {
+"tp": "Probability",
+"q": "Drawing 2 cards from a deck of 52 without replacement, what's the probability of drawing a red then a black card?",
+"k": "13/51",
+"s": "DA"
+},
+"25thd-016": {
+"tp": "Dilution",
+"q": "If you mix 100 mL of a 0.5 M NaCl solution with 200 mL of water, what is the final molarity of the solution?",
+"k": "0.167 or 1/6 M",
+"s": "AM"
+},
+"25thd-017": {
+"tp": "Fourier transform",
+"q": "The Fourier transform of a delta function δ(t) is",
+"k": "1",
+"s": "AM"
+},
+"25thd-018": {
+"skip": true
+},
+"25thd-019": {
+"tp": "Interquartile range",
+"q": "What is the interquartile range for the following data set of weekly hours worked: 20, 25, 30, 35, 40, 45, 50?",
+"k": "20",
+"s": "DA"
+},
+"25thd-020": {
+"skip": true
+},
+"25thd-021": {
+"skip": true
+},
+"25thd-022": {
+"tp": "Trigonometry",
+"q": "If the angle of elevation to the top of a chimney from 40 m away is 45°, find the chimney's height.",
+"k": "40 m",
+"s": "AM"
+},
+"25thd-023": {
+"skip": true
+},
+"25thd-024": {
+"tp": "Chemistry calculations",
+"q": "How many grams of hydrogen are in 117 grams of water, H₂O, if H = 1 and O = 16?",
+"k": "13 g",
+"s": "AM"
+},
+"25thd-025": {
+"skip": true
+},
+"25thd-026": {
+"tp": "Permutations",
+"k": "360",
+"s": "DA"
+},
+"25thd-027": {
+"tp": "Ratios",
+"q": "What is the ratio of the number of redheads to the rest of the population if one-tenth have red hair?",
+"k": "1:9",
+"s": "AM"
+},
+"25thd-028": {
+"tp": "Percentages",
+"q": "What weight of a 20% (w/w) solution can be prepared from 8 g of active ingredient?",
+"k": "40 g",
+"s": "AM"
+},
+"25thd-029": {
+"skip": true
+},
+"25thd-030": {
+"tp": "z-scores",
+"k": "1",
+"s": "DA"
+},
+"25thd-031": {
+"skip": true
+},
+"25thd-032": {
+"skip": true
+},
+"25thd-033": {
+"tp": "AC circuits",
+"k": "90°",
+"s": "AM"
+},
+"25thd-034": {
+"tp": "Normal distribution",
+"q": "For a normally distributed dataset with a mean of 40 and SD of 10, what is the 50th percentile if the z-score is 2?",
+"k": "40",
+"s": "DA"
+},
+"25thd-035": {
+"tp": "z-scores",
+"q": "What is the z-score of a value of 99 in a dataset with a mean of 95 and a standard deviation of 10?",
+"k": "0.4",
+"s": "DA"
+},
+"25thd-036": {
+"tp": "Normal distribution",
+"q": "What percentage of data points fall within 2 standard deviations of the mean in a normal distribution?",
+"k": "0.95",
+"s": "DA"
+},
+"25thd-037": {
+"tp": "Arithmetic",
+"k": "7",
+"s": "AM"
+},
+"25thd-038": {
+"tp": "Mean, median and mode",
+"q": "If the mean and mode of some data are 4 and 10 respectively, its median will be ____",
+"k": "6",
+"s": "DA"
+},
+"25thd-039": {
+"tp": "Percentages",
+"q": "A salary increases by 40% and then decreases by 10%. What's the overall percentage change?",
+"k": "26%",
+"s": "AM"
+},
+"25thd-040": {
+"tp": "Units",
+"k": "4,500,000 mL",
+"s": "AM"
+},
+"25thd-041": {
+"tp": "Ratios",
+"k": "$4,000",
+"s": "AM"
+},
+"25thd-042": {
+"tp": "Probability",
+"k": "1/2",
+"s": "DA"
+},
+"25thd-043": {
+"skip": true
+},
+"25thd-044": {
+"tp": "Sets",
+"q": "In a class of 60, 40 study economics, 30 political science, and 20 both. How many study only economics?",
+"k": "20 students",
+"s": "DA"
+},
+"25thd-045": {
+"tp": "Permutations",
+"q": "How many words can be formed using the letters of the word \"DRIVER\" such that the vowels are never together?",
+"k": "240",
+"s": "DA"
+},
+"25thd-046": {
+"tp": "Interest",
+"q": "A person invests $100,000 at a 5% interest rate per annum. How much will they have after 1 year?",
+"k": "$105,000",
+"s": "AM"
+},
+"25thd-047": {
+"tp": "Ratios",
+"k": "360 mL",
+"s": "AM"
+},
+"25thd-048": {
+"tp": "Ratios",
+"k": "20 kg",
+"s": "AM"
+},
+"25thd-049": {
+"tp": "Volume",
+"k": "400,000 liters",
+"s": "AM"
+},
+"25thd-050": {
+"tp": "Interquartile range",
+"k": "3",
+"s": "DA"
+},
+"25thd-051": {
+"tp": "z-scores",
+"k": "2",
+"s": "DA"
+},
+"25thd-052": {
+"skip": true
+},
+"25thd-053": {
+"tp": "Ages",
+"q": "John and James have a present age ratio of 5:6, with a 6-year age difference. What will James's age be in 5 years?",
+"k": "41 years",
+"s": "AM"
+},
+"25thd-054": {
+"tp": "Arithmetic",
+"k": "3,500 feet",
+"s": "AM"
+},
+"25thd-055": {
+"skip": true
+},
+"25thd-056": {
+"tp": "z-scores",
+"q": "A dataset has a mean of 120, a standard deviation of 18, and a z-score of 1. What is the value of the 75th percentile?",
+"k": "138",
+"s": "DA"
+},
+"25thd-057": {
+"tp": "Arithmetic",
+"k": "2 kg",
+"s": "AM"
+},
+"25thd-058": {
+"tp": "Rates",
+"q": "A patient's heart rate is 180 bpm. What is their heart rate in seconds per beat?",
+"k": "0.33 or 1/3 s/b",
+"s": "AM"
+},
+"25thd-059": {
+"skip": true
+},
+"25thd-060": {
+"tp": "Percentages",
+"k": "24",
+"s": "AM"
+},
+"25thd-061": {
+"tp": "Percentages",
+"k": "$144",
+"s": "AM"
+},
+"25thd-062": {
+"tp": "Profit",
+"q": "A company's revenue is $80,000, and its expenses are $60,000. What is the profit margin as a percentage?",
+"k": "25%",
+"s": "AM"
+},
+"25thd-063": {
+"skip": true
+},
+"25thd-064": {
+"tp": "Growth",
+"k": "72,900",
+"s": "AM"
+},
+"25thd-065": {
+"tp": "Percentages",
+"k": "8%",
+"s": "AM"
+},
+"25thd-066": {
+"tp": "Units",
+"k": "1,500 dm³",
+"s": "AM"
+},
+"25thd-067": {
+"tp": "Ratios",
+"q": "A's and B's incomes are in a 4:3 ratio, and their expenditures in a 3:2 ratio. Both save $600 yearly. Find A's income.",
+"k": "$2,400",
+"s": "AM"
+},
+"25thd-068": {
+"skip": true
+},
+"25thd-069": {
+"tp": "Linear cost",
+"q": "A car rental company charges a base fee of ₦2,000 plus ₦500 per day. If one rents for 6 days, what is the total cost?",
+"k": "₦5,000",
+"s": "AM"
+},
+"25thd-070": {
+"tp": "Dilution",
+"q": "The molarity of a solution made by mixing 50 mL of 18 M sulphuric acid with 50 mL of water is",
+"k": "9 M",
+"s": "AM"
+},
+"25thd-071": {
+"skip": true
+},
+"25thd-072": {
+"skip": true
+},
+"25thd-073": {
+"tp": "Halving",
+"q": "Light intensity halves every 8 m. If it's 8,000 lux at the source, find the intensity at 24 m.",
+"k": "1,000 lux",
+"s": "AM"
+},
+"25thd-074": {
+"tp": "Area",
+"q": "A 12 m × 8 m garden is covered with grass at $2 per square meter. Find the total cost.",
+"k": "$192",
+"s": "AM"
+},
+"25thd-075": {
+"tp": "Percentages",
+"q": "A class has 60 students, 60% of whom are boys. If 25% of the girls cycle to school, how many girls don't?",
+"k": "18",
+"s": "AM"
+},
+"25thd-076": {
+"skip": true
+},
+"25thd-077": {
+"tp": "Rates",
+"q": "Given a train travelling 500 km at an average speed of 80 km/h, calculate the journey duration in minutes.",
+"k": "375 minutes",
+"s": "AM"
+},
+"25thd-078": {
+"skip": true
+},
+"25thd-079": {
+"tp": "Arithmetic",
+"k": "3 kg",
+"s": "AM"
+},
+"25thd-080": {
+"tp": "Combinations",
+"k": "70",
+"s": "DA"
+},
+"25thd-081": {
+"skip": true
+},
+"25thd-082": {
+"tp": "Mean",
+"q": "The mean of 5, 7, y, 9 and 3 is 5. What's the value of y?",
+"k": "1",
+"s": "DA"
+},
+"25thd-083": {
+"tp": "Rates",
+"q": "If a university student's heart rate is 105 bpm, what is their heart rate in beats per second?",
+"k": "1.75 bps or 7/4",
+"s": "AM"
+},
+"25thd-084": {
+"tp": "Fluid mechanics",
+"q": "The continuity equation in fluid mechanics represents the conservation of",
+"o": [
+"Mass",
+"Energy",
+"Pressure"
+],
+"k": "Mass",
+"s": "AM"
+},
+"25thd-085": {
+"skip": true
+},
+"25thd-086": {
+"tp": "Perimeter",
+"q": "A rectangular pool has dimensions (x + 2) meters by x meters. If its perimeter is 48 meters, find x.",
+"k": "11 meters",
+"s": "AM"
+},
+"25thd-087": {
+"skip": true
+},
+"25thd-088": {
+"tp": "Simple interest",
+"q": "What is the interest rate if the simple interest on a loan is ₦3,000 and the principal amount is ₦15,000 for 2 years?",
+"k": "10%"
+},
+"25thd-089": {
+"tp": "Differential equations",
+"k": "Particular solution"
+},
+"25thd-090": {
+"tp": "Percentages",
+"q": "In a survey of 200 people, 55% preferred coffee, and the rest preferred tea. How many people prefer tea?",
+"k": "90 people"
+},
+"25thd-091": {
+"tp": "Concentration",
+"q": "A solution contains glucose at 50 mg/10 mL. How many milligrams of glucose are in 2.5 mL of solution?",
+"k": "12.5 mg"
+},
+"25thd-092": {
+"tp": "Vectors",
+"q": "The dot product of two unit vectors is ____",
+"k": "Between −1 and 1"
+},
+"25thd-093": {
+"tp": "Growth",
+"k": "704 bacteria"
+},
+"25thd-094": {
+"tp": "Charts",
+"k": "Line graph",
+"s": "DA"
+},
+"25thd-095": {
+"tp": "Vector calculus",
+"q": "In which of these is Green's theorem applicable?",
+"k": "Two dimensions"
+},
+"25thd-096": {
+"tp": "Differential equations",
+"k": "First-order ODEs"
+},
+"25thd-097": {
+"tp": "Units",
+"q": "A recipe calls for 2,500 mL of milk. How many litres of milk is this?",
+"k": "2.5 L"
+},
+"25thd-098": {
+"tp": "Rates",
+"q": "How many units of product X can be produced with 48 hours of labor available, given $8/unit and 3 hours/unit?",
+"k": "16 units"
+},
+"25thd-099": {
+"tp": "Rates",
+"k": "175 minutes"
+},
+"25thd-100": {
+"tp": "Growth",
+"k": "100%",
+"n": "100% is the simple (linear) rate; compounding hourly, tripling in 2 hours is √3 − 1 ≈ 73% an hour."
+},
+"25thd-101": {
+"tp": "Discounts",
+"k": "$7,200"
+},
+"25thd-102": {
+"tp": "Perimeter",
+"q": "The perimeter of a rectangular roof is 48 meters, and its length is 3 times its width. What is its length in centimetres?",
+"k": "1,800 cm"
+},
+"25thd-103": {
+"tp": "Differential equations",
+"q": "If a PDE has one real repeated characteristic root, then it is",
+"k": "Parabolic"
+},
+"25thd-104": {
+"tp": "Perimeter",
+"k": "120 meters"
+},
+"25thd-105": {
+"tp": "Quadratics",
+"q": "What is the x-coordinate of the vertex of the quadratic function R(x) = −4x² + 16x?",
+"k": "2"
+},
+"25thd-106": {
+"tp": "Limits",
+"k": "1"
+},
+"25thd-107": {
+"tp": "Continuity",
+"q": "The function f(x) = (x² − 4)/(x − 2) is discontinuous at x = ____",
+"k": "2"
+},
+"25thd-108": {
+"tp": "Differential equations",
+"k": "Poisson equation"
+},
+"25thd-109": {
+"tp": "Units",
+"k": "10⁻⁴ cm or 0.0001 cm"
+},
+"25thd-110": {
+"tp": "Ratios",
+"q": "The length of a pen is 36 cm and its radius is 8 cm. What is the ratio of its length to its diameter in its lowest terms?",
+"k": "9:4"
+},
+"25thd-111": {
+"skip": true
+},
+"25thd-112": {
+"skip": true
+},
+"25thd-113": {
+"skip": true
+},
+"25thd-114": {
+"skip": true
+},
+"25thd-115": {
+"skip": true
+},
+"25thd-116": {
+"skip": true
+},
+"25thd-117": {
+"skip": true
+},
+"25thd-118": {
+"skip": true
+},
+"25thd-119": {
+"skip": true
+},
+"25thd-120": {
+"skip": true
+},
+"25thd-121": {
+"skip": true
+},
+"25thd-122": {
+"skip": true
+},
+"25thd-123": {
+"skip": true
+},
+"25thd-124": {
+"skip": true
+},
+"25thd-125": {
+"skip": true
+},
+"25thd-126": {
+"skip": true
+},
+"25thd-127": {
+"skip": true
+},
+"25thd-128": {
+"skip": true
+},
+"25thd-129": {
+"skip": true
+},
+"25thd-130": {
+"skip": true
+},
+"25thd-131": {
+"skip": true
+},
+"25thd-132": {
+"skip": true
+},
+"25thd-133": {
+"skip": true
+},
+"25thd-134": {
+"skip": true
+},
+"25thd-135": {
+"skip": true
+},
+"25thd-136": {
+"skip": true
+},
+"25thd-137": {
+"skip": true
+},
+"25thd-138": {
+"skip": true
+},
+"25thd-139": {
+"skip": true
+},
+"25thd-140": {
+"skip": true
+},
+"25thd-141": {
+"skip": true
+},
+"25thd-142": {
+"skip": true
+},
+"25thd-143": {
+"skip": true
+},
+"25thd-144": {
+"skip": true
+},
+"25thd-145": {
+"skip": true
+},
+"25thd-146": {
+"skip": true
+},
+"25thd-147": {
+"skip": true
+},
+"25thd-148": {
+"skip": true
+},
+"25thd-149": {
+"skip": true
+},
+"25thd-150": {
+"skip": true
+},
+"25thd-151": {
+"skip": true
+},
+"25thd-152": {
+"skip": true
+},
+"25thd-153": {
+"skip": true
+},
+"25thd-154": {
+"skip": true
+},
+"25thd-155": {
+"skip": true
+},
+"25thd-156": {
+"skip": true
+},
+"25thd-157": {
+"skip": true
+},
+"25thd-158": {
+"tp": "Quartile deviation",
+"q": "The quartile deviation is 18 and the first quartile is 10. What is the third quartile?",
+"k": "46"
+},
+"25thd-159": {
+"tp": "Skewness",
+"k": "4"
+},
+"25thd-160": {
+"tp": "Sets",
+"k": "60 employees"
+},
+"25thd-161": {
+"tp": "Arithmetic",
+"q": "A farmer has 50 cows, with an average milk production of 10 L daily. What is the total milk production for 40 weeks?",
+"k": "140,000 liters"
+},
+"25thd-162": {
+"tp": "Types of data",
+"q": "What type of data is \"temperature in Celsius\"?",
+"k": "Interval"
+},
+"25thd-163": {
+"tp": "Geometric mean",
+"q": "What is the geometric mean of the data set 4, 7, 4, 0, 9 and 7?",
+"k": "0"
+},
+"25thd-164": {
+"tp": "Combinations",
+"k": "10 or ⁵C₂"
+},
+"25thd-165": {
+"tp": "Correlation",
+"k": "−1 to 1",
+"t": "w"
+},
+"25thd-166": {
+"tp": "Sets",
+"q": "In a room of 100 choristers, 43 sing alto, 37 sing soprano, and 9 sing both. How many do not sing either part?",
+"k": "29"
+},
+"25thd-167": {
+"tp": "z-scores",
+"q": "If a set of data has a mean of 12 and a standard deviation of 3, what is the z-score for a value of 9?",
+"k": "−1"
+},
+"25thd-168": {
+"tp": "Probability",
+"q": "Find the probability of getting at least 2 heads if a coin is thrown 5 times.",
+"k": "27/32 or 0.84",
+"a": "13/16",
+"t": "d",
+"n": "The show's bar read 27/32; P(0 heads) + P(1 head) = 1/32 + 5/32 = 6/32, so the answer is 26/32 = 13/16 ≈ 0.81."
+},
+"25thd-169": {
+"tp": "Probability",
+"k": "13/52 or 1/4 or 0.25"
+},
+"25thd-170": {
+"tp": "Quartiles",
+"k": "30"
+},
+"25thd-171": {
+"tp": "Quartiles",
+"q": "____ divides the data into four equal parts.",
+"o": [
+"Mean",
+"Quartile",
+"Range"
+],
+"k": "Quartile"
+},
+"25thd-172": {
+"tp": "Permutations",
+"q": "A group of 4 people is to be arranged in a circle. How many different arrangements can be formed?",
+"k": "24",
+"a": "6",
+"t": "d",
+"n": "The show's bar read 24 (4!, as if in a row); round a circle, rotations are the same arrangement, so it is (4 − 1)! = 6."
+},
+"25thd-173": {
+"tp": "Combinations",
+"k": "495"
+},
+"25thd-174": {
+"tp": "Probability",
+"q": "Find the probability of getting a sum of 22 or more when four dice are thrown simultaneously.",
+"k": "5/432"
+},
+"25thd-175": {
+"tp": "Skewness",
+"q": "If a dataset has a skewness of 6, a median of 55, and a standard deviation of 12, determine its mean.",
+"k": "79"
+},
+"25thd-176": {
+"tp": "Sets",
+"k": "40"
+},
+"25thd-177": {
+"tp": "Probability",
+"k": "1/13"
+},
+"25thd-178": {
+"tp": "Simple interest",
+"q": "What is the interest rate if the simple interest on a loan is $2,000 and the principal amount is $10,000 for 2 years?",
+"k": "10%"
+},
+"25thd-179": {
+"tp": "Mean",
+"k": "720 years"
+},
+"25thd-180": {
+"tp": "Polygons",
+"q": "How many diagonals can be drawn in a pentagon?",
+"k": "5 diagonals"
+},
+"25thd-181": {
+"tp": "Probability",
+"k": "5/12"
+},
+"25thd-182": {
+"skip": true
+},
+"25thd-183": {
+"skip": true
+},
+"25thd-184": {
+"skip": true
+},
+"25thd-185": {
+"skip": true
+},
+"25thd-186": {
+"skip": true
+},
+"25thd-187": {
+"skip": true
+},
+"25thd-188": {
+"skip": true
+}
+}

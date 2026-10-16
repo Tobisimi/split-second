@@ -102,6 +102,7 @@ export function checkTyped(given: string, q: Question): boolean {
   if (!given.trim()) return false;
   const targets = [q.answer, ...(q.accept ?? [])].flatMap(alternatives);
   const g = norm(given);
+  const gv = values(given, q.unitMatters);
   for (const t of targets) {
     if (norm(t) === g) return true;
     const lt = loose(t);
@@ -110,9 +111,9 @@ export function checkTyped(given: string, q: Question): boolean {
       const bt = bare(t);
       if (bt && bt === bare(given)) return true;
     }
-    if (/, | and | ?& ?/.test(t) && wordSet(t) && wordSet(t) === wordSet(given)) return true;   // a list in any order: "1 and 3", "Red, black and green"
+    // a list in any order ("1 and 3", "Red, black and green"), but a typed number such as 1/9 is never read as a list
+    if (!gv.length && /, | and | ?& ?/.test(t) && wordSet(t) && wordSet(t) === wordSet(given)) return true;
   }
-  const gv = values(given, q.unitMatters);
   if (!gv.length) return false;
   return targets.some(t => sameNumber(gv, values(t, q.unitMatters), q.tol));
 }

@@ -50,7 +50,7 @@ const CASES: [string, string[], string, boolean][] = [
   ['0.0001 M (1 × 10⁻⁴ M)', [], '1x10^-4', true], ['0.0001 M (1 × 10⁻⁴ M)', [], '1', false],
   ['1 litre (1,000 cm³)', [], '1000 cm3', true], ['6,667 m³ (20,000/3)', [], '6666.67', true],
   ['Oil palm/Palm kernel', [], 'palm kernel', true], ['5 tonnes or 500 kg', [], '50', false],
-  ['2.4', [], '2.41', false], ['13.6 g/cm³', [], '13.5', false], ['1 × 10⁻⁹ M', [], '0', false], ['9/44', [], '0.204', true], ['20000/3', [], '6666.666', true], ['1:3', [], '13', false], ['1:3', [], '1 : 3', true], ['π/2 radians', ['1/2 π'], '1/2', false], ['2√3', [], '2', false], ['5x', [], '5', false], ['10 per cent', [], '0.1', true],
+  ['i + 9j', ['(1, 9)'], '1/9', false], ['1 and 3', [], '3, 1', true], ['2.4', [], '2.41', false], ['13.6 g/cm³', [], '13.5', false], ['1 × 10⁻⁹ M', [], '0', false], ['9/44', [], '0.204', true], ['20000/3', [], '6666.666', true], ['1:3', [], '13', false], ['1:3', [], '1 : 3', true], ['π/2 radians', ['1/2 π'], '1/2', false], ['2√3', [], '2', false], ['5x', [], '5', false], ['10 per cent', [], '0.1', true],
 ];
 for (const [answer, accept, typed, want] of CASES) {
   const q = { id: 'case', answer, accept } as unknown as Question;
@@ -80,7 +80,12 @@ for (const q of bank) {
 
 // 4a. typing only the first number of an answer with several different numbers must not count,
 //     unless some accepted form is that number with at most a unit after it ("5 tonnes or 500 kg" takes "5")
-const lead = (s: string) => s.replace(/(\d),(\d{3})/g, '$1$2').match(/-?\d+(\.\d+)?/)?.[0];
+const lead = (s: string) => {   // the first number in an answer, reading a leading fraction like 2/5 as 0.4
+  const m = s.replace(/(\d),(\d{3})/g, '$1$2').match(/-?\d+(\.\d+)?(\s*\/\s*\d+(\.\d+)?)?/)?.[0];
+  if (!m) return undefined;
+  const [a, b] = m.split('/').map(Number);
+  return String(b ? a / b : a);
+};
 for (const q of bank) {
   if (q.options) continue;
   const nums = q.answer.replace(/(\d),(\d{3})/g, '$1$2').match(/\d+(\.\d+)?/g) ?? [];

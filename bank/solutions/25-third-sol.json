@@ -1,0 +1,772 @@
+{
+ "25-third-qb-1477": {
+  "solution": "P(black, then black) = 26/52 × 25/51 = 25/102 ≈ 0.245.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "25/102",
+   "0.245",
+   "0.24"
+  ],
+  "comment": ""
+ },
+ "25-third-qb-1481": {
+  "solution": "P(red first) = 26/52 = 1/2, then P(black) = 26/51. Together 1/2 × 26/51 = 13/51.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1492": {
+  "solution": "0.1 L × 0.5 M = 0.05 mol in 0.3 L: 0.05 ÷ 0.3 = 1/6 ≈ 0.167 M.",
+  "trick": "Volume tripled, so the molarity is a third: 0.5 ÷ 3.",
+  "check": "agree",
+  "accept": [
+   "1/6",
+   "0.167",
+   "0.17 M"
+  ],
+  "comment": ""
+ },
+ "25-third-qb-1500": {
+  "solution": "∫ δ(t) e^(−iωt) dt picks out the value at t = 0, which is 1, for every frequency.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1519": {
+  "solution": "The lower half 20, 25, 30 gives Q1 = 25 and the upper half 40, 45, 50 gives Q3 = 45, so IQR = 20.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1541": {
+  "solution": "height = 40 × tan 45° = 40 × 1 = 40 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1556": {
+  "solution": "Water is 18 g/mol with 2 g of hydrogen, so 117 × 2/18 = 13 g.",
+  "trick": "117 ÷ 9 = 13.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1572": {
+  "solution": "⁶P₄ = 6 × 5 × 4 × 3 = 360.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1578": {
+  "solution": "1 part in 10 has red hair and 9 parts do not: 1 : 9.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1 : 9"
+  ],
+  "comment": ""
+ },
+ "25-third-qb-1587": {
+  "solution": "8 g is 20% of the total, so total = 8 ÷ 0.2 = 40 g.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1610": {
+  "solution": "z = (12 − 10) ÷ 2 = 1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1629": {
+  "solution": "In a pure inductor the voltage leads the current by a quarter cycle: 90° (π/2).",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "90",
+   "π/2",
+   "pi/2"
+  ],
+  "comment": ""
+ },
+ "25-third-qb-1633": {
+  "solution": "The 50th percentile of a normal distribution is the mean, 40. (z = 2 does not change it.)",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1643": {
+  "solution": "z = (99 − 95) ÷ 10 = 0.4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1647": {
+  "solution": "About 95% (more exactly 95.4%) lies within two standard deviations.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "95%",
+   "95",
+   "95.4%"
+  ],
+  "comment": ""
+ },
+ "25-third-qb-1651": {
+  "solution": "A triangle has 3 vertices and a quadrilateral 4: 3 + 4 = 7.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1656": {
+  "solution": "Mode ≈ 3 × median − 2 × mean, so 10 = 3M − 8 and M = 6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1662": {
+  "solution": "1.4 × 0.9 = 1.26, a 26% increase.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1672": {
+  "solution": "1 L = 1,000 mL, so 4,500 L = 4,500,000 mL.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1681": {
+  "solution": "C and D differ by 4 − 3 = 1 part = $2,000, so B (2 parts) gets $4,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1691": {
+  "solution": "The sum is even when both dice are even or both odd: 1/2 × 1/2 + 1/2 × 1/2 = 1/2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1703": {
+  "solution": "Only economics: 40 − 20 = 20.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1709": {
+  "solution": "All arrangements: 6! ÷ 2! = 360 (two Rs). With I and E together as a block: 5! ÷ 2! × 2 = 120. So 360 − 120 = 240.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1717": {
+  "solution": "100,000 × 1.05 = $105,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1726": {
+  "solution": "Soda is 3 of 5 parts: 3/5 × 600 = 360 mL.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1731": {
+  "solution": "Sugar : flour = 3 : 6 = 1 : 2, so sugar is 1/3 of the 60 kg: 20 kg.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1743": {
+  "solution": "20 × 10 × 2 = 400 m³, and 1 m³ = 1,000 L: 400,000 L.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1751": {
+  "solution": "Leaving out the median, the lower half 1, 2 gives Q1 = 1.5 and the upper half 4, 5 gives Q3 = 4.5, so IQR = 3.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1757": {
+  "solution": "A z-score counts standard deviations from the mean, so 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1771": {
+  "solution": "One part of the ratio is the 6-year gap, so James is 6 × 6 = 36 now and 41 in 5 years.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1780": {
+  "solution": "6,000 − 2,500 = 3,500 ft.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1789": {
+  "solution": "x = mean + z × SD = 120 + 18 = 138.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1799": {
+  "solution": "The books weigh 15 × 0.8 = 12 kg, so the packaging is 14 − 12 = 2 kg.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1802": {
+  "solution": "180 beats in 60 seconds is 60 ÷ 180 = 1/3 s per beat.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/3",
+   "0.33",
+   "0.333"
+  ],
+  "comment": ""
+ },
+ "25-third-qb-1824": {
+  "solution": "An increase of 125% is 1.25 × the number = 30, so the number is 24.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1832": {
+  "solution": "8 × $20 = $160, and 10% off leaves $144.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1839": {
+  "solution": "Profit = 20,000, and 20,000 ÷ 80,000 = 25%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1848": {
+  "solution": "2.5 hours is 150 minutes, 6 periods of 25 minutes: 100 × 3⁶ = 100 × 729 = 72,900.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1859": {
+  "solution": "1.2 × 0.9 = 1.08, an 8% increase.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1865": {
+  "solution": "1 L = 1 dm³, so 1,500 L = 1,500 dm³.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1879": {
+  "solution": "Incomes 4x, 3x and spending 3y, 2y: 4x − 3y = 600 and 3x − 2y = 600. Solving gives x = 600, so A earns $2,400.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1894": {
+  "solution": "2,000 + 6 × 500 = ₦5,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1899": {
+  "solution": "The volume doubles, so the molarity halves: 18 ÷ 2 = 9 M.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1921": {
+  "solution": "24 m is three halvings: 8,000 → 4,000 → 2,000 → 1,000 lux.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1927": {
+  "solution": "Area 12 × 8 = 96 m², and 96 × $2 = $192.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1931": {
+  "solution": "Girls = 40% of 60 = 24. A quarter cycle (6), so 18 do not.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1949": {
+  "solution": "500 ÷ 80 = 6.25 hours = 6.25 × 60 = 375 minutes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1962": {
+  "solution": "The bottles weigh 5 × 1.8 = 9 kg, so the packaging is 12 − 9 = 3 kg.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1965": {
+  "solution": "⁸C₄ = (8 × 7 × 6 × 5) ÷ 24 = 70.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1974": {
+  "solution": "Five values with mean 5 add to 25. 5 + 7 + 9 + 3 = 24, so y = 1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1979": {
+  "solution": "105 ÷ 60 = 1.75 beats per second.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1.75",
+   "7/4"
+  ],
+  "comment": ""
+ },
+ "25-third-qb-1988": {
+  "solution": "The continuity equation says mass is conserved: what flows in must flow out (A₁v₁ = A₂v₂ for an incompressible fluid).",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-qb-1997": {
+  "solution": "Perimeter = 2((x + 2) + x) = 4x + 4. So 4x + 4 = 48, which gives x = 11 m.",
+  "trick": "Half the perimeter is 24 = 2x + 2, so x = 11.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2243": {
+  "solution": "R = I ÷ (PT) = 3,000 ÷ (15,000 × 2) = 0.1 = 10%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2250": {
+  "solution": "Fixing the constants of the general solution with the initial conditions gives a particular solution.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "particular"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2256": {
+  "solution": "45% of 200 = 90.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2259": {
+  "solution": "That is 5 mg per mL, so 2.5 mL holds 12.5 mg.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2269": {
+  "solution": "u · v = |u||v| cos θ = cos θ, which lies between −1 and 1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "between -1 and 1",
+   "cos θ",
+   "cos theta",
+   "-1 to 1"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2272": {
+  "solution": "Growing by 2 an hour for 2 hours adds 4: 704.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2277": {
+  "solution": "Heart rate measured over time is shown with a line graph.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "line chart"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2280": {
+  "solution": "Green's theorem works in the plane: it links a line integral round a closed curve to a double integral over the region inside.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2D",
+   "two-dimensional",
+   "the plane"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2283": {
+  "solution": "Separation of variables solves separable first-order ODEs, dy/dx = f(x)g(y). (It is also used for some PDEs.)",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "separable ODEs",
+   "first order ODEs"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2286": {
+  "solution": "2,500 ÷ 1,000 = 2.5 L.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2290": {
+  "solution": "48 ÷ 3 = 16 units (the $8 cost does not matter).",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2296": {
+  "solution": "3,500 ÷ 20 = 175 minutes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2301": {
+  "solution": "It gains 8,000 in 2 hours, 4,000 an hour, which is 100% of the starting 4,000 each hour.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2307": {
+  "solution": "40 × $200 = $8,000, and 10% off leaves $7,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2313": {
+  "solution": "2(3w + w) = 8w = 48, so w = 6 m and the length is 18 m = 1,800 cm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2320": {
+  "solution": "A repeated real root means B² − 4AC = 0, the parabolic case.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2325": {
+  "solution": "A square has 4 equal sides: 480 ÷ 4 = 120 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2334": {
+  "solution": "x = −b ÷ 2a = −16 ÷ (−8) = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2339": {
+  "solution": "sin x ÷ x → 1 as x → 0 (a standard limit, from sin x ≈ x for small x).",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2342": {
+  "solution": "The denominator is zero at x = 2, so f is undefined there.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2348": {
+  "solution": "Poisson's equation is ∇²u = f; Laplace's equation is the case f = 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Poisson's equation",
+   "Poisson"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2351": {
+  "solution": "1 micron = 10⁻⁶ m = 10⁻⁴ cm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.0001",
+   "10^-4",
+   "1e-4"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2356": {
+  "solution": "Diameter = 16 cm, so 36 : 16 = 9 : 4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "9 : 4"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2649": {
+  "solution": "QD = (Q3 − Q1) ÷ 2, so Q3 = 10 + 2 × 18 = 46.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2654": {
+  "solution": "Pearson's skewness = 3(mean − median) ÷ SD = 3 × 20 ÷ 15 = 4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2661": {
+  "solution": "Managers: 30 + 10 = 40, so 100 − 40 = 60 are not managers.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2669": {
+  "solution": "50 × 10 = 500 L a day, and 40 weeks is 280 days: 500 × 280 = 140,000 L.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2676": {
+  "solution": "Celsius has equal steps but no true zero, so it is interval data.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "interval data"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2679": {
+  "solution": "The geometric mean is the 6th root of the product, and a 0 makes the product 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2685": {
+  "solution": "⁵C₂ = 10.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "10",
+   "5C2"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2690": {
+  "solution": "A correlation coefficient always lies between −1 and +1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "-1 to 1",
+   "-1 to +1",
+   "between -1 and 1"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2693": {
+  "solution": "Either: 43 + 37 − 9 = 71, so 100 − 71 = 29.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2701": {
+  "solution": "z = (9 − 12) ÷ 3 = −1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "-1"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2706": {
+  "solution": "P(0 or 1 head) = (1 + 5) ÷ 32 = 6/32, so P(at least 2) = 26/32 = 13/16 ≈ 0.81.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "26/32",
+   "0.8125",
+   "0.81"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2713": {
+  "solution": "13 hearts out of 52: 1/4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/4",
+   "0.25",
+   "13/52",
+   "25%"
+  ],
+  "comment": ""
+ },
+ "25-third-bm-2716": {
+  "solution": "IQR = Q3 − Q1, so Q1 = 50 − 20 = 30.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2720": {
+  "solution": "The three quartiles split ordered data into four equal parts.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2724": {
+  "solution": "Fix one person and arrange the other 3: (4 − 1)! = 6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2727": {
+  "solution": "¹²C₄ = 495.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2730": {
+  "solution": "Sum 24: 1 way; 23: 4 ways (one 5); 22: 6 ways with two 5s and 4 with one 4. That is 15 of 6⁴ = 1,296: 15/1,296 = 5/432.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2736": {
+  "solution": "Pearson's skewness: 3(mean − 55) ÷ 12 = 6, so mean − 55 = 24 and the mean is 79.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2743": {
+  "solution": "Red or blue: 30 + 20 − 10 = 40.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2749": {
+  "solution": "4 aces out of 52: 4/52 = 1/13.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2752": {
+  "solution": "R = 2,000 ÷ (10,000 × 2) = 10%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2759": {
+  "solution": "Total = 30 × 24 = 720 years.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2761": {
+  "solution": "n(n − 3) ÷ 2 = 5 × 2 ÷ 2 = 5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-third-bm-2765": {
+  "solution": "Prime totals 2, 3, 5, 7, 11 come up 1 + 2 + 4 + 6 + 2 = 15 ways of 36: 15/36 = 5/12.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ }
+}

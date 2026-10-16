@@ -1,0 +1,34 @@
+{
+ "code": "third",
+ "season": "25",
+ "video": "VuOJk-uWj2k",
+ "match": "OAU v Bells, 2025",
+ "stage": "third",
+ "qb_top": "OAU",
+ "qb_bottom": "BELLS",
+ "bm_top": "OAU",
+ "bm_bottom": "BELLS",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "VR",
+  "3": "GK",
+  "4": "DA"
+ },
+ "bm_max_step": 40,
+ "quarter_starts": {
+  "BM": [
+   2235,
+   2370,
+   2510,
+   2640
+  ]
+ },
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/25-third.json",
+   "bank/review/25-third.json"
+  ]
+ ],
+ "out": "bank/master/25-third.json"
+}
