@@ -63,3 +63,16 @@ and false matches are about 1 in 500 question checks.
 - Shared transcript passages between the seasons are host lines, not questions.
 - The 2025 group stage shows the same within-season reuse as 2026 (median 3, up to 21 shared question passages
   between its matchday videos).
+
+## 2025 knockouts against 2026 (from captured matches, 16 Oct 2026)
+
+The 255 maths and data questions captured from the 2025 Final and semi-finals were compared with every 2026
+question by wording and numbers (closest matches checked by eye):
+
+- 6 are essentially a 2026 question (same numbers, or the same question turned round), for example the molarity
+  ratio of 3/5 M to 5/8 M, the dot product of 3i + 4j and i − 2j, and a cyclist at 140 bpm for 45 minutes.
+- About 20 follow a 2026 pattern with new numbers (half-life, nurse-to-doctor ratio, dilution, packaging weight,
+  z-scores, marginal cost).
+- The other 229 or so (about 90%) match no 2026 question. Most are on topics 2026 also asked about; a few topics
+  appear only in 2025: "x% discount on every n items" (7 questions), Stokes' and Green's theorems, state-space
+  form, the heat equation as parabolic, decibels, power sets, the usual significance level and clock-hand turns.
