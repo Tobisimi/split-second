@@ -12,3 +12,5 @@ How the question bank is made from the University Duel videos.
 Notes from checking: the green bar always shows the show's answer, including when the player was wrong or nobody answered, so a question with a captured bar has its answer confirmed by the show. The score updates when the answer window closes.
 
 The show sometimes puts the same question up twice in a row in Brain Match, or shows the previous question's options under a new question; the faded preview of the next question under the box tells a genuine repeat from a capture glitch. Repeats and stale options are fixed in the review.
+
+2025 videos use the same layout, so capture, processing and review sheets work unchanged. Differences: a Sponsorships box left of the Quick Buzz question (outside the crop), options in brackets above the question, and a Brain Match ladder that climbs 2, 4, 6 and so on (config `bm_max_step`). Their configs set `"season": "25"`, so ids start with 25-, and the match name ends in ", 2025". The 2025 Final video opens with highlight clips from earlier rounds and ends with replays; only the match's own stretches are reviewed.

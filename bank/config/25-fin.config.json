@@ -1,0 +1,40 @@
+{
+ "code": "fin",
+ "season": "25",
+ "video": "qW-d5gpbTss",
+ "match": "CU v Veritas, 2025",
+ "stage": "final",
+ "qb_top": "CU",
+ "qb_bottom": "VERITAS",
+ "bm_top": "CU",
+ "bm_bottom": "VERITAS",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "DA",
+  "3": "VR",
+  "4": "GK"
+ },
+ "bm_max_step": 40,
+ "quarter_starts": {
+  "QB": [
+   1130,
+   1295,
+   1460,
+   1625
+  ],
+  "BM": [
+   2100,
+   2234,
+   2420,
+   2560
+  ]
+ },
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/25-fin.json",
+   "bank/review/25-fin.json"
+  ]
+ ],
+ "out": "bank/master/25-fin.json"
+}

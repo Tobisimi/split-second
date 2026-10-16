@@ -1,0 +1,906 @@
+{
+"25fin-001": {
+"skip": true
+},
+"25fin-002": {
+"skip": true
+},
+"25fin-003": {
+"skip": true
+},
+"25fin-004": {
+"skip": true
+},
+"25fin-005": {
+"skip": true
+},
+"25fin-006": {
+"skip": true
+},
+"25fin-007": {
+"skip": true
+},
+"25fin-008": {
+"skip": true
+},
+"25fin-009": {
+"skip": true
+},
+"25fin-010": {
+"skip": true
+},
+"25fin-011": {
+"skip": true
+},
+"25fin-012": {
+"skip": true
+},
+"25fin-013": {
+"skip": true
+},
+"25fin-014": {
+"skip": true
+},
+"25fin-015": {
+"skip": true
+},
+"25fin-016": {
+"skip": true
+},
+"25fin-017": {
+"skip": true
+},
+"25fin-018": {
+"skip": true
+},
+"25fin-019": {
+"skip": true
+},
+"25fin-020": {
+"skip": true
+},
+"25fin-021": {
+"skip": true
+},
+"25fin-022": {
+"skip": true
+},
+"25fin-023": {
+"skip": true
+},
+"25fin-024": {
+"skip": true
+},
+"25fin-025": {
+"skip": true
+},
+"25fin-026": {
+"skip": true
+},
+"25fin-027": {
+"skip": true
+},
+"25fin-028": {
+"skip": true
+},
+"25fin-029": {
+"skip": true
+},
+"25fin-030": {
+"skip": true
+},
+"25fin-031": {
+"skip": true
+},
+"25fin-032": {
+"skip": true
+},
+"25fin-033": {
+"skip": true
+},
+"25fin-034": {
+"skip": true
+},
+"25fin-035": {
+"skip": true
+},
+"25fin-036": {
+"skip": true
+},
+"25fin-037": {
+"skip": true
+},
+"25fin-038": {
+"skip": true
+},
+"25fin-039": {
+"skip": true
+},
+"25fin-040": {
+"skip": true
+},
+"25fin-041": {
+"skip": true
+},
+"25fin-042": {
+"skip": true
+},
+"25fin-043": {
+"skip": true
+},
+"25fin-044": {
+"tp": "Perimeter",
+"q": "A rectangular pool has dimensions (x + 2) meters by x meters. If its perimeter is 48 meters, find x.",
+"k": "11 meters",
+"s": "AM"
+},
+"25fin-045": {
+"tp": "Permutations",
+"q": "How many ways can you arrange 5 different vases on a shelf?",
+"k": "120 ways",
+"s": "DA"
+},
+"25fin-046": {
+"tp": "Percentages",
+"k": "$405",
+"s": "AM"
+},
+"25fin-047": {
+"tp": "Percentages",
+"k": "25%",
+"s": "AM"
+},
+"25fin-048": {
+"tp": "Volume",
+"k": "1.25 × 10⁻⁴ cm³",
+"a": "1.25 × 10⁻⁴ m³",
+"t": "d",
+"n": "The show's bar wrote the unit as cm³; the volume is 125 cm³, which is 1.25 × 10⁻⁴ m³.",
+"s": "AM"
+},
+"25fin-049": {
+"skip": true
+},
+"25fin-050": {
+"tp": "Sets",
+"k": "10",
+"s": "DA"
+},
+"25fin-051": {
+"tp": "Ratios",
+"q": "If Solution A has a molarity of 3/5 and Solution B has a molarity of 5/8, what is the ratio of Solution A to Solution B?",
+"k": "24:25",
+"s": "AM"
+},
+"25fin-052": {
+"skip": true
+},
+"25fin-053": {
+"tp": "Ratios",
+"k": "1:3",
+"s": "AM"
+},
+"25fin-054": {
+"skip": true
+},
+"25fin-055": {
+"tp": "Arithmetic",
+"q": "A company has 150 employees. If each employee earns ₦500,000 per annum, what is the total annual salary of all employees?",
+"k": "₦75,000,000",
+"s": "AM"
+},
+"25fin-056": {
+"skip": true
+},
+"25fin-057": {
+"skip": true
+},
+"25fin-058": {
+"tp": "Dilution",
+"q": "In a lab, 50 mL of a 2 M solution is mixed with 10 mL of water. Find the resulting molarity.",
+"k": "0.67M or 2/3",
+"a": "1.67 M (5/3)",
+"t": "d",
+"n": "The show's bar read 0.67 M or 2/3, but 0.1 mol in 60 mL is 5/3 ≈ 1.67 M.",
+"s": "AM"
+},
+"25fin-059": {
+"tp": "Proportion",
+"k": "6 cups",
+"s": "AM"
+},
+"25fin-060": {
+"tp": "Expected value",
+"k": "$9,000",
+"s": "DA"
+},
+"25fin-061": {
+"tp": "Rates",
+"k": "6 hours",
+"s": "AM"
+},
+"25fin-062": {
+"skip": true
+},
+"25fin-063": {
+"skip": true
+},
+"25fin-064": {
+"tp": "Range",
+"q": "The following are scores made on a math test: 80, 90, 90, 85, 60, 70, 75, 85, 90, 60, 80. What is the range of these scores?",
+"k": "30",
+"s": "DA"
+},
+"25fin-065": {
+"tp": "Percentiles",
+"q": "In a study of 200 patients, the 95th percentile for recovery time is 10 days. How many recovered in less than 10 days?",
+"k": "190",
+"s": "DA"
+},
+"25fin-066": {
+"tp": "Vector calculus",
+"k": "x + y + z",
+"a": "3",
+"t": "d",
+"n": "The show's bar read x + y + z; the divergence is ∂x/∂x + ∂y/∂y + ∂z/∂z = 3.",
+"s": "AM"
+},
+"25fin-067": {
+"tp": "Probability",
+"k": "1/9",
+"s": "DA"
+},
+"25fin-068": {
+"tp": "Counting",
+"k": "4⁶ or 4,096 ways",
+"s": "DA"
+},
+"25fin-069": {
+"tp": "Counting",
+"k": "10",
+"a": "25",
+"t": "d",
+"n": "The show's bar read 10; with repetition there are 5 × 5 = 25 two-digit numbers (20 without).",
+"s": "DA"
+},
+"25fin-070": {
+"tp": "Probability",
+"q": "A card is drawn from a deck of 52. What's the probability of selecting a 4, replacing it, then selecting a queen?",
+"k": "1/169",
+"s": "DA"
+},
+"25fin-071": {
+"tp": "Simple interest",
+"q": "What is the period if simple interest is ₦2,000, the principal is ₦10,000, and the rate is 8% per annum?",
+"k": "2.5 years",
+"s": "AM"
+},
+"25fin-072": {
+"skip": true
+},
+"25fin-073": {
+"tp": "Normal distribution",
+"q": "A dataset has a mean of 80 and a SD of 12. What is the 2nd quartile, if the z-score for the 60th percentile is 0?",
+"k": "80",
+"s": "DA"
+},
+"25fin-074": {
+"skip": true
+},
+"25fin-075": {
+"tp": "z-scores",
+"q": "A company has mean sales of ₦100,000 and an SD of ₦20,000. What is the z-score for a sales revenue of ₦160,000?",
+"k": "3",
+"s": "DA"
+},
+"25fin-076": {
+"skip": true
+},
+"25fin-077": {
+"tp": "Mean",
+"q": "What is the value of p if the mean of the data 7, 8, 5, p, 4 is 6?",
+"k": "6",
+"s": "DA"
+},
+"25fin-078": {
+"skip": true
+},
+"25fin-079": {
+"skip": true
+},
+"25fin-080": {
+"skip": true
+},
+"25fin-081": {
+"tp": "Hypothesis testing",
+"k": "0.05",
+"s": "DA"
+},
+"25fin-082": {
+"tp": "Mean",
+"q": "What is the square of the mean of the data 5, 8, 2, 5, 6 and 4?",
+"k": "25",
+"s": "DA"
+},
+"25fin-083": {
+"skip": true
+},
+"25fin-084": {
+"tp": "Normal distribution",
+"q": "The SD of a normally distributed data set is 9. If 50 is 2 standard deviations below the mean, what is the mean?",
+"k": "68",
+"s": "DA"
+},
+"25fin-085": {
+"tp": "Probability",
+"k": "1/9",
+"s": "DA"
+},
+"25fin-086": {
+"tp": "Standard deviation",
+"q": "If the SD of the numbers 2, 4, 5 and 6 is a constant k, then find the SD of the numbers 4, 6, 7 and 8.",
+"k": "k",
+"s": "DA"
+},
+"25fin-087": {
+"tp": "Sets",
+"q": "In a class of 70 students, 45 study biology, 30 study chemistry, and 20 study both. How many study at least one?",
+"k": "55 students",
+"s": "DA"
+},
+"25fin-088": {
+"skip": true
+},
+"25fin-089": {
+"tp": "Quartiles",
+"k": "120",
+"s": "DA"
+},
+"25fin-090": {
+"tp": "Probability",
+"q": "What's the probability of drawing a red card or a card with a face from a standard deck of 52 cards?",
+"k": "8/13",
+"s": "DA"
+},
+"25fin-091": {
+"tp": "Median",
+"q": "The median of the dataset {4, 8, 15, 14, 23, 42} is ____",
+"k": "14.5 or 29/2",
+"s": "DA"
+},
+"25fin-092": {
+"skip": true
+},
+"25fin-093": {
+"skip": true
+},
+"25fin-094": {
+"tp": "Random variables",
+"k": "Only integer values",
+"s": "DA"
+},
+"25fin-095": {
+"skip": true
+},
+"25fin-096": {
+"skip": true
+},
+"25fin-097": {
+"skip": true
+},
+"25fin-098": {
+"tp": "Range",
+"k": "14",
+"n": "The answer bar for this question (14) appeared as the next question came up.",
+"s": "DA"
+},
+"25fin-099": {
+"skip": true
+},
+"25fin-100": {
+"tp": "Mode",
+"k": "7",
+"t": "w",
+"s": "DA"
+},
+"25fin-101": {
+"tp": "Mean",
+"k": "15",
+"s": "DA"
+},
+"25fin-102": {
+"skip": true
+},
+"25fin-103": {
+"tp": "Median",
+"k": "7",
+"s": "DA"
+},
+"25fin-104": {
+"skip": true
+},
+"25fin-105": {
+"tp": "Mean",
+"q": "The mean of the numbers 4, 6, 8, 10 is ____",
+"k": "7",
+"s": "DA"
+},
+"25fin-106": {
+"tp": "Probability",
+"q": "If a class has 60 students and 35 are female, what is the probability of selecting a male student?",
+"k": "5/12",
+"s": "DA"
+},
+"25fin-107": {
+"tp": "Probability",
+"k": "1/6",
+"s": "DA"
+},
+"25fin-108": {
+"tp": "Probability",
+"k": "3/4",
+"s": "DA"
+},
+"25fin-109": {
+"tp": "Probability distributions",
+"q": "A probability distribution that deals with the number of occurrences of an event in a fixed interval is ____",
+"k": "Poisson distribution",
+"s": "DA"
+},
+"25fin-110": {
+"tp": "Probability",
+"k": "0.2",
+"s": "DA"
+},
+"25fin-111": {
+"skip": true
+},
+"25fin-112": {
+"skip": true
+},
+"25fin-113": {
+"skip": true
+},
+"25fin-114": {
+"tp": "Mean",
+"q": "The mean of 8, 12, 20, and 20 is ____",
+"k": "15",
+"s": "DA"
+},
+"25fin-115": {
+"skip": true
+},
+"25fin-116": {
+"tp": "Median",
+"k": "7",
+"s": "DA"
+},
+"25fin-117": {
+"skip": true
+},
+"25fin-118": {
+"skip": true
+},
+"25fin-119": {
+"tp": "Mode",
+"k": "8",
+"s": "DA"
+},
+"25fin-120": {
+"skip": true
+},
+"25fin-121": {
+"skip": true
+},
+"25fin-122": {
+"skip": true
+},
+"25fin-123": {
+"skip": true
+},
+"25fin-124": {
+"tp": "Bearings",
+"q": "If the bearing from point X to point Y is N 60° E, what is the bearing from point Y to point X?",
+"k": "240° or S 60° W"
+},
+"25fin-125": {
+"tp": "Area",
+"k": "252 m"
+},
+"25fin-126": {
+"tp": "Matrices",
+"k": "Trace"
+},
+"25fin-127": {
+"tp": "Permutations",
+"k": "24",
+"n": "This counts ordered arrangements (⁴P₃ = 24); unordered selections would be ⁴C₃ = 4."
+},
+"25fin-128": {
+"tp": "Fourier series",
+"q": "The Fourier series of an even function contains",
+"k": "Only cosine terms"
+},
+"25fin-129": {
+"tp": "Percentages",
+"k": "30% or 0.3"
+},
+"25fin-130": {
+"tp": "Volume",
+"k": "44 cm³"
+},
+"25fin-131": {
+"tp": "Series",
+"k": "0"
+},
+"25fin-132": {
+"tp": "Charts",
+"k": "Scatter plot",
+"s": "DA"
+},
+"25fin-133": {
+"tp": "Ratios",
+"k": "67.2 cm",
+"n": "Sides in the ratio 2:3:5 cannot make a real triangle (2 + 3 = 5); the arithmetic still gives 67.2 cm."
+},
+"25fin-134": {
+"tp": "Vector calculus",
+"k": "Curl = 0"
+},
+"25fin-135": {
+"tp": "Percentages",
+"k": "2",
+"a": "200%",
+"n": "The show's bar read 2: the change as a fraction of the start, (12 − 4) ÷ 4 = 2, which is 200%."
+},
+"25fin-136": {
+"tp": "Growth",
+"k": "9 hours"
+},
+"25fin-137": {
+"tp": "Percentages",
+"k": "$8,750"
+},
+"25fin-138": {
+"tp": "Discounts",
+"q": "If a shoe costs $60 and the seller offers a 10% discount on every 10 shoes purchased, how much is 20 shoes?",
+"k": "$1,080"
+},
+"25fin-139": {
+"tp": "Linear cost",
+"k": "₦76,500"
+},
+"25fin-140": {
+"tp": "Control systems",
+"k": "Matrices"
+},
+"25fin-141": {
+"tp": "Growth",
+"k": "1,000 bacteria"
+},
+"25fin-142": {
+"tp": "Area",
+"q": "What is the area of a triangular garden that has a height of 10 meters and a base of 12 meters?",
+"k": "60 m²"
+},
+"25fin-143": {
+"tp": "Permutations",
+"k": "720 ways"
+},
+"25fin-144": {
+"tp": "Mean",
+"q": "In a survey of 140 people, their mean age is 60. What is their total age?",
+"k": "8,400 years"
+},
+"25fin-145": {
+"tp": "Dispersion",
+"k": "Standard deviation"
+},
+"25fin-146": {
+"tp": "Simple interest",
+"q": "If the simple interest on a deposit is ₦500, what is the principal amount if the interest rate is 4% per annum for 1 year?",
+"k": "₦12,500"
+},
+"25fin-147": {
+"tp": "Charts",
+"k": "Line graph",
+"n": "A bar chart is the more usual choice for comparing amounts across categories; a line graph suits change over time."
+},
+"25fin-148": {
+"tp": "Probability",
+"k": "13/52 or 1/4 or 0.25"
+},
+"25fin-149": {
+"tp": "Charts",
+"k": "Pie chart"
+},
+"25fin-150": {
+"tp": "Conditional probability",
+"q": "Independent events: P(A) = 0.3, P(B) = 0.2. What is the probability of A given B?",
+"k": "0.3"
+},
+"25fin-151": {
+"tp": "Quartiles",
+"k": "40",
+"n": "The median of 10, 20, 30, 40, 50 is 30, not 25. Taking the upper half as 30, 40, 50 gives 40; methods that leave out the median give 45."
+},
+"25fin-152": {
+"tp": "Median",
+"q": "Calculate the median of the data set: 6, 3, 8, 2, 9, 1",
+"k": "4.5 or 4½ or 9/2"
+},
+"25fin-153": {
+"tp": "Probability",
+"k": "21.6%"
+},
+"25fin-154": {
+"tp": "Data collection",
+"k": "Primary"
+},
+"25fin-155": {
+"tp": "Quartiles",
+"q": "The median score of a student's test results is 75. What is the second quartile if the scores are 70, 75, 80, 85, and 90?",
+"k": "75",
+"n": "The question gives the median as 75, though the median of the listed scores is 80."
+},
+"25fin-156": {
+"tp": "Combinations",
+"k": "15"
+},
+"25fin-157": {
+"tp": "Permutations",
+"k": "6 ways"
+},
+"25fin-158": {
+"tp": "Counting",
+"k": "3⁸ or 6,561 ways"
+},
+"25fin-159": {
+"tp": "Median",
+"q": "What is the value of p in the data 1, 2, p, 6, 9, 11 if the median is 4.5?",
+"k": "3"
+},
+"25fin-160": {
+"tp": "Permutations",
+"q": "In a box with papers numbered 0 to 9, how many ways can 3 different digits be formed by picking without replacement?",
+"k": "¹⁰P₃ or 720"
+},
+"25fin-161": {
+"tp": "Sets",
+"q": "If Set A has 40 elements, Set B has 50, and their union has 60, how many elements are in their intersection?",
+"k": "30 elements"
+},
+"25fin-162": {
+"tp": "Probability",
+"q": "If two dice are thrown simultaneously, find the probability of getting a sum ≤ 3.",
+"k": "1/12"
+},
+"25fin-163": {
+"tp": "Probability",
+"q": "If a card is chosen from a standard deck of cards, what is the probability of getting a five or a seven?",
+"k": "8/52 or 2/13"
+},
+"25fin-164": {
+"tp": "Quartiles",
+"k": "42"
+},
+"25fin-165": {
+"tp": "Probability",
+"k": "0"
+},
+"25fin-166": {
+"tp": "Sets",
+"q": "In a class of 40 students, 25 like math and 20 like science. How many students like both math and science?",
+"k": "5"
+},
+"25fin-167": {
+"skip": true
+},
+"25fin-168": {
+"skip": true
+},
+"25fin-169": {
+"skip": true
+},
+"25fin-170": {
+"skip": true
+},
+"25fin-171": {
+"skip": true
+},
+"25fin-172": {
+"skip": true
+},
+"25fin-173": {
+"skip": true
+},
+"25fin-174": {
+"skip": true
+},
+"25fin-175": {
+"skip": true
+},
+"25fin-176": {
+"skip": true
+},
+"25fin-177": {
+"skip": true
+},
+"25fin-178": {
+"skip": true
+},
+"25fin-179": {
+"skip": true
+},
+"25fin-180": {
+"skip": true
+},
+"25fin-181": {
+"skip": true
+},
+"25fin-182": {
+"skip": true
+},
+"25fin-183": {
+"skip": true
+},
+"25fin-184": {
+"skip": true
+},
+"25fin-185": {
+"skip": true
+},
+"25fin-186": {
+"skip": true
+},
+"25fin-187": {
+"skip": true
+},
+"25fin-188": {
+"skip": true
+},
+"25fin-189": {
+"skip": true
+},
+"25fin-190": {
+"skip": true
+},
+"25fin-191": {
+"skip": true
+},
+"25fin-192": {
+"skip": true
+},
+"25fin-193": {
+"skip": true
+},
+"25fin-194": {
+"skip": true
+},
+"25fin-195": {
+"skip": true
+},
+"25fin-196": {
+"skip": true
+},
+"25fin-197": {
+"skip": true
+},
+"25fin-198": {
+"skip": true
+},
+"25fin-199": {
+"skip": true
+},
+"25fin-200": {
+"skip": true
+},
+"25fin-201": {
+"skip": true
+},
+"25fin-202": {
+"skip": true
+},
+"25fin-203": {
+"skip": true
+},
+"25fin-204": {
+"skip": true
+},
+"25fin-205": {
+"skip": true
+},
+"25fin-206": {
+"skip": true
+},
+"25fin-207": {
+"skip": true
+},
+"25fin-208": {
+"skip": true
+},
+"25fin-209": {
+"skip": true
+},
+"25fin-210": {
+"skip": true
+},
+"25fin-211": {
+"skip": true
+},
+"25fin-212": {
+"skip": true
+},
+"25fin-213": {
+"skip": true
+},
+"25fin-214": {
+"skip": true
+},
+"25fin-215": {
+"skip": true
+},
+"25fin-216": {
+"skip": true
+},
+"25fin-217": {
+"skip": true
+},
+"25fin-218": {
+"skip": true
+},
+"25fin-219": {
+"skip": true
+},
+"25fin-220": {
+"skip": true
+},
+"25fin-221": {
+"skip": true
+},
+"25fin-222": {
+"skip": true
+},
+"25fin-223": {
+"skip": true
+},
+"25fin-224": {
+"skip": true
+},
+"25fin-225": {
+"skip": true
+},
+"25fin-226": {
+"skip": true
+},
+"25fin-227": {
+"skip": true
+},
+"25fin-228": {
+"skip": true
+},
+"25fin-229": {
+"skip": true
+},
+"25fin-230": {
+"skip": true
+},
+"25fin-231": {
+"skip": true
+},
+"25fin-232": {
+"skip": true
+},
+"25fin-233": {
+"skip": true
+},
+"25fin-234": {
+"skip": true
+},
+"25fin-235": {
+"skip": true
+},
+"25fin-236": {
+"skip": true
+}
+}

@@ -1,0 +1,741 @@
+{
+ "25-fin-qb-1140": {
+  "solution": "Perimeter = 2((x + 2) + x) = 4x + 4. So 4x + 4 = 48, which gives x = 11 m.",
+  "trick": "Half the perimeter is 24 = 2x + 2, so x = 11.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1146": {
+  "solution": "Five different vases can be ordered in 5! = 5 × 4 × 3 × 2 × 1 = 120 ways.",
+  "trick": "Know 5! = 120 by heart.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1149": {
+  "solution": "25% off $30 leaves 0.75 × 30 = $22.50 a bag, and 18 × 22.50 = $405.",
+  "trick": "18 × 30 = 540, then take three quarters: 405.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1156": {
+  "solution": "After a 20% cut the price is 0.8 of the original. Getting back needs 1 ÷ 0.8 = 1.25 times the new price, a 25% increase.",
+  "trick": "The cut over what is left: 20 ÷ 80 = 25%.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1161": {
+  "solution": "The volume is 5 × 5 × 5 = 125 cm³. One cubic metre is 10⁶ cm³, so 125 cm³ = 1.25 × 10⁻⁴ m³.",
+  "trick": "5 cm = 0.05 m, and 0.05³ = 0.000125.",
+  "check": "agree",
+  "accept": [
+   "0.000125",
+   "0.000125 m³",
+   "1.25 x 10^-4"
+  ],
+  "comment": ""
+ },
+ "25-fin-qb-1174": {
+  "solution": "Movies or books: 45 + 45 − 20 = 70. Neither: 80 − 70 = 10.",
+  "trick": "Neither = total − (A + B − both).",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1178": {
+  "solution": "A : B = (3/5) ÷ (5/8) = (3/5) × (8/5) = 24/25, so the ratio is 24 : 25.",
+  "trick": "Cross multiply: 3 × 8 to 5 × 5.",
+  "check": "agree",
+  "accept": [
+   "24 : 25",
+   "24/25",
+   "0.96"
+  ],
+  "comment": ""
+ },
+ "25-fin-qb-1194": {
+  "solution": "0.75A = 0.25B, so A/B = 0.25/0.75 = 1/3, a ratio of 1 : 3.",
+  "trick": "Swap the percentages: 25 : 75 = 1 : 3.",
+  "check": "agree",
+  "accept": [
+   "1 : 3",
+   "1/3"
+  ],
+  "comment": ""
+ },
+ "25-fin-qb-1214": {
+  "solution": "150 × ₦500,000 = ₦75,000,000.",
+  "trick": "150 × 500 = 75,000; three more zeros make 75 million.",
+  "check": "agree",
+  "accept": [
+   "75 million",
+   "₦75 million",
+   "N75 million"
+  ],
+  "comment": ""
+ },
+ "25-fin-qb-1232": {
+  "solution": "The amount of solute stays the same: 0.050 L × 2 M = 0.1 mol. The new volume is 60 mL, so the molarity is 0.1 ÷ 0.060 = 5/3 ≈ 1.67 M.",
+  "trick": "M₁V₁ = M₂V₂: 2 × 50 = M₂ × 60, so M₂ = 100/60.",
+  "check": "agree",
+  "accept": [
+   "1.67",
+   "1.67 M",
+   "5/3",
+   "1.7 M"
+  ],
+  "comment": ""
+ },
+ "25-fin-qb-1241": {
+  "solution": "36 cookies is 3 times 12, so the flour is 3 × 2 = 6 cups.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1244": {
+  "solution": "Expected monetary value = probability × impact = 0.9 × $10,000 = $9,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1252": {
+  "solution": "Together they make 30 + 45 = 75 units an hour, so 450 ÷ 75 = 6 hours.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1303": {
+  "solution": "Highest 90, lowest 60, so the range is 90 − 60 = 30.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1309": {
+  "solution": "The 95th percentile has 95% of values below it: 0.95 × 200 = 190 patients.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1317": {
+  "solution": "Divergence adds the partial derivatives: ∂x/∂x + ∂y/∂y + ∂z/∂z = 1 + 1 + 1 = 3.",
+  "trick": "For the position vector in 3D, div r = 3.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1326": {
+  "solution": "Products of 6: (1,6), (6,1), (2,3), (3,2). That is 4 of 36 outcomes, so 4/36 = 1/9.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1332": {
+  "solution": "Each of the 6 questions has 4 choices, so 4⁶ = 4,096 ways.",
+  "trick": "4⁶ = 2¹² = 4,096.",
+  "check": "agree",
+  "accept": [
+   "4096",
+   "4,096",
+   "4^6"
+  ],
+  "comment": ""
+ },
+ "25-fin-qb-1338": {
+  "solution": "With repetition, the tens digit and the units digit each have 5 choices: 5 × 5 = 25.",
+  "trick": "Repetition allowed, 2 places from n digits: n².",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1347": {
+  "solution": "P(4) = 4/52 = 1/13, and after replacing it P(queen) = 1/13. Both: 1/13 × 1/13 = 1/169.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1360": {
+  "solution": "I = PRT, so T = I ÷ (PR) = 2,000 ÷ (10,000 × 0.08) = 2,000 ÷ 800 = 2.5 years.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1379": {
+  "solution": "The second quartile is the median, and in a normal distribution the median equals the mean: 80.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1401": {
+  "solution": "z = (x − mean) ÷ SD = (160,000 − 100,000) ÷ 20,000 = 3.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1416": {
+  "solution": "Five values with mean 6 add to 30. 7 + 8 + 5 + 4 = 24, so p = 30 − 24 = 6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1470": {
+  "solution": "Tests are usually run at the 5% significance level, α = 0.05.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "5%"
+  ],
+  "comment": ""
+ },
+ "25-fin-qb-1479": {
+  "solution": "Mean = (5 + 8 + 2 + 5 + 6 + 4) ÷ 6 = 30 ÷ 6 = 5, and 5² = 25.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1490": {
+  "solution": "50 = mean − 2 × 9, so the mean is 50 + 18 = 68.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1497": {
+  "solution": "Sums of 5: (1,4), (4,1), (2,3), (3,2). That is 4 of 36 outcomes: 4/36 = 1/9.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1501": {
+  "solution": "Each number has gone up by 2. Adding the same amount to every value moves the data without changing its spread, so the SD is still k.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1506": {
+  "solution": "At least one subject: 45 + 30 − 20 = 55.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1518": {
+  "solution": "Quartile deviation = (Q3 − Q1) ÷ 2, so Q3 = Q1 + 2 × 8 = 104 + 16 = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1524": {
+  "solution": "26 red cards plus 12 face cards, minus the 6 red face cards counted twice: 32 cards. 32/52 = 8/13.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1535": {
+  "solution": "In order: 4, 8, 14, 15, 23, 42. The middle two are 14 and 15, so the median is 14.5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "14.5",
+   "29/2"
+  ],
+  "comment": ""
+ },
+ "25-fin-qb-1559": {
+  "solution": "A discrete random variable takes separate, countable values, usually whole numbers such as 0, 1, 2, rather than any value in a range.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "integer values",
+   "integers",
+   "whole numbers",
+   "countable values",
+   "discrete values",
+   "only whole numbers"
+  ],
+  "comment": ""
+ },
+ "25-fin-qb-1594": {
+  "solution": "Highest 19, lowest 5: range = 19 − 5 = 14.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1632": {
+  "solution": "7 appears three times, more than any other value, so the mode is 7.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1639": {
+  "solution": "(5 + 10 + 15 + 20 + 25) ÷ 5 = 75 ÷ 5 = 15.",
+  "trick": "Evenly spaced values: the mean is the middle one, 15.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1645": {
+  "solution": "The values are in order; the middle of five values is the 3rd, 7.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1656": {
+  "solution": "(4 + 6 + 8 + 10) ÷ 4 = 28 ÷ 4 = 7.",
+  "trick": "Evenly spaced: halfway between 4 and 10.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1661": {
+  "solution": "Males = 60 − 35 = 25, so P(male) = 25/60 = 5/12.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1666": {
+  "solution": "Sums of 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). That is 6 of 36: 1/6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1670": {
+  "solution": "P(no tails) = 1/2 × 1/2 = 1/4, so P(at least one tail) = 1 − 1/4 = 3/4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1676": {
+  "solution": "The Poisson distribution counts how many times an event happens in a fixed interval of time or space.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Poisson"
+  ],
+  "comment": ""
+ },
+ "25-fin-qb-1686": {
+  "solution": "For independent events P(A and B) = P(A) × P(B) = 0.5 × 0.4 = 0.2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1714": {
+  "solution": "(8 + 12 + 20 + 20) ÷ 4 = 60 ÷ 4 = 15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1729": {
+  "solution": "The values are in order; the middle of five values is 7.",
+  "trick": "Evenly spaced: the median equals the mean.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-qb-1752": {
+  "solution": "8 appears three times, more than any other value, so the mode is 8.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2108": {
+  "solution": "N 60° E is a bearing of 060°. The bearing back adds 180°: 240°, which is S 60° W.",
+  "trick": "Back bearing: add 180° (or subtract it if over 180°).",
+  "check": "agree",
+  "accept": [
+   "240°",
+   "240",
+   "240 degrees",
+   "S60°W",
+   "S 60 W",
+   "S60W"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2117": {
+  "solution": "Floor area = 14 × 9 = 126 m². A 0.5 m wide strip must be 126 ÷ 0.5 = 252 m long.",
+  "trick": "Half a metre wide: double the area.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2125": {
+  "solution": "The sum of a square matrix's eigenvalues equals its trace, the sum of its diagonal entries. (Their product equals the determinant.)",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "the trace"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2133": {
+  "solution": "Choosing 3 of the 4 letters in order: ⁴P₃ = 4 × 3 × 2 = 24 arrangements.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2138": {
+  "solution": "An even function has f(−x) = f(x), so all the sine terms vanish: the series has only cosine terms (and a constant).",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "cosine terms",
+   "cosines",
+   "cosine terms only",
+   "cos terms"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2144": {
+  "solution": "Decrease = 900 − 630 = 270, and 270 ÷ 900 = 0.3 = 30%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "30%",
+   "0.3",
+   "30"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2150": {
+  "solution": "Radius 1 cm, depth 14 cm: V = πr²h = (22/7) × 1 × 14 = 44 cm³.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2157": {
+  "solution": "A Maclaurin series is a Taylor series about x = 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "x = 0",
+   "zero"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2164": {
+  "solution": "Two numerical variables measured on the same patients (exercise and heart rate) are shown with a scatter plot.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "scatter graph",
+   "scatter diagram",
+   "scatterplot"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2169": {
+  "solution": "The parts total 2 + 3 + 5 = 10, so each part is 96 ÷ 10 = 9.6 cm. Smallest plus longest = (2 + 5) × 9.6 = 67.2 cm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2176": {
+  "solution": "A vector field F is irrotational when its curl is zero everywhere: ∇ × F = 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "curl is zero",
+   "zero curl",
+   "when its curl is zero",
+   "curl F = 0"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2182": {
+  "solution": "Change = 12 − 4 = 8 mm, and 8 ÷ 4 = 2, an increase of 200%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2189": {
+  "solution": "8 = 2³, so it takes 3 doublings: 3 × 3 = 9 hours.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2195": {
+  "solution": "New price = 250 × 1.4 = $350, and 25 × 350 = $8,750.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2203": {
+  "solution": "20 shoes cost 20 × $60 = $1,200 before the discount; 10% off gives $1,080.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2208": {
+  "solution": "300 km × ₦250 = ₦75,000, plus the ₦1,500 base fee: ₦76,500.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2215": {
+  "solution": "State-space models write the system as first-order matrix equations, x′ = Ax + Bu and y = Cx + Du.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "matrix",
+   "matrix form",
+   "matrices and vectors"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2221": {
+  "solution": "4 hours is one doubling period, so 500 becomes 1,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2225": {
+  "solution": "Area = ½ × base × height = ½ × 12 × 10 = 60 m².",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2231": {
+  "solution": "6 students in a line: 6! = 720 ways.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2236": {
+  "solution": "Total = mean × number = 60 × 140 = 8,400 years.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2248": {
+  "solution": "Spread (dispersion) is measured by the standard deviation; the range and variance measure it too.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "SD",
+   "variance",
+   "range",
+   "interquartile range"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2253": {
+  "solution": "I = PRT, so P = I ÷ (RT) = 500 ÷ (0.04 × 1) = ₦12,500.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2260": {
+  "solution": "A line graph plots numerical values so differences and changes are easy to compare, especially over time.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "line chart",
+   "bar chart",
+   "bar graph"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2268": {
+  "solution": "13 clubs out of 52 cards: 13/52 = 1/4 = 0.25.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/4",
+   "0.25",
+   "13/52",
+   "25%"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2277": {
+  "solution": "A pie chart shows how a whole splits into parts, such as departments as percentages of a company.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "pie graph",
+   "pie"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2283": {
+  "solution": "For independent events, knowing B happened changes nothing: P(A | B) = P(A) = 0.3.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2289": {
+  "solution": "The third quartile is the middle of the upper half. With the upper half 30, 40, 50, that is 40.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2295": {
+  "solution": "In order: 1, 2, 3, 6, 8, 9. The middle two are 3 and 6, so the median is 4.5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "4.5",
+   "9/2",
+   "4 1/2"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2300": {
+  "solution": "P(dry) = 1 − 0.4 = 0.6 each day, so three dry days in a row: 0.6³ = 0.216 = 21.6%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2307": {
+  "solution": "A survey collects new data directly from people, so it is a primary method.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "primary data",
+   "primary method"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2311": {
+  "solution": "The second quartile is the median, which the question gives as 75.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2319": {
+  "solution": "⁶C₂ = (6 × 5) ÷ 2 = 15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2325": {
+  "solution": "3! = 3 × 2 × 1 = 6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2328": {
+  "solution": "Each of 8 questions has 3 choices: 3⁸ = 6,561 ways.",
+  "trick": "3⁴ = 81, and 81² = 6,561.",
+  "check": "agree",
+  "accept": [
+   "6561",
+   "6,561",
+   "3^8"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2332": {
+  "solution": "Six values, so the median is the mean of the 3rd and 4th: (p + 6) ÷ 2 = 4.5, so p + 6 = 9 and p = 3.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2338": {
+  "solution": "Ordered picks of 3 different digits from 10: ¹⁰P₃ = 10 × 9 × 8 = 720.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "720",
+   "10P3"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2344": {
+  "solution": "n(A ∩ B) = n(A) + n(B) − n(A ∪ B) = 40 + 50 − 60 = 30.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2350": {
+  "solution": "Sums of at most 3: (1,1), (1,2), (2,1). That is 3 of 36: 1/12.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2358": {
+  "solution": "4 fives and 4 sevens: 8/52 = 2/13.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2/13",
+   "8/52"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2366": {
+  "solution": "The quartile deviation is half the interquartile range, so IQR = 2 × 21 = 42.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-fin-bm-2371": {
+  "solution": "There are no yellow balls, so the event is impossible: probability 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "zero",
+   "impossible"
+  ],
+  "comment": ""
+ },
+ "25-fin-bm-2374": {
+  "solution": "25 + 20 = 45, which is 5 more than the 40 students, so 5 like both (if every student likes at least one).",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ }
+}

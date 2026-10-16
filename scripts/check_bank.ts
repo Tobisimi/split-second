@@ -50,7 +50,7 @@ const CASES: [string, string[], string, boolean][] = [
   ['0.0001 M (1 × 10⁻⁴ M)', [], '1x10^-4', true], ['0.0001 M (1 × 10⁻⁴ M)', [], '1', false],
   ['1 litre (1,000 cm³)', [], '1000 cm3', true], ['6,667 m³ (20,000/3)', [], '6666.67', true],
   ['Oil palm/Palm kernel', [], 'palm kernel', true], ['5 tonnes or 500 kg', [], '50', false],
-  ['π/2 radians', ['1/2 π'], '1/2', false], ['2√3', [], '2', false], ['5x', [], '5', false], ['10 per cent', [], '0.1', true],
+  ['1:3', [], '13', false], ['1:3', [], '1 : 3', true], ['π/2 radians', ['1/2 π'], '1/2', false], ['2√3', [], '2', false], ['5x', [], '5', false], ['10 per cent', [], '0.1', true],
 ];
 for (const [answer, accept, typed, want] of CASES) {
   const q = { id: 'case', answer, accept } as unknown as Question;

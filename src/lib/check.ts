@@ -20,7 +20,7 @@ export const norm = (s: string) => plain(s).normalize('NFD').replace(/[̀-ͯ]/g,
 const canon = (s: string) => norm(s).replace(/^(the|a|an|his|her|their|its|my|your) /, '')
   .replace(/isation/g, 'ization').replace(/our/g, 'or').replace(/tre\b/g, 'ter').replace(/ae/g, 'e').replace(/oe/g, 'e').replace(/mme\b/g, 'm');
 // keeps signs and decimal points ("-4sin(4x)" is not "4sin4x", "1.5" is not "15"); numbers in a list stay apart ("1, 3" is not "13")
-const loose = (s: string) => canon(s).replace(/(\d)[\s,&]+(?=\d)/g, '$1,').replace(/[^a-z0-9.,+\-*/^=]/g, '');
+const loose = (s: string) => canon(s).replace(/(\d)[\s,&]+(?=\d)/g, '$1,').replace(/[^a-z0-9.,:+\-*/^=]/g, '');   // ratios keep their colon: "1:3" is not "13"
 const bare = (s: string) => canon(s).replace(/[^a-z0-9]/g, '');            // for word answers: "North-East" = "north east"
 const STOP = new Set(['and', 'or', 'the', 'a', 'an']);
 const wordSet = (s: string) => canon(s).split(/[^a-z0-9]+/).filter(w => w && !STOP.has(w)).sort().join(' ');
