@@ -1,10 +1,11 @@
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { ItemRec, Progress, Question, SessionRec, Setup, Subject } from './types';
 import { STAGE_NAMES, SUBJECT_NAMES } from './types';
-import { BANK, mmss, ordered, poolFor, questionStates, ytLink } from './lib/bank';
-import { addProfile, downloadJson, listProfiles, loadLocal, rememberProfile, savedProfile, saveLocal, slug, sync, syncProblem } from './lib/store';
+import { mmss, ordered, poolFor, questionById, questionStates, ytLink } from './lib/bank';
+import { addProfile, addSession, downloadJson, listProfiles, loadLocal, rememberProfile, savedProfile, setFlag, slug, sync, syncProblem } from './lib/store';
 import { RULE_NAMES } from './lib/scoring';
 import { MathText } from './lib/math';
+import { isRightOption } from './lib/check';
 import Quiz from './screens/Quiz';
 
 type Screen = 'profile' | 'home' | 'quiz' | 'results' | 'stats' | 'rules';
@@ -12,7 +13,6 @@ type SyncState = 'local' | 'syncing' | 'synced' | 'failed';
 
 const DEFAULTS: Setup = { mode: 'practice', subject: 'AM', level: 0, count: 20, secs: 10, answerMode: 'say', skips: true, skipsCount: false, scoring: 'practice', quarterSecs: 120, missesOnly: false };
 const SUBJECTS: Subject[] = ['AM', 'DA', 'VR', 'GK'];
-const BYID = new Map(BANK.map(q => [q.id, q]));
 
 const TAG_TEXT: Record<Question['tag'], string> = {
   confirmed: 'Confirmed by the show.',
@@ -43,13 +43,23 @@ export default function App() {
   const [run, setRun] = useState<{ queue: Question[]; reserve: Question[]; key: number } | null>(null);
   const [lastSession, setLastSession] = useState<SessionRec | null>(null);
 
-  const doSync = useCallback(async (p: Progress) => {
+  // Syncs run one at a time (see store.ts). When one ends, show what this device now has saved, but only if the same
+  // player is still chosen; the sync state shows the last result once no other sync is waiting.
+  const profileRef = useRef(profile);
+  profileRef.current = profile;
+  const pending = useRef(0);
+  const doSync = useCallback(async (id: string) => {
+    pending.current++;
     setSyncState('syncing');
-    try { const merged = await sync(p); setProgress(merged); setSyncState('synced'); setSyncWhy(''); }
-    catch (e) { setSyncState('failed'); setSyncWhy(syncProblem(e)); }
+    let ok = false, why = '';
+    try { await sync(id); ok = true; } catch (e) { why = syncProblem(e); }
+    pending.current--;
+    if (profileRef.current !== id) return;
+    if (ok) setProgress(loadLocal(id));
+    if (pending.current === 0) { setSyncState(ok ? 'synced' : 'failed'); setSyncWhy(why); }
   }, []);
 
-  useEffect(() => { if (profile) { const p = loadLocal(profile); setProgress(p); doSync(p); } }, [profile, doSync]);
+  useEffect(() => { if (profile) { setProgress(loadLocal(profile)); doSync(profile); } }, [profile, doSync]);
 
   const states = useMemo(() => questionStates(progress ?? { v: 1, profile: '', updated: 0, sessions: [], flags: {} }), [progress]);
   const update = (s: Partial<Setup>) => setSetup(prev => { const n = { ...prev, ...s }; saveSetup(n); return n; });
@@ -65,19 +75,17 @@ export default function App() {
   };
 
   const finishSession = (rec: SessionRec) => {
-    if (!progress) return;
-    const p: Progress = { ...progress, updated: Date.now(), sessions: [...progress.sessions, rec] };
-    saveLocal(p); setProgress(p); setLastSession(rec); setScreen('results'); doSync(p);
+    if (!profile) return;
+    setProgress(addSession(profile, rec)); setLastSession(rec); setScreen('results'); doSync(profile);
   };
 
   const toggleFlag = (q: Question) => {
-    if (!progress) return;
-    const flags = { ...progress.flags };
-    const on = flags[q.id] && flags[q.id].note !== '__off__';
-    if (on) flags[q.id] = { note: '__off__', at: Date.now() };
-    else { const note = prompt('What looks wrong with this question? (optional)') ?? ''; flags[q.id] = { note: note || 'flagged', at: Date.now() }; }
-    const p = { ...progress, flags, updated: Date.now() };
-    saveLocal(p); setProgress(p);
+    if (!profile) return;
+    const cur = loadLocal(profile).flags[q.id];
+    if (cur && cur.note !== '__off__') { setProgress(setFlag(profile, q.id, { note: '__off__', at: Date.now() })); return; }
+    const note = prompt('What looks wrong with this question? (optional)');
+    if (note === null) return;   // cancelled
+    setProgress(setFlag(profile, q.id, { note: note.trim() || 'flagged', at: Date.now() }));
   };
   const isFlagged = (id: string) => !!progress?.flags[id] && progress.flags[id].note !== '__off__';
 
@@ -94,7 +102,7 @@ export default function App() {
       <button className="wordmark" onClick={() => setScreen('home')}>Split Second</button>
       <div className="who">
         <span>{savedName(profile)}</span>
-        <button className={`sync ${syncState}`} onClick={() => doSync(progress)} title={syncWhy || 'Sync now'}>{syncText}</button>
+        <button className={`sync ${syncState}`} onClick={() => doSync(profile)} title={syncWhy || 'Sync now'}>{syncText}</button>
       </div>
     </header>
   );
@@ -198,14 +206,14 @@ function ProfileScreen({ onChoose }: { onChoose: (id: string, name: string) => v
 }
 
 function ReviewItem({ it, onFlag, flagged }: { it: ItemRec; onFlag: (q: Question) => void; flagged: (id: string) => boolean }) {
-  const q = BYID.get(it.id);
+  const q = questionById(it.id);
   if (!q) return null;
   const label = { right: 'Right', wrong: 'Wrong', none: 'No answer', skip: 'Skipped' }[it.r];
   return (
     <li className={`rev ${it.r}`}>
       <div className="rev-head"><span className={`badge ${it.r}`}>{label}</span><span className="rev-meta">{SUBJECT_NAMES[q.subject]} · {STAGE_NAMES[q.stage]} · {q.match}{q.alsoIn ? ` · also asked in ${q.alsoIn.join(', ')}` : ''}</span></div>
       <div className="rev-q"><MathText text={q.q} /></div>
-      {q.options && <div className="rev-opts">{q.options.map(o => <span key={o} className={o === q.answer ? 'right' : o === it.given ? 'wrong' : ''}><MathText text={o} /></span>)}</div>}
+      {q.options && <div className="rev-opts">{q.options.map(o => <span key={o} className={isRightOption(o, q) ? 'right' : o === it.given ? 'wrong' : ''}><MathText text={o} /></span>)}</div>}
       <div className="rev-a"><b>Answer:</b> <MathText text={q.answer} />{it.given && it.r === 'wrong' && !q.options && <> · you: <s>{it.given}</s></>}</div>
       <div className="rev-tag">{TAG_TEXT[q.tag]}{q.tag === 'disputed' && q.showKey ? <> Shown: <MathText text={q.showKey} />.</> : null}{q.showNote ? ` ${q.showNote}` : ''} {onShow(q)}</div>
       {q.solution && <div className="solution"><MathText text={q.solution} /></div>}
@@ -241,7 +249,7 @@ function Results({ rec, onAgain, onHome, onFlag, flagged }: { rec: SessionRec; o
 
 function Stats({ progress, onSwitch, onBack }: { progress: Progress; onSwitch: () => void; onBack: () => void }) {
   const rows = SUBJECTS.map(s => {
-    const its = progress.sessions.flatMap(x => x.items).filter(i => BYID.get(i.id)?.subject === s && i.r !== 'skip');
+    const its = progress.sessions.flatMap(x => x.items).filter(i => questionById(i.id)?.subject === s && i.r !== 'skip');
     const right = its.filter(i => i.r === 'right').length;
     const ms = its.filter(i => i.r !== 'none' && i.ms != null).map(i => i.ms!);
     return { s, n: its.length, acc: its.length ? Math.round(100 * right / its.length) : null, avg: ms.length ? ms.reduce((a, b) => a + b, 0) / ms.length / 1000 : null };
@@ -260,7 +268,7 @@ function Stats({ progress, onSwitch, onBack }: { progress: Progress; onSwitch: (
       <h2>Flagged questions</h2>
       <p className="note">{flags.length ? `${flags.length} flagged. Download the list and send it to Claude to check.` : 'Nothing flagged.'}</p>
       <div className="start-row">
-        {flags.length > 0 && <button className="ghost" onClick={() => downloadJson(`flags-${progress.profile}.json`, flags.map(([id, f]) => ({ id, note: f.note, q: BYID.get(id)?.q })))}>Download flags</button>}
+        {flags.length > 0 && <button className="ghost" onClick={() => downloadJson(`flags-${progress.profile}.json`, flags.map(([id, f]) => ({ id, note: f.note, q: questionById(id)?.q })))}>Download flags</button>}
         <button className="ghost" onClick={() => downloadJson(`progress-${progress.profile}.json`, progress)}>Download my progress</button>
         <button className="ghost" onClick={onSwitch}>Switch player</button>
         <button className="primary" onClick={onBack}>Back</button>
@@ -277,10 +285,11 @@ function Rules({ onBack }: { onBack: () => void }) {
       <p>Answer out loud, as on the show, and press Got it (or Space) the moment you've said it. That stops the clock and records your time. The answer appears; mark yourself honestly with I was right (R) or I was wrong (W).</p>
       <h2>Type it</h2>
       <ul>
-        <li>Capitals, extra spaces and a full stop at the end don't matter.</li>
-        <li>Equal numbers count: 1/2, 0.5 and 50% where a percentage makes sense.</li>
-        <li>Rounded answers count within each question's tolerance.</li>
-        <li>Units are optional unless the question is about the unit.</li>
+        <li>Capitals, spaces, hyphens, accents and a full stop at the end don't matter, and British or American spelling is fine (centre, center).</li>
+        <li>Equal numbers count: 1/2, 0.5 and 50%; 6,000, 6000 and N6000; 1.5 × 10^7, 1.5e7 and 15000000.</li>
+        <li>A decimal rounded or cut short to 3 or more significant figures counts: 0.205 or 0.2045 for 9/44, but not 0.2.</li>
+        <li>Units are optional: 20 and 20 m both count.</li>
+        <li>Lists can be in any order. Many answers also take a short or common form, such as Kalahari for Kalahari Desert.</li>
         <li>If time runs out while you're typing, what you've typed is checked.</li>
       </ul>
       <h2>Options</h2>

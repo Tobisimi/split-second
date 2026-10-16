@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { ItemRec, Question, Result, SessionRec, Setup } from '../types';
 import { SUBJECT_NAMES } from '../types';
 import { MathText } from '../lib/math';
-import { checkTyped } from '../lib/check';
+import { checkTyped, isRightOption } from '../lib/check';
 import { scoreItems } from '../lib/scoring';
 import { mmss, shuffleOptions } from '../lib/bank';
 
@@ -69,7 +69,10 @@ export default function Quiz({ setup, queue: initialQueue, reserve: initialReser
     qStart.current = performance.now();
   }, [brain, finish]);
 
+  const recordedIdx = useRef(-1);   // one result per question, even if a key press and the clock land together
   const record = useCallback((r: Result, given?: string) => {
+    if (recordedIdx.current === idxRef.current) return;
+    recordedIdx.current = idxRef.current;
     const ms = Math.round((stopped.current ?? performance.now()) - qStart.current);
     items.current = [...items.current, { id: q.id, r, ms: r === 'skip' ? undefined : ms, given }];
     setLast({ r, given });
@@ -80,7 +83,7 @@ export default function Quiz({ setup, queue: initialQueue, reserve: initialReser
     } else advance();
   }, [q, brain, setup.answerMode, setup.secs, advance]);
 
-  const choose = (o: string) => { if (phase !== 'ask') return; setChosen(o); record(o === q.answer ? 'right' : 'wrong', o); };
+  const choose = (o: string) => { if (phase !== 'ask') return; setChosen(o); record(isRightOption(o, q) ? 'right' : 'wrong', o); };
   const submitTyped = () => { if (phase !== 'ask') return; record(typed.trim() ? (checkTyped(typed, q) ? 'right' : 'wrong') : 'none', typed.trim() || undefined); };
   const gotIt = () => { if (phase !== 'ask' || q.options) return; stopped.current = performance.now(); setPhase('mark'); };
   const mark = (r: 'right' | 'wrong') => { if (phase !== 'mark') return; record(r); };
@@ -149,7 +152,7 @@ export default function Quiz({ setup, queue: initialQueue, reserve: initialReser
   const showAnswer = phase === 'mark' || phase === 'feedback';
   const optClass = (o: string) => {
     if (phase !== 'feedback') return 'opt';
-    if (o === q.answer) return 'opt right';
+    if (isRightOption(o, q)) return 'opt right';
     if (o === chosen) return 'opt wrong';
     return 'opt dim';
   };

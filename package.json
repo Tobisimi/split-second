@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "tsc -p . && vite build",
     "preview": "vite preview",
-    "bank": "python3 scripts/build_bank.py"
+    "bank": "python3 scripts/build_bank.py",
+    "check": "esbuild scripts/check_bank.ts --bundle --platform=node --format=esm --jsx=automatic --loader:.css=empty --outfile=node_modules/.cache/check_bank.mjs --log-level=warning && node node_modules/.cache/check_bank.mjs"
   },
   "dependencies": {
     "@vercel/functions": "^2.2.0",

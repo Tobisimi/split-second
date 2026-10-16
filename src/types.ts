@@ -30,6 +30,7 @@ export interface Question {
   solution?: string;
   trick?: string;
   alsoIn?: string[];      // other matches where the show asked the same question
+  aka?: string[];         // ids of those other copies: progress saved under one of them counts for this question
 }
 
 export type Result = 'right' | 'wrong' | 'none' | 'skip';

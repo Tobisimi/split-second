@@ -107,8 +107,19 @@ def main():
             if others:
                 also = sorted({f"{STAGE_LABEL[t['stage']]} ({t['match']})" for t in others if t['match'] != q['match'] or t['stage'] != q['stage']})
                 if also: item['alsoIn'] = also
+                item['aka'] = [t['id'] for t in others]   # progress saved under a twin's id still counts for this question
             # a disputed answer that isn't among the options: ask it as a typed question instead
             if tag == 'disputed' and item['options'] and answer not in item['options']: item['options'] = None
+            # the right option must be the answer text itself: an answer written longer than its option
+            # ("260 passwords" for the option "260") takes the option's wording; otherwise ask it typed
+            if item['options'] and answer not in item['options']:
+                match = [o for o in item['options'] if o in (s.get('accept') or []) or _norm(o) == _norm(answer)]
+                if len(match) == 1:
+                    item['answer'] = match[0]
+                    item['accept'] = [a for a in [answer] + (item['accept'] or []) if a != match[0]] or None
+                else:
+                    problems.append(f"{q['id']}: answer {answer!r} is not one of the options {item['options']}; asked typed")
+                    item['options'] = None
             bank.append({kk: v for kk, v in item.items() if v is not None})
     for _, m in load('bank/master/*.json'): dropped += m.get('dropped', [])
     ids = Counter(q['id'] for q in bank)

@@ -3,16 +3,24 @@ import raw from '../data/questions.json';
 
 export const BANK: Question[] = raw as Question[];
 
+// A question the show asked in several matches is kept once; its other copies' ids point to it, so progress saved
+// under an id from an older version of the bank still counts.
+const BY_ID = new Map<string, Question>();
+for (const q of BANK) for (const id of [...(q.aka ?? []), q.id]) BY_ID.set(id, q);
+export const questionById = (id: string) => BY_ID.get(id);
+export const canonId = (id: string) => BY_ID.get(id)?.id ?? id;
+
 export interface QState { seen: number; last: number; lastR?: Result; rights: number; wrongs: number; nones: number; ms: number[] }
 
 export function questionStates(p: Progress): Map<string, QState> {
   const m = new Map<string, QState>();
   for (const s of p.sessions) for (const it of s.items) {
-    const st = m.get(it.id) ?? { seen: 0, last: 0, rights: 0, wrongs: 0, nones: 0, ms: [] };
+    const id = canonId(it.id);
+    const st = m.get(id) ?? { seen: 0, last: 0, rights: 0, wrongs: 0, nones: 0, ms: [] };
     st.seen++; st.last = Math.max(st.last, s.at); st.lastR = it.r;
     if (it.r === 'right') st.rights++; else if (it.r === 'wrong') st.wrongs++; else if (it.r === 'none') st.nones++;
     if (it.ms != null && it.r !== 'skip') st.ms.push(it.ms);
-    m.set(it.id, st);
+    m.set(id, st);
   }
   return m;
 }
