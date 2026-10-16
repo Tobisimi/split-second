@@ -1,0 +1,1244 @@
+{
+"25qf2-001": {
+"skip": true
+},
+"25qf2-002": {
+"skip": true
+},
+"25qf2-003": {
+"skip": true
+},
+"25qf2-004": {
+"skip": true
+},
+"25qf2-005": {
+"skip": true
+},
+"25qf2-006": {
+"tp": "Permutations",
+"q": "In how many ways can 5 different cars be parked in a row if two of the cars must always be parked next to each other?",
+"o": [
+"48",
+"24",
+"56"
+],
+"k": "48",
+"s": "DA"
+},
+"25qf2-007": {
+"skip": true
+},
+"25qf2-008": {
+"skip": true
+},
+"25qf2-009": {
+"skip": true
+},
+"25qf2-010": {
+"tp": "Percentages",
+"k": "$561",
+"s": "AM"
+},
+"25qf2-011": {
+"skip": true
+},
+"25qf2-012": {
+"tp": "Linear functions",
+"k": "1,005,000",
+"s": "AM"
+},
+"25qf2-013": {
+"tp": "Permutations",
+"o": [
+"20 ways",
+"12 ways",
+"18 ways"
+],
+"k": "12 ways",
+"s": "DA"
+},
+"25qf2-014": {
+"skip": true
+},
+"25qf2-015": {
+"skip": true
+},
+"25qf2-016": {
+"skip": true
+},
+"25qf2-017": {
+"tp": "Ratios",
+"q": "A recipe calls for a 2:8 ratio of water to sugar. If you need 120 cups of water, how much sugar do you need?",
+"k": "480 cups",
+"s": "AM"
+},
+"25qf2-018": {
+"tp": "Probability",
+"k": "4/15",
+"s": "DA"
+},
+"25qf2-019": {
+"tp": "Scale",
+"k": "5 cm",
+"s": "AM"
+},
+"25qf2-020": {
+"skip": true
+},
+"25qf2-021": {
+"skip": true
+},
+"25qf2-022": {
+"tp": "Growth",
+"q": "A population of bacteria doubles every 4 hours. If there are initially 1,000 bacteria, how many will there be after 12 hours?",
+"k": "8,000 bacteria",
+"s": "AM"
+},
+"25qf2-023": {
+"skip": true
+},
+"25qf2-024": {
+"skip": true
+},
+"25qf2-025": {
+"skip": true
+},
+"25qf2-026": {
+"tp": "Percentages",
+"k": "0.3",
+"s": "AM"
+},
+"25qf2-027": {
+"tp": "Mixtures",
+"q": "A trader mixes two rice varieties costing ₦68 and ₦80 per kg. If he sells the mixture at ₦88 per kg at a 25% profit, in what ratio did he mix them?",
+"k": "4:1",
+"s": "AM"
+},
+"25qf2-028": {
+"skip": true
+},
+"25qf2-029": {
+"skip": true
+},
+"25qf2-030": {
+"tp": "Rates",
+"q": "A boat travels 240 miles downstream in 8 hours. If the speed of the current is 5 mph, what is the speed of the boat in still water?",
+"k": "25 mph",
+"s": "AM"
+},
+"25qf2-031": {
+"tp": "Interquartile range",
+"s": "DA"
+},
+"25qf2-032": {
+"skip": true
+},
+"25qf2-033": {
+"tp": "Dispersion",
+"s": "DA"
+},
+"25qf2-034": {
+"skip": true
+},
+"25qf2-035": {
+"tp": "z-scores",
+"k": "82.8",
+"s": "DA"
+},
+"25qf2-036": {
+"tp": "Rates",
+"k": "4 hrs",
+"s": "AM"
+},
+"25qf2-037": {
+"tp": "Rates",
+"k": "0.25 or 1/4 bps",
+"s": "AM"
+},
+"25qf2-038": {
+"tp": "Percentages",
+"q": "If a company's profit increases from ₦480,000 to ₦600,000, what is the percentage increase in profit?",
+"k": "25%",
+"s": "AM"
+},
+"25qf2-039": {
+"tp": "z-scores",
+"q": "A company has a mean sales revenue of ₦150,000 with a standard deviation of ₦30,000. What is the z-score of a sales revenue of ₦180,000?",
+"o": [
+"4",
+"1",
+"2"
+],
+"k": "1",
+"s": "DA"
+},
+"25qf2-040": {
+"skip": true
+},
+"25qf2-041": {
+"tp": "Median",
+"q": "Find the median of the numbers 1.7, 2.5, 3.5, 2.5, 4.",
+"k": "2.5",
+"s": "DA"
+},
+"25qf2-042": {
+"tp": "Mean, median and mode",
+"q": "The mean and median of a test are 22.5 and 20 respectively. Find the approximate mode.",
+"k": "15",
+"s": "DA"
+},
+"25qf2-043": {
+"tp": "Growth",
+"k": "28.8",
+"s": "AM"
+},
+"25qf2-044": {
+"tp": "Sets",
+"q": "In a class of 100 students, 35 like science and 45 like maths, and 10 like both. How many like neither?",
+"k": "30",
+"s": "DA"
+},
+"25qf2-045": {
+"skip": true
+},
+"25qf2-046": {
+"tp": "Polygons",
+"k": "135°",
+"s": "AM"
+},
+"25qf2-047": {
+"tp": "Algebra",
+"k": "−13 and −11, or 11 and 13",
+"s": "AM"
+},
+"25qf2-048": {
+"skip": true
+},
+"25qf2-049": {
+"tp": "Permutations",
+"k": "60",
+"s": "DA"
+},
+"25qf2-050": {
+"tp": "Probability",
+"k": "1/4",
+"s": "DA"
+},
+"25qf2-051": {
+"skip": true
+},
+"25qf2-052": {
+"skip": true
+},
+"25qf2-053": {
+"tp": "Arithmetic",
+"q": "A girl has $480 in $1, $5 and $10 notes. The number of notes of each denomination is equal. What is the total number of notes she has?",
+"k": "90",
+"s": "AM"
+},
+"25qf2-054": {
+"tp": "Ratios",
+"q": "Joy mixes 500 mL of orange juice with 800 mL of apple juice to make a fruit drink. What is the ratio of apple juice to orange juice?",
+"k": "8:5",
+"s": "AM"
+},
+"25qf2-055": {
+"tp": "Sets",
+"k": "25",
+"s": "DA"
+},
+"25qf2-056": {
+"tp": "pH",
+"k": "100 times",
+"s": "AM"
+},
+"25qf2-057": {
+"skip": true
+},
+"25qf2-058": {
+"skip": true
+},
+"25qf2-059": {
+"tp": "Area",
+"q": "If a bicycle tire has a diameter of 26 inches, what is its area expressed in π?",
+"k": "169π square inches",
+"s": "AM"
+},
+"25qf2-060": {
+"tp": "Percentages",
+"k": "60%",
+"s": "AM"
+},
+"25qf2-061": {
+"tp": "Probability",
+"k": "5/22 or 15/66",
+"s": "DA"
+},
+"25qf2-062": {
+"tp": "Boyle's law",
+"q": "A gas is contained in a cylinder with a volume of 500 mL and a pressure of 2 atmospheres. If the pressure increases by 25%, what is the new volume?",
+"k": "400 mL",
+"s": "AM"
+},
+"25qf2-063": {
+"tp": "Growth",
+"k": "100,000 cells",
+"s": "AM"
+},
+"25qf2-064": {
+"skip": true
+},
+"25qf2-065": {
+"tp": "Probability",
+"k": "25% or 0.25 or 1/4",
+"s": "DA"
+},
+"25qf2-066": {
+"skip": true
+},
+"25qf2-067": {
+"skip": true
+},
+"25qf2-068": {
+"skip": true
+},
+"25qf2-069": {
+"tp": "Permutations",
+"s": "DA"
+},
+"25qf2-070": {
+"tp": "Permutations",
+"s": "DA"
+},
+"25qf2-071": {
+"skip": true
+},
+"25qf2-072": {
+"tp": "Growth",
+"k": "1,000 bacteria per hour",
+"s": "AM"
+},
+"25qf2-073": {
+"tp": "Discounts",
+"k": "$6,400",
+"s": "AM"
+},
+"25qf2-074": {
+"tp": "Ratios",
+"k": "20",
+"s": "AM"
+},
+"25qf2-075": {
+"tp": "Combinations",
+"q": "A group of 4 people is to be selected from a group of 7. How many different groups can be formed?",
+"o": [
+"35",
+"24",
+"18"
+],
+"k": "35",
+"s": "DA"
+},
+"25qf2-076": {
+"tp": "Ratios",
+"q": "A farmer wants a fertilizer mixture with a 3:2 ratio of nitrogen to phosphorus. If she has 2,400 kg of nitrogen, how many grams of phosphorus does she need?",
+"k": "1,600,000 g",
+"s": "AM"
+},
+"25qf2-077": {
+"tp": "Time",
+"k": "11:30 PM",
+"s": "AM"
+},
+"25qf2-078": {
+"skip": true
+},
+"25qf2-079": {
+"tp": "Quadratics",
+"k": "−8",
+"s": "AM"
+},
+"25qf2-080": {
+"skip": true
+},
+"25qf2-081": {
+"tp": "Units",
+"k": "10⁻⁶ m",
+"s": "AM"
+},
+"25qf2-082": {
+"tp": "Ratios",
+"k": "4:1",
+"s": "AM"
+},
+"25qf2-083": {
+"skip": true
+},
+"25qf2-084": {
+"tp": "Rates",
+"k": "45 km/h",
+"s": "AM"
+},
+"25qf2-085": {
+"skip": true
+},
+"25qf2-086": {
+"tp": "Pharmacy calculations",
+"k": "16 g"
+},
+"25qf2-087": {
+"tp": "Pythagoras",
+"q": "A ship sails 11 km north and then 60 km east. Its distance from the starting point to the endpoint is",
+"k": "61 km"
+},
+"25qf2-088": {
+"tp": "Volume",
+"k": "352 m³"
+},
+"25qf2-089": {
+"skip": true
+},
+"25qf2-090": {
+"tp": "Ratios",
+"q": "The ratio of the three sides of a triangle is 2:3:5, and its perimeter is 96 cm. What is the length of the longest side?",
+"k": "48 cm",
+"n": "Sides in the ratio 2:3:5 cannot make a real triangle (2 + 3 = 5); the arithmetic still gives 48 cm."
+},
+"25qf2-091": {
+"tp": "Percentages",
+"q": "The price of a laptop decreases from $60,000 to $45,000. What is the percentage change in price?",
+"o": [
+"−30%",
+"−25%",
+"−20%"
+],
+"k": "−25%"
+},
+"25qf2-092": {
+"tp": "Perimeter",
+"q": "What is the total length of the fence for a 10 m by 8 m garden with an additional 2 m-wide path surrounding it?",
+"k": "52m"
+},
+"25qf2-093": {
+"tp": "Growth",
+"q": "If a population of bacteria grows from 200 to 800 in 5 hours, what will the population be after 10 hours if it keeps growing the same way?",
+"k": "3,200"
+},
+"25qf2-094": {
+"tp": "z-scores",
+"q": "A company's average monthly sales are ₦500,000 with a standard deviation of ₦100,000. What is the z-score for a month with sales of ₦700,000?",
+"o": [
+"2",
+"4",
+"8"
+],
+"k": "2",
+"s": "DA"
+},
+"25qf2-095": {
+"tp": "Growth",
+"k": "392 bacteria"
+},
+"25qf2-096": {
+"tp": "Probability",
+"k": "2/10 or 1/5",
+"s": "DA"
+},
+"25qf2-097": {
+"tp": "Functions",
+"q": "What is the image of the number 9 under the function f(x) = 2x + 9?",
+"k": "27"
+},
+"25qf2-098": {
+"tp": "Percentages",
+"q": "The price of yam dropped from 150 naira to 120 naira. By what percentage did the price drop?",
+"k": "20%"
+},
+"25qf2-099": {
+"tp": "Rates",
+"k": "32 hours"
+},
+"25qf2-100": {
+"tp": "Percentages",
+"q": "If the original price of an item is $25 and it is increased to $80, what is the percentage increase?",
+"k": "220%"
+},
+"25qf2-101": {
+"skip": true
+},
+"25qf2-102": {
+"skip": true
+},
+"25qf2-103": {
+"skip": true
+},
+"25qf2-104": {
+"skip": true
+},
+"25qf2-105": {
+"skip": true
+},
+"25qf2-106": {
+"skip": true
+},
+"25qf2-107": {
+"skip": true
+},
+"25qf2-108": {
+"skip": true
+},
+"25qf2-109": {
+"skip": true
+},
+"25qf2-110": {
+"skip": true
+},
+"25qf2-111": {
+"skip": true
+},
+"25qf2-112": {
+"skip": true
+},
+"25qf2-113": {
+"skip": true
+},
+"25qf2-114": {
+"skip": true
+},
+"25qf2-115": {
+"skip": true
+},
+"25qf2-116": {
+"skip": true
+},
+"25qf2-117": {
+"skip": true
+},
+"25qf2-118": {
+"skip": true
+},
+"25qf2-119": {
+"skip": true
+},
+"25qf2-120": {
+"skip": true
+},
+"25qf2-121": {
+"skip": true
+},
+"25qf2-122": {
+"skip": true
+},
+"25qf2-123": {
+"skip": true
+},
+"25qf2-124": {
+"tp": "Combinations"
+},
+"25qf2-125": {
+"tp": "Permutations"
+},
+"25qf2-126": {
+"tp": "z-scores",
+"q": "A dataset has a mean of 45 and a standard deviation of 8. What is the 1st quartile if the z-score for the 25th percentile is 2?",
+"k": "61",
+"n": "As asked, x = 45 + 2 × 8 = 61; a real 25th percentile has z ≈ −0.67, which gives about 39.6."
+},
+"25qf2-127": {
+"tp": "z-scores",
+"q": "A survey found that the average height of adults in a city is 180 cm with a standard deviation of 6 cm. What is the z-score of a person who is 192 cm tall?",
+"k": "2"
+},
+"25qf2-128": {
+"tp": "Mean, median and mode",
+"q": "A data set has a mean of 14 and a median of 10. Calculate the mode.",
+"k": "2"
+},
+"25qf2-129": {
+"tp": "Mean",
+"q": "Find the square of the mean of the numbers 9, 8, 15, 8, 20.",
+"k": "144"
+},
+"25qf2-130": {
+"tp": "Combinations",
+"q": "A family has 5 males and 3 females. In how many ways can a group of 2 males and 2 females be selected?",
+"k": "30"
+},
+"25qf2-131": {
+"tp": "Permutations",
+"q": "Five members A, B, C, D and E are eligible for jobs in a factory. In how many ways can the first three jobs be filled?",
+"k": "60"
+},
+"25qf2-132": {
+"tp": "Probability",
+"q": "A die is rolled twice. What's the probability of getting a 5 on the first roll and a 3 on the second roll?",
+"k": "1/36"
+},
+"25qf2-133": {
+"tp": "Quartiles",
+"k": "70,000"
+},
+"25qf2-134": {
+"tp": "Probability",
+"k": "1/11 or 2/22 or 20/220"
+},
+"25qf2-135": {
+"tp": "Permutations"
+},
+"25qf2-136": {
+"tp": "Combinations",
+"q": "How many ways can 3 people be chosen from a group of 7 to form a committee?",
+"o": [
+"35",
+"25",
+"20"
+],
+"k": "35"
+},
+"25qf2-137": {
+"skip": true
+},
+"25qf2-138": {
+"skip": true
+},
+"25qf2-139": {
+"skip": true
+},
+"25qf2-140": {
+"skip": true
+},
+"25qf2-141": {
+"skip": true
+},
+"25qf2-142": {
+"skip": true
+},
+"25qf2-143": {
+"skip": true
+},
+"25qf2-144": {
+"skip": true
+},
+"25qf2-145": {
+"skip": true
+},
+"25qf2-146": {
+"skip": true
+},
+"25qf2-147": {
+"skip": true
+},
+"25qf2-148": {
+"tp": "Ratios",
+"k": "42",
+"s": "AM"
+},
+"25qf2-149": {
+"skip": true
+},
+"25qf2-150": {
+"skip": true
+},
+"25qf2-151": {
+"skip": true
+},
+"25qf2-152": {
+"skip": true
+},
+"25qf2-153": {
+"skip": true
+},
+"25qf2-154": {
+"skip": true
+},
+"25qf2-155": {
+"skip": true
+},
+"25qf2-156": {
+"skip": true
+},
+"25qf2-157": {
+"skip": true
+},
+"25qf2-158": {
+"tp": "Inverse proportion",
+"k": "6⅔ hours",
+"s": "AM"
+},
+"25qf2-159": {
+"skip": true
+},
+"25qf2-160": {
+"tp": "Pharmacy calculations",
+"k": "2 mL",
+"s": "AM"
+},
+"25qf2-161": {
+"tp": "Rates",
+"q": "A fitness tracker shows a heart rate of 90 beats per minute for a 30-minute workout. How many beats occurred during the workout?",
+"k": "2,700 beats",
+"s": "AM"
+},
+"25qf2-162": {
+"tp": "Growth",
+"k": "100,000 cells",
+"s": "AM"
+},
+"25qf2-163": {
+"tp": "Boyle's law",
+"q": "A gas obeys Boyle's Law. If the initial volume is 2 liters at a pressure of 3 atm, what will the volume be at 6 atm?",
+"k": "1 liter",
+"s": "AM"
+},
+"25qf2-164": {
+"tp": "Optimisation",
+"k": "$60",
+"s": "AM"
+},
+"25qf2-165": {
+"tp": "Rates",
+"k": "7,200 beats",
+"s": "AM"
+},
+"25qf2-166": {
+"tp": "Growth",
+"k": "464 bacteria",
+"s": "AM"
+},
+"25qf2-167": {
+"skip": true
+},
+"25qf2-168": {
+"tp": "Discounts",
+"k": "$4,224",
+"s": "AM"
+},
+"25qf2-169": {
+"tp": "Percentages",
+"q": "A library has 5,000 books, and 1,200 are fiction novels. What percentage of books are fiction?",
+"o": [
+"50%",
+"24%",
+"30%"
+],
+"k": "50%",
+"a": "24%",
+"t": "d",
+"n": "The show's bar read 50%; 1,200 ÷ 5,000 = 24%.",
+"s": "AM"
+},
+"25qf2-170": {
+"tp": "Units",
+"k": "37.04 m/s",
+"s": "AM"
+},
+"25qf2-171": {
+"tp": "Rates",
+"k": "375 bpm",
+"s": "AM"
+},
+"25qf2-172": {
+"skip": true
+},
+"25qf2-173": {
+"skip": true
+},
+"25qf2-174": {
+"tp": "Rates",
+"k": "80 bpm",
+"s": "AM"
+},
+"25qf2-175": {
+"skip": true
+},
+"25qf2-176": {
+"skip": true
+},
+"25qf2-177": {
+"tp": "Percentages",
+"k": "20%",
+"s": "AM"
+},
+"25qf2-178": {
+"skip": true
+},
+"25qf2-179": {
+"tp": "Arithmetic",
+"k": "60 litres",
+"s": "AM"
+},
+"25qf2-180": {
+"tp": "Sequences",
+"q": "If the nth term of a sequence is 4n² − 4, then the 8th term is",
+"k": "252",
+"s": "AM"
+},
+"25qf2-181": {
+"tp": "Probability",
+"k": "70%",
+"s": "DA"
+},
+"25qf2-182": {
+"skip": true
+},
+"25qf2-183": {
+"skip": true
+},
+"25qf2-184": {
+"tp": "Quartiles",
+"q": "A company has the following monthly sales figures: 45, 50, 55, 60, 65, 70, 75, 80. What is the first quartile of the sales?",
+"k": "52.5",
+"s": "DA"
+},
+"25qf2-185": {
+"skip": true
+},
+"25qf2-186": {
+"tp": "Pharmacy calculations",
+"q": "A stock has a strength of 2,500 units per mL. What volume must be drawn up into an injection to give 7,000 units?",
+"k": "2.8 or 14/5 mL",
+"s": "AM"
+},
+"25qf2-187": {
+"skip": true
+},
+"25qf2-188": {
+"tp": "Perimeter",
+"k": "71 m",
+"s": "AM"
+},
+"25qf2-189": {
+"tp": "Combinations",
+"s": "DA"
+},
+"25qf2-190": {
+"skip": true
+},
+"25qf2-191": {
+"skip": true
+},
+"25qf2-192": {
+"tp": "Growth",
+"k": "1,600 bacteria",
+"s": "AM"
+},
+"25qf2-193": {
+"skip": true
+},
+"25qf2-194": {
+"skip": true
+},
+"25qf2-195": {
+"tp": "Normal distribution",
+"s": "DA"
+},
+"25qf2-196": {
+"tp": "Percentiles",
+"s": "DA"
+},
+"25qf2-197": {
+"tp": "Rates",
+"k": "200 miles",
+"s": "AM"
+},
+"25qf2-198": {
+"tp": "Algebra",
+"s": "AM"
+},
+"25qf2-199": {
+"skip": true
+},
+"25qf2-200": {
+"skip": true
+},
+"25qf2-201": {
+"skip": true
+},
+"25qf2-202": {
+"tp": "Proportion",
+"k": "24 eggs",
+"s": "AM"
+},
+"25qf2-203": {
+"tp": "Growth",
+"k": "30 hours",
+"n": "30 hours assumes steady (linear) growth of 40 an hour; with exponential growth the doubling time is about 24 hours.",
+"s": "AM"
+},
+"25qf2-204": {
+"skip": true
+},
+"25qf2-205": {
+"tp": "Discounts",
+"k": "$10,200",
+"s": "AM"
+},
+"25qf2-206": {
+"tp": "Combinations",
+"k": "15",
+"s": "DA"
+},
+"25qf2-207": {
+"skip": true
+},
+"25qf2-208": {
+"skip": true
+},
+"25qf2-209": {
+"tp": "Growth",
+"s": "AM"
+},
+"25qf2-210": {
+"skip": true
+},
+"25qf2-211": {
+"skip": true
+},
+"25qf2-212": {
+"tp": "Surface area",
+"k": "9,600 cm²",
+"s": "AM"
+},
+"25qf2-213": {
+"skip": true
+},
+"25qf2-214": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25qf2-215": {
+"tp": "Median",
+"q": "The number of miles that Jenna cycled each week for 7 weeks was 36, 42, 28, 52, 48, 36, 31. What is the median?",
+"k": "36",
+"s": "DA"
+},
+"25qf2-216": {
+"skip": true
+},
+"25qf2-217": {
+"tp": "Combinations",
+"k": "200",
+"s": "DA"
+},
+"25qf2-218": {
+"tp": "Polygons",
+"k": "45°",
+"s": "AM"
+},
+"25qf2-219": {
+"tp": "Probability",
+"k": "2/9 or 8/36 or 4/18",
+"s": "DA"
+},
+"25qf2-220": {
+"tp": "Percentages",
+"k": "20%",
+"s": "AM"
+},
+"25qf2-221": {
+"tp": "Algebra",
+"q": "Is x² + x even or odd if x is odd?",
+"k": "Even",
+"s": "AM"
+},
+"25qf2-222": {
+"tp": "Units",
+"q": "If the mass of a mosquito is 2.5 × 10⁻⁶ kg, what is the mass in milligrams?",
+"k": "2.5 × 10⁻³ g",
+"a": "2.5 mg",
+"n": "The show's bar gave the mass in grams (2.5 × 10⁻³ g); in milligrams it is 2.5 mg.",
+"s": "AM"
+},
+"25qf2-223": {
+"skip": true
+},
+"25qf2-224": {
+"tp": "Area",
+"k": "6 m",
+"s": "AM"
+},
+"25qf2-225": {
+"tp": "Probability",
+"k": "16/49 or 64/196",
+"s": "DA"
+},
+"25qf2-226": {
+"tp": "Ratios",
+"k": "14",
+"a": "42",
+"t": "d",
+"n": "The show's bar read 14, which is the number she got right; wrong answers are 3 × 14 = 42.",
+"s": "AM"
+},
+"25qf2-227": {
+"skip": true
+},
+"25qf2-228": {
+"skip": true
+},
+"25qf2-229": {
+"skip": true
+},
+"25qf2-230": {
+"skip": true
+},
+"25qf2-231": {
+"skip": true
+},
+"25qf2-232": {
+"skip": true
+},
+"25qf2-233": {
+"skip": true
+},
+"25qf2-234": {
+"skip": true
+},
+"25qf2-235": {
+"tp": "Permutations",
+"q": "Simbi, Simi, Timi, Remi and Jimmy arrange themselves in a row for a photograph. In how many ways can they be arranged?",
+"k": "120",
+"s": "DA"
+},
+"25qf2-236": {
+"skip": true
+},
+"25qf2-237": {
+"skip": true
+},
+"25qf2-238": {
+"skip": true
+},
+"25qf2-239": {
+"skip": true
+},
+"25qf2-240": {
+"skip": true
+},
+"25qf2-241": {
+"tp": "Probability",
+"k": "7/24 or 35/120"
+},
+"25qf2-242": {
+"tp": "Arithmetic",
+"q": "A bakery sells 25 loaves of bread per day. If each loaf costs ₦50, how much money does the bakery make in total for the months of September, April, and June?",
+"k": "₦250",
+"a": "₦112,500",
+"t": "d",
+"n": "The show's bar read ₦250; the bakery makes ₦1,250 a day, and September, April and June have 90 days.",
+"s": "AM"
+},
+"25qf2-243": {
+"tp": "Interquartile range"
+},
+"25qf2-244": {
+"tp": "Percentiles",
+"k": "300"
+},
+"25qf2-245": {
+"tp": "Mean",
+"k": "5% or 0.05"
+},
+"25qf2-246": {
+"tp": "Coefficient of variation",
+"k": "33.3% or 33⅓%"
+},
+"25qf2-247": {
+"tp": "Permutations",
+"q": "In how many different ways can the letters of the word 'DETAIL' be arranged so that the vowels occupy only the odd positions?",
+"k": "36"
+},
+"25qf2-248": {
+"tp": "Conditional probability",
+"q": "If P(A) = 0.4 and P(B | A) = 0.7, what is P(A and B)?",
+"k": "0.28"
+},
+"25qf2-249": {
+"tp": "Quartiles",
+"k": "45"
+},
+"25qf2-250": {
+"tp": "Probability",
+"k": "1/8 or 0.125",
+"a": "5/16",
+"t": "d",
+"n": "The show's bar read 1/8; 3 heads can happen 4 ways and 4 heads 1 way, 5 of 16."
+},
+"25qf2-251": {
+"tp": "Mean",
+"k": "85"
+},
+"25qf2-252": {
+"tp": "Probability",
+"o": [
+"2/13",
+"1/13",
+"1/52"
+],
+"k": "1/13",
+"t": "w"
+},
+"25qf2-253": {
+"skip": true
+},
+"25qf2-254": {
+"skip": true
+},
+"25qf2-255": {
+"skip": true
+},
+"25qf2-256": {
+"skip": true
+},
+"25qf2-257": {
+"skip": true
+},
+"25qf2-258": {
+"skip": true
+},
+"25qf2-259": {
+"skip": true
+},
+"25qf2-260": {
+"skip": true
+},
+"25qf2-261": {
+"skip": true
+},
+"25qf2-262": {
+"skip": true
+},
+"25qf2-263": {
+"skip": true
+},
+"25qf2-264": {
+"skip": true
+},
+"25qf2-265": {
+"skip": true
+},
+"25qf2-266": {
+"skip": true
+},
+"25qf2-267": {
+"skip": true
+},
+"25qf2-268": {
+"skip": true
+},
+"25qf2-269": {
+"skip": true
+},
+"25qf2-270": {
+"skip": true
+},
+"25qf2-271": {
+"skip": true
+},
+"25qf2-272": {
+"skip": true
+},
+"25qf2-273": {
+"skip": true
+},
+"25qf2-274": {
+"tp": "Percentages",
+"k": "210"
+},
+"25qf2-275": {
+"skip": true
+},
+"25qf2-276": {
+"tp": "Ratios",
+"k": "45 cows"
+},
+"25qf2-277": {
+"tp": "Percentages"
+},
+"25qf2-278": {
+"tp": "Trees",
+"q": "A binary tree has 31 nodes. What is the height of the tree?",
+"o": [
+"4",
+"5",
+"6"
+],
+"k": "4",
+"n": "This counts height in edges for a full (perfect) binary tree: 1 + 2 + 4 + 8 + 16 = 31 nodes on 5 levels."
+},
+"25qf2-279": {
+"skip": true
+},
+"25qf2-280": {
+"tp": "Growth"
+},
+"25qf2-281": {
+"tp": "Quartiles",
+"k": "70,000",
+"s": "DA"
+},
+"25qf2-282": {
+"tp": "Discounts"
+},
+"25qf2-283": {
+"tp": "Percentages",
+"q": "In a sample of 1,500 voters, 750 voted for candidate B. What percentage of voters voted for candidate B?",
+"k": "50%"
+},
+"25qf2-284": {
+"tp": "Discounts",
+"k": "$7,200"
+},
+"25qf2-285": {
+"skip": true
+},
+"25qf2-286": {
+"tp": "Equilibrium"
+},
+"25qf2-287": {
+"tp": "Discounts",
+"q": "If a console costs ₦300, and a 10% discount is applied for every 5 consoles purchased, what would be the total cost for buying 20 consoles?",
+"o": [
+"₦6,400",
+"₦5,400",
+"₦5,940"
+],
+"k": "₦6,400",
+"a": "₦5,400",
+"t": "d",
+"n": "The show's bar read ₦6,400; 20 × ₦300 = ₦6,000, and 10% off is ₦5,400 (one of the options)."
+},
+"25qf2-288": {
+"skip": true
+},
+"25qf2-289": {
+"tp": "Discounts",
+"o": [
+"₦9,000",
+"₦4,500",
+"₦7,500"
+],
+"k": "₦9,000"
+},
+"25qf2-290": {
+"tp": "Discounts",
+"q": "If a bag costs ₦400 with a 5% discount on every 10 bags purchased, what is the cost of 60 bags?",
+"o": [
+"₦12,800",
+"₦22,800",
+"₦42,800"
+],
+"k": "₦22,800"
+},
+"25qf2-291": {
+"tp": "Discounts",
+"q": "A shirt costs ₦40, with a 12% discount on every 12 purchased. What is the total cost for 24 shirts?",
+"o": [
+"₦944.80",
+"₦844.80",
+"₦644.80"
+],
+"k": "₦844.80",
+"t": "w"
+}
+}

@@ -1,0 +1,1104 @@
+{
+ "25-qf2a-qb-0664": {
+  "solution": "Treat the two cars as one block: 4! = 24 arrangements, times 2 for the order inside the block: 48.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0680": {
+  "solution": "600 × 1.1 = 660, then 660 × 0.85 = $561.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0694": {
+  "solution": "R = 5,000 + 2,000 × 500 = 1,005,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0704": {
+  "solution": "⁴P₂ = 4 × 3 = 12.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0729": {
+  "solution": "Sugar is 4 times the water: 4 × 120 = 480 cups.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0734": {
+  "solution": "Neither red nor green means blue: 8 of 30 = 4/15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0743": {
+  "solution": "25 km ÷ 5 km per cm = 5 cm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0761": {
+  "solution": "12 hours is 3 doublings: 1,000 × 2³ = 8,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0782": {
+  "solution": "Increase = 60 million on 200 million = 0.3 = 30%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "30%"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-0815": {
+  "solution": "Cost of the mixture = 88 ÷ 1.25 = ₦70.40. By alligation, ₦68 rice : ₦80 rice = (80 − 70.4) : (70.4 − 68) = 9.6 : 2.4 = 4 : 1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "4 : 1"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-0833": {
+  "solution": "Downstream speed = 240 ÷ 8 = 30 mph, which is boat + current, so the boat does 30 − 5 = 25 mph.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0844": {
+  "solution": "Leaving out the median, the lower half 1, 3 gives Q1 = 2 and the upper half 7, 9 gives Q3 = 8, so IQR = 6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0855": {
+  "solution": "The range uses only the two extreme values, so a single outlier changes it the most.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0862": {
+  "solution": "x = 70 + 1.28 × 10 = 82.8.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0873": {
+  "solution": "At 80 km/h, 320 km takes 320 ÷ 80 = 4 hours. (The 4,000 km does not matter.)",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0880": {
+  "solution": "15 breaths in 60 seconds: 15 ÷ 60 = 0.25 a second.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.25",
+   "1/4"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-0887": {
+  "solution": "Increase = 120,000 on 480,000 = 25%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0890": {
+  "solution": "z = (180,000 − 150,000) ÷ 30,000 = 1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0900": {
+  "solution": "In order: 1.7, 2.5, 2.5, 3.5, 4. The middle value is 2.5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0903": {
+  "solution": "Mode ≈ 3 × median − 2 × mean = 60 − 45 = 15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0914": {
+  "solution": "20 × 1.2 × 1.2 = 28.8.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0918": {
+  "solution": "Either: 35 + 45 − 10 = 70, so neither: 30.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0928": {
+  "solution": "A stop sign is a regular octagon: each interior angle is (8 − 2) × 180° ÷ 8 = 135°.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0932": {
+  "solution": "n(n + 2) = 143 gives n² + 2n − 143 = 0, so n = 11 or −13: the pairs 11 and 13, or −13 and −11.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "11 and 13",
+   "11, 13",
+   "-13 and -11"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-0957": {
+  "solution": "6 letters with A three times and N twice: 6! ÷ (3! × 2!) = 60.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0963": {
+  "solution": "1/2 × 1/2 = 1/4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0976": {
+  "solution": "One of each note is $16, so she has 480 ÷ 16 = 30 of each: 90 notes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0984": {
+  "solution": "800 : 500 = 8 : 5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "8 : 5"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-0989": {
+  "solution": "French or English: 12 + 18 − 5 = 25.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0995": {
+  "solution": "Each pH unit is a factor of 10: two units is 10² = 100 times.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1015": {
+  "solution": "Radius 13 in, so the area is π × 13² = 169π in².",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "169π",
+   "169pi"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-1019": {
+  "solution": "Increase = 36 on 60 = 60%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1023": {
+  "solution": "P(red, then red) = 6/12 × 5/11 = 30/132 = 5/22.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "5/22",
+   "15/66"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-1030": {
+  "solution": "Boyle's law, pV constant: the pressure becomes 2.5 atm, so V = 500 × 2 ÷ 2.5 = 400 mL.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1037": {
+  "solution": "It multiplies by 10 every 3 hours; 9 hours is 3 such steps: 100 × 10³ = 100,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1056": {
+  "solution": "1/2 × 1/2 = 1/4 = 25%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "25%",
+   "0.25",
+   "1/4"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-1089": {
+  "solution": "Treat the two books as one block: 5! = 120, times 2 for their order: 240.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1091": {
+  "solution": "RADIO has 5 different letters: 5! = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1107": {
+  "solution": "It gains 4,000 in 4 hours: 1,000 an hour.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1000",
+   "1,000"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-1113": {
+  "solution": "80 × $100 = $8,000; the discount applies to the whole order once it reaches the stated quantity, so 20% off leaves $6,400.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1122": {
+  "solution": "9 parts make 45, so a part is 5 and the younger (4 parts) is 20 years.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "20 years"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-1127": {
+  "solution": "⁷C₄ = 35.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1134": {
+  "solution": "Phosphorus = 2/3 × 2,400 = 1,600 kg = 1,600,000 g.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1600 kg",
+   "1,600 kg"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-1139": {
+  "solution": "7:00 AM minus 7½ hours is 11:30 PM the night before.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "11:30pm",
+   "23:30"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-1157": {
+  "solution": "x² + 2x = 48 gives (x + 8)(x − 6) = 0, so the negative integer is −8.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "-8"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-1174": {
+  "solution": "1 micron (micrometre) = 10⁻⁶ m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "10^-6",
+   "1e-6",
+   "0.000001"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-1177": {
+  "solution": "Diameter = 20 cm, so 80 : 20 = 4 : 1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "4 : 1"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-qb-1191": {
+  "solution": "The trip is 12 × 180 = 2,160 km, and 2,160 ÷ 48 = 45 km/h.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1263": {
+  "solution": "0.08% w/v is 0.08 g per 100 mL, so 20,000 mL needs 0.08 × 200 = 16 g.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1267": {
+  "solution": "√(11² + 60²) = √3,721 = 61 km.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1275": {
+  "solution": "Radius 2 m: V = πr²h = (22/7) × 4 × 28 = 352 m³.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1288": {
+  "solution": "5 of 10 parts: 5/10 × 96 = 48 cm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1293": {
+  "solution": "Change = −15,000 on 60,000 = −25%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1298": {
+  "solution": "The path adds 2 m on each side: 14 m by 12 m, so the fence is 2 × (14 + 12) = 52 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1305": {
+  "solution": "It multiplies by 4 every 5 hours: 800 × 4 = 3,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1312": {
+  "solution": "z = (700,000 − 500,000) ÷ 100,000 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1316": {
+  "solution": "200 × 1.4 × 1.4 = 392.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1325": {
+  "solution": "2 blue of 10 balls: 1/5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/5",
+   "2/10",
+   "0.2"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-bm-1331": {
+  "solution": "f(9) = 18 + 9 = 27.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1336": {
+  "solution": "Drop = 30 on 150 = 20%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1340": {
+  "solution": "1,600 ÷ 50 = 32 hours.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1343": {
+  "solution": "Increase = 55 on 25 = 2.2 = 220%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1554": {
+  "solution": "¹⁰C₃ = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1557": {
+  "solution": "5! = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1562": {
+  "solution": "x = mean + z × SD = 45 + 2 × 8 = 61.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1569": {
+  "solution": "z = (192 − 180) ÷ 6 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1572": {
+  "solution": "Mode ≈ 3 × median − 2 × mean = 30 − 28 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1577": {
+  "solution": "Mean = 60 ÷ 5 = 12, and 12² = 144.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1584": {
+  "solution": "⁵C₂ × ³C₂ = 10 × 3 = 30.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1587": {
+  "solution": "Ordered choice of 3 from 5: ⁵P₃ = 60.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1594": {
+  "solution": "1/6 × 1/6 = 1/36.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1601": {
+  "solution": "The upper half 60,000 and 80,000 has middle value 70,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1607": {
+  "solution": "6/12 × 5/11 × 4/10 = 120/1,320 = 1/11.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/11",
+   "20/220"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-bm-1616": {
+  "solution": "MATHS has 5 different letters: 5! = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1621": {
+  "solution": "⁷C₃ = 35.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1703": {
+  "solution": "Wrong is 3 times right, so 4 parts make 56: right 14, wrong 42.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2053": {
+  "solution": "4 taps × 10 hours = 40 tap-hours, so 6 taps take 40 ÷ 6 = 6⅔ hours.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "6 2/3",
+   "20/3",
+   "6.67"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-qb-2066": {
+  "solution": "9,000 ÷ 4,500 = 2 mL.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2073": {
+  "solution": "90 × 30 = 2,700.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2079": {
+  "solution": "It multiplies by 10 every 2 hours: 10,000 × 10 = 100,000 after 4 hours.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2086": {
+  "solution": "pV is constant: 2 × 3 = 6 × V, so V = 1 L.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2091": {
+  "solution": "48 ÷ 4 = 12 units, and 12 × $5 = $60.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2097": {
+  "solution": "60 × 120 = 7,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2104": {
+  "solution": "Growing by 8 an hour for 8 hours adds 64: 464.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2120": {
+  "solution": "24 × $200 = $4,800; the discount applies to the whole order once it reaches the stated quantity, so 12% off leaves $4,224.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2132": {
+  "solution": "1,200 ÷ 5,000 = 0.24 = 24%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2136": {
+  "solution": "800,000 m in 21,600 s: 800,000 ÷ 21,600 ≈ 37.04 m/s.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "37.04",
+   "37"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-qb-2147": {
+  "solution": "60 ÷ 0.16 = 375 beats per minute.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2183": {
+  "solution": "20 beats in 15 seconds is 80 in 60 seconds.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2207": {
+  "solution": "Drop = 5 on 25 = 20%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2222": {
+  "solution": "Each table takes 8 L of water and 2 L of soap, 10 L in all, so 6 tables take 60 L.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2233": {
+  "solution": "4 × 64 − 4 = 252.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2239": {
+  "solution": "70 of 100 are untagged: 70%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2258": {
+  "solution": "The lower half 45, 50, 55, 60 has middle value (50 + 55) ÷ 2 = 52.5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2273": {
+  "solution": "7,000 ÷ 2,500 = 2.8 mL.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2.8",
+   "14/5"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-qb-2290": {
+  "solution": "20 + 17 + 16 + 18 = 71 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2297": {
+  "solution": "⁵C₃ = 10.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2323": {
+  "solution": "Four doublings: 100 × 2⁴ = 1,600.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2348": {
+  "solution": "The second quartile is the median, which equals the mean in a normal distribution: 80.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2358": {
+  "solution": "z = (90 − 80) ÷ 10 = 1, and about 84% of a normal distribution lies below z = 1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2370": {
+  "solution": "25 miles an hour for 8 hours: 200 miles.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2376": {
+  "solution": "17 + 18 = 35 and 17 × 18 = 306.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2404": {
+  "solution": "2 eggs a cake × 12 cakes = 24.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2412": {
+  "solution": "It gains 400 in 10 hours, 40 an hour; doubling to 2,400 needs 1,200 more, which takes 30 hours.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2429": {
+  "solution": "30 × $400 = $12,000; the discount applies to the whole order once it reaches the stated quantity, so 15% off leaves $10,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2449": {
+  "solution": "Choose the 2 positions for tails: ⁶C₂ = 15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2467": {
+  "solution": "Three doublings: 200 × 2³ = 1,600.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2480": {
+  "solution": "6 faces of 40 × 40: 6 × 1,600 = 9,600 cm².",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2494": {
+  "solution": "Increase = 50 on 100 = 50%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2498": {
+  "solution": "In order: 28, 31, 36, 36, 42, 48, 52. The middle value is 36.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2511": {
+  "solution": "⁶C₃ × ⁵C₂ = 20 × 10 = 200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2521": {
+  "solution": "A regular octagon has exterior angles of 360° ÷ 8 = 45°.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2525": {
+  "solution": "Sum 7: 6 ways; sum 11: 2 ways. 8 of 36 = 2/9.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2/9",
+   "8/36"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-qb-2532": {
+  "solution": "Decrease = 16 on 80 = 20%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2534": {
+  "solution": "x² + x = x(x + 1), and one of x and x + 1 is even, so the product is even.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2540": {
+  "solution": "2.5 × 10⁻⁶ kg = 2.5 × 10⁻³ g = 2.5 mg.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2.5"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-qb-2558": {
+  "solution": "√36 = 6 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2561": {
+  "solution": "With replacement: 8/14 × 8/14 = 64/196 = 16/49.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "16/49",
+   "64/196"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-bm-2690": {
+  "solution": "Wrong is 3 times right, so 4 parts make 56: right 14, wrong 42.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2755": {
+  "solution": "5! = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2818": {
+  "solution": "7/10 × 6/9 × 5/8 = 210/720 = 7/24.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "7/24",
+   "35/120"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-bm-2826": {
+  "solution": "25 × ₦50 = ₦1,250 a day. September, April and June have 30 days each, 90 in all: 90 × 1,250 = ₦112,500.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2833": {
+  "solution": "IQR = 60 − 25 = 35.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2840": {
+  "solution": "30% of 1,000 values lie below the 30th percentile: 300.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2846": {
+  "solution": "(2 + 5 + 12 + 1) ÷ 4 = 20 ÷ 4 = 5%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "5%",
+   "0.05"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-bm-2851": {
+  "solution": "CV = 6 ÷ 18 = 1/3 ≈ 33.3%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "33.3%",
+   "33 1/3%",
+   "1/3"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-bm-2855": {
+  "solution": "The 3 vowels fill the 3 odd places in 3! = 6 ways, and the 3 consonants fill the even places in 3! = 6 ways: 36.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2864": {
+  "solution": "P(A and B) = P(A) × P(B | A) = 0.4 × 0.7 = 0.28.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2867": {
+  "solution": "Q1 = Q3 − IQR = 70 − 25 = 45.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2876": {
+  "solution": "Exactly 3 heads: 4 ways; 4 heads: 1 way. 5 of 16 outcomes: 5/16 = 0.3125.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.3125",
+   "5/16"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-bm-2890": {
+  "solution": "(70 + 80 + 90 + 100) ÷ 4 = 85.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2899": {
+  "solution": "4 kings of 52: 1/13.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3026": {
+  "solution": "35% of 600 = 210.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3034": {
+  "solution": "36 goats is 9 groups of 4, so 9 × 5 = 45 cows.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3039": {
+  "solution": "40,000 × 1.1 × 1.2 = $52,800.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3043": {
+  "solution": "A perfect binary tree with 5 levels has 2⁵ − 1 = 31 nodes; its height (edges from root to leaf) is 4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3053": {
+  "solution": "1,000 × 1.2³ = 1,728.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3057": {
+  "solution": "The upper half 60,000 and 80,000 has middle value 70,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3064": {
+  "solution": "80 × $300 = $24,000; the discount applies to the whole order once it reaches the stated quantity, so 20% off leaves $19,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3067": {
+  "solution": "750 ÷ 1,500 = 50%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3072": {
+  "solution": "40 × $200 = $8,000; the discount applies to the whole order once it reaches the stated quantity, so 10% off leaves $7,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3083": {
+  "solution": "Stock stabilises when the 20 added equals the 5% lost: 0.05S = 20, so S = 400 units.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3086": {
+  "solution": "20 × ₦300 = ₦6,000; the discount applies to the whole order once it reaches the stated quantity, so 10% off leaves ₦5,400.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3102": {
+  "solution": "40 × ₦250 = ₦10,000; the discount applies to the whole order once it reaches the stated quantity, so 10% off leaves ₦9,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3106": {
+  "solution": "60 × ₦400 = ₦24,000; the discount applies to the whole order once it reaches the stated quantity, so 5% off leaves ₦22,800.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3113": {
+  "solution": "24 × ₦40 = ₦960; the discount applies to the whole order once it reaches the stated quantity, so 12% off leaves ₦844.80.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ }
+}

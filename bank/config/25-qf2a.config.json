@@ -1,0 +1,38 @@
+{
+ "season": "25",
+ "video": "WF7JMeeDcVM",
+ "stage": "qf",
+ "bm_max_step": 40,
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/25-qf2.json",
+   "bank/review/25-qf2.json"
+  ]
+ ],
+ "code": "qf2a",
+ "match": "OAU v UNIBEN, 2025",
+ "window": [
+  0,
+  1800
+ ],
+ "qb_top": "OAU",
+ "qb_bottom": "UNIBEN",
+ "bm_top": "OAU",
+ "bm_bottom": "UNIBEN",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "GK",
+  "3": "DA",
+  "4": "VR"
+ },
+ "quarter_starts": {
+  "BM": [
+   1255,
+   1420,
+   1535,
+   1650
+  ]
+ },
+ "out": "bank/master/25-qf2a.json"
+}
