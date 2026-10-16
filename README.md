@@ -10,6 +10,7 @@ npm install, then npm run dev (the sync API only runs on Vercel or with `vercel 
 2. Storage tab: add Upstash for Redis (free) and connect it to the project. It adds KV_REST_API_URL and KV_REST_API_TOKEN.
 3. Settings > Environment Variables: add SITE_PASSWORD (any username works at the prompt).
 4. Redeploy.
+5. Check: open `/api/health` on the site (after the password prompt). It says whether sync storage is connected and answering.
 
 ## Custom domain
 In Vercel: Settings > Domains > add `duel.oluwatobisimi.me`. At Namecheap: Domain List > Manage > Advanced DNS > Add New Record: type CNAME, host `duel`, value `cname.vercel-dns.com.` (use the value Vercel shows if it differs).

@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import type { ItemRec, Progress, Question, SessionRec, Setup, Subject } from './types';
 import { STAGE_NAMES, SUBJECT_NAMES } from './types';
 import { BANK, mmss, ordered, poolFor, questionStates, ytLink } from './lib/bank';
-import { addProfile, downloadJson, listProfiles, loadLocal, rememberProfile, savedProfile, saveLocal, slug, sync } from './lib/store';
+import { addProfile, downloadJson, listProfiles, loadLocal, rememberProfile, savedProfile, saveLocal, slug, sync, syncProblem } from './lib/store';
 import { RULE_NAMES } from './lib/scoring';
 import { MathText } from './lib/math';
 import Quiz from './screens/Quiz';
@@ -39,13 +39,14 @@ export default function App() {
   const [screen, setScreen] = useState<Screen>(profile ? 'home' : 'profile');
   const [setup, setSetup] = useState<Setup>(loadSetup());
   const [syncState, setSyncState] = useState<SyncState>('local');
+  const [syncWhy, setSyncWhy] = useState('');
   const [run, setRun] = useState<{ queue: Question[]; reserve: Question[]; key: number } | null>(null);
   const [lastSession, setLastSession] = useState<SessionRec | null>(null);
 
   const doSync = useCallback(async (p: Progress) => {
     setSyncState('syncing');
-    try { const merged = await sync(p); setProgress(merged); setSyncState('synced'); }
-    catch { setSyncState('failed'); }
+    try { const merged = await sync(p); setProgress(merged); setSyncState('synced'); setSyncWhy(''); }
+    catch (e) { setSyncState('failed'); setSyncWhy(syncProblem(e)); }
   }, []);
 
   useEffect(() => { if (profile) { const p = loadLocal(profile); setProgress(p); doSync(p); } }, [profile, doSync]);
@@ -93,7 +94,7 @@ export default function App() {
       <button className="wordmark" onClick={() => setScreen('home')}>Split Second</button>
       <div className="who">
         <span>{savedName(profile)}</span>
-        <button className={`sync ${syncState}`} onClick={() => doSync(progress)} title="Sync now">{syncText}</button>
+        <button className={`sync ${syncState}`} onClick={() => doSync(progress)} title={syncWhy || 'Sync now'}>{syncText}</button>
       </div>
     </header>
   );
@@ -172,7 +173,7 @@ function ProfileScreen({ onChoose }: { onChoose: (id: string, name: string) => v
   const [list, setList] = useState<{ id: string; name: string }[] | null>(null);
   const [err, setErr] = useState('');
   const [name, setName] = useState('');
-  useEffect(() => { listProfiles().then(setList).catch(() => { setList([]); setErr('Can\'t reach saved players right now. You can still add yourself; progress stays on this device until sync works.'); }); }, []);
+  useEffect(() => { listProfiles().then(setList).catch(e => { setList([]); setErr(`${syncProblem(e)} You can still add yourself; progress stays on this device until sync works.`); }); }, []);
   const add = async () => {
     const clean = name.trim(); if (!clean) return;
     try { const l = await addProfile(clean); setList(l); } catch { /* offline */ }

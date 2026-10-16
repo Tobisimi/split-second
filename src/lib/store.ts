@@ -49,6 +49,17 @@ export async function sync(local: Progress): Promise<Progress> {
   return merged;
 }
 
+// A short, plain reason for a failed sync, from the error api() throws ("<status> <body>").
+export function syncProblem(e: unknown): string {
+  const m = String((e as Error)?.message ?? e);
+  if (/Storage not connected/i.test(m)) return 'Sync is not set up yet: the Upstash database is not connected to this Vercel project.';
+  if (/Storage error/i.test(m)) return 'The sync storage did not answer.';
+  if (/^40[34]/.test(m)) return 'This copy of the app has no sync server.';
+  if (/^401/.test(m)) return 'The password check failed. Reload the page and sign in again.';
+  if (/fetch|network|load failed/i.test(m)) return 'No connection to the sync server right now.';
+  return `The sync server had a problem (${m.slice(0, 60)}).`;
+}
+
 export async function listProfiles(): Promise<{ id: string; name: string }[]> {
   const j = await api('/api/profiles');
   return Array.isArray(j.profiles) ? j.profiles : [];
