@@ -18,12 +18,12 @@ the 38 match videos of both seasons. Tools: `pipeline/repeats.py` (question agai
 
 | Round | Questions asked | Different questions | Asked again within the round |
 |---|---|---|---|
-| Quarter-finals (4 matches) | 597 | 515 | 82 (14%) |
+| Quarter-finals (4 matches) | 599 | 515 | 84 (14%) |
 | Semi-finals (2) | 363 | 321 | 42 (12%) |
 | Third place and final | 425 | 384 | 41 (10%) |
 
 - Repeats come in pairs of matches, almost all in Quick Buzz Applied Maths, in the same order:
-  QF1 and QF3 share 37 (35 maths), QF2 and QF4 share 27 (all maths), SF1 and SF2 share 42 (36 Quick Buzz,
+  QF1 and QF3 share 37 (35 maths), QF2 and QF4 share 28 (27 maths, 1 data), SF1 and SF2 share 42 (36 Quick Buzz,
   6 Brain Match maths), third place and final share 41 (20 maths and 15 verbal reasoning in Quick Buzz, plus
   one Brain Match question per subject).
 - The quarter-final Quick Buzz maths is one ordered list used in a loop: QF4 started near the end of QF1's run,

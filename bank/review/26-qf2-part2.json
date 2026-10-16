@@ -1,0 +1,175 @@
+{
+"qf2b-003": {
+"tp": "Blood relations",
+"q": "Introducing a boy, a girl says, “He is the son of my mother's only child.” How is the girl related to the boy?",
+"o": [
+"Mother",
+"Sister",
+"Aunt"
+],
+"n": "Her mother's only child is the girl herself, so the boy is her son.",
+"k": "Mother"
+},
+"qf2b-001": {
+"tp": "Letter positions",
+"n": "Counting M as the first letter (M, L, K) gives K; starting from the letter before M (L, K, J) would give J."
+},
+"qf2b-002": {
+"tp": "Blood relations",
+"k": "Grand-uncle"
+},
+"qf2b-004": {
+"tp": "Blood relations",
+"q": "X is Y's wife. Z is Y's brother. How is X related to Z?"
+},
+"qf2b-005": {
+"tp": "Seating arrangements",
+"q": "Three couples sit together: Mr. A sits with Mrs. B. Mr. C sits with his wife. Mrs. D doesn't sit with her husband. Who is Mrs. D's husband?",
+"o": [
+"Mr. A",
+"Mr. B",
+"Mr. C"
+],
+"k": "Mr. B",
+"n": "The clues rule out Mr. C but fit Mr. A as well as Mr. B; the show took Mr. B."
+},
+"qf2b-006": {
+"tp": "Directions",
+"q": "From the department building, admin is 200m east. The library is 200m north of admin. Where is the library from the department?"
+},
+"qf2b-007": {
+"tp": "Seating arrangements",
+"n": "If 'X faces Y' means each person turns to the next one clockwise, Y would face Z; the show paired them off, so W faces Z."
+},
+"qf2b-008": {
+"tp": "Riddles",
+"k": "A comb"
+},
+"qf2b-009": {
+"tp": "Analogies",
+"q": "If 'ACOUSTICS' is to 'SOUND', then 'OPTICS' is to:"
+},
+"qf2b-010": {
+"tp": "Analogies"
+},
+"qf2b-011": {
+"tp": "Letter positions",
+"k": "L"
+},
+"qf2b-012": {
+"tp": "Blood relations",
+"q": "Pointing to a lady, Tom said, \"She is the daughter of my grandfather's only son.\" Who is the lady?"
+},
+"qf2b-013": {
+"tp": "Ordering",
+"q": "In a race, A finished before B but after C. D finished after B. Who won?",
+"k": "C"
+},
+"qf2b-014": {
+"tp": "Odd one out",
+"q": "Pick the odd one out: Bitcoin, Blockchain, Ethereum, PayPal"
+},
+"qf2b-015": {
+"tp": "Directions"
+},
+"qf2b-016": {
+"tp": "Odd one out",
+"drop": "question unclear and answer not confirmed"
+},
+"qf2b-017": {
+"tp": "Ordering",
+"q": "Five people have different ages: A is older than B but younger than C. D is older than E but younger than B. F is older than C. Who is the youngest?",
+"k": "E"
+},
+"qf2b-018": {
+"tp": "Letter positions",
+"q": "If the letters of the alphabet are written in reverse, which letter will be the 7th from the right?",
+"k": "T",
+"a": "G",
+"t": "d",
+"n": "Written in reverse, the alphabet runs from Z on the left to A on the right, so the 7th from the right is G. The show's T is the 7th from the left; G wasn't among the options."
+},
+"qf2b-019": {
+"tp": "Directions"
+},
+"qf2b-020": {
+"tp": "Science",
+"q": "Robert Hooke coined the term \"Cell\" using which microscope?"
+},
+"qf2b-021": {
+"tp": "Culture"
+},
+"qf2b-022": {
+"tp": "Film"
+},
+"qf2b-023": {
+"tp": "History",
+"o": [
+"2000 BCE",
+"3000 BCE",
+"700 BCE"
+],
+"k": "2000 BCE"
+},
+"qf2b-024": {
+"tp": "Culture"
+},
+"qf2b-025": {
+"tp": "Health",
+"q": "Tuberculosis mainly affects the ____"
+},
+"qf2b-026": {
+"tp": "History",
+"o": [
+"Koutoubia Mosque",
+"Hassan Tower",
+"Sankore Mosque"
+]
+},
+"qf2b-027": {
+"tp": "History"
+},
+"qf2b-028": {
+"tp": "Geography",
+"q": "The 6th October Bridge, one of Africa's longest, is located in which city?"
+},
+"qf2b-029": {
+"tp": "Politics"
+},
+"qf2b-030": {
+"tp": "Economy"
+},
+"qf2b-031": {
+"tp": "Science"
+},
+"qf2b-032": {
+"tp": "Geography"
+},
+"qf2b-033": {
+"tp": "Sport",
+"q": "Who is Nigeria's all-time top scorer with 37 goals?"
+},
+"qf2b-034": {
+"tp": "Health"
+},
+"qf2b-035": {
+"tp": "Science",
+"q": "Transmission electron microscopes magnify up to"
+},
+"qf2b-036": {
+"tp": "Science"
+},
+"qf2b-037": {
+"tp": "Agriculture"
+},
+"qf2b-038": {
+"tp": "Politics"
+},
+"qf2b-039": {
+"tp": "Geography"
+},
+"qf2b-040": {
+"tp": "Animals",
+"q": "\"Muster\" is the collective name for"
+}
+}

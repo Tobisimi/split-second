@@ -1,0 +1,210 @@
+{
+  "26-qf4-qb-1159": {
+    "solution": "For simple interest, amount = P × (1 + r × t). So 75,000 = P × (1 + 0.04 × 5) = P × 1.2. Then P = 75,000 ÷ 1.2 = ₦62,500.",
+    "trick": "4% for 5 years is 20%, so the amount is 6/5 of the principal. Take 5/6 of 75,000: 75,000 ÷ 6 = 12,500, and 12,500 × 5 = ₦62,500.",
+    "check": "agree",
+    "computed": "₦62,500",
+    "accept": ["62500", "62,500", "₦62500", "N62,500", "N62500"],
+    "comment": ""
+  },
+  "26-qf4-qb-1213": {
+    "solution": "Simple interest I = P × r × t, so r = I ÷ (P × t). Then r = 3,000 ÷ (15,000 × 5) = 3,000 ÷ 75,000 = 0.04, which is 4% per year.",
+    "trick": "Interest per year is 3,000 ÷ 5 = 600. Then 600 out of 15,000 is 1 in 25, which is 4%.",
+    "check": "agree",
+    "computed": "4% per year (0.04)",
+    "accept": ["4%", "4", "0.04", "4 percent", "4 per cent", "4% per annum", "4% p.a."],
+    "comment": ""
+  },
+  "26-qf4-qb-1345": {
+    "solution": "Simple interest = P × r × t = 40,000 × 0.05 × 3 = ₦6,000. The question asks what the money becomes, so add the principal: 40,000 + 6,000 = ₦46,000.",
+    "trick": "The money grows, so it becomes more than ₦40,000, and only ₦46,000 is above that. The ₦6,000 option is just the interest.",
+    "check": "agree",
+    "computed": "₦46,000",
+    "accept": ["46000", "46,000", "₦46000", "N46,000", "N46000"],
+    "comment": ""
+  },
+  "26-qf4-qb-1436": {
+    "solution": "Simple interest = P × R × T ÷ 100 = 150,000 × 9 × 2 ÷ 100. That is 1,500 × 18 = ₦27,000.",
+    "trick": "9% for 2 years is 18%. 1% of 150,000 is 1,500, and 1,500 × 18 = 15,000 + 12,000 = 27,000.",
+    "check": "agree",
+    "computed": "₦27,000",
+    "accept": ["27000", "27,000", "₦27000", "N27,000", "N27000"],
+    "comment": ""
+  },
+  "26-qf4-qb-1602": {
+    "solution": "A 1:200 scale means 1 cm on the plan is 200 cm in real life. So the garden is 3 × 200 = 600 cm by 7 × 200 = 1,400 cm. The area is 600 × 1,400 = 840,000 cm², which is 84 m².",
+    "trick": "200 cm is 2 m, so double each side to get metres: 6 m by 14 m. Then 6 × 14 = 84 m², and 84 × 10,000 = 840,000 cm².",
+    "check": "agree",
+    "computed": "840,000 cm² (84 m²)",
+    "accept": ["84 m²", "84m²", "84 m2", "84m2", "84 sq m", "84 square metres", "84 square meters", "84", "840000", "840,000", "840000 cm²", "840,000cm²", "840000 cm2", "840000cm2"],
+    "comment": ""
+  },
+  "26-qf4-qb-1616": {
+    "solution": "Amount = P × (1 + r × t) = P × (1 + 0.06 × 5) = 1.3P. So P = 24,000 ÷ 1.3 ≈ ₦18,461.54, which matches the option ₦18,461.",
+    "trick": "Growth is 6% × 5 = 30%, so the principal must be well under 24,000. That rules out ₦46,684, and ₦22,468 would mean only about 7% growth. That leaves ₦18,461.",
+    "check": "agree",
+    "computed": "₦18,461.54 (option ₦18,461)",
+    "accept": ["18461", "18,461", "₦18461", "N18,461", "N18461", "18461.54", "18,461.54", "₦18,461.54", "18462", "18,462"],
+    "comment": ""
+  },
+  "26-qf4-bm-2004": {
+    "solution": "The z-score is z = (x − mean) ÷ SD = (100 − 84) ÷ 32 = 16 ÷ 32 = 0.5.",
+    "trick": "The gap from the mean is 100 − 84 = 16, which is half of 32. So z = 0.5.",
+    "check": "agree",
+    "computed": "0.5",
+    "accept": [".5", "0.50", "1/2", "half"],
+    "comment": ""
+  },
+  "26-qf4-bm-2009": {
+    "solution": "Use the chain rule. The derivative of cos(u) is −sin(u) × u′, and here u = 4x, so u′ = 4. So d/dx cos(4x) = −4sin(4x).",
+    "trick": "Cos becomes minus sin with the same angle, and the 4 inside comes out to the front. So the answer is −4sin(4x). Do not drop the minus sign.",
+    "check": "agree",
+    "computed": "−4sin(4x)",
+    "accept": ["-4sin(4x)", "−4sin(4x)", "-4 sin(4x)", "−4 sin(4x)", "-4sin4x", "−4sin4x", "-4 sin 4x", "−4 sin 4x", "-4sin 4x", "−4sin 4x", "minus 4 sin 4x", "negative 4 sin 4x"],
+    "comment": ""
+  },
+  "26-qf4-bm-2017": {
+    "solution": "(g ∘ f)(4) means g(f(4)). First f(4) = 4² = 16. Then g(16) = √16 = 4.",
+    "trick": "Squaring and then taking the square root undo each other for positive numbers, so the answer is just 4.",
+    "check": "agree",
+    "computed": "4",
+    "accept": ["4.0", "four"],
+    "comment": ""
+  },
+  "26-qf4-bm-2023": {
+    "solution": "Integrate: f(x) = 3x² − 4x + C. From f(1) = 5 we get 3 − 4 + C = 5, so C = 6. Then f(2) = 3 × 4 − 4 × 2 + 6 = 12 − 8 + 6 = 10.",
+    "trick": "The slope 6x − 4 is a straight line, so its average from x = 1 to x = 2 is its value at 1.5, which is 5. So f rises by 5, and f(2) = 5 + 5 = 10.",
+    "check": "agree",
+    "computed": "10",
+    "accept": ["10.0", "ten"],
+    "comment": ""
+  },
+  "26-qf4-bm-2030": {
+    "solution": "Reading intensity as wave amplitude, each step on the Richter scale is 10 times. The rise in magnitude is log₁₀(100) = 2. So the new magnitude is 6 + 2 = 8.",
+    "trick": "100 is 10 × 10, which is two steps of 10 times. So add 2 to the 6 to get 8.",
+    "check": "agree",
+    "computed": "8",
+    "accept": ["8.0", "eight", "magnitude 8"],
+    "comment": ""
+  },
+  "26-qf4-bm-2037": {
+    "solution": "1 km/h = 1,000 m ÷ 3,600 s = 1 ÷ 3.6 m/s. So 90 km/h = 90 ÷ 3.6 = 25 m/s.",
+    "trick": "Divide by 3.6. A handy fact is that 36 km/h is 10 m/s, and 90 is 2.5 times 36, so the answer is 25 m/s.",
+    "check": "agree",
+    "computed": "25 m/s",
+    "accept": ["25", "25m/s", "25 m/s", "25 metres per second", "25 meters per second"],
+    "comment": ""
+  },
+  "26-qf4-bm-2040": {
+    "solution": "The ratio 2:5 makes 2 + 5 = 7 equal parts. Sugar is 2 of the 7 parts, so sugar = 2/7 × 70 g = 20 g.",
+    "trick": "70 ÷ 7 = 10 g per part. Sugar is 2 parts, so 20 g.",
+    "check": "agree",
+    "computed": "20 g",
+    "accept": ["20", "20g", "20 g", "20 grams", "20 gram"],
+    "comment": ""
+  },
+  "26-qf4-bm-2043": {
+    "solution": "The energy stored in a spring is E = ½ × k × x². So E = ½ × 250 × 0.2² = ½ × 250 × 0.04 = 5 J.",
+    "trick": "250 × 0.04 = 10, and half of 10 is 5 J.",
+    "check": "agree",
+    "computed": "5 J",
+    "accept": ["5", "5J", "5 J", "5 joules", "5 joule"],
+    "comment": ""
+  },
+  "26-qf4-bm-2047": {
+    "solution": "Use the product rule (uv)′ = u′v + uv′, with u = 2x² + 1 and v = 3x − 4. So u′ = 4x and v′ = 3. Then f′(x) = 4x(3x − 4) + 3(2x² + 1) = 12x² − 16x + 6x² + 3 = 18x² − 16x + 3.",
+    "trick": "The highest term of the product is 2x² × 3x = 6x³, so the derivative starts with 3 × 6x² = 18x². Only one option starts with 18x².",
+    "check": "agree",
+    "computed": "18x² − 16x + 3",
+    "accept": ["18x^2 - 16x + 3", "18x^2-16x+3", "18x²-16x+3", "18x² - 16x + 3", "18x²−16x+3", "3 - 16x + 18x²"],
+    "comment": ""
+  },
+  "26-qf4-bm-2056": {
+    "solution": "Percentage error = |measured − actual| ÷ actual × 100. So it is |24.1 − 25.0| ÷ 25.0 × 100 = 0.9 ÷ 25 × 100 = 3.6%.",
+    "trick": "Dividing by 25 and multiplying by 100 is the same as multiplying by 4. So 0.9 × 4 = 3.6%.",
+    "check": "agree",
+    "computed": "3.6%",
+    "accept": ["3.6", "3.6 %", "3.6 percent", "3.6 per cent"],
+    "comment": ""
+  },
+  "26-qf4-bm-2060": {
+    "solution": "Percentage yield = actual yield ÷ theoretical yield × 100 = 42.5 ÷ 50.0 × 100 = 0.85 × 100 = 85%.",
+    "trick": "Double both numbers so the theoretical yield becomes 100. Then 42.5 × 2 = 85, so the yield is 85%.",
+    "check": "agree",
+    "computed": "85%",
+    "accept": ["85", "85 %", "85 percent", "85 per cent", "0.85"],
+    "comment": ""
+  },
+  "26-qf4-bm-2065": {
+    "solution": "Complete the square: x² − 12x + 20 = (x − 6)² − 36 + 20 = (x − 6)² − 16. A square is never negative, so the smallest value is −16, reached at x = 6.",
+    "trick": "The minimum of x² + bx + c is c − (b ÷ 2)². Half of 12 is 6, so the minimum is 20 − 36 = −16.",
+    "check": "agree",
+    "computed": "−16",
+    "accept": ["-16", "−16", "minus 16", "negative 16"],
+    "comment": ""
+  },
+  "26-qf4-bm-2071": {
+    "solution": "The volume of a sphere is 4πr³ ÷ 3, so volumes are in the ratio of the cubes of the radii. The radii 2 and 6 are in the ratio 1:3. So the volumes are in the ratio 1³ : 3³ = 1:27.",
+    "trick": "Simplify the radii to 1:3, then cube both numbers: 1:27.",
+    "check": "agree",
+    "computed": "1:27",
+    "accept": ["1:27", "1 : 27", "1/27", "1 to 27"],
+    "comment": ""
+  },
+  "26-qf4-bm-2075": {
+    "solution": "Reading 80 − 2t as the rate at which water leaves, the volume drained is the integral of 80 − 2t from t = 10 to t = 30. An antiderivative is 80t − t², which is 2,400 − 900 = 1,500 at t = 30 and 800 − 100 = 700 at t = 10. So the volume is 1,500 − 700 = 800 L.",
+    "trick": "The rate is a straight line, so use average rate × time. At t = 10 the rate is 60 and at t = 30 it is 20, so the average is 40 L/min. Then 40 × 20 minutes = 800 L.",
+    "check": "agree",
+    "computed": "800 L",
+    "accept": ["800", "800L", "800 L", "800 litres", "800 liters", "800 litre", "800 liter"],
+    "comment": ""
+  },
+  "26-qf4-bm-2082": {
+    "solution": "The absolute value (modulus) of z = a + bi is √(a² + b²). So |8 − 6i| = √(8² + (−6)²) = √(64 + 36) = √100 = 10.",
+    "trick": "8 and 6 are 2 × 4 and 2 × 3, which is the 3, 4, 5 triangle doubled. So the answer is 2 × 5 = 10.",
+    "check": "agree",
+    "computed": "10",
+    "accept": ["10.0", "ten"],
+    "comment": ""
+  },
+  "26-qf4-bm-2087": {
+    "solution": "Percentage yield = actual ÷ theoretical × 100 = 450 ÷ 600 × 100 = 0.75 × 100 = 75%.",
+    "trick": "450 ÷ 600 = 45 ÷ 60 = 3/4, which is 75%.",
+    "check": "agree",
+    "computed": "75%",
+    "accept": ["75", "75 %", "75 percent", "75 per cent", "0.75", "3/4"],
+    "comment": ""
+  },
+  "26-qf4-bm-2092": {
+    "solution": "Write y = 5x + 2 and make x the subject. Then y − 2 = 5x, so x = (y − 2)/5. Swapping the letters, the inverse is f⁻¹(x) = (x − 2)/5.",
+    "trick": "f multiplies by 5 and then adds 2. The inverse undoes that in reverse order: subtract 2, then divide by 5. That gives (x − 2)/5.",
+    "check": "agree",
+    "computed": "(x − 2)/5",
+    "accept": ["(x-2)/5", "(x - 2)/5", "(x−2)/5", "(x-2)÷5", "(x − 2) ÷ 5", "x/5 - 2/5", "x/5 − 2/5"],
+    "comment": ""
+  },
+  "26-qf4-bm-2096": {
+    "solution": "Time = volume ÷ rate = 360 litres ÷ 12 litres per minute = 30 minutes.",
+    "trick": "36 ÷ 12 = 3, so 360 ÷ 12 = 30.",
+    "check": "agree",
+    "computed": "30 minutes",
+    "accept": ["30", "30 min", "30 mins", "30 minutes", "half an hour", "0.5 hour", "0.5 hours"],
+    "comment": ""
+  },
+  "26-qf4-bm-2099": {
+    "solution": "For a 2 × 2 matrix with rows (a b) and (c d), the determinant is ad − bc. Here a = 2, b = 3, c = 1 and d = 4. So the determinant is 2 × 4 − 3 × 1 = 8 − 3 = 5.",
+    "trick": "Multiply down the main diagonal and subtract the other diagonal: 8 − 3 = 5.",
+    "check": "agree",
+    "computed": "5",
+    "accept": ["5.0", "five"],
+    "comment": ""
+  },
+  "26-qf4-bm-2102": {
+    "solution": "In a test cross, one map unit (1 cM) is defined as 1% recombinant offspring. So 18 cM means 18% recombinants. Then 18% of 1,000 = 0.18 × 1,000 = 180.",
+    "trick": "1 cM is 1%, which is 10 offspring in 1,000. So 18 cM is 18 × 10 = 180.",
+    "check": "agree",
+    "computed": "180",
+    "accept": ["180 offspring", "180 progeny", "180 recombinants", "180 recombinant offspring"],
+    "comment": ""
+  }
+}

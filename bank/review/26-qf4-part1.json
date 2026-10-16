@@ -1,0 +1,946 @@
+{
+"qf4a-003": {
+"s": "AM",
+"tp": "Division",
+"q": "Storing novels averaging 3.2cm thick, a 2-meter long shelf can hold how many books?",
+"o": null,
+"n": "200 cm ÷ 3.2 cm = 62.5, so 62 whole books fit.",
+"k": "62 books"
+},
+"qf4a-004": {
+"s": "AM",
+"tp": "Integration",
+"q": "The marginal cost function is MC(x) = 4x + 3. Find the total cost of producing the first 5 items.",
+"o": [
+"30",
+"40",
+"65"
+],
+"k": "65"
+},
+"qf4a-007": {
+"s": "AM",
+"tp": "Quadratics",
+"q": "Find the minimum value of f(x) = x² − 6x + 10",
+"o": null,
+"k": "1"
+},
+"qf4a-009": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "A ball is thrown vertically with v(t) = 20 − 9.8t. When does it hit the ground?",
+"o": [
+"2.14s",
+"3.14s",
+"4.08s"
+],
+"k": "4.08s"
+},
+"qf4a-010": {
+"s": "AM",
+"tp": "Logarithms",
+"q": "An earthquake has magnitude 5.0 and another 7.0. How many times more intense is the second?",
+"o": [
+"1,000",
+"10,000",
+"100"
+],
+"n": "Two magnitude steps mean 10² = 100 times the shaking amplitude and about 32² ≈ 1,000 times the energy released. The show took 1,000.",
+"k": "1,000"
+},
+"qf4a-012": {
+"s": "AM",
+"tp": "Percentages",
+"q": "A stock price rises 10% in Year 1, falls 5% in Year 2, and rises 8% in Year 3. Find the net percentage change.",
+"o": [
+"11%",
+"13%",
+"16%"
+],
+"n": "1.10 × 0.95 × 1.08 = 1.1286, a rise of about 12.9%, which rounds to 13%.",
+"k": "13%"
+},
+"qf4a-015": {
+"s": "AM",
+"tp": "Ratio",
+"q": "A concrete mix consists of cement, sand, and gravel in a 1:2:4 ratio. How much sand is in 35kg of concrete?",
+"o": null,
+"k": "10kg"
+},
+"qf4a-018": {
+"s": "AM",
+"tp": "Percentages",
+"q": "If a person's heart rate increases from 80 bpm to 120 bpm, what is the percentage increase?",
+"o": [
+"35%",
+"45%",
+"50%"
+],
+"k": "50%"
+},
+"qf4a-021": {
+"s": "AM",
+"tp": "Kinematics",
+"q": "Thrown upward, a baseball reaches its peak height according to h = −16t² + 64t. Find the time to maximum height.",
+"o": [
+"4 seconds",
+"6 seconds",
+"2 seconds"
+],
+"k": "2 seconds"
+},
+"qf4a-023": {
+"s": "AM",
+"tp": "Vectors",
+"q": "Find the angle between vectors A = 3i + 4j and B = 4i − 3j",
+"o": [
+"45°",
+"90°",
+"180°"
+],
+"k": "90°"
+},
+"qf4a-027": {
+"s": "AM",
+"tp": "Newton's laws",
+"q": "A 1,500kg car decelerates from 90 km/h in 5s. What is the braking force?",
+"o": [
+"3,500N",
+"7,500N",
+"2,500N"
+],
+"k": "7,500N"
+},
+"qf4a-028": {
+"s": "AM",
+"tp": "Calculus",
+"q": "Calculate the second derivative of f(x) = x³ at x = 2",
+"o": null,
+"k": "12"
+},
+"qf4a-029": {
+"s": "AM",
+"tp": "Rates",
+"q": "A printer produces 12 pages per minute. How long to print a 300-page book?",
+"o": null,
+"k": "25 minutes"
+},
+"qf4a-032": {
+"s": "AM",
+"tp": "Calculus",
+"q": "If y = x³ + 2x², then the second derivative of y at x = 1 is:",
+"o": [
+"8",
+"10",
+"24"
+],
+"k": "10"
+},
+"qf4a-036": {
+"s": "AM",
+"tp": "Scale",
+"q": "Find the real bridge's load capacity when 1:10 scale models support 5kg.",
+"o": null,
+"n": "Strength grows with cross-section area, 10² = 100 times, giving 500 kg; scaling by volume (10³) gives 5 tonnes. The show accepted both.",
+"k": "5 tonnes or 500 kg"
+},
+"qf4a-037": {
+"s": "AM",
+"tp": "Optimisation",
+"q": "A farmer has 200m of fencing. What rectangular dimensions maximize enclosed area?",
+"o": [
+"30m × 30m",
+"50m × 50m",
+"20m × 20m"
+],
+"k": "50m × 50m"
+},
+"qf4a-042": {
+"s": "AM",
+"tp": "Calculus",
+"q": "What are the critical points of f(x) = x³ − 9x² + 24x?",
+"o": [
+"2 and 4",
+"2 and 6",
+"4 and 8"
+],
+"k": "2 and 4"
+},
+"qf4a-044": {
+"s": "AM",
+"tp": "Projectiles",
+"q": "A ball is launched at 20 m/s at 30°. Find its maximum height.",
+"o": [
+"8.2m",
+"2.5m",
+"5.1m"
+],
+"n": "Uses g = 9.8 m/s²: (20 sin 30°)² ÷ (2 × 9.8) ≈ 5.1 m.",
+"k": "5.1m"
+},
+"qf4a-047": {
+"s": "AM",
+"tp": "Units",
+"q": "Convert 360 km/h to m/s.",
+"o": null,
+"k": "100 m/s"
+},
+"qf4a-051": {
+"s": "AM",
+"tp": "Energy",
+"q": "A power plant generates 800 MW at 40% efficiency. How much thermal energy is wasted per hour?",
+"o": [
+"3,600MWh",
+"1,200MWh",
+"2,400MWh"
+],
+"k": "1,200MWh"
+},
+"qf4a-054": {
+"s": "AM",
+"tp": "Speed, distance, time",
+"q": "Given a train traveling 50 km at an average speed of 80 km/h, calculate the journey duration in seconds.",
+"o": null,
+"k": "2,250 seconds"
+},
+"qf4a-056": {
+"s": "AM",
+"tp": "Vectors",
+"q": "Vector A is (3, 1) and its sum with vector B gives C = (7, −2). Determine the components of vector B.",
+"o": [
+"(4, −7)",
+"(4, −3)",
+"(4, −6)"
+],
+"k": "(4, −3)"
+},
+"qf4a-064": {
+"s": "AM",
+"tp": "Variation",
+"q": "The gas pressure P varies inversely with volume V. If P = 8 atm at V = 4L, what is P at V = 10L?",
+"o": [
+"3.2 atm",
+"6.4 atm",
+"20 atm"
+],
+"k": "3.2 atm"
+},
+"qf4a-067": {
+"skip": true
+},
+"qf4a-068": {
+"s": "AM",
+"tp": "Ratio",
+"q": "A 5kg nut mix contains cashews and almonds in a 2:3 ratio. How many kilograms of cashews are there?",
+"o": null,
+"k": "2kg"
+},
+"qf4a-069": {
+"s": "AM",
+"tp": "Integration",
+"q": "A force F(x) = 4x moves an object from x = 1 to x = 3. Calculate the work done.",
+"o": [
+"20J",
+"16J",
+"25J"
+],
+"k": "16J"
+},
+"qf4a-075": {
+"s": "AM",
+"tp": "Mensuration",
+"q": "A rhombus has diagonals 10cm and 24cm. What is its area?",
+"o": [
+"80cm²",
+"140cm²",
+"120cm²"
+],
+"k": "120cm²"
+},
+"qf4a-079": {
+"s": "DA",
+"tp": "Permutations",
+"q": "Arranging 5 distinct vases on a shelf, how many possible arrangements are there?",
+"o": [
+"60",
+"100",
+"120"
+],
+"k": "120"
+},
+"qf4a-080": {
+"s": "AM",
+"tp": "Percentages",
+"q": "If 70% of light is absorbed from an intensity of 250 W/m², what intensity is transmitted?",
+"o": null,
+"k": "75 W/m²"
+},
+"qf4a-082": {
+"s": "AM",
+"tp": "Units",
+"q": "A vehicle covers 120km in 2 hours. What is its speed in meters per second?",
+"o": [
+"15.50 m/s",
+"16.67 m/s",
+"18.58 m/s"
+],
+"k": "16.67 m/s"
+},
+"qf4a-083": {
+"s": "AM",
+"tp": "Algebra",
+"q": "The sum of three consecutive even integers is 102. Find the largest number.",
+"o": null,
+"k": "36"
+},
+"qf4a-084": {
+"s": "AM",
+"tp": "Proportion",
+"q": "A cake needs 80 cups of flour and 15 eggs. How many eggs will be required to make 70 of those cakes?",
+"o": null,
+"k": "1,050 eggs"
+},
+"qf4a-087": {
+"s": "AM",
+"tp": "Vectors",
+"q": "An object shifts 3 units east and 4 units north. What is the magnitude of this movement?",
+"o": null,
+"k": "5 units"
+},
+"qf4a-089": {
+"s": "AM",
+"tp": "Integration",
+"q": "The marginal cost of producing x items is given by MC(x) = 2x + 5. Find the cost of producing the first 10 items.",
+"o": [
+"150",
+"300",
+"75"
+],
+"k": "150"
+},
+"qf4a-093": {
+"s": "AM",
+"tp": "Linear algebra",
+"q": "The eigenvalues of a 2 × 2 matrix are 3 and −2. What is the trace of the matrix?",
+"o": [
+"1",
+"−1",
+"−3"
+],
+"k": "1"
+},
+"qf4a-001": {
+"tp": "Chemistry calculations",
+"q": "The pOH of a solution is 10. What is the concentration of hydrogen ions in the solution?",
+"o": null,
+"k": "0.0001 M (1 × 10⁻⁴ M)",
+"s": "AM"
+},
+"qf4a-002": {
+"tp": "Calculus",
+"q": "Find the average rate of change of f(x) = x² − 5x on [1, 4]",
+"o": [
+"1",
+"0",
+"2"
+],
+"k": "0",
+"s": "AM"
+},
+"qf4a-005": {
+"s": "GK",
+"tp": "Education",
+"k": "Ogun State"
+},
+"qf4a-006": {
+"tp": "Ratio",
+"q": "Two partners share profits in a 7:3 ratio. If the total profit is ₦500,000, how much does the second partner receive?",
+"o": null,
+"k": "₦150,000",
+"s": "AM"
+},
+"qf4a-008": {
+"tp": "Functions",
+"q": "A ladder's height y as it slides is modelled by y = √(25 − x²). What is y when x = 3?",
+"o": null,
+"k": "4",
+"s": "AM"
+},
+"qf4a-011": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "A principal becomes ₦75,000 after 5 years at 4% p.a. simple interest. Find the initial amount.",
+"k": "₦62,500"
+},
+"qf4a-013": {
+"tp": "Correlation",
+"q": "When two variables are entirely uncorrelated, state the value of their correlation coefficient.",
+"o": [
+"1",
+"−1",
+"0"
+],
+"k": "0",
+"s": "DA"
+},
+"qf4a-014": {
+"s": "GK",
+"tp": "Energy",
+"q": "Rwanda generates power by tapping methane from ____"
+},
+"qf4a-016": {
+"s": "VR",
+"tp": "Series"
+},
+"qf4a-017": {
+"s": "VR",
+"tp": "Letter positions"
+},
+"qf4a-019": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "If ₦15,000 earns ₦3,000 in 5 years, what is the simple interest rate?",
+"k": "0.04 or 4%"
+},
+"qf4a-020": {
+"s": "DA",
+"tp": "Covariance",
+"q": "Covariance = 30 and r = 0.6. If Stock A's volatility is 10, what is Stock B's volatility?",
+"k": "5"
+},
+"qf4a-022": {
+"tp": "Dilution",
+"q": "In a lab, mix 200 mL of 5 M solution with 800 mL water. What is the resulting molarity?",
+"o": null,
+"k": "1 M",
+"s": "AM"
+},
+"qf4a-024": {
+"s": "GK",
+"tp": "Technology",
+"q": "Which African country hosts the iHub, one of the continent's most famous innovation centers?"
+},
+"qf4a-025": {
+"s": "GK",
+"tp": "Geography",
+"q": "Eritrea's historic mountain railway traditionally links Asmara to the Red Sea port of"
+},
+"qf4a-026": {
+"s": "DA",
+"tp": "Permutations",
+"q": "How many distinct 4-digit PIN codes can be formed using the digits 0 to 9 with no repetition?"
+},
+"qf4a-030": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Lion\" is to \"Cub\" as \"Horse\" is to:"
+},
+"qf4a-031": {
+"s": "VR",
+"tp": "Coding",
+"q": "If \"TIGER\" = 60 and \"LION\" = 48, what is \"CHEETAH\"?"
+},
+"qf4a-033": {
+"tp": "Quadratics",
+"q": "Given h(x) = x² − 2x + 5, find the minimum value.",
+"o": [
+"4",
+"2",
+"6"
+],
+"k": "4",
+"s": "AM"
+},
+"qf4a-034": {
+"tp": "Dilution",
+"q": "You have 900 mL of a 3 M HCl solution. If you dilute it to 3 L, what is the new molarity?",
+"o": null,
+"k": "0.9 M",
+"s": "AM"
+},
+"qf4a-035": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Pen\" is to \"Ink\" as \"Candle\" is to:"
+},
+"qf4a-038": {
+"s": "VR",
+"tp": "Syllogisms"
+},
+"qf4a-039": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "How much will ₦40,000 become in 3 years at 5% simple interest?",
+"o": [
+"₦6,000",
+"₦32,000",
+"₦46,000"
+],
+"k": "₦46,000"
+},
+"qf4a-040": {
+"tp": "Energy",
+"q": "A spring with a spring constant k = 600 N/m is compressed by x = 0.1m. What is its elastic energy stored?",
+"o": null,
+"k": "3 J",
+"s": "AM"
+},
+"qf4a-041": {
+"s": "DA",
+"tp": "Percentiles"
+},
+"qf4a-043": {
+"tp": "z-scores",
+"q": "A dataset has a mean of 55 and a standard deviation of 4. What is the z-score of 63?",
+"o": null,
+"k": "2",
+"s": "DA"
+},
+"qf4a-045": {
+"s": "DA",
+"tp": "Mean"
+},
+"qf4a-046": {
+"s": "GK",
+"tp": "Geography",
+"k": "Gibraltar"
+},
+"qf4a-048": {
+"s": "VR",
+"tp": "Odd one out"
+},
+"qf4a-049": {
+"s": "DA",
+"tp": "Binomial distribution",
+"k": "4"
+},
+"qf4a-050": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Fish\" is to \"Aquarium\" as \"Bird\" is to:"
+},
+"qf4a-052": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "Calculate simple interest on ₦150,000 at 9% per annum for 2 years.",
+"o": [
+"₦54,000",
+"₦27,000",
+"₦36,000"
+],
+"k": "₦27,000"
+},
+"qf4a-053": {
+"s": "GK",
+"tp": "History"
+},
+"qf4a-055": {
+"s": "DA",
+"tp": "Combinations",
+"q": "If ⁿC₅ = 252, what is the value of n?"
+},
+"qf4a-057": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Eel\" is to \"Elver\" as \"Salmon\" is to"
+},
+"qf4a-058": {
+"s": "GK",
+"tp": "Literature",
+"q": "Which Nigerian female writer authored \"The Joys of Motherhood\"?"
+},
+"qf4a-059": {
+"s": "VR",
+"tp": "Series"
+},
+"qf4a-060": {
+"s": "DA",
+"tp": "Charts",
+"q": "A bar graph shows Product A sales double Product B's. If B sold 50 units, how many did A sell?"
+},
+"qf4a-061": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Book\" is to \"Read\" as \"Film\" is to:"
+},
+"qf4a-062": {
+"s": "GK",
+"tp": "Agriculture",
+"k": "IITA"
+},
+"qf4a-063": {
+"s": "DA",
+"tp": "Combinations"
+},
+"qf4a-065": {
+"s": "DA",
+"tp": "Charts"
+},
+"qf4a-066": {
+"s": "DA",
+"tp": "Skewness",
+"q": "A class's test scores have a mean of 70 and median of 65. What is the symmetry of the distribution?"
+},
+"qf4a-070": {
+"s": "DA",
+"tp": "Mean"
+},
+"qf4a-071": {
+"tp": "Power",
+"q": "If a motor lifts a 1,000kg load 5 meters high in 10 seconds, how much power does it deliver (g = 9.8 m/s²)?",
+"o": null,
+"k": "4,900W",
+"s": "AM"
+},
+"qf4a-072": {
+"s": "VR",
+"tp": "Ordering",
+"q": "In a race, A finishes before B but after C. D finishes before E but after B. Who won?",
+"k": "C"
+},
+"qf4a-073": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Fish\" is to \"Gills\" as \"Human\" is to:"
+},
+"qf4a-074": {
+"s": "GK",
+"tp": "Geography",
+"q": "Which country's capital, Kigali, is often praised for its clean and organized urban planning?"
+},
+"qf4a-076": {
+"s": "DA",
+"tp": "Range"
+},
+"qf4a-077": {
+"s": "AM",
+"tp": "Scale",
+"q": "Given a rectangular garden drawn as 3cm by 7cm on a 1:200 scale blueprint, what is the actual area of the garden?",
+"k": "840,000 cm²",
+"n": "That is 84 m²."
+},
+"qf4a-078": {
+"s": "VR",
+"tp": "Analogies",
+"q": "\"Bee\" is to \"Hive\" as \"Rabbit\" is to:"
+},
+"qf4a-081": {
+"s": "AM",
+"tp": "Simple interest",
+"q": "What principal will grow to ₦24,000 in 5 years at 6% simple interest?",
+"o": [
+"₦46,684",
+"₦22,468",
+"₦18,461"
+],
+"k": "₦18,461",
+"n": "Exactly, ₦24,000 ÷ 1.3 ≈ ₦18,461.54."
+},
+"qf4a-085": {
+"s": "GK",
+"tp": "Education"
+},
+"qf4a-086": {
+"s": "DA",
+"tp": "Median",
+"q": "In a class test, the scores of 5 students were: 18, 15, 12, 22, 20. What is the median score?"
+},
+"qf4a-088": {
+"s": "DA",
+"tp": "Skewness",
+"q": "Given a dataset with mean = 50, median = 41, and skewness coefficient = 0.9, calculate the standard deviation.",
+"n": "This uses Pearson's second coefficient, 3(mean − median) ÷ SD."
+},
+"qf4a-090": {
+"s": "GK",
+"tp": "Geography"
+},
+"qf4a-091": {
+"tp": "Calculus",
+"q": "Find the derivative of f(x) = 4x³ − 2x² + x at x = 1.",
+"o": [
+"3",
+"6",
+"9"
+],
+"k": "9",
+"s": "AM"
+},
+"qf4a-092": {
+"s": "GK",
+"tp": "Science"
+},
+"qf4a-094": {
+"s": "GK",
+"tp": "Animals",
+"q": "Which one of these animals is included within 'The Big Five'?"
+},
+"qf4a-095": {
+"s": "GK",
+"tp": "Culture"
+},
+"qf4a-096": {
+"tp": "z-scores",
+"q": "Given that a normal distribution has a mean of 84 and a standard deviation of 32, find the z-score for 100.",
+"o": [
+"9.4",
+"0.5",
+"0.2"
+],
+"k": "0.5"
+},
+"qf4a-097": {
+"tp": "Calculus",
+"q": "Find d/dx of f(x) = cos(4x).",
+"o": null,
+"k": "−4sin(4x)",
+"n": "The options shown (−4sin(2x), sin(4x), 4sin(6x)) didn't include the show's answer."
+},
+"qf4a-098": {
+"tp": "Functions",
+"q": "If f(x) = x² and g(x) = √x, find (g ∘ f)(4)."
+},
+"qf4a-099": {
+"tp": "Integration",
+"q": "If the derivative of a function is f′(x) = 6x − 4, and f(1) = 5, find f(2)."
+},
+"qf4a-100": {
+"tp": "Logarithms",
+"n": "Reading intensity as wave amplitude, each step on the scale is 10 times, so 100 times is 2 steps."
+},
+"qf4a-101": {
+"tp": "Units",
+"k": "25m/s"
+},
+"qf4a-102": {
+"tp": "Ratio"
+},
+"qf4a-103": {
+"tp": "Energy",
+"k": "5"
+},
+"qf4a-104": {
+"tp": "Calculus",
+"q": "Differentiate: f(x) = (2x² + 1)(3x − 4).",
+"o": [
+"9x² − 16x + 3",
+"18x² − 16x + 3",
+"3x² − 16x + 3"
+],
+"k": "18x² − 16x + 3"
+},
+"qf4a-105": {
+"tp": "Errors",
+"q": "Actual measurement is 25.0m, and the measured value is 24.1m. What is the percentage error?"
+},
+"qf4a-106": {
+"tp": "Percentages",
+"q": "The theoretical yield of a reaction is 50.0g. The actual yield is 42.5g. The percentage yield is:"
+},
+"qf4a-107": {
+"tp": "Quadratics",
+"q": "Find the minimum value of f(x) = x² − 12x + 20",
+"o": [
+"0",
+"16",
+"−16"
+],
+"k": "−16"
+},
+"qf4a-108": {
+"tp": "Mensuration",
+"o": [
+"1:9",
+"1:27",
+"1:3"
+],
+"k": "1:27"
+},
+"qf4a-109": {
+"tp": "Integration",
+"q": "Reservoir volume change rate = (80 − 2t) L/min. Volume drained from t = 10 to t = 30:"
+},
+"qf4a-110": {
+"tp": "Complex numbers"
+},
+"qf4a-111": {
+"tp": "Percentages",
+"q": "A reaction gives 450g of product from a 600g theoretical yield. What is the percentage yield?"
+},
+"qf4a-112": {
+"tp": "Functions",
+"o": [
+"(x − 4)/5",
+"(x − 1)/5",
+"(x − 2)/5"
+],
+"k": "(x − 2)/5"
+},
+"qf4a-113": {
+"tp": "Rates"
+},
+"qf4a-114": {
+"tp": "Linear algebra",
+"q": "Find the determinant of the matrix [2 3; 1 4].",
+"o": [
+"4",
+"5",
+"6"
+],
+"k": "5"
+},
+"qf4a-115": {
+"tp": "Genetics",
+"q": "Two genes are 18 cM apart. In a test cross with 1,000 progeny, how many recombinant offspring are expected?"
+},
+"qf4a-116": {
+"tp": "Analogies",
+"q": "Which alternative replaces the question mark? Paw : Cat :: Hoof : ?"
+},
+"qf4a-117": {
+"tp": "Blood relations"
+},
+"qf4a-118": {
+"tp": "Odd one out",
+"q": "Which is not a programming paradigm? Object-Oriented, Functional, Procedural, Dissertation"
+},
+"qf4a-119": {
+"tp": "Blood relations",
+"q": "If T is U's father, V is U's daughter, and W is U's brother, how is W related to V?"
+},
+"qf4a-120": {
+"tp": "Blood relations",
+"q": "Introducing a woman, a man says, \"She is my wife's brother's only sister.\" Who is the woman?",
+"n": "This takes his wife to have no sisters, so her brother's only sister is his wife."
+},
+"qf4a-121": {
+"tp": "Coding",
+"o": [
+"30",
+"33",
+"34"
+],
+"k": "34",
+"t": "w",
+"n": "The answer bar showed the previous question's answer (Wife). With A = 1 to Z = 26, LOVE = 12 + 15 + 22 + 5 = 54, so HATE = 8 + 1 + 20 + 5 = 34."
+},
+"qf4a-122": {
+"tp": "Odd one out",
+"q": "Pick the odd one out: Microeconomics, Macroeconomics, Quantum mechanics, Econometrics?"
+},
+"qf4a-123": {
+"tp": "Letter positions"
+},
+"qf4a-124": {
+"tp": "Analogies"
+},
+"qf4a-125": {
+"tp": "Analogies",
+"q": "Pragmatic is to Practical as \"Dogmatic\" is to"
+},
+"qf4a-126": {
+"tp": "Vocabulary",
+"q": "What is the antonym of \"Lucid\"?"
+},
+"qf4a-127": {
+"tp": "Coding",
+"q": "If Z = 26, A = 1, what is the product of the letters in \"NO\"?"
+},
+"qf4a-128": {
+"tp": "Directions",
+"q": "A ship sails 30km North, then 40km East. Its bearing from the starting point is:"
+},
+"qf4a-129": {
+"tp": "Vocabulary",
+"q": "What is the antonym of \"Parsimonious\"?"
+},
+"qf4a-130": {
+"tp": "Ordering",
+"q": "Five students scored different marks: A scored more than B but less than C. D scored more than E but less than B. Who scored the highest?",
+"o": [
+"D",
+"A",
+"C"
+],
+"k": "C"
+},
+"qf4a-131": {
+"tp": "Odd one out"
+},
+"qf4a-132": {
+"tp": "Analogies",
+"q": "Shakespeare is to \"Hamlet\" as Verdi is to:",
+"n": "All three options are operas by Verdi; the show took Aida."
+},
+"qf4a-133": {
+"tp": "History",
+"drop": "answer not confirmed"
+},
+"qf4a-134": {
+"tp": "Science"
+},
+"qf4a-135": {
+"tp": "Environment"
+},
+"qf4a-136": {
+"tp": "History"
+},
+"qf4a-137": {
+"tp": "History"
+},
+"qf4a-138": {
+"tp": "Energy",
+"q": "EVs are considered more eco-friendly because they produce ____"
+},
+"qf4a-139": {
+"tp": "History",
+"q": "When was the first Arabic translation of Euclid's Elements completed?",
+"n": "The first known Arabic translation, by al-Hajjaj ibn Yusuf, was made under Harun al-Rashid (786 to 809 AD); 760 AD is the nearest option."
+},
+"qf4a-140": {
+"tp": "Economy"
+},
+"qf4a-141": {
+"tp": "Nature",
+"q": "Camphor, used in balms and medicinal oils, is obtained from which rainforest tree?"
+},
+"qf4a-142": {
+"tp": "History",
+"q": "Which African country was formerly known as \"Bechuanaland\"?"
+},
+"qf4a-143": {
+"tp": "Energy"
+},
+"qf4a-144": {
+"tp": "Energy"
+},
+"qf4a-145": {
+"tp": "Science",
+"q": "In the early 18th century, Euler introduced the notation \"e\" for"
+},
+"qf4a-146": {
+"tp": "Science"
+},
+"qf4a-147": {
+"tp": "Science",
+"q": "Which scientist observed bacteria for the first time?"
+},
+"qf4a-148": {
+"tp": "Science"
+},
+"qf4a-149": {
+"tp": "Film",
+"q": "The movie \"Queen of Katwe\" is based on a chess prodigy from which African country?"
+},
+"qf4a-150": {
+"tp": "Science",
+"q": "What does the discriminant in a quadratic equation determine?"
+},
+"qf4a-151": {
+"tp": "Nature"
+},
+"qf4a-152": {
+"tp": "Energy",
+"q": "Which African country's Lake Kivu contains vast reserves of methane gas for energy production?"
+}
+}

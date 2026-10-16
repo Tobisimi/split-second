@@ -1,0 +1,42 @@
+{
+ "code": "qf4",
+ "video": "RkhtaAQw9ms",
+ "match": "OAU v CU",
+ "stage": "qf",
+ "qb_top": "OAU",
+ "qb_bottom": "CU",
+ "bm_top": "OAU",
+ "bm_bottom": "CU",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "VR",
+  "3": "GK",
+  "4": "DA"
+ },
+ "quarter_starts": {
+  "QB": [
+   1090,
+   1245,
+   1400,
+   1555
+  ],
+  "BM": [
+   1990,
+   2125,
+   2335,
+   2450
+  ]
+ },
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/26-qf4-part1.json",
+   "bank/review/26-qf4-part1.json"
+  ],
+  [
+   "bank/raw/26-qf4-part2.json",
+   "bank/review/26-qf4-part2.json"
+  ]
+ ],
+ "out": "bank/master/26-qf4.json"
+}

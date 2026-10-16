@@ -1,0 +1,79 @@
+{
+"qf4b-001": {
+"skip": true
+},
+"qf4b-002": {
+"tp": "Sampling"
+},
+"qf4b-003": {
+"tp": "Probability distributions",
+"q": "If 'm' is the mean of a Poisson distribution, then the variance is given by",
+"o": [
+"m²",
+"m",
+"m/2"
+],
+"k": "m"
+},
+"qf4b-004": {
+"tp": "Standard deviation"
+},
+"qf4b-005": {
+"tp": "Combinations"
+},
+"qf4b-006": {
+"tp": "Correlation",
+"q": "If two variables are perfectly inversely related, the value of r is ____",
+"o": [
+"2",
+"−1",
+"4"
+],
+"k": "−1"
+},
+"qf4b-007": {
+"tp": "Charts"
+},
+"qf4b-008": {
+"tp": "Confidence intervals"
+},
+"qf4b-009": {
+"tp": "Variance"
+},
+"qf4b-010": {
+"tp": "Range",
+"q": "What is the range of the following: 21, 25, 29, 30, 35, 40?"
+},
+"qf4b-011": {
+"tp": "Probability",
+"q": "What is the probability of getting a product greater than 25 when 2 dice are rolled?"
+},
+"qf4b-012": {
+"tp": "Conditional probability",
+"q": "Box: 3 red, 4 white. Two drawn without replacement. If the first is white, what is P(second red)?"
+},
+"qf4b-013": {
+"tp": "Cumulative frequency"
+},
+"qf4b-014": {
+"tp": "Summary statistics"
+},
+"qf4b-015": {
+"tp": "Charts"
+},
+"qf4b-016": {
+"tp": "Median"
+},
+"qf4b-017": {
+"tp": "Data modelling"
+},
+"qf4b-018": {
+"tp": "Probability",
+"q": "If a die is rolled twice, how many outcomes show a sum of 8?",
+"k": "5"
+},
+"qf4b-019": {
+"tp": "Sampling",
+"q": "A specific characteristic of a population is called"
+}
+}

@@ -9,7 +9,9 @@
  "bm_bottom": "LAUTECH",
  "bm_subjects": {
   "1": "AM",
-  "2": "DA"
+  "2": "DA",
+  "3": "VR",
+  "4": "GK"
  },
  "quarter_starts": {
   "QB": [
@@ -20,7 +22,9 @@
   ],
   "BM": [
    2078,
-   2204
+   2204,
+   2400,
+   2535
   ]
  },
  "cards": [],
@@ -28,6 +32,10 @@
   [
    "bank/raw/26-qf2.json",
    "bank/review/26-qf2.json"
+  ],
+  [
+   "bank/raw/26-qf2-part2.json",
+   "bank/review/26-qf2-part2.json"
   ]
  ],
  "out": "bank/master/26-qf2.json"
