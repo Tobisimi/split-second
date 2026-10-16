@@ -21,7 +21,8 @@ def load():
     items = []
     for p in sorted(glob.glob(os.path.join(ROOT, 'bank/master/*.json'))):
         m = json.load(open(p))
-        code = os.path.basename(p)[3:-5]
+        base = os.path.basename(p)[:-5]
+        code = base[3:] if base.startswith('26-') else base   # 2026 matches by round name, other seasons keep their prefix
         for q in m['questions'] + m.get('dropped', []):
             items.append({'match': code, 'stage': m['stage'], 'half': q['half'], 'quarter': q.get('quarter'),
                           'subject': q.get('subject'), 't': q['t'], 'q': q['q'], 'src': 'reviewed', 'id': q['id']})

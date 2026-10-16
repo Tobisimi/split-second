@@ -7,7 +7,9 @@ Config: {"code": "fin", "video": "...", "match": "Final: FUTA v OAU", "stage": "
          "bm_subjects": {"1": "AM", ...},              # Brain Match quarter -> subject
          "out": "master/26-fin.json",
          "window": [t0, t1],                           # optional: only records with t0 in [t0, t1)
-         "bm_left_row": 1}                             # optional: the left Brain Match panel scores on the bottom row
+         "bm_left_row": 1,                             # optional: the left Brain Match panel scores on the bottom row
+         "season": "25",                               # optional: id prefix, "26" when left out
+         "bm_max_step": 40}                            # optional: largest Brain Match ladder step (6 in 2026; 2025 climbs 2, 4, 6 ...)
 Patch keys per record id: s subject, tp topic, q/o/k corrected question/options/key, a answer (when it is not
 the key), t tag (c confirmed, w worked out, d disputed), n note, drop (reason; kept out of the bank), skip."""
 import json, re, sys, difflib
@@ -74,7 +76,8 @@ def main(cfg_path):
             school = top if row == 0 else bottom
             names = cfg.get('bm_players', {}).get(str(qn[r['id']]))
             player = names[side] if names else ''
-            if d is not None and abs(d[0]) <= 6 and abs(d[1]) <= 6 and min(d) >= 0:
+            mx = cfg.get('bm_max_step', 6)
+            if d is not None and abs(d[0]) <= mx and abs(d[1]) <= mx and min(d) >= 0:
                 result = 'right' if d[row] > 0 else 'wrong'
         elif d is not None:
             if d[0] == 0 and d[1] == 0: result = 'none'
@@ -97,7 +100,7 @@ def main(cfg_path):
             'raw': r['id'],
         }
         if half == 'BM' and cfg.get('bm_subjects'): rec['subject'] = p.get('s') or cfg['bm_subjects'].get(str(rec['quarter']))
-        rec['id'] = f"26-{cfg['code']}-{half.lower()}-{int(r['t0']):04d}"   # time-based, so ids stay stable
+        rec['id'] = f"{cfg.get('season', '26')}-{cfg['code']}-{half.lower()}-{int(r['t0']):04d}"   # time-based, so ids stay stable
         if p.get('drop'): rec['dropReason'] = p['drop']; dropped.append(rec); continue
         master.append(rec)
     if missing: print('records without a review entry:', missing, file=sys.stderr)
