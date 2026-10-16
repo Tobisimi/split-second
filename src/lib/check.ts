@@ -73,11 +73,18 @@ function values(s: string, unitMatters?: boolean): Val[] {
   return pct ? [{ v: n, ulp }, { v: n / 100, ulp: ulp && ulp / 100 }] : [{ v: n, ulp }];
 }
 
+// Equal within a millionth (relative). A decimal typed to 3+ significant figures also counts when it is the target rounded
+// (within half a unit in its last place) or cut short (the target lies between it and one unit further from zero):
+// 0.205 and 0.204 both count for 9/44 = 0.2045..., but 2.41 does not count for 2.4.
 function sameNumber(given: Val[], target: Val[], tol?: number): boolean {
   for (const t of target) for (const g of given) {
-    const d = Math.abs(g.v - t.v);
-    if (d <= (tol ?? Math.max(1e-9, Math.abs(t.v) * 1e-6))) return true;
-    if (g.ulp && d <= g.ulp * (1 + 1e-9)) return true;
+    const d = t.v - g.v;
+    if (Math.abs(d) <= (tol ?? Math.max(Math.abs(t.v) * 1e-6, 1e-15))) return true;
+    if (g.ulp) {
+      const eps = g.ulp * 1e-9;
+      if (Math.abs(d) <= g.ulp / 2 + eps) return true;
+      if (t.v >= 0 ? d >= -eps && d < g.ulp - eps : d <= eps && d > -g.ulp + eps) return true;
+    }
   }
   return false;
 }

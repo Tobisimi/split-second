@@ -1,0 +1,591 @@
+{
+ "25-sf2-qb-1224": {
+  "solution": "P(green, then green) = 3/11 × 2/10 = 6/110 = 3/55.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1234": {
+  "solution": "Pressure × length stays the same: 36 × 3 = 108, so 108 ÷ 8 = 13.5 lbs.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "13.5",
+   "13 1/2",
+   "27/2"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1239": {
+  "solution": "log₃ x = 4 means x = 3⁴ = 81, so 6x = 486.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1248": {
+  "solution": "Moles: 0.1 × 4 + 0.2 × 2 = 0.8 mol in 0.3 L, so 0.8 ÷ 0.3 = 8/3 ≈ 2.67 M.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2.67",
+   "8/3",
+   "2.67 M"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1264": {
+  "solution": "¹²C₄ = (12 × 11 × 10 × 9) ÷ 24 = 495.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1288": {
+  "solution": "Treating the days as independent: 0.3 × 0.4 = 0.12 = 12%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.12"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1294": {
+  "solution": "Diagonals = n(n − 3) ÷ 2: a pentagon has 5 and a hexagon 9, so 14 together.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1299": {
+  "solution": "3,000,000 × 0.85 = $2,550,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1314": {
+  "solution": "The real and imaginary parts of an analytic function satisfy the Cauchy-Riemann equations, and from them each satisfies Laplace's equation (they are harmonic).",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Laplace",
+   "Cauchy-Riemann equations",
+   "Cauchy Riemann",
+   "harmonic"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1335": {
+  "solution": "Multiples of 3 from 1 to 8: 3 and 6, so 2/8 = 1/4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1342": {
+  "solution": "Milk 48 L, water 12 L. For 1 : 2 the water must be 2 × 48 = 96 L, so add 96 − 12 = 84 L.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1361": {
+  "solution": "2.5% of 10,000 is 250 L, so 10,000 − 250 = 9,750 L more.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1367": {
+  "solution": "3 hours is 180 minutes: 150 ÷ 180 = 5/6 ≈ 0.83 miles per minute.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "5/6",
+   "0.83",
+   "0.833"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1376": {
+  "solution": "Every 10 dB is a factor of 10 in intensity, so 20 dB is 10² = 100 times.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1384": {
+  "solution": "7,200 ÷ 24 = 300 batches, one cup each: 300 cups.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1388": {
+  "solution": "The new price is 0.8 of the old, so original : reduced = 1 : 0.8 = 5 : 4. (The prices are Rs 20 and Rs 16 a kg.)",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "5:4",
+   "5/4"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1405": {
+  "solution": "Volume = 8 × 5 × 6 = 240 m³; 10% is 24 m³, and 24 ÷ 4 = 6 minutes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1412": {
+  "solution": "x = mean + z × SD = 85 + 1 × 20 = 105.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1422": {
+  "solution": "The items weigh 3 × 4 = 12 kg, so the packaging is 15 − 12 = 3 kg.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1425": {
+  "solution": "f′(x) = 3x² + 6x − 5 (the constant drops out).",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "3x^2 + 6x - 5",
+   "3x²+6x-5"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1754": {
+  "solution": "One face out of six: 1/6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1758": {
+  "solution": "RIOTS has 5 different letters: 5! = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1767": {
+  "solution": "z = (60 − 50) ÷ 5 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1777": {
+  "solution": "All choices of 3 from 9: ⁹C₃ = 84. Choices with no yellow (from the other 6): ⁶C₃ = 20. So 84 − 20 = 64.",
+  "trick": "\"At least one\": total minus none.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1790": {
+  "solution": "⁶C₄ = ⁶C₂ = 15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1801": {
+  "solution": "45% of 360° = 162°.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1810": {
+  "solution": "A line graph joins values in time order, so trends show clearly.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "line chart"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1830": {
+  "solution": "x = mean + z × SD = 55 + 2 × 7 = 69.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1836": {
+  "solution": "The middle two of 4, 8, 12, 16 are 8 and 12, so the median is 10.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1840": {
+  "solution": "SD = √16 = 4, and CV = SD ÷ mean × 100 = 20, so mean = 4 × 100 ÷ 20 = 20.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1848": {
+  "solution": "46 appears four times, more than any other value.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1854": {
+  "solution": "4 from the first 5 and 6 from the other 8: 5 × 28 = 140. All 5 and 5 from the other 8: 1 × 56 = 56. Total 196.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1870": {
+  "solution": "z = (92 − 80) ÷ 5 = 12 ÷ 5 = 2.4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "12/5"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1902": {
+  "solution": "Sums of 9: 4 ways, 10: 3, 11: 2, 12: 1. That is 10 of 36 = 5/18.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "5/18",
+   "10/36"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1923": {
+  "solution": "All arrangements: 6! ÷ 2! = 360 (two As). With B and H together as a block: 5! ÷ 2! × 2 = 120. So 360 − 120 = 240.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1936": {
+  "solution": "¹⁰C₆ = ¹⁰C₄ = 210.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1940": {
+  "solution": "Something must happen, so the probabilities add to 1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "one"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1953": {
+  "solution": "The median is not pulled by extreme values, so it suits skewed data.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1959": {
+  "solution": "All five are vowels, so the probability is 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "zero"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1963": {
+  "solution": "(12 + 16 + 20 + 24 + 8) ÷ 5 = 80 ÷ 5 = 16.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1967": {
+  "solution": "pandas is the standard Python library for working with tables of data.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "pandas library"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1982": {
+  "solution": "Variance = SD² = 6² = 36.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1995": {
+  "solution": "IQR = Q3 − Q1 = 35 − 25 = 10.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-2014": {
+  "solution": "Every value equals the mean, so every squared deviation is 0 and the variance is 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "zero"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2206": {
+  "solution": "100 × $20 = $2,000, and 5% off leaves $1,900.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2214": {
+  "solution": "Cauchy's theorem: the integral of an analytic function around a closed curve is zero.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2220": {
+  "solution": "Connecting n nodes needs at least n − 1 edges: 5 − 1 = 4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2226": {
+  "solution": "20 × $200 = $4,000, and 10% off leaves $3,600.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2245": {
+  "solution": "30 × $120 = $3,600, and 15% off leaves 3,600 × 0.85 = $3,060.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2251": {
+  "solution": "A real symmetric matrix has orthogonal eigenvectors (for different eigenvalues), and they can always be chosen orthonormal.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "orthonormal",
+   "perpendicular"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2256": {
+  "solution": "Selling at a 12% loss means 0.88 × cost = 220, so cost = 220 ÷ 0.88 = Rs 250.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "250",
+   "Rs 250"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2262": {
+  "solution": "C′(x) = 8x, so C′(4) = 32.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2268": {
+  "solution": "Each leaf has 2 pages: 150 leaves = 300 pages, and 300 ÷ 4 = 75 pages per chapter.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2523": {
+  "solution": "5! = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "120",
+   "5!"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2529": {
+  "solution": "Highest minus lowest is 0 when all values are equal.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "zero"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2532": {
+  "solution": "Bimodal data has two modes, which show as two peaks.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "two modes",
+   "2 peaks"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2536": {
+  "solution": "Of 36 outcomes, 6 are ties; the other 30 split evenly between \"second bigger\" and \"first bigger\": 15/36 = 5/12.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2544": {
+  "solution": "Every card except the ace of hearts: 52 − 1 = 51.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2551": {
+  "solution": "The normal distribution is symmetric, so its skewness is 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "zero"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2554": {
+  "solution": "(2 + 4 + 6 + 8 + 10) ÷ 5 = 6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2557": {
+  "solution": "60 is the middle value: half the data lies below it, so the 50th percentile.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "50th"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2563": {
+  "solution": "¹⁵C₂ = (15 × 14) ÷ 2 = 105.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2568": {
+  "solution": "40% = 2/5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.4",
+   "40%"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2576": {
+  "solution": "SD = √36 = 6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2579": {
+  "solution": "10 sits far above the rest, which run from 1 to 5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2584": {
+  "solution": "GIFT has 4 different letters: 4! = 24.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2587": {
+  "solution": "A cumulative frequency curve is called an ogive.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "ogive",
+   "cumulative frequency curve",
+   "cumulative frequency graph"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2594": {
+  "solution": "Totals of 10 or more: (4,6), (5,5), (6,4), (5,6), (6,5), (6,6), 6 of 36. So P(at most 9) = 1 − 6/36 = 5/6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "30/36"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2595": {
+  "solution": "IQR = 80 − 20 = 60.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2597": {
+  "solution": "¹³C₄ = (13 × 12 × 11 × 10) ÷ 24 = 715.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2605": {
+  "solution": "In order: 2.01, 2.13, 2.15, 2.41, 3.01, 3.08, 3.12. The middle value is 2.41.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2614": {
+  "solution": "P(even, then odd) = 1/2 × 1/2 = 1/4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2615": {
+  "solution": "7 trousers × 11 shirts = 77 outfits.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2620": {
+  "solution": "The standard normal distribution has mean 0 and standard deviation 1.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1"
+  ],
+  "comment": ""
+ }
+}

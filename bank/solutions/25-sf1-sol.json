@@ -1,0 +1,687 @@
+{
+ "25-sf1-qb-1380": {
+  "solution": "Two heads in three tosses can happen 3 ways (HHT, HTH, THH) out of 8 outcomes: 3/8.",
+  "trick": "³C₂ ÷ 2³ = 3/8.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1389": {
+  "solution": "One litre is one cubic decimetre, so 3,000 L = 3,000 dm³.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1399": {
+  "solution": "Losing 40% a year keeps 0.6 of the value: 1,200 × 0.6 = 720 after one year, and 720 × 0.6 = $432 after two.",
+  "trick": "1,200 × 0.36 = 432.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1415": {
+  "solution": "|3 + 4i| = √(3² + 4²) = √25 = 5.",
+  "trick": "A 3-4-5 triangle.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1420": {
+  "solution": "tan θ = height ÷ shadow = 1, so θ = 45°.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1426": {
+  "solution": "Multiples of 4: 4, 8. Greater than 6: 7, 8, 9. Together {4, 7, 8, 9}, 4 of 9 sections: 4/9.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1442": {
+  "solution": "For 70, 80, 90, 100: Q1 is the middle of 70 and 80 (75), Q3 the middle of 90 and 100 (95), so IQR = 95 − 75 = 20.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1446": {
+  "solution": "[H⁺] = 10^(−pH) = 10⁻⁹ M.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "10^-9",
+   "1 x 10^-9",
+   "1e-9",
+   "10⁻⁹ M"
+  ],
+  "comment": ""
+ },
+ "25-sf1-qb-1456": {
+  "solution": "The cable, the 40 ft and the height form a right triangle: √(50² − 40²) = √900 = 30 ft.",
+  "trick": "3, 4, 5 scaled by 10.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1467": {
+  "solution": "15% off $40 leaves $34 a shirt, and 8 × 34 = $272.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1477": {
+  "solution": "60% of 50 is 30 right, so 50 − 30 = 20 wrong.",
+  "trick": "40% of 50 = 20.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1483": {
+  "solution": "The heat equation u_t = k u_xx is the standard parabolic PDE (the wave equation is hyperbolic, Laplace's is elliptic).",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1494": {
+  "solution": "⁵P₃ = 5 × 4 × 3 = 60.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1509": {
+  "solution": "P(not inherit) = 1 − 1/4 = 3/4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1532": {
+  "solution": "x = mean + z × SD = 100 + 2 × 15 = 130.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1551": {
+  "solution": "In order: 6, 8, 8, 9, 16, 20, 22. The median is 9 and √9 = 3.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1556": {
+  "solution": "18 nurses is 3 parts of 6 each, so doctors = 2 × 6 = 12.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1567": {
+  "solution": "Yearly total = 18 × 50,000 = ₦900,000, so monthly = 900,000 ÷ 12 = ₦75,000.",
+  "trick": "18 ÷ 12 = 1.5, and 1.5 × 50,000 = 75,000.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1577": {
+  "solution": "3 parts = 2,400, so 1 part = 800 and blue = 5 × 800 = 4,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1604": {
+  "solution": "20 years is two half-lives: 100 → 50 → 25 g.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1609": {
+  "solution": "Aa × Aa gives AA, Aa, Aa, aa equally often, so P(aa) = 1/4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/4",
+   "0.25",
+   "25%"
+  ],
+  "comment": ""
+ },
+ "25-sf1-qb-1614": {
+  "solution": "Either: 60 + 40 − 25 = 75, so neither: 100 − 75 = 25.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1620": {
+  "solution": "M · N = 3 × 1 + 4 × (−2) = 3 − 8 = −5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "-5"
+  ],
+  "comment": ""
+ },
+ "25-sf1-qb-1626": {
+  "solution": "Newton-Raphson finds roots of non-linear equations; Simpson's rule integrates and Euler's method steps through differential equations.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1738": {
+  "solution": "He keeps 0.75 × 0.7 = 0.525 of his money, so 0.525x = 1,260 and x = ₦2,400.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1748": {
+  "solution": "Downstream 80 km/h, upstream 40 km/h. The stream speed is half the difference: (80 − 40) ÷ 2 = 20 km/h.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1768": {
+  "solution": "The cans weigh 12 × 0.5 = 6 kg, so the packaging is 10 − 6 = 4 kg.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1773": {
+  "solution": "0.5 L × 2 M = 1 mol of HCl in 1 L, so 1 M.",
+  "trick": "Volume doubled, so the molarity halves.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1780": {
+  "solution": "Change = 2 − 0.5 = 1.5 mm, and 1.5 ÷ 0.5 = 3, an increase of 300%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1796": {
+  "solution": "7(a + 10) − 15 ≤ 20, so 7a + 55 ≤ 20, 7a ≤ −35 and a ≤ −5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1806": {
+  "solution": "140 beats a minute for 45 minutes: 140 × 45 = 6,300 beats.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1819": {
+  "solution": "20,000 × 0.95 = 19,000, then 19,000 × 1.1 = 20,900.",
+  "trick": "0.95 × 1.1 = 1.045.",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1840": {
+  "solution": "20% off $50 is $40 a bucket, and 20 × 40 = $800.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1846": {
+  "solution": "2,000 × 1.15 = ₦2,300, and 10 × 2,300 = ₦23,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1853": {
+  "solution": "2.5 × ₦500 = ₦1,250.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1873": {
+  "solution": "Flour is twice the milk: 2 × 3 = 6 cups.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1877": {
+  "solution": "f′(v) = 2v, as for a real square.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "f'(v) = 2v"
+  ],
+  "comment": ""
+ },
+ "25-sf1-qb-1902": {
+  "solution": "Intensity grows by (10/3)² ≈ 11.1 times. In decibels that adds 10 log₁₀(11.1) ≈ 10.5 dB, so 108 + 10.5 ≈ 118.5 dB.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "118.5",
+   "118.5 dB",
+   "118 dB",
+   "119 dB"
+  ],
+  "comment": ""
+ },
+ "25-sf1-qb-1926": {
+  "solution": "Man and wife 2, 5 sons and their wives 10, and 5 × 5 = 25 grandchildren: 2 + 10 + 25 = 37.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1936": {
+  "solution": "P(red first) = 4/10, then P(blue) = 6/9. Together 4/10 × 6/9 = 24/90 = 4/15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1946": {
+  "solution": "Volume = 8 × 5 × 6 = 240 m³, and 90% of it is 216 m³. 216 ÷ 4 = 54 minutes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1956": {
+  "solution": "Using each of A, B, C, D once: 4! = 24 passwords.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1960": {
+  "solution": "20% remains: 0.2 × 25,000 = 5,000 L.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-qb-1966": {
+  "solution": "The rate is the slope of the line, the coefficient of x: 3 units per unit time.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2335": {
+  "solution": "Growing by 8 an hour for 8 hours adds 64: 400 + 64 = 464.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2339": {
+  "solution": "Stokes' theorem: the surface integral of curl F equals the line integral of F around the surface's boundary.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2343": {
+  "solution": "48 × ₦200,000 = ₦9,600,000, and 10% off leaves ₦8,640,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2351": {
+  "solution": "24 × ₦200 = ₦4,800, and 12% off leaves 4,800 × 0.88 = ₦4,224.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2360": {
+  "solution": "The determinant is the product of the eigenvalues (and the trace is their sum).",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2365": {
+  "solution": "For a fixed perimeter a square encloses the most: sides of 25 m give 25 × 25 = 625 m².",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2372": {
+  "solution": "A singular matrix has determinant zero, so it has no inverse.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2376": {
+  "solution": "36 × $150 = $5,400, and 12% off leaves 5,400 × 0.88 = $4,752.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2384": {
+  "solution": "z = (700,000 − 500,000) ÷ 100,000 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2390": {
+  "solution": "div F = ∂(x²)/∂x + ∂(y²)/∂y + ∂(z²)/∂z = 2x + 2y + 2z.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2398": {
+  "solution": "Two weeks is 14 days: 5,000 + 14 × 1,000 = ₦19,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2401": {
+  "solution": "$180 ÷ $9 = 20 fruits.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2405": {
+  "solution": "A matrix with as many rows as columns is a square matrix.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "square"
+  ],
+  "comment": ""
+ },
+ "25-sf1-bm-2409": {
+  "solution": "Green's theorem relates a line integral around a closed curve to a double integral over the region inside it.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2413": {
+  "solution": "At equilibrium dI/dt = 0, so 50 = 0.1I and I = 500.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2418": {
+  "solution": "Diagonal = side × √2, so side = 10 ÷ √2 = 5√2 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "5√2",
+   "5 sqrt 2",
+   "5root2",
+   "7.07"
+  ],
+  "comment": ""
+ },
+ "25-sf1-bm-2425": {
+  "solution": "The hour hand goes round once every 12 hours, so 48 ÷ 12 = 4 rotations.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2431": {
+  "solution": "Each pH unit is a factor of 10 in [H⁺]; 2 units apart is 10² = 100 times.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2435": {
+  "solution": "At the top of a downward parabola the slope is zero, so the tangent line is horizontal.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2439": {
+  "solution": "Decrease = 30,000, and 30,000 ÷ 900,000 = 1/30 ≈ 3.33%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "3.33%",
+   "3.33",
+   "3 1/3%",
+   "10/3%"
+  ],
+  "comment": ""
+ },
+ "25-sf1-bm-2448": {
+  "solution": "Connecting n nodes needs at least n − 1 edges (a tree): 10 − 1 = 9.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2452": {
+  "solution": "Gaussian elimination uses row operations to reach row echelon form, then back substitution solves it.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2456": {
+  "solution": "Decrease = 600, and 600 ÷ 2,400 = 0.25 = 25%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2473": {
+  "solution": "Half the data lies below the median, so it is the 50th percentile.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "50",
+   "50th percentile"
+  ],
+  "comment": ""
+ },
+ "25-sf1-bm-2478": {
+  "solution": "CV = SD ÷ mean = 5 ÷ 50 = 0.1 = 10%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2485": {
+  "solution": "Each handshake is a pair: ¹²C₂ = (12 × 11) ÷ 2 = 66.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2491": {
+  "solution": "Each of 3 places can be any of 4 letters: 4³ = 64.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2496": {
+  "solution": "(50 + 55 + 60 + 58 + 62) ÷ 5 = 285 ÷ 5 = 57.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2502": {
+  "solution": "With y = 3 the middle value is 3, so y = 3, and the mean is (1 + 2 + 3 + 4 + 5) ÷ 5 = 3.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2507": {
+  "solution": "Multiplying every number by 2 doubles the mean: 2 × 15 = 30.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2514": {
+  "solution": "5! = 120 ways.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "120",
+   "5!"
+  ],
+  "comment": ""
+ },
+ "25-sf1-bm-2517": {
+  "solution": "In order: 3, 5, 7, 8, 12, 14, 15. The lower half 3, 5, 7 gives Q1 = 5, the upper half 12, 14, 15 gives Q3 = 14, so IQR = 9.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2521": {
+  "solution": "A mean below the median is pulled left by a long left tail: negatively skewed.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2527": {
+  "solution": "A symmetric distribution has no skew.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2532": {
+  "solution": "An independent samples t-test compares the means of two separate groups; ANOVA is for three or more.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2537": {
+  "solution": "1, 2, 3 and 4 are below 5: 4/6 = 2/3.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2/3",
+   "4/6"
+  ],
+  "comment": ""
+ },
+ "25-sf1-bm-2541": {
+  "solution": "Choosing 2 of 6 in any order: ⁶C₂ = 15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2549": {
+  "solution": "30% + 70% already makes 100%, so nobody is left to prefer both: 0%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0",
+   "zero"
+  ],
+  "comment": ""
+ },
+ "25-sf1-bm-2554": {
+  "solution": "SD = √variance = √16 = 4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2558": {
+  "solution": "Each of the 3 numbers has 10 choices: 10³ = 1,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1000",
+   "1,000",
+   "10^3"
+  ],
+  "comment": ""
+ },
+ "25-sf1-bm-2561": {
+  "solution": "Each of the 2 picks can be any of 6 items: 6 × 6 = 36.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2568": {
+  "solution": "Sports or music: 12 + 18 − 7 = 23.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2574": {
+  "solution": "GIFTS has 5 different letters: 5! = 120 arrangements.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2578": {
+  "solution": "In y = mx + c the intercept is c = 5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2581": {
+  "solution": "A total of 10: (4,6), (5,5), (6,4). A total of 11: (5,6), (6,5). That is 5 of 36: 5/36.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2588": {
+  "solution": "A set with 3 elements has 2³ = 8 subsets.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf1-bm-2592": {
+  "solution": "In order: 3.21, 3.26, 3.80, 4.28, 4.48. The middle value is 3.80.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "3.8"
+  ],
+  "comment": ""
+ }
+}

@@ -1,0 +1,837 @@
+{
+"25sf1-001": {
+"skip": true
+},
+"25sf1-002": {
+"skip": true
+},
+"25sf1-003": {
+"skip": true
+},
+"25sf1-004": {
+"skip": true
+},
+"25sf1-005": {
+"skip": true
+},
+"25sf1-006": {
+"skip": true
+},
+"25sf1-007": {
+"skip": true
+},
+"25sf1-008": {
+"skip": true
+},
+"25sf1-009": {
+"skip": true
+},
+"25sf1-010": {
+"skip": true
+},
+"25sf1-011": {
+"skip": true
+},
+"25sf1-012": {
+"skip": true
+},
+"25sf1-013": {
+"skip": true
+},
+"25sf1-014": {
+"skip": true
+},
+"25sf1-015": {
+"skip": true
+},
+"25sf1-016": {
+"skip": true
+},
+"25sf1-017": {
+"skip": true
+},
+"25sf1-018": {
+"skip": true
+},
+"25sf1-019": {
+"skip": true
+},
+"25sf1-020": {
+"skip": true
+},
+"25sf1-021": {
+"skip": true
+},
+"25sf1-022": {
+"skip": true
+},
+"25sf1-023": {
+"skip": true
+},
+"25sf1-024": {
+"skip": true
+},
+"25sf1-025": {
+"skip": true
+},
+"25sf1-026": {
+"skip": true
+},
+"25sf1-027": {
+"skip": true
+},
+"25sf1-028": {
+"skip": true
+},
+"25sf1-029": {
+"tp": "Probability",
+"k": "3/8",
+"s": "DA"
+},
+"25sf1-030": {
+"skip": true
+},
+"25sf1-031": {
+"tp": "Units",
+"k": "3,000 dm³",
+"s": "AM"
+},
+"25sf1-032": {
+"tp": "Depreciation",
+"k": "$423",
+"a": "$432",
+"t": "d",
+"n": "The show's bar read $423 (digits swapped); 1,200 × 0.6 × 0.6 = $432.",
+"s": "AM"
+},
+"25sf1-033": {
+"skip": true
+},
+"25sf1-034": {
+"tp": "Complex numbers",
+"k": "5",
+"s": "AM"
+},
+"25sf1-035": {
+"tp": "Trigonometry",
+"q": "What is the angle of elevation of the sun if the height and length of a shadow of a man are the same?",
+"k": "45°",
+"s": "AM"
+},
+"25sf1-036": {
+"tp": "Probability",
+"q": "A spinner has 9 sections numbered 1 to 9. What's the probability of landing on a multiple of 4 or a number greater than 6?",
+"k": "4/9",
+"s": "DA"
+},
+"25sf1-037": {
+"skip": true
+},
+"25sf1-038": {
+"tp": "Interquartile range",
+"k": "20",
+"s": "DA"
+},
+"25sf1-039": {
+"tp": "pH",
+"k": "1 × 10⁻⁹ M or 10⁻⁹ M",
+"s": "AM"
+},
+"25sf1-040": {
+"tp": "Pythagoras",
+"k": "30 feet",
+"s": "AM"
+},
+"25sf1-041": {
+"tp": "Percentages",
+"k": "$272",
+"s": "AM"
+},
+"25sf1-042": {
+"tp": "Percentages",
+"k": "20",
+"s": "AM"
+},
+"25sf1-043": {
+"tp": "Differential equations",
+"k": "Parabolic",
+"s": "AM"
+},
+"25sf1-044": {
+"tp": "Permutations",
+"k": "60",
+"s": "DA"
+},
+"25sf1-045": {
+"skip": true
+},
+"25sf1-046": {
+"tp": "Probability",
+"q": "If two carrier parents have a 1/4 chance of passing a disorder, what's the probability the child won't inherit it?",
+"k": "3/4",
+"s": "DA"
+},
+"25sf1-047": {
+"skip": true
+},
+"25sf1-048": {
+"skip": true
+},
+"25sf1-049": {
+"tp": "z-scores",
+"k": "130",
+"n": "z = 2 is near the 98th percentile, not the 5th; the value is still mean + 2 SD = 130.",
+"s": "DA"
+},
+"25sf1-050": {
+"skip": true
+},
+"25sf1-051": {
+"skip": true
+},
+"25sf1-052": {
+"tp": "Median",
+"q": "Find the square root of the median of the following numbers: 9, 8, 16, 8, 20, 22, 6",
+"k": "3",
+"s": "DA"
+},
+"25sf1-053": {
+"tp": "Ratios",
+"q": "A hospital has a 3:2 ratio of nurses to doctors. If there are 18 nurses, how many doctors are there?",
+"k": "12 doctors",
+"s": "AM"
+},
+"25sf1-054": {
+"skip": true
+},
+"25sf1-055": {
+"tp": "Arithmetic",
+"q": "A company has 18 employees, each earning ₦50,000 per year. Find the total monthly salary for all employees.",
+"k": "₦75,000",
+"s": "AM"
+},
+"25sf1-056": {
+"skip": true
+},
+"25sf1-057": {
+"tp": "Ratios",
+"k": "4,000",
+"s": "AM"
+},
+"25sf1-058": {
+"skip": true
+},
+"25sf1-059": {
+"skip": true
+},
+"25sf1-060": {
+"skip": true
+},
+"25sf1-061": {
+"tp": "Half-life",
+"q": "The half-life of a radioactive substance is 10 years. If the initial amount is 100 g, how much will remain after 20 years?",
+"k": "25 grams",
+"s": "AM"
+},
+"25sf1-062": {
+"tp": "Probability",
+"q": "In a cross between two heterozygous (Aa) individuals, what is the probability of a homozygous recessive offspring?",
+"k": "1/4 or 0.25",
+"s": "DA"
+},
+"25sf1-063": {
+"tp": "Sets",
+"q": "Among 100 students, 60 like ice cream, 40 like cake, and 25 like both. How many don't like either?",
+"k": "25",
+"s": "DA"
+},
+"25sf1-064": {
+"tp": "Vectors",
+"q": "If M = 3i + 4j and N = i − 2j, what is M · N (dot product)?",
+"k": "−5",
+"s": "AM"
+},
+"25sf1-065": {
+"tp": "Numerical methods",
+"q": "Which is used to solve non-linear equations?",
+"o": [
+"Simpson's Rule",
+"Euler's Method",
+"Newton-Raphson Method"
+],
+"k": "Newton-Raphson Method",
+"s": "AM"
+},
+"25sf1-066": {
+"skip": true
+},
+"25sf1-067": {
+"tp": "Percentages",
+"q": "Peter lost 25% of his money. After spending 30% of the remainder, he has ₦1,260 left. How much did he have initially?",
+"k": "₦2,400",
+"s": "AM"
+},
+"25sf1-068": {
+"tp": "Rates",
+"q": "A speedboat covers 240 km downstream in 3 hrs and the same distance upstream in 6 hrs. Find the stream's speed (km/h).",
+"k": "20 km/h",
+"s": "AM"
+},
+"25sf1-069": {
+"skip": true
+},
+"25sf1-070": {
+"skip": true
+},
+"25sf1-071": {
+"tp": "Arithmetic",
+"k": "4 kg",
+"s": "AM"
+},
+"25sf1-072": {
+"tp": "Dilution",
+"k": "1 M",
+"s": "AM"
+},
+"25sf1-073": {
+"tp": "Percentages",
+"k": "3",
+"a": "300%",
+"n": "The show's bar read 3: the change as a fraction of the start, (2 − 0.5) ÷ 0.5 = 3, which is 300%.",
+"s": "AM"
+},
+"25sf1-074": {
+"skip": true
+},
+"25sf1-075": {
+"tp": "Inequalities",
+"q": "Fifteen less than seven times the sum of a number and 10 is at most 20. Find all numbers that satisfy this condition.",
+"o": [
+"a ≤ −15",
+"a ≤ −5",
+"a ≤ 5"
+],
+"k": "a ≤ −5",
+"s": "AM"
+},
+"25sf1-076": {
+"tp": "Rates",
+"k": "6,300 beats",
+"s": "AM"
+},
+"25sf1-077": {
+"tp": "Percentages",
+"k": "20,900",
+"s": "AM"
+},
+"25sf1-078": {
+"skip": true
+},
+"25sf1-079": {
+"tp": "Percentages",
+"q": "A store gives 20% off. If one bucket costs $50, what's the total price for 20 buckets after the discount?",
+"k": "$800",
+"s": "AM"
+},
+"25sf1-080": {
+"tp": "Percentages",
+"q": "A shirt costs ₦2,000. If its price increases by 15%, how much will 10 shirts cost?",
+"k": "₦23,000",
+"s": "AM"
+},
+"25sf1-081": {
+"tp": "Arithmetic",
+"q": "A company produces 2.5 units of a product per day. If each unit costs ₦500 to produce, what is the total daily cost?",
+"k": "₦1,250",
+"s": "AM"
+},
+"25sf1-082": {
+"skip": true
+},
+"25sf1-083": {
+"tp": "Ratios",
+"q": "If a pancake recipe has a 2:1 flour-to-milk ratio and you have 3 cups of milk, how many cups of flour do you need?",
+"k": "6 cups",
+"s": "AM"
+},
+"25sf1-084": {
+"tp": "Complex analysis",
+"q": "The function f(v) = v² is analytic everywhere in the complex plane. What is its derivative?",
+"k": "2v",
+"s": "AM"
+},
+"25sf1-085": {
+"skip": true
+},
+"25sf1-086": {
+"skip": true
+},
+"25sf1-087": {
+"tp": "Sound",
+"k": "1,200 dB",
+"a": "About 118.5 dB",
+"t": "d",
+"n": "The show's bar read 1,200 dB, which scales decibels like intensity. Decibels are logarithmic: moving from 10 m to 3 m adds 20 log₁₀(10/3) ≈ 10.5 dB.",
+"s": "AM"
+},
+"25sf1-088": {
+"skip": true
+},
+"25sf1-089": {
+"skip": true
+},
+"25sf1-090": {
+"tp": "Arithmetic",
+"k": "37",
+"s": "AM"
+},
+"25sf1-091": {
+"tp": "Probability",
+"q": "A bag contains 4 red and 6 blue marbles. What's the probability of drawing a red then a blue marble without replacement?",
+"k": "4/15",
+"s": "DA"
+},
+"25sf1-092": {
+"tp": "Volume",
+"q": "A rectangular tank (8 m × 5 m × 6 m) drains at 4 m³/min. If it is 90% full, how long will it take to empty?",
+"k": "54 minutes",
+"s": "AM"
+},
+"25sf1-093": {
+"tp": "Permutations",
+"k": "24",
+"s": "DA"
+},
+"25sf1-094": {
+"tp": "Percentages",
+"k": "5,000 L",
+"s": "AM"
+},
+"25sf1-095": {
+"tp": "Linear graphs",
+"q": "For the line y = 3x + 2, where y is gas volume and x is time, find the gas production rate.",
+"k": "3 units",
+"s": "AM"
+},
+"25sf1-096": {
+"skip": true
+},
+"25sf1-097": {
+"skip": true
+},
+"25sf1-098": {
+"skip": true
+},
+"25sf1-099": {
+"skip": true
+},
+"25sf1-100": {
+"skip": true
+},
+"25sf1-101": {
+"skip": true
+},
+"25sf1-102": {
+"skip": true
+},
+"25sf1-103": {
+"skip": true
+},
+"25sf1-104": {
+"skip": true
+},
+"25sf1-105": {
+"skip": true
+},
+"25sf1-106": {
+"skip": true
+},
+"25sf1-107": {
+"skip": true
+},
+"25sf1-108": {
+"skip": true
+},
+"25sf1-109": {
+"skip": true
+},
+"25sf1-110": {
+"skip": true
+},
+"25sf1-111": {
+"skip": true
+},
+"25sf1-112": {
+"skip": true
+},
+"25sf1-113": {
+"skip": true
+},
+"25sf1-114": {
+"skip": true
+},
+"25sf1-115": {
+"skip": true
+},
+"25sf1-116": {
+"skip": true
+},
+"25sf1-117": {
+"skip": true
+},
+"25sf1-118": {
+"skip": true
+},
+"25sf1-119": {
+"skip": true
+},
+"25sf1-120": {
+"skip": true
+},
+"25sf1-121": {
+"skip": true
+},
+"25sf1-122": {
+"skip": true
+},
+"25sf1-123": {
+"skip": true
+},
+"25sf1-124": {
+"skip": true
+},
+"25sf1-125": {
+"skip": true
+},
+"25sf1-126": {
+"skip": true
+},
+"25sf1-127": {
+"skip": true
+},
+"25sf1-128": {
+"skip": true
+},
+"25sf1-129": {
+"skip": true
+},
+"25sf1-130": {
+"tp": "Growth",
+"k": "464 bacteria"
+},
+"25sf1-131": {
+"tp": "Vector calculus",
+"q": "Stokes' theorem converts a surface integral of curl into",
+"o": [
+"A gradient",
+"A scalar product",
+"A line integral"
+],
+"k": "A line integral"
+},
+"25sf1-132": {
+"tp": "Discounts",
+"q": "A laptop costs ₦200,000 and the seller offers a 10% discount on every 12 laptops purchased. How much is 48 laptops?",
+"k": "₦8,640,000"
+},
+"25sf1-133": {
+"tp": "Discounts",
+"q": "A scanner costs ₦200 with a 12% discount on every 12 scanners. What's the cost for 24 scanners?",
+"k": "₦4,224"
+},
+"25sf1-134": {
+"tp": "Matrices",
+"q": "The determinant of a matrix equals the product of its",
+"o": [
+"Eigenvalues",
+"Identity matrix",
+"Singular values"
+],
+"k": "Eigenvalues"
+},
+"25sf1-135": {
+"tp": "Optimisation",
+"k": "625 square meters"
+},
+"25sf1-136": {
+"tp": "Matrices",
+"q": "A matrix is said to be singular if its determinant is",
+"o": [
+"Negative",
+"Positive",
+"Zero"
+],
+"k": "Zero"
+},
+"25sf1-137": {
+"tp": "Discounts",
+"k": "$4,752"
+},
+"25sf1-138": {
+"tp": "z-scores",
+"q": "For monthly sales of ₦500,000 with a standard deviation of ₦100,000, what is the z-score for a sales month of ₦700,000?",
+"k": "2"
+},
+"25sf1-139": {
+"tp": "Vector calculus",
+"q": "The divergence of a vector field F = (x², y², z²) is",
+"k": "2x + 2y + 2z"
+},
+"25sf1-140": {
+"tp": "Linear cost",
+"q": "A car rental costs ₦5,000 plus ₦1,000 per day. What is the total cost for a two-week rental?",
+"k": "₦19,000"
+},
+"25sf1-141": {
+"tp": "Arithmetic",
+"k": "20 fruits"
+},
+"25sf1-142": {
+"tp": "Matrices",
+"k": "Square matrix"
+},
+"25sf1-143": {
+"tp": "Vector calculus"
+},
+"25sf1-144": {
+"tp": "Differential equations",
+"q": "Given the equation dI/dt = 50 − 0.1I, where I represents inventory, what is the equilibrium inventory level?",
+"k": "500"
+},
+"25sf1-145": {
+"tp": "Pythagoras",
+"q": "If the diagonal of a square field is 10 meters, find the side length of the field in the form a√b.",
+"k": "5√2 meters"
+},
+"25sf1-146": {
+"tp": "Clocks",
+"k": "4"
+},
+"25sf1-147": {
+"tp": "pH",
+"k": "100 times"
+},
+"25sf1-148": {
+"tp": "Calculus"
+},
+"25sf1-149": {
+"tp": "Percentages",
+"q": "If a company's revenue decreases from ₦900,000 to ₦870,000, what is the percentage decrease in revenue?",
+"k": "3.33% or 3⅓% or 10/3%"
+},
+"25sf1-150": {
+"tp": "Graphs",
+"k": "9"
+},
+"25sf1-151": {
+"tp": "Linear systems",
+"q": "Gaussian elimination transforms a system of equations into",
+"o": [
+"Diagonal form",
+"Zero matrix",
+"Row echelon form"
+],
+"k": "Row echelon form"
+},
+"25sf1-152": {
+"tp": "Percentages",
+"k": "25%"
+},
+"25sf1-153": {
+"tp": "Percentiles",
+"q": "According to percentiles, the median must lie at the ____ percentile.",
+"k": "50th"
+},
+"25sf1-154": {
+"tp": "Coefficient of variation",
+"k": "10%"
+},
+"25sf1-155": {
+"tp": "Combinations",
+"k": "66"
+},
+"25sf1-156": {
+"tp": "Counting",
+"k": "64"
+},
+"25sf1-157": {
+"tp": "Mean",
+"k": "57"
+},
+"25sf1-158": {
+"tp": "Mean",
+"k": "3"
+},
+"25sf1-159": {
+"tp": "Mean",
+"k": "30"
+},
+"25sf1-160": {
+"tp": "Permutations",
+"q": "How many ways can 5 students arrange themselves in a row?",
+"k": "120 ways or 5!"
+},
+"25sf1-161": {
+"tp": "Interquartile range",
+"q": "What is the interquartile range of the data set (3, 7, 8, 5, 12, 14, 15)?",
+"k": "9"
+},
+"25sf1-162": {
+"tp": "Skewness",
+"q": "If a dataset has a median of 30 and a mean of 25, what is likely about the distribution?",
+"o": [
+"Negatively skewed",
+"Positively skewed",
+"Symmetric"
+],
+"k": "Negatively skewed"
+},
+"25sf1-163": {
+"tp": "Skewness",
+"q": "The symmetrical distribution that has the left and right sides mirroring each other is said to have ___",
+"o": [
+"Zero skew",
+"Positive skew",
+"Negative skew"
+],
+"k": "Zero skew"
+},
+"25sf1-164": {
+"tp": "Hypothesis testing"
+},
+"25sf1-165": {
+"tp": "Probability",
+"q": "What is the probability of rolling a number less than 5 on a six-sided die?",
+"k": "4/6 or 2/3"
+},
+"25sf1-166": {
+"tp": "Combinations",
+"k": "15"
+},
+"25sf1-167": {
+"tp": "Probability",
+"k": "0%"
+},
+"25sf1-168": {
+"tp": "Standard deviation",
+"k": "4"
+},
+"25sf1-169": {
+"tp": "Counting",
+"q": "A combination lock has 3 numbers. How many possible combinations are there if each number can be 1 to 10?",
+"k": "1,000 or 10³"
+},
+"25sf1-170": {
+"tp": "Counting",
+"k": "36 ways",
+"n": "This counts ordered picks with replacement (6 × 6); unordered picks with repetition would be 21."
+},
+"25sf1-171": {
+"tp": "Sets",
+"k": "23"
+},
+"25sf1-172": {
+"tp": "Permutations",
+"k": "120 ways"
+},
+"25sf1-173": {
+"tp": "Regression",
+"q": "The intercept of the regression line y = −2x + 5 is",
+"k": "5"
+},
+"25sf1-174": {
+"tp": "Probability",
+"k": "5/36"
+},
+"25sf1-175": {
+"tp": "Sets",
+"q": "If K = {1, 3, 5}, find the cardinality of the power set of K.",
+"k": "8"
+},
+"25sf1-176": {
+"tp": "Median",
+"q": "Find the median of the data: 3.80, 4.48, 3.26, 4.28, 3.21",
+"k": "3.80"
+},
+"25sf1-177": {
+"skip": true
+},
+"25sf1-178": {
+"skip": true
+},
+"25sf1-179": {
+"skip": true
+},
+"25sf1-180": {
+"skip": true
+},
+"25sf1-181": {
+"skip": true
+},
+"25sf1-182": {
+"skip": true
+},
+"25sf1-183": {
+"skip": true
+},
+"25sf1-184": {
+"skip": true
+},
+"25sf1-185": {
+"skip": true
+},
+"25sf1-186": {
+"skip": true
+},
+"25sf1-187": {
+"skip": true
+},
+"25sf1-188": {
+"skip": true
+},
+"25sf1-189": {
+"skip": true
+},
+"25sf1-190": {
+"skip": true
+},
+"25sf1-191": {
+"skip": true
+},
+"25sf1-192": {
+"skip": true
+},
+"25sf1-193": {
+"skip": true
+},
+"25sf1-194": {
+"skip": true
+},
+"25sf1-195": {
+"skip": true
+},
+"25sf1-196": {
+"skip": true
+},
+"25sf1-197": {
+"skip": true
+},
+"25sf1-198": {
+"skip": true
+},
+"25sf1-199": {
+"skip": true
+},
+"25sf1-200": {
+"skip": true
+},
+"25sf1-201": {
+"skip": true
+},
+"25sf1-202": {
+"skip": true
+},
+"25sf1-203": {
+"skip": true
+}
+}

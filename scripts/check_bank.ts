@@ -50,7 +50,7 @@ const CASES: [string, string[], string, boolean][] = [
   ['0.0001 M (1 × 10⁻⁴ M)', [], '1x10^-4', true], ['0.0001 M (1 × 10⁻⁴ M)', [], '1', false],
   ['1 litre (1,000 cm³)', [], '1000 cm3', true], ['6,667 m³ (20,000/3)', [], '6666.67', true],
   ['Oil palm/Palm kernel', [], 'palm kernel', true], ['5 tonnes or 500 kg', [], '50', false],
-  ['1:3', [], '13', false], ['1:3', [], '1 : 3', true], ['π/2 radians', ['1/2 π'], '1/2', false], ['2√3', [], '2', false], ['5x', [], '5', false], ['10 per cent', [], '0.1', true],
+  ['2.4', [], '2.41', false], ['13.6 g/cm³', [], '13.5', false], ['1 × 10⁻⁹ M', [], '0', false], ['9/44', [], '0.204', true], ['20000/3', [], '6666.666', true], ['1:3', [], '13', false], ['1:3', [], '1 : 3', true], ['π/2 radians', ['1/2 π'], '1/2', false], ['2√3', [], '2', false], ['5x', [], '5', false], ['10 per cent', [], '0.1', true],
 ];
 for (const [answer, accept, typed, want] of CASES) {
   const q = { id: 'case', answer, accept } as unknown as Question;
@@ -96,7 +96,7 @@ for (const q of bank) {
 const typed = bank.filter(q => !q.options);
 let cross = 0;
 for (const q of typed) {
-  if ([q.answer, ...(q.accept ?? [])].some(f => /%/.test(f))) continue;   // 150% and 1.5 are the same number on purpose
+  if ([q.answer, ...(q.accept ?? [])].some(f => /[%:]/.test(f))) continue;   // 150% and 1.5, or 5 : 4 and 1.25, are the same number on purpose
   const leads = new Set([q.answer, ...(q.accept ?? [])].map(lead).filter(Boolean).map(Number));
   for (const o of typed) {
     if (o === q || /%/.test(o.answer)) continue;

@@ -1,0 +1,667 @@
+{
+"25sf2-001": {
+"skip": true
+},
+"25sf2-002": {
+"skip": true
+},
+"25sf2-003": {
+"skip": true
+},
+"25sf2-004": {
+"skip": true
+},
+"25sf2-005": {
+"skip": true
+},
+"25sf2-006": {
+"skip": true
+},
+"25sf2-007": {
+"skip": true
+},
+"25sf2-008": {
+"skip": true
+},
+"25sf2-009": {
+"skip": true
+},
+"25sf2-010": {
+"skip": true
+},
+"25sf2-011": {
+"skip": true
+},
+"25sf2-012": {
+"skip": true
+},
+"25sf2-013": {
+"skip": true
+},
+"25sf2-014": {
+"skip": true
+},
+"25sf2-015": {
+"tp": "Probability",
+"q": "In a bag with 6 yellow, 3 green, and 2 red balls, what's the probability of drawing two green balls without replacement?",
+"k": "3/55",
+"s": "DA"
+},
+"25sf2-016": {
+"tp": "Inverse proportion",
+"q": "Azeez needs 36 lbs for a 3-ft board. If pressure and length are inversely related, find the pressure for an 8-ft board.",
+"k": "13.5 pounds",
+"s": "AM"
+},
+"25sf2-017": {
+"tp": "Logarithms",
+"k": "486",
+"s": "AM"
+},
+"25sf2-018": {
+"skip": true
+},
+"25sf2-019": {
+"tp": "Mixtures",
+"q": "What is the resulting molarity of mixing 100 mL of a 4 M solution with 200 mL of a 2 M solution?",
+"k": "2.67 M or 8/3 M",
+"s": "AM"
+},
+"25sf2-020": {
+"skip": true
+},
+"25sf2-021": {
+"skip": true
+},
+"25sf2-022": {
+"tp": "Combinations",
+"k": "495",
+"s": "DA"
+},
+"25sf2-023": {
+"skip": true
+},
+"25sf2-024": {
+"skip": true
+},
+"25sf2-025": {
+"skip": true
+},
+"25sf2-026": {
+"tp": "Probability",
+"q": "The probability of rain on Monday is 0.3, and on Tuesday is 0.4. What's the probability it will rain on both days?",
+"k": "12%",
+"s": "DA"
+},
+"25sf2-027": {
+"tp": "Polygons",
+"k": "14",
+"s": "AM"
+},
+"25sf2-028": {
+"tp": "Percentages",
+"q": "A company's revenue decreased by 15% this year. If the revenue was $3,000,000 last year, what is the revenue this year?",
+"k": "$2,550,000",
+"s": "AM"
+},
+"25sf2-029": {
+"skip": true
+},
+"25sf2-030": {
+"tp": "Complex analysis",
+"k": "Laplace's equation",
+"n": "They also satisfy the Cauchy-Riemann equations; both count.",
+"s": "AM"
+},
+"25sf2-031": {
+"skip": true
+},
+"25sf2-032": {
+"skip": true
+},
+"25sf2-033": {
+"tp": "Probability",
+"k": "1/4",
+"s": "DA"
+},
+"25sf2-034": {
+"tp": "Mixtures",
+"q": "In a 60 L mix with a 4:1 milk-water ratio, how much water must be added to change the ratio to 1:2?",
+"k": "84 liters",
+"s": "AM"
+},
+"25sf2-035": {
+"tp": "Percentages",
+"q": "A 10,000 L tank is 2.5% full. How much more water can be added?",
+"k": "9,750 liters",
+"s": "AM"
+},
+"25sf2-036": {
+"tp": "Rates",
+"q": "If a car travels 150 miles in 3 hours, what is its speed in miles per minute?",
+"k": "0.83 or 5/6 miles/min",
+"s": "AM"
+},
+"25sf2-037": {
+"tp": "Sound",
+"k": "100 times",
+"s": "AM"
+},
+"25sf2-038": {
+"tp": "Proportion",
+"k": "300 cups",
+"s": "AM"
+},
+"25sf2-039": {
+"tp": "Percentages",
+"q": "A 20% bread price drop allows 6.4 kg more for Rs 512. Find the ratio of the original to the reduced price per kg.",
+"k": "5 : 4",
+"s": "AM"
+},
+"25sf2-040": {
+"skip": true
+},
+"25sf2-041": {
+"tp": "Volume",
+"q": "A rectangular tank (8 m × 5 m × 6 m) drains at 4 m³/min. How long to drain if it's 10% full?",
+"k": "6 minutes",
+"s": "AM"
+},
+"25sf2-042": {
+"tp": "Normal distribution",
+"k": "105",
+"s": "DA"
+},
+"25sf2-043": {
+"tp": "Arithmetic",
+"k": "3 kg",
+"s": "AM"
+},
+"25sf2-044": {
+"tp": "Differentiation",
+"q": "Find the derivative of f(x) = x³ + 3x² − 5x + 7",
+"k": "3x² + 6x − 5",
+"s": "AM"
+},
+"25sf2-045": {
+"skip": true
+},
+"25sf2-046": {
+"tp": "Probability",
+"k": "1/6",
+"s": "DA"
+},
+"25sf2-047": {
+"tp": "Permutations",
+"k": "120",
+"s": "DA"
+},
+"25sf2-048": {
+"skip": true
+},
+"25sf2-049": {
+"tp": "z-scores",
+"k": "2",
+"s": "DA"
+},
+"25sf2-050": {
+"skip": true
+},
+"25sf2-051": {
+"tp": "Combinations",
+"q": "In a room with 2 green, 3 yellow, and 4 blue chairs, how many ways can Raj choose 3 chairs with at least one yellow?",
+"k": "64",
+"s": "DA"
+},
+"25sf2-052": {
+"skip": true
+},
+"25sf2-053": {
+"tp": "Combinations",
+"k": "15",
+"s": "DA"
+},
+"25sf2-054": {
+"skip": true
+},
+"25sf2-055": {
+"tp": "Pie charts",
+"k": "162°",
+"s": "DA"
+},
+"25sf2-056": {
+"tp": "Charts",
+"k": "Line graph",
+"s": "DA"
+},
+"25sf2-057": {
+"skip": true
+},
+"25sf2-058": {
+"skip": true
+},
+"25sf2-059": {
+"tp": "z-scores",
+"q": "If a dataset has a mean of 55, a standard deviation of 7, and a z-score of 2, what is the value of the second quartile?",
+"k": "69",
+"n": "69 is the value at z = 2 (55 + 2 × 7). The second quartile of a normal distribution would be the mean, 55.",
+"s": "DA"
+},
+"25sf2-060": {
+"tp": "Median",
+"k": "10",
+"s": "DA"
+},
+"25sf2-061": {
+"tp": "Coefficient of variation",
+"k": "4/20 or 1/5 or 0.2",
+"a": "20",
+"t": "d",
+"n": "The show's bar read 4/20 or 0.2, which is the coefficient of variation as a fraction, not the mean.",
+"s": "DA"
+},
+"25sf2-062": {
+"tp": "Mode",
+"q": "In a competition with points 60, 42, 43, 44, 46, 46, 45, 41, 46, 48, and 46, what is the modal point?",
+"k": "46",
+"s": "DA"
+},
+"25sf2-063": {
+"tp": "Combinations",
+"k": "196",
+"s": "DA"
+},
+"25sf2-064": {
+"skip": true
+},
+"25sf2-065": {
+"tp": "z-scores",
+"q": "On a statistics exam, the mean was 80 and the SD was 5. What is the z-score for a student who scored 92?",
+"k": "1.6 or 8/5",
+"a": "2.4",
+"t": "d",
+"n": "The show's bar read 1.6 or 8/5; (92 − 80) ÷ 5 = 2.4.",
+"s": "DA"
+},
+"25sf2-066": {
+"skip": true
+},
+"25sf2-067": {
+"skip": true
+},
+"25sf2-068": {
+"skip": true
+},
+"25sf2-069": {
+"tp": "Probability",
+"q": "If two fair six-sided dice are rolled, what's the probability that the sum of the numbers rolled is greater than 8?",
+"k": "10/36 or 5/18",
+"s": "DA"
+},
+"25sf2-070": {
+"skip": true
+},
+"25sf2-071": {
+"skip": true
+},
+"25sf2-072": {
+"tp": "Permutations",
+"q": "The number of words from the letters of the word 'BHARAT' in which B and H never come together is",
+"k": "240",
+"s": "DA"
+},
+"25sf2-073": {
+"skip": true
+},
+"25sf2-074": {
+"tp": "Combinations",
+"k": "210",
+"s": "DA"
+},
+"25sf2-075": {
+"tp": "Probability",
+"q": "The sum of probabilities for all possible outcomes in a probability distribution is equal to ____",
+"k": "1",
+"s": "DA"
+},
+"25sf2-076": {
+"skip": true
+},
+"25sf2-077": {
+"tp": "Central tendency",
+"k": "Median",
+"s": "DA"
+},
+"25sf2-078": {
+"tp": "Probability",
+"q": "What is the probability of selecting a consonant from the letters A, E, I, O and U?",
+"k": "0",
+"s": "DA"
+},
+"25sf2-079": {
+"tp": "Mean",
+"k": "16",
+"s": "DA"
+},
+"25sf2-080": {
+"tp": "Tools",
+"k": "Pandas",
+"s": "DA"
+},
+"25sf2-081": {
+"skip": true
+},
+"25sf2-082": {
+"skip": true
+},
+"25sf2-083": {
+"tp": "Variance",
+"q": "In a sample, if the mean is 25 and the standard deviation is 6, what is the variance?",
+"k": "36",
+"s": "DA"
+},
+"25sf2-084": {
+"skip": true
+},
+"25sf2-085": {
+"skip": true
+},
+"25sf2-086": {
+"tp": "Interquartile range",
+"q": "What is the IQR if the first quartile Q1 is 25 and the third quartile Q3 is 35?",
+"k": "10",
+"s": "DA"
+},
+"25sf2-087": {
+"skip": true
+},
+"25sf2-088": {
+"skip": true
+},
+"25sf2-089": {
+"tp": "Variance",
+"k": "0",
+"s": "DA"
+},
+"25sf2-090": {
+"skip": true
+},
+"25sf2-091": {
+"tp": "Discounts",
+"k": "$1,900"
+},
+"25sf2-092": {
+"tp": "Complex analysis",
+"k": "Zero"
+},
+"25sf2-093": {
+"tp": "Graphs",
+"q": "For a network of 5 nodes connected by 7 edges, what is the minimum number of edges needed to connect all nodes?",
+"k": "4"
+},
+"25sf2-094": {
+"tp": "Discounts",
+"k": "$3,600"
+},
+"25sf2-095": {
+"skip": true
+},
+"25sf2-096": {
+"skip": true
+},
+"25sf2-097": {
+"tp": "Discounts",
+"k": "$3,060"
+},
+"25sf2-098": {
+"tp": "Matrices",
+"k": "Orthogonal"
+},
+"25sf2-099": {
+"tp": "Profit and loss",
+"q": "What is the cost price of an article which is sold for Rs. 220 at a loss of 12%?",
+"k": "Rs. 250"
+},
+"25sf2-100": {
+"tp": "Marginal cost",
+"q": "Given the cost function C(x) = 4x² + 3, find the marginal cost at x = 4.",
+"k": "32"
+},
+"25sf2-101": {
+"tp": "Arithmetic",
+"k": "75 pages"
+},
+"25sf2-102": {
+"skip": true
+},
+"25sf2-103": {
+"skip": true
+},
+"25sf2-104": {
+"skip": true
+},
+"25sf2-105": {
+"skip": true
+},
+"25sf2-106": {
+"skip": true
+},
+"25sf2-107": {
+"skip": true
+},
+"25sf2-108": {
+"skip": true
+},
+"25sf2-109": {
+"skip": true
+},
+"25sf2-110": {
+"skip": true
+},
+"25sf2-111": {
+"skip": true
+},
+"25sf2-112": {
+"skip": true
+},
+"25sf2-113": {
+"skip": true
+},
+"25sf2-114": {
+"skip": true
+},
+"25sf2-115": {
+"skip": true
+},
+"25sf2-116": {
+"skip": true
+},
+"25sf2-117": {
+"skip": true
+},
+"25sf2-118": {
+"skip": true
+},
+"25sf2-119": {
+"skip": true
+},
+"25sf2-120": {
+"skip": true
+},
+"25sf2-121": {
+"skip": true
+},
+"25sf2-122": {
+"skip": true
+},
+"25sf2-123": {
+"skip": true
+},
+"25sf2-124": {
+"skip": true
+},
+"25sf2-125": {
+"skip": true
+},
+"25sf2-126": {
+"skip": true
+},
+"25sf2-127": {
+"skip": true
+},
+"25sf2-128": {
+"skip": true
+},
+"25sf2-129": {
+"skip": true
+},
+"25sf2-130": {
+"skip": true
+},
+"25sf2-131": {
+"skip": true
+},
+"25sf2-132": {
+"skip": true
+},
+"25sf2-133": {
+"skip": true
+},
+"25sf2-134": {
+"skip": true
+},
+"25sf2-135": {
+"skip": true
+},
+"25sf2-136": {
+"skip": true
+},
+"25sf2-137": {
+"skip": true
+},
+"25sf2-138": {
+"skip": true
+},
+"25sf2-139": {
+"skip": true
+},
+"25sf2-140": {
+"skip": true
+},
+"25sf2-141": {
+"skip": true
+},
+"25sf2-142": {
+"skip": true
+},
+"25sf2-143": {
+"skip": true
+},
+"25sf2-144": {
+"skip": true
+},
+"25sf2-145": {
+"skip": true
+},
+"25sf2-146": {
+"skip": true
+},
+"25sf2-147": {
+"tp": "Permutations",
+"k": "120 arrangements or 5!"
+},
+"25sf2-148": {
+"tp": "Range",
+"k": "0"
+},
+"25sf2-149": {
+"tp": "Mode",
+"k": "Two peaks"
+},
+"25sf2-150": {
+"tp": "Probability",
+"q": "A fair die is tossed 2 times. The probability that the second toss value is greater than the first toss is",
+"k": "5/12"
+},
+"25sf2-151": {
+"skip": true
+},
+"25sf2-152": {
+"tp": "Probability",
+"k": "51"
+},
+"25sf2-153": {
+"tp": "Skewness",
+"q": "The skewness of a normal distribution is",
+"k": "0"
+},
+"25sf2-154": {
+"tp": "Mean",
+"k": "6"
+},
+"25sf2-155": {
+"tp": "Percentiles",
+"q": "What is the percentile rank of 60 in the dataset 50, 55, 60, 65, 70?",
+"k": "50"
+},
+"25sf2-156": {
+"tp": "Combinations",
+"k": "105"
+},
+"25sf2-157": {
+"tp": "Probability",
+"k": "2/5"
+},
+"25sf2-158": {
+"tp": "Standard deviation",
+"k": "6"
+},
+"25sf2-159": {
+"tp": "Outliers",
+"q": "What is the outlier in the following dataset: 1, 2, 3, 4, 10, 1, 5?",
+"k": "10"
+},
+"25sf2-160": {
+"tp": "Permutations",
+"k": "24 words"
+},
+"25sf2-161": {
+"tp": "Charts",
+"q": "The graph that represents the cumulative frequencies for the classes in a frequency distribution is called a/an",
+"k": "Ogive or cumulative frequency curve"
+},
+"25sf2-162": {
+"tp": "Probability",
+"k": "3/4",
+"a": "5/6",
+"t": "d",
+"n": "The show's bar read 3/4; only 6 of the 36 outcomes total 10 or more, so P(at most 9) = 30/36 = 5/6."
+},
+"25sf2-163": {
+"tp": "Interquartile range",
+"q": "What is the interquartile range of a dataset with Q1 = 20 and Q3 = 80?",
+"k": "60"
+},
+"25sf2-164": {
+"tp": "Combinations",
+"k": "715"
+},
+"25sf2-165": {
+"tp": "Median",
+"q": "Find the median of the data: 2.13, 3.12, 2.15, 3.08, 2.01, 3.01, 2.41",
+"k": "2.41"
+},
+"25sf2-166": {
+"tp": "Probability",
+"q": "A fair die is rolled twice. The probability that an odd number will follow an even number is",
+"k": "1/4"
+},
+"25sf2-167": {
+"tp": "Counting",
+"k": "77"
+},
+"25sf2-168": {
+"tp": "Normal distribution",
+"k": "One"
+}
+}
