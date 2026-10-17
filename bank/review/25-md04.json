@@ -1,0 +1,948 @@
+{
+"25md04-001": {
+"skip": true
+},
+"25md04-002": {
+"tp": "Discounts",
+"s": "AM"
+},
+"25md04-003": {
+"tp": "Arithmetic",
+"q": "In an exam with a deduction of 0.5 for any wrong answer, a student attempted 90 questions and got 70 correct. If each question is 1 mark, what is the student's score?",
+"sch": "UNIBEN",
+"s": "AM"
+},
+"25md04-004": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md04-005": {
+"tp": "Permutations",
+"q": "In how many ways can 7 people be seated in a row if two of them insist on sitting next to each other?",
+"s": "DA"
+},
+"25md04-006": {
+"tp": "Quadratics",
+"q": "The distance a car travels on a highway can be modeled by the equation d = 400t² − 60t, where t represents time in hours. If the car travels for 5 hours, how far will it travel?",
+"s": "AM"
+},
+"25md04-007": {
+"skip": true
+},
+"25md04-008": {
+"tp": "Percentages",
+"k": "125%",
+"s": "AM"
+},
+"25md04-009": {
+"tp": "Trigonometry",
+"q": "In a right triangle, the ratio of the length of the side adjacent to the angle divided by the length of the side opposite the angle is known as ___",
+"k": "Cotangent",
+"s": "AM"
+},
+"25md04-010": {
+"tp": "Scale",
+"q": "If a map scale is 1:10,000, and the distance on the map is 5 cm, what is the actual distance on the ground?",
+"k": "0.5 km",
+"s": "AM"
+},
+"25md04-011": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md04-012": {
+"tp": "Combinations",
+"s": "DA"
+},
+"25md04-013": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md04-014": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md04-015": {
+"tp": "Probability",
+"s": "DA"
+},
+"25md04-016": {
+"skip": true
+},
+"25md04-017": {
+"tp": "Probability",
+"k": "2/7",
+"s": "DA"
+},
+"25md04-018": {
+"tp": "Linear functions",
+"s": "AM"
+},
+"25md04-019": {
+"tp": "Growth",
+"k": "62.5 lux",
+"s": "AM"
+},
+"25md04-020": {
+"tp": "Percentages",
+"k": "90%",
+"s": "AM"
+},
+"25md04-021": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md04-022": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md04-023": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md04-024": {
+"tp": "Percentages",
+"q": "If a bicycle's price increases from ₦160,000 to ₦280,000, what is the percentage increase in price?",
+"k": "75%",
+"s": "AM"
+},
+"25md04-025": {
+"tp": "Half-life",
+"s": "AM"
+},
+"25md04-026": {
+"skip": true
+},
+"25md04-027": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md04-028": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md04-029": {
+"tp": "Percentages",
+"k": "0%",
+"s": "AM"
+},
+"25md04-030": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md04-031": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md04-032": {
+"tp": "Probability",
+"k": "50%",
+"s": "DA"
+},
+"25md04-033": {
+"tp": "Probability",
+"k": "40%",
+"a": "50%",
+"t": "d",
+"n": "The show's bar read 40%, which is the answer for 5 people in a row. Around a circle, the second person can be in 2 of the 4 seats left, next to the first: 50%.",
+"s": "DA"
+},
+"25md04-034": {
+"tp": "Units",
+"q": "The temperature T in Celsius can be converted to Fahrenheit using the equation F = (9/5)C + 32. If it is 55°C outside, what is the temperature in Fahrenheit?",
+"s": "AM"
+},
+"25md04-035": {
+"tp": "pH",
+"k": "1 × 10⁻⁹ M",
+"s": "AM"
+},
+"25md04-036": {
+"tp": "Magnification",
+"s": "AM"
+},
+"25md04-037": {
+"tp": "Rates",
+"k": "3.33 m/s",
+"s": "AM"
+},
+"25md04-038": {
+"tp": "Arithmetic",
+"n": "This reads 3,563 m as the height of the summit above sea level.",
+"s": "AM"
+},
+"25md04-039": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md04-040": {
+"skip": true
+},
+"25md04-041": {
+"tp": "Area",
+"k": "2,100 m²",
+"s": "AM"
+},
+"25md04-042": {
+"tp": "Calculus",
+"s": "AM"
+},
+"25md04-043": {
+"tp": "Ratios",
+"q": "The sum of three numbers is 240. The ratio of first to second is 1/3, and the ratio of second to third is 3/4. Find the first number.",
+"s": "AM"
+},
+"25md04-044": {
+"tp": "Percentages",
+"k": "5%",
+"n": "This is the simple average, 25% over 5 years. The compound yearly rate would be about 4.56%.",
+"s": "AM"
+},
+"25md04-045": {
+"skip": true
+},
+"25md04-046": {
+"tp": "Percentages",
+"k": "25%",
+"s": "AM"
+},
+"25md04-047": {
+"tp": "Probability",
+"k": "1/22",
+"s": "DA"
+},
+"25md04-048": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md04-049": {
+"skip": true
+},
+"25md04-050": {
+"skip": true
+},
+"25md04-051": {
+"skip": true
+},
+"25md04-052": {
+"skip": true
+},
+"25md04-053": {
+"skip": true
+},
+"25md04-054": {
+"skip": true
+},
+"25md04-055": {
+"tp": "Quadratics",
+"q": "The cost to produce x units of a product is given by the equation C = 2x² + 5x + 10. If the company produces 15 units, what is the total cost?",
+"k": "535"
+},
+"25md04-056": {
+"tp": "Growth",
+"q": "A population of rabbits doubles every 5 years. If there are initially 100 rabbits, how many will there be after 20 years?",
+"k": "1,600 rabbits"
+},
+"25md04-057": {
+"tp": "Magnification",
+"k": "8,000 mm",
+"a": "8 mm",
+"t": "d",
+"n": "The show's bar read 8,000 mm. 20 micrometres × 400 = 8,000 micrometres, which is 8 mm."
+},
+"25md04-058": {
+"skip": true
+},
+"25md04-059": {
+"tp": "Arithmetic"
+},
+"25md04-060": {
+"tp": "Rates",
+"q": "A truck travels 2,100 km at an average speed of 70 km/h. How much distance will it travel at 2,800 km/h in the same time?"
+},
+"25md04-061": {
+"tp": "Probability",
+"q": "If a study shows that 40 out of 200 people have a specific genetic trait, what is the probability that a randomly selected person from this group has the trait?",
+"k": "0.2 or 1/5",
+"s": "DA"
+},
+"25md04-062": {
+"tp": "Rates",
+"k": "60 km/h"
+},
+"25md04-063": {
+"tp": "Calculus",
+"k": "Work"
+},
+"25md04-064": {
+"tp": "Ratios",
+"q": "The ratio of boys to girls in a youth club is 6:7. If there are 24 boys, how many girls are in the youth club?",
+"k": "28 girls"
+},
+"25md04-065": {
+"skip": true
+},
+"25md04-066": {
+"tp": "Mean",
+"k": "30"
+},
+"25md04-067": {
+"skip": true
+},
+"25md04-068": {
+"skip": true
+},
+"25md04-069": {
+"skip": true
+},
+"25md04-070": {
+"tp": "Permutations"
+},
+"25md04-071": {
+"tp": "Permutations",
+"k": "120"
+},
+"25md04-072": {
+"tp": "Percentages"
+},
+"25md04-073": {
+"tp": "Quartiles",
+"k": "8"
+},
+"25md04-074": {
+"tp": "Coefficient of variation",
+"k": "0.16"
+},
+"25md04-075": {
+"tp": "Mean",
+"q": "In a just concluded experiment, the quantity of salt particles in a solution is recorded as 5.6, 5.3, 5.2, 5.4, 5.7, 5.8. What is the average to one decimal place?",
+"k": "5.5"
+},
+"25md04-076": {
+"tp": "Range",
+"k": "17"
+},
+"25md04-077": {
+"skip": true
+},
+"25md04-078": {
+"tp": "Permutations",
+"q": "The number of ways 4 boys and 3 girls can be seated in a row so that they alternate is",
+"k": "144"
+},
+"25md04-079": {
+"tp": "Probability",
+"k": "1/18"
+},
+"25md04-080": {
+"skip": true
+},
+"25md04-081": {
+"skip": true
+},
+"25md04-082": {
+"skip": true
+},
+"25md04-083": {
+"skip": true
+},
+"25md04-084": {
+"skip": true
+},
+"25md04-085": {
+"skip": true
+},
+"25md04-086": {
+"skip": true
+},
+"25md04-087": {
+"skip": true
+},
+"25md04-088": {
+"skip": true
+},
+"25md04-089": {
+"skip": true
+},
+"25md04-090": {
+"skip": true
+},
+"25md04-091": {
+"skip": true
+},
+"25md04-092": {
+"skip": true
+},
+"25md04-093": {
+"skip": true
+},
+"25md04-094": {
+"skip": true
+},
+"25md04-095": {
+"skip": true
+},
+"25md04-096": {
+"skip": true
+},
+"25md04-097": {
+"skip": true
+},
+"25md04-098": {
+"skip": true
+},
+"25md04-099": {
+"skip": true
+},
+"25md04-100": {
+"skip": true
+},
+"25md04-101": {
+"skip": true
+},
+"25md04-102": {
+"skip": true
+},
+"25md04-103": {
+"skip": true
+},
+"25md04-104": {
+"skip": true
+},
+"25md04-105": {
+"skip": true
+},
+"25md04-106": {
+"skip": true
+},
+"25md04-107": {
+"skip": true
+},
+"25md04-108": {
+"skip": true
+},
+"25md04-109": {
+"skip": true
+},
+"25md04-110": {
+"skip": true
+},
+"25md04-111": {
+"skip": true
+},
+"25md04-112": {
+"skip": true
+},
+"25md04-113": {
+"skip": true
+},
+"25md04-114": {
+"skip": true
+},
+"25md04-115": {
+"skip": true
+},
+"25md04-116": {
+"tp": "Proportion",
+"s": "AM"
+},
+"25md04-117": {
+"tp": "Series",
+"s": "AM"
+},
+"25md04-118": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md04-119": {
+"tp": "Discounts",
+"s": "AM"
+},
+"25md04-120": {
+"tp": "Rates",
+"k": "1.17 beats per second",
+"s": "AM"
+},
+"25md04-121": {
+"tp": "Probability",
+"k": "50%",
+"s": "DA"
+},
+"25md04-122": {
+"tp": "Probability",
+"s": "DA"
+},
+"25md04-123": {
+"tp": "Arithmetic",
+"s": "AM"
+},
+"25md04-124": {
+"skip": true
+},
+"25md04-125": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md04-126": {
+"tp": "Percentages",
+"q": "A sphere has a volume of 150 cm³. If the volume decreases by 30 cm³, what is the approximate percentage decrease in volume?",
+"s": "AM"
+},
+"25md04-127": {
+"tp": "Percentages",
+"k": "26,400 liters",
+"s": "AM"
+},
+"25md04-128": {
+"tp": "Dilution",
+"k": "25 mL",
+"s": "AM"
+},
+"25md04-129": {
+"tp": "Percentages",
+"q": "A ball has a volume of 8,000 cm³. If the ball's volume decreases to 7,400 cm³, what is the percentage decrease in volume?",
+"s": "AM"
+},
+"25md04-130": {
+"tp": "Limits",
+"s": "AM"
+},
+"25md04-131": {
+"tp": "Ratios",
+"q": "Lucy and Joy share an inheritance of $4,500 in a ratio 5:4. How much does Lucy get?",
+"s": "AM"
+},
+"25md04-132": {
+"tp": "Growth",
+"k": "119 cells",
+"a": "410 cells",
+"t": "d",
+"n": "The show's bar read 119 cells, which is a 6% (0.06) hourly rate: 100 × 1.06³ ≈ 119. At 0.6 (60%) per hour the count is 100 × 1.6³ ≈ 410.",
+"s": "AM"
+},
+"25md04-133": {
+"tp": "Rates of change",
+"k": "25 mph",
+"s": "AM"
+},
+"25md04-134": {
+"tp": "Percentages",
+"k": "2%",
+"s": "AM"
+},
+"25md04-135": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md04-136": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md04-137": {
+"tp": "Probability",
+"k": "50%",
+"s": "DA"
+},
+"25md04-138": {
+"tp": "Expected value",
+"s": "DA"
+},
+"25md04-139": {
+"tp": "Linear functions",
+"s": "AM"
+},
+"25md04-140": {
+"tp": "Half-life",
+"k": "12.5 mg/L",
+"s": "AM"
+},
+"25md04-141": {
+"tp": "Magnification",
+"s": "AM"
+},
+"25md04-142": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md04-143": {
+"tp": "Arithmetic",
+"n": "This reads 800 m as the height of the summit above sea level.",
+"s": "AM"
+},
+"25md04-144": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md04-145": {
+"tp": "Dilution",
+"q": "If you have a 2% NaCl solution and you need 100 mL of a 0.5% solution, how much water will you mix?",
+"k": "75 mL",
+"s": "AM"
+},
+"25md04-146": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md04-147": {
+"tp": "Probability",
+"s": "DA"
+},
+"25md04-148": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md04-149": {
+"tp": "Pharmacy calculations",
+"q": "How many grams of aminobenzoic acid should be used in preparing 10 fluid ounces of a 20% solution in 70% alcohol? (1 fluid ounce is approximately 30 mL)",
+"k": "60 g",
+"s": "AM"
+},
+"25md04-150": {
+"skip": true
+},
+"25md04-151": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md04-152": {
+"tp": "Probability",
+"s": "DA"
+},
+"25md04-153": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md04-154": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md04-155": {
+"tp": "Probability",
+"k": "1%",
+"n": "This assumes only people with the gene develop the disease; 1% is the chance of having the gene and the disease.",
+"s": "DA"
+},
+"25md04-156": {
+"tp": "Linear functions",
+"s": "AM"
+},
+"25md04-157": {
+"tp": "pH",
+"k": "1 × 10⁻⁶ M",
+"s": "AM"
+},
+"25md04-158": {
+"tp": "Magnification",
+"q": "In a compound microscope, if the eyepiece has a magnification of 10x and the objective lens has a magnification of 40x, what is the total magnification?",
+"s": "AM"
+},
+"25md04-159": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md04-160": {
+"tp": "Arithmetic",
+"s": "AM"
+},
+"25md04-161": {
+"tp": "Volume",
+"q": "How many cubic meters of water can a rectangular swimming pool 20 meters long, 10 meters wide, and 2 meters deep hold?",
+"k": "400 m³",
+"s": "AM"
+},
+"25md04-162": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md04-163": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md04-164": {
+"skip": true
+},
+"25md04-165": {
+"tp": "Rates",
+"k": "9,000 beats",
+"a": "90,000 beats",
+"t": "d",
+"n": "The show's bar read 9,000 beats. 3,000 seconds is 50 minutes, and 50 × 1,800 = 90,000.",
+"s": "AM"
+},
+"25md04-166": {
+"tp": "Percentages",
+"q": "A shopkeeper decides to increase some prices by 25%. By how much would she increase the price of a loaf of bread costing ₦80?",
+"k": "₦20",
+"s": "AM"
+},
+"25md04-167": {
+"tp": "Arithmetic",
+"s": "AM"
+},
+"25md04-168": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md04-169": {
+"skip": true
+},
+"25md04-170": {
+"tp": "Units",
+"s": "AM"
+},
+"25md04-171": {
+"skip": true
+},
+"25md04-172": {
+"tp": "Probability",
+"k": "1/6 or 6/36",
+"s": "DA"
+},
+"25md04-173": {
+"tp": "Probability",
+"k": "13/204",
+"s": "DA"
+},
+"25md04-174": {
+"tp": "Permutations",
+"s": "DA"
+},
+"25md04-175": {
+"tp": "Central tendency",
+"k": "Positioned Averages",
+"s": "DA"
+},
+"25md04-176": {
+"skip": true
+},
+"25md04-177": {
+"skip": true
+},
+"25md04-178": {
+"skip": true
+},
+"25md04-179": {
+"skip": true
+},
+"25md04-180": {
+"skip": true
+},
+"25md04-181": {
+"skip": true
+},
+"25md04-182": {
+"skip": true
+},
+"25md04-183": {
+"skip": true
+},
+"25md04-184": {
+"skip": true
+},
+"25md04-185": {
+"skip": true
+},
+"25md04-186": {
+"skip": true
+},
+"25md04-187": {
+"skip": true
+},
+"25md04-188": {
+"skip": true
+},
+"25md04-189": {
+"skip": true
+},
+"25md04-190": {
+"skip": true
+},
+"25md04-191": {
+"skip": true
+},
+"25md04-192": {
+"skip": true
+},
+"25md04-193": {
+"skip": true
+},
+"25md04-194": {
+"skip": true
+},
+"25md04-195": {
+"skip": true
+},
+"25md04-196": {
+"skip": true
+},
+"25md04-197": {
+"skip": true
+},
+"25md04-198": {
+"skip": true
+},
+"25md04-199": {
+"skip": true
+},
+"25md04-200": {
+"skip": true
+},
+"25md04-201": {
+"skip": true
+},
+"25md04-202": {
+"skip": true
+},
+"25md04-203": {
+"skip": true
+},
+"25md04-204": {
+"skip": true
+},
+"25md04-205": {
+"skip": true
+},
+"25md04-206": {
+"skip": true
+},
+"25md04-207": {
+"skip": true
+},
+"25md04-208": {
+"skip": true
+},
+"25md04-209": {
+"tp": "Combinations",
+"k": "210"
+},
+"25md04-210": {
+"tp": "Skewness"
+},
+"25md04-211": {
+"tp": "Arithmetic",
+"q": "A store sells 250 units of a product per week. If the product costs ₦500 each, what is the total revenue for selling 200 products in a month?",
+"o": [
+"₦200,000",
+"₦100,000",
+"₦400,000"
+],
+"k": "₦100,000"
+},
+"25md04-212": {
+"tp": "Coefficient of variation",
+"k": "0.08"
+},
+"25md04-213": {
+"tp": "Mean",
+"q": "Find the mean of the following numbers: 2.2, 10.2, 14.7, 5.9, 4.9, 11.1, 10.5",
+"k": "8.5"
+},
+"25md04-214": {
+"tp": "Combinations"
+},
+"25md04-215": {
+"tp": "Sets",
+"q": "In a group of 200 people, 120 people own smartphones, and 140 people own laptops. If 80 people own both smartphones and laptops, how many people don't own either device?",
+"k": "20"
+},
+"25md04-216": {
+"tp": "Percentiles",
+"k": "150"
+},
+"25md04-217": {
+"tp": "Probability",
+"k": "1/4"
+},
+"25md04-218": {
+"tp": "Mean, median and mode",
+"q": "If the ratio of the mode to the median is 2:3 for a dataset, find the ratio of mode to mean."
+},
+"25md04-219": {
+"tp": "Sets",
+"q": "In a class of 30 students, 18 students play cricket, 15 students play football and 12 play both games. How many students in the class don't play either game?",
+"k": "9"
+},
+"25md04-220": {
+"tp": "Quadratics",
+"k": "6"
+},
+"25md04-221": {
+"tp": "Area",
+"k": "3 m²"
+},
+"25md04-222": {
+"tp": "Units",
+"q": "The mass of the parasitic wasp Caraphractus cinctus can be as small as 5 × 10⁻⁶ kg. What is the wasp mass in grams?",
+"k": "5 × 10⁻³ g"
+},
+"25md04-223": {
+"tp": "Probability",
+"q": "In a sample of 1,000 voters, 540 voted for candidate A. What is the probability of a voter selecting candidate A in percentage?",
+"k": "54%",
+"s": "DA"
+},
+"25md04-224": {
+"tp": "Rates",
+"q": "If it takes 8 hours at a speed of 120 km/h to drive a fixed distance, what speed is required to do the same trip in 4.8 hours?",
+"k": "200 km/h"
+},
+"25md04-225": {
+"tp": "Pharmacy calculations",
+"q": "How many grams of aspirin are required to prepare 3,000 mL of a 6% solution?",
+"k": "180 g"
+},
+"25md04-226": {
+"tp": "Pythagoras",
+"k": "17 km"
+},
+"25md04-227": {
+"skip": true
+},
+"25md04-228": {
+"tp": "Trigonometry",
+"q": "What trigonometric function is used to calculate distances using angles of elevation or depression?",
+"k": "Tangent"
+},
+"25md04-229": {
+"tp": "Ratios",
+"k": "19.2 cm",
+"n": "Sides in the ratio 2:3:5 cannot make a real triangle, since 2 + 3 = 5; the sum only shares out the perimeter."
+},
+"25md04-230": {
+"tp": "Growth",
+"q": "A bacterial culture grows from 100 cells to 1000 cells in 5 hours. What is the estimated number of cells after 10 hours?"
+},
+"25md04-231": {
+"tp": "Growth"
+},
+"25md04-232": {
+"tp": "Growth"
+},
+"25md04-233": {
+"skip": true
+},
+"25md04-234": {
+"skip": true
+},
+"25md04-235": {
+"skip": true
+},
+"25md04-236": {
+"skip": true
+},
+"25md04-237": {
+"skip": true
+},
+"25md04-238": {
+"skip": true
+},
+"25md04-239": {
+"skip": true
+},
+"25md04-240": {
+"skip": true
+},
+"25md04-241": {
+"skip": true
+}
+}

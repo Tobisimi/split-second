@@ -1,0 +1,44 @@
+{
+ "season": "25",
+ "video": "V8tXFC-nKaU",
+ "stage": "group",
+ "bm_max_step": 40,
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/25-md01.json",
+   "bank/review/25-md01.json"
+  ]
+ ],
+ "code": "md01a",
+ "match": "UNILAG v UNILORIN, 2025",
+ "window": [
+  0,
+  1450
+ ],
+ "qb_top": "UNILAG",
+ "qb_bottom": "UNILORIN",
+ "bm_top": "UNILAG",
+ "bm_bottom": "UNILORIN",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "DA",
+  "3": "GK",
+  "4": "VR"
+ },
+ "quarter_starts": {
+  "QB": [
+   191,
+   334,
+   499,
+   634
+  ],
+  "BM": [
+   905,
+   1006,
+   1119,
+   1219
+  ]
+ },
+ "out": "bank/master/25-md01a.json"
+}

@@ -1,0 +1,44 @@
+{
+ "season": "25",
+ "video": "KBJxjiZ1gKg",
+ "stage": "group",
+ "bm_max_step": 40,
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/25-md04.json",
+   "bank/review/25-md04.json"
+  ]
+ ],
+ "code": "md04b",
+ "match": "UNIPORT v CU, 2025",
+ "window": [
+  1750,
+  3250
+ ],
+ "qb_top": "UNIPORT",
+ "qb_bottom": "CU",
+ "bm_top": "UNIPORT",
+ "bm_bottom": "CU",
+ "bm_subjects": {
+  "1": "VR",
+  "2": "GK",
+  "3": "DA",
+  "4": "AM"
+ },
+ "quarter_starts": {
+  "QB": [
+   2013,
+   2140,
+   2288,
+   2420
+  ],
+  "BM": [
+   2673,
+   2774,
+   2960,
+   3091
+  ]
+ },
+ "out": "bank/master/25-md04b.json"
+}

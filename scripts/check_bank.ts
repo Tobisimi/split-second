@@ -7,7 +7,7 @@
 import raw from '../src/data/questions.json';
 import type { Question } from '../src/types';
 import katex from 'katex';
-import { checkTyped } from '../src/lib/check';
+import { checkTyped, norm } from '../src/lib/check';
 
 const bank = raw as Question[];
 const fails: string[] = [];
@@ -67,6 +67,7 @@ for (const q of bank) {
 const rewrites = (s: string): string[] => {
   const m = s.match(/^([₦$£€]|N(?=\d))?\s*(-?\d{1,3}(?:,\d{3})+|-?\d+)(\.\d+)?(\s*[a-zA-Z%°/²³]+)?$/);
   if (!m) return [];
+  if (m[4] && /^(pi|x|y|z)$/i.test(m[4].trim())) return [];   // "5x" is algebra, not 5 with a unit
   const n = (m[2] + (m[3] ?? '')).replace(/,/g, '');
   const out = [n];
   if (m[1]) out.push(`N${n}`, `₦${Number(n).toLocaleString('en-US')}`);
@@ -80,7 +81,10 @@ for (const q of bank) {
 
 // 4a. typing only the first number of an answer with several different numbers must not count,
 //     unless some accepted form is that number with at most a unit after it ("5 tonnes or 500 kg" takes "5")
-const lead = (s: string) => {   // the first number in an answer, reading a leading fraction like 2/5 as 0.4
+const lead = (s: string) => {   // the first number in an answer, reading a leading fraction like 2/5 as 0.4 and 5 × 10⁻³ as 0.005
+  const t = norm(s).replace(/(\d),(\d{3})/g, '$1$2');
+  const e = t.match(/^\D*?(-?\d*\.?\d+)\s*[x*]\s*10\s*\^\s*\(?([-+]?\d+)\)?/) ?? t.match(/^\D*?()10\s*\^\s*\(?([-+]?\d+)\)?/);
+  if (e) return String(Number(`${e[1] || 1}e${e[2]}`));
   const m = s.replace(/(\d),(\d{3})/g, '$1$2').match(/-?\d+(\.\d+)?(\s*\/\s*\d+(\.\d+)?)?/)?.[0];
   if (!m) return undefined;
   const [a, b] = m.split('/').map(Number);

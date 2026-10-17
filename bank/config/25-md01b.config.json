@@ -1,0 +1,44 @@
+{
+ "season": "25",
+ "video": "V8tXFC-nKaU",
+ "stage": "group",
+ "bm_max_step": 40,
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/25-md01.json",
+   "bank/review/25-md01.json"
+  ]
+ ],
+ "code": "md01b",
+ "match": "VERITAS v LASU, 2025",
+ "window": [
+  1650,
+  3100
+ ],
+ "qb_top": "VERITAS",
+ "qb_bottom": "LASU",
+ "bm_top": "VERITAS",
+ "bm_bottom": "LASU",
+ "bm_subjects": {
+  "1": "AM",
+  "2": "DA",
+  "3": "VR",
+  "4": "GK"
+ },
+ "quarter_starts": {
+  "QB": [
+   1681,
+   1816,
+   1957,
+   2097
+  ],
+  "BM": [
+   2512,
+   2609,
+   2783,
+   2951
+  ]
+ },
+ "out": "bank/master/25-md01b.json"
+}

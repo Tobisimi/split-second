@@ -1,0 +1,893 @@
+{
+"25md01-001": {
+"skip": true
+},
+"25md01-002": {
+"tp": "Pharmacy calculations",
+"k": "1,000 g",
+"s": "AM"
+},
+"25md01-003": {
+"tp": "Profit and loss",
+"s": "AM"
+},
+"25md01-004": {
+"tp": "Perimeter",
+"s": "AM"
+},
+"25md01-005": {
+"skip": true
+},
+"25md01-006": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-007": {
+"tp": "Ratios",
+"q": "A truck covers a distance of 550 meters in 1 minute whereas a car covers a distance of 45 km in 45 minutes. The ratio of their speeds in the lowest form is",
+"s": "AM"
+},
+"25md01-008": {
+"tp": "Arithmetic",
+"s": "AM"
+},
+"25md01-009": {
+"skip": true
+},
+"25md01-010": {
+"tp": "Surface area",
+"k": "54 m²",
+"s": "AM"
+},
+"25md01-011": {
+"tp": "Arithmetic",
+"q": "A car's fuel tank can hold 6,000 liters of fuel. If it is already two-thirds full, how much more fuel can be added?",
+"s": "AM"
+},
+"25md01-012": {
+"tp": "Probability",
+"k": "3/8",
+"s": "DA"
+},
+"25md01-013": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-014": {
+"tp": "Volume",
+"k": "18,000 L",
+"s": "AM"
+},
+"25md01-015": {
+"skip": true
+},
+"25md01-016": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-017": {
+"skip": true
+},
+"25md01-018": {
+"skip": true
+},
+"25md01-019": {
+"tp": "Percentages",
+"k": "25%",
+"s": "AM"
+},
+"25md01-020": {
+"tp": "Volume",
+"k": "192.5 cubic meters",
+"a": "1.925 m³",
+"t": "d",
+"n": "The show's bar read 192.5 cubic meters, which treats 3.5 cm as 3.5 m. With 3.5 cm = 0.035 m the volume is 1.925 m³.",
+"s": "AM"
+},
+"25md01-021": {
+"skip": true
+},
+"25md01-022": {
+"tp": "Proportion",
+"s": "AM"
+},
+"25md01-023": {
+"tp": "Magnification",
+"k": "3.4",
+"s": "AM"
+},
+"25md01-024": {
+"tp": "Rates",
+"k": "25 L",
+"s": "AM"
+},
+"25md01-025": {
+"skip": true
+},
+"25md01-026": {
+"tp": "Units",
+"s": "AM"
+},
+"25md01-027": {
+"tp": "Ratios",
+"q": "A group of 3 friends wants to share some money in a ratio of 2:3:5. If they have ₦64,000, what is the sum of the lowest and highest share?",
+"k": "₦44,800",
+"s": "AM"
+},
+"25md01-028": {
+"tp": "Probability",
+"s": "DA"
+},
+"25md01-029": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-030": {
+"tp": "Rates",
+"k": "52.5 hours",
+"s": "AM"
+},
+"25md01-031": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-032": {
+"skip": true
+},
+"25md01-033": {
+"tp": "Pharmacy calculations",
+"s": "AM"
+},
+"25md01-034": {
+"tp": "Proportion",
+"k": "16 cups",
+"s": "AM"
+},
+"25md01-035": {
+"tp": "Units",
+"s": "AM"
+},
+"25md01-036": {
+"skip": true
+},
+"25md01-037": {
+"tp": "Linear functions",
+"s": "AM"
+},
+"25md01-038": {
+"tp": "Area",
+"k": "7",
+"s": "AM"
+},
+"25md01-039": {
+"tp": "Arithmetic",
+"q": "A company produces 24 units of a product per day. If each unit costs ₦4,800, what is the cost of producing 9,600 units?",
+"k": "₦46,080,000",
+"s": "AM"
+},
+"25md01-040": {
+"skip": true
+},
+"25md01-041": {
+"tp": "Perimeter",
+"k": "0.16 m²",
+"s": "AM"
+},
+"25md01-042": {
+"tp": "Units",
+"s": "AM"
+},
+"25md01-043": {
+"tp": "Probability",
+"s": "DA"
+},
+"25md01-044": {
+"tp": "Rates",
+"q": "John covers a distance of 90 miles at an average speed of 15 mph. At what speed can he travel 3,600 miles in the same time?",
+"s": "AM"
+},
+"25md01-045": {
+"tp": "Volume",
+"k": "500,000 L",
+"s": "AM"
+},
+"25md01-046": {
+"tp": "Rates",
+"k": "300 bpm",
+"s": "AM"
+},
+"25md01-047": {
+"skip": true
+},
+"25md01-048": {
+"tp": "Pharmacy calculations",
+"k": "150 mL",
+"a": "600 mL",
+"t": "d",
+"n": "The show's bar read 150 mL. A 5% solution has 5 g in every 100 mL, so 30 g makes 600 mL.",
+"s": "AM"
+},
+"25md01-049": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-050": {
+"tp": "Rates",
+"n": "The real speed of sound in air is about 340 m/s; the sum uses the figure given.",
+"s": "AM"
+},
+"25md01-051": {
+"tp": "Sets",
+"q": "In a survey, 70% of respondents liked chocolate, and 60% liked vanilla. What is the percentage of respondents who like both flavors?",
+"k": "30%",
+"n": "This assumes every respondent liked at least one of the two flavours.",
+"s": "DA"
+},
+"25md01-052": {
+"tp": "Profit and loss",
+"s": "AM"
+},
+"25md01-053": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md01-054": {
+"tp": "Arithmetic",
+"q": "A person has 200 pairs of shoes. If each pair costs ₦4,700, how much did he spend on shoes in total?",
+"k": "₦940,000",
+"s": "AM"
+},
+"25md01-055": {
+"skip": true
+},
+"25md01-056": {
+"tp": "Units",
+"s": "AM"
+},
+"25md01-057": {
+"tp": "Discounts",
+"q": "A book costs ₦2,000. If a 15% discount is applied, how much will 42 books cost?",
+"k": "₦71,400",
+"s": "AM"
+},
+"25md01-058": {
+"skip": true
+},
+"25md01-059": {
+"tp": "Rates",
+"q": "A pool is filled with two hoses. Hose A can fill the pool in 10 hours, and Hose B can fill it in 15 hours. If both hoses are used together, how long will it take to fill the pool?"
+},
+"25md01-060": {
+"tp": "Rates",
+"q": "If a car travels 400 km at a speed of 60 km/h, how far (in kilometers) will it travel in 3 hours?"
+},
+"25md01-061": {
+"tp": "Rates"
+},
+"25md01-062": {
+"tp": "Magnification",
+"q": "If a lens has a magnification power of 200x and an object measures 8 cm, what is the apparent size of the object in millimeters?"
+},
+"25md01-063": {
+"tp": "Pharmacy calculations",
+"k": "50%"
+},
+"25md01-064": {
+"tp": "Arithmetic"
+},
+"25md01-065": {
+"tp": "Volume",
+"q": "A swimming pool is 25 meters long, 10 meters wide, and 7.8 meters deep. What is the volume of water needed to fill the pool?",
+"k": "1,950 m³"
+},
+"25md01-066": {
+"skip": true
+},
+"25md01-067": {
+"tp": "Proportion"
+},
+"25md01-068": {
+"tp": "Ratios",
+"k": "$10,000",
+"n": "This reads the $8,000 as A's spending: A's income is 8,000 + 2,000 = $10,000, and B's is then $4,000. If $8,000 were the two together, A's income would be about $8,571."
+},
+"25md01-069": {
+"tp": "Arithmetic",
+"q": "A bakery sells 24 loaves of bread per day. If each loaf costs ₦5,000, how much money does the bakery make in 3 days?",
+"k": "₦360,000"
+},
+"25md01-070": {
+"skip": true
+},
+"25md01-071": {
+"tp": "Probability",
+"q": "A coin is tossed. What is the total probability of all the possible outcomes?"
+},
+"25md01-072": {
+"tp": "Mean",
+"q": "A student scored 75, 85, 90, 95, and 105 on five tests. What is the product of the mean score and itself?",
+"k": "8,100",
+"n": "The show said \"four tests\", but five scores are listed."
+},
+"25md01-073": {
+"tp": "Permutations"
+},
+"25md01-074": {
+"tp": "Combinations",
+"k": "56"
+},
+"25md01-075": {
+"skip": true
+},
+"25md01-076": {
+"skip": true
+},
+"25md01-077": {
+"skip": true
+},
+"25md01-078": {
+"tp": "Probability"
+},
+"25md01-079": {
+"tp": "Skewness"
+},
+"25md01-080": {
+"tp": "Combinations"
+},
+"25md01-081": {
+"tp": "z-scores",
+"q": "A mathematics teacher calculated a test score as 102. The mean is 144 and the standard deviation is 21. Find the z-score.",
+"k": "−2"
+},
+"25md01-082": {
+"tp": "Mode",
+"q": "The following sizes of clothes were sold in a day: 5, 8, 9, 5, 6, 4, 9, 3, 9, 3, 6. Calculate the mode."
+},
+"25md01-083": {
+"tp": "Sets",
+"k": "15"
+},
+"25md01-084": {
+"tp": "Permutations"
+},
+"25md01-085": {
+"skip": true
+},
+"25md01-086": {
+"skip": true
+},
+"25md01-087": {
+"skip": true
+},
+"25md01-088": {
+"skip": true
+},
+"25md01-089": {
+"skip": true
+},
+"25md01-090": {
+"skip": true
+},
+"25md01-091": {
+"skip": true
+},
+"25md01-092": {
+"skip": true
+},
+"25md01-093": {
+"skip": true
+},
+"25md01-094": {
+"skip": true
+},
+"25md01-095": {
+"skip": true
+},
+"25md01-096": {
+"skip": true
+},
+"25md01-097": {
+"skip": true
+},
+"25md01-098": {
+"skip": true
+},
+"25md01-099": {
+"skip": true
+},
+"25md01-100": {
+"skip": true
+},
+"25md01-101": {
+"skip": true
+},
+"25md01-102": {
+"skip": true
+},
+"25md01-103": {
+"skip": true
+},
+"25md01-104": {
+"skip": true
+},
+"25md01-105": {
+"skip": true
+},
+"25md01-106": {
+"skip": true
+},
+"25md01-107": {
+"skip": true
+},
+"25md01-108": {
+"skip": true
+},
+"25md01-109": {
+"skip": true
+},
+"25md01-110": {
+"skip": true
+},
+"25md01-111": {
+"skip": true
+},
+"25md01-112": {
+"skip": true
+},
+"25md01-113": {
+"skip": true
+},
+"25md01-114": {
+"skip": true
+},
+"25md01-115": {
+"skip": true
+},
+"25md01-116": {
+"skip": true
+},
+"25md01-117": {
+"skip": true
+},
+"25md01-118": {
+"skip": true
+},
+"25md01-119": {
+"skip": true
+},
+"25md01-120": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md01-121": {
+"tp": "Surface area",
+"k": "392 cm²",
+"s": "AM"
+},
+"25md01-122": {
+"tp": "Probability",
+"q": "What is the probability that both the husband and his wife will be selected for an interview, given their probabilities of being selected are 1/7 and 1/5 respectively?",
+"k": "1/35",
+"s": "DA"
+},
+"25md01-123": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-124": {
+"tp": "Volume",
+"k": "20π m³",
+"s": "AM"
+},
+"25md01-125": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-126": {
+"tp": "Magnification",
+"k": "0.005 mm",
+"s": "AM"
+},
+"25md01-127": {
+"tp": "Linear functions",
+"q": "A car's fuel efficiency (in km/L) is given by the equation y = 25x + 30, where x is the speed (in km/h). What is the fuel efficiency at 80 km/h?",
+"s": "AM"
+},
+"25md01-128": {
+"tp": "Dilution",
+"k": "62.5 mL",
+"s": "AM"
+},
+"25md01-129": {
+"tp": "Arithmetic",
+"s": "AM"
+},
+"25md01-130": {
+"tp": "Units",
+"q": "A recipe calls for 25,000 milliliters of milk. How many liters is this?",
+"s": "AM"
+},
+"25md01-131": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md01-132": {
+"tp": "Profit and loss",
+"s": "AM"
+},
+"25md01-133": {
+"tp": "Mixtures",
+"s": "AM"
+},
+"25md01-134": {
+"tp": "Rates",
+"k": "850 km/h",
+"s": "AM"
+},
+"25md01-135": {
+"tp": "Growth",
+"q": "A bacterial culture grows from 100 to 200 cells in 2 hours. At the same rate, how many cells will there be after 10 hours?",
+"n": "The show asked for \"the growth rate in 10 hours\"; its answer is the number of cells.",
+"s": "AM"
+},
+"25md01-136": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md01-137": {
+"tp": "Arithmetic",
+"q": "A bakery sells 120 loaves of bread at ₦400 each. How much money does the bakery make in a day?",
+"k": "₦48,000",
+"s": "AM"
+},
+"25md01-138": {
+"tp": "Probability",
+"k": "16/52 or 4/13",
+"s": "DA"
+},
+"25md01-139": {
+"tp": "Rates",
+"q": "An airplane flies 1,200 miles at an average speed of 400 mph. What distance will it cover in the same time if it travels at 1,200 mph?",
+"s": "AM"
+},
+"25md01-140": {
+"skip": true
+},
+"25md01-141": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-142": {
+"tp": "Magnification",
+"s": "AM"
+},
+"25md01-143": {
+"tp": "Dilution",
+"q": "What volume of a stock solution of 100 mg/mL ampicillin is needed to prepare 20 mL of solution having 50 mg/mL?",
+"k": "10 mL",
+"s": "AM"
+},
+"25md01-144": {
+"tp": "Pythagoras",
+"s": "AM"
+},
+"25md01-145": {
+"tp": "Quadratics",
+"q": "The equation of a parabola is given by y = x² + 4x − 5. What are the coordinates of the vertex of this parabola?",
+"k": "(−2, −9)",
+"s": "AM"
+},
+"25md01-146": {
+"skip": true
+},
+"25md01-147": {
+"tp": "Ratios",
+"k": "1,600 mL",
+"s": "AM"
+},
+"25md01-148": {
+"tp": "Proportion",
+"s": "AM"
+},
+"25md01-149": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md01-150": {
+"tp": "Percentages",
+"k": "70%",
+"s": "AM"
+},
+"25md01-151": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md01-152": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md01-153": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md01-154": {
+"tp": "Probability",
+"k": "15/36 or 5/12",
+"s": "DA"
+},
+"25md01-155": {
+"tp": "Rates",
+"q": "Three pipes can fill a tank: Pipe D in 6 hours, Pipe E in 9 hours, and Pipe F in 18 hours. If all three pipes are opened at the same time, how long will it take to fill the tank?",
+"s": "AM"
+},
+"25md01-156": {
+"tp": "Probability",
+"k": "0.42",
+"n": "This assumes A and B are independent.",
+"s": "DA"
+},
+"25md01-157": {
+"tp": "Rates",
+"k": "0.8 seconds per beat",
+"s": "AM"
+},
+"25md01-158": {
+"tp": "Percentages",
+"q": "If a company's profit decreases from ₦800 to ₦640, what is the percentage decrease in profit?",
+"s": "AM"
+},
+"25md01-159": {
+"tp": "Percentages",
+"k": "37.5%",
+"s": "AM"
+},
+"25md01-160": {
+"tp": "Perimeter",
+"s": "AM"
+},
+"25md01-161": {
+"skip": true
+},
+"25md01-162": {
+"tp": "Algebra",
+"s": "AM"
+},
+"25md01-163": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md01-164": {
+"tp": "Algebra",
+"s": "AM"
+},
+"25md01-165": {
+"tp": "Magnification",
+"s": "AM"
+},
+"25md01-166": {
+"tp": "Ratios",
+"k": "250 mL",
+"s": "AM"
+},
+"25md01-167": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md01-168": {
+"tp": "Probability",
+"k": "1/5 or 0.2",
+"s": "DA"
+},
+"25md01-169": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-170": {
+"tp": "Probability",
+"k": "1/32",
+"s": "DA"
+},
+"25md01-171": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md01-172": {
+"tp": "Percentages",
+"q": "If a car's value increases from ₦1,400 to ₦1,750, what is the percentage increase in value?",
+"k": "25%",
+"s": "AM"
+},
+"25md01-173": {
+"tp": "Proportion",
+"s": "AM"
+},
+"25md01-174": {
+"skip": true
+},
+"25md01-175": {
+"skip": true
+},
+"25md01-176": {
+"skip": true
+},
+"25md01-177": {
+"skip": true
+},
+"25md01-178": {
+"tp": "Ratios",
+"k": "$3,600"
+},
+"25md01-179": {
+"tp": "Rates"
+},
+"25md01-180": {
+"tp": "Linear functions"
+},
+"25md01-181": {
+"tp": "Proportion",
+"k": "6.25 cups"
+},
+"25md01-182": {
+"tp": "Percentages",
+"q": "A company's profit is 20% of what it could have been. If the company's profit is $16,000, what could its full profit have been?",
+"k": "$80,000"
+},
+"25md01-183": {
+"tp": "Ratios",
+"q": "If two times A is equal to three times B and also equal to four times C, then A : B : C is",
+"k": "6:4:3"
+},
+"25md01-184": {
+"tp": "Rates"
+},
+"25md01-185": {
+"tp": "Magnification",
+"k": "4 cm"
+},
+"25md01-186": {
+"tp": "Scale"
+},
+"25md01-187": {
+"tp": "Ratios"
+},
+"25md01-188": {
+"tp": "Probability",
+"k": "16%",
+"a": "35%",
+"t": "d",
+"n": "The show's bar read 16%. They contradict each other when exactly one of them tells the truth: 0.75 × 0.2 + 0.25 × 0.8 = 0.35.",
+"s": "DA"
+},
+"25md01-189": {
+"tp": "Rates",
+"k": "150 bricks"
+},
+"25md01-190": {
+"skip": true
+},
+"25md01-191": {
+"skip": true
+},
+"25md01-192": {
+"tp": "Probability",
+"k": "2/3"
+},
+"25md01-193": {
+"tp": "z-scores"
+},
+"25md01-194": {
+"tp": "Probability",
+"k": "7/44 or 35/220"
+},
+"25md01-195": {
+"tp": "Combinations"
+},
+"25md01-196": {
+"tp": "Combinations",
+"k": "512",
+"n": "512 = 2⁹ counts every possible group, including the empty one; if a committee must have at least one person, the answer is 511."
+},
+"25md01-197": {
+"skip": true
+},
+"25md01-198": {
+"skip": true
+},
+"25md01-199": {
+"skip": true
+},
+"25md01-200": {
+"skip": true
+},
+"25md01-201": {
+"skip": true
+},
+"25md01-202": {
+"tp": "Arithmetic",
+"s": "AM"
+},
+"25md01-203": {
+"skip": true
+},
+"25md01-204": {
+"skip": true
+},
+"25md01-205": {
+"skip": true
+},
+"25md01-206": {
+"skip": true
+},
+"25md01-207": {
+"skip": true
+},
+"25md01-208": {
+"skip": true
+},
+"25md01-209": {
+"skip": true
+},
+"25md01-210": {
+"skip": true
+},
+"25md01-211": {
+"skip": true
+},
+"25md01-212": {
+"skip": true
+},
+"25md01-213": {
+"skip": true
+},
+"25md01-214": {
+"skip": true
+},
+"25md01-215": {
+"skip": true
+},
+"25md01-216": {
+"skip": true
+},
+"25md01-217": {
+"skip": true
+},
+"25md01-218": {
+"skip": true
+},
+"25md01-219": {
+"skip": true
+},
+"25md01-220": {
+"skip": true
+},
+"25md01-221": {
+"tp": "Topology",
+"k": "Doughnut",
+"s": "AM"
+},
+"25md01-222": {
+"skip": true
+},
+"25md01-223": {
+"tp": "Conic sections",
+"s": "AM"
+},
+"25md01-224": {
+"skip": true
+},
+"25md01-225": {
+"skip": true
+},
+"25md01-226": {
+"skip": true
+},
+"25md01-227": {
+"skip": true
+},
+"25md01-228": {
+"skip": true
+},
+"25md01-229": {
+"skip": true
+}
+}
