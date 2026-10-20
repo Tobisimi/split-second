@@ -1,0 +1,966 @@
+{
+"25md02-001": {
+"skip": true
+},
+"25md02-002": {
+"tp": "Rates",
+"q": "Workers A and B can lay 50 and 60 bricks per hour, respectively. After working together for 15 hours, how many bricks are left to lay out of 1,800?",
+"s": "AM"
+},
+"25md02-003": {
+"tp": "Expected value",
+"q": "If a die is rolled 600 times, what is the expected number of times it will land on a 4?",
+"s": "DA"
+},
+"25md02-004": {
+"tp": "Growth",
+"k": "100%",
+"s": "AM"
+},
+"25md02-005": {
+"tp": "Percentages",
+"q": "If a shirt originally costs ₦2,000 and is now on sale for ₦1,800, what is the percentage decrease in price if 10 shirts are bought?",
+"k": "10%",
+"s": "AM"
+},
+"25md02-006": {
+"tp": "Proportion",
+"k": "128m",
+"a": "96 m",
+"t": "d",
+"n": "The show's bar read 128 m, which would follow from 80 m. With 60 m: 60 × 40 ÷ 25 = 96 m.",
+"s": "AM"
+},
+"25md02-007": {
+"tp": "Units",
+"s": "AM"
+},
+"25md02-008": {
+"tp": "Linear functions",
+"s": "AM"
+},
+"25md02-009": {
+"tp": "Sets",
+"q": "In a class of 30 students, 18 students play cricket, 15 students play football and 12 play both games. How many students in the class don't play either of the games?",
+"k": "9",
+"s": "DA"
+},
+"25md02-010": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md02-011": {
+"tp": "Ratios",
+"k": "4:7",
+"s": "AM"
+},
+"25md02-012": {
+"tp": "Interest",
+"s": "AM"
+},
+"25md02-013": {
+"tp": "Magnification",
+"n": "The magnified object appears 8 times closer.",
+"s": "AM"
+},
+"25md02-014": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md02-015": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md02-016": {
+"skip": true
+},
+"25md02-017": {
+"tp": "Rates",
+"k": "2.4 hours",
+"s": "AM"
+},
+"25md02-018": {
+"tp": "Probability",
+"k": "3/5 or 9/15",
+"s": "DA"
+},
+"25md02-019": {
+"tp": "Growth",
+"k": "100%",
+"s": "AM"
+},
+"25md02-020": {
+"skip": true
+},
+"25md02-021": {
+"tp": "Units",
+"k": "0.5 cents per second",
+"s": "AM"
+},
+"25md02-022": {
+"tp": "Profit and loss",
+"s": "AM"
+},
+"25md02-023": {
+"tp": "Quadratics",
+"q": "The path of a thrown ball can be described by the equation y = x² − 4x + 4, where y is the height in meters and x is the horizontal distance in meters. At what distances along the ground does the ball hit the ground?",
+"s": "AM"
+},
+"25md02-024": {
+"tp": "Probability",
+"k": "25%",
+"s": "DA"
+},
+"25md02-025": {
+"skip": true
+},
+"25md02-026": {
+"tp": "Percentages",
+"k": "3,850 m³",
+"s": "AM"
+},
+"25md02-027": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md02-028": {
+"tp": "Linear functions",
+"q": "A car rental company charges a base fee of ₦2,000 plus an additional ₦500 per day. If a customer rents a car for 5 days, how much will they need to pay in total?",
+"k": "₦4,500",
+"s": "AM"
+},
+"25md02-029": {
+"tp": "Rates",
+"k": "1 mile per minute",
+"s": "AM"
+},
+"25md02-030": {
+"tp": "Rates",
+"q": "A car travels from City A to City B at an average speed of 60 km/h. If the distance between the two cities is 300 kilometers, how long does the trip take in seconds?",
+"s": "AM"
+},
+"25md02-031": {
+"skip": true
+},
+"25md02-032": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md02-033": {
+"tp": "Probability",
+"k": "7/9 or 14/18",
+"s": "DA"
+},
+"25md02-034": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md02-035": {
+"tp": "Percentages",
+"k": "200%",
+"s": "AM"
+},
+"25md02-036": {
+"tp": "Dilution",
+"q": "In a chemistry experiment, a scientist mixes 100 mL of a solution with a molarity of 1 M with 200 mL of water. What is the resulting molarity?",
+"k": "0.33 M",
+"s": "AM"
+},
+"25md02-037": {
+"tp": "Ratios",
+"q": "The sum of three numbers is 240. The ratio of first to second is 1/3, and the ratio of second to third is 3/4. Find the largest number.",
+"s": "AM"
+},
+"25md02-038": {
+"tp": "Linear functions",
+"q": "A company's revenue is given by the equation R = 5000x, where x is the number of units sold. If the company's revenue is $25,000, how many units did it sell?",
+"k": "5",
+"s": "AM"
+},
+"25md02-039": {
+"tp": "Linear functions",
+"s": "AM"
+},
+"25md02-040": {
+"tp": "Probability",
+"k": "0.7",
+"s": "DA"
+},
+"25md02-041": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md02-042": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md02-043": {
+"tp": "Functions",
+"k": "x",
+"t": "w",
+"s": "AM"
+},
+"25md02-044": {
+"tp": "Magnification",
+"s": "AM"
+},
+"25md02-045": {
+"tp": "Units",
+"s": "AM"
+},
+"25md02-046": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md02-047": {
+"skip": true
+},
+"25md02-048": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md02-049": {
+"skip": true
+},
+"25md02-050": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md02-051": {
+"tp": "Magnification",
+"k": "200%",
+"s": "AM"
+},
+"25md02-052": {
+"tp": "Ratios",
+"k": "$2,000",
+"s": "AM"
+},
+"25md02-053": {
+"skip": true
+},
+"25md02-054": {
+"skip": true
+},
+"25md02-055": {
+"skip": true
+},
+"25md02-056": {
+"tp": "History",
+"s": "GK"
+},
+"25md02-057": {
+"tp": "Combinations"
+},
+"25md02-058": {
+"tp": "Charts"
+},
+"25md02-059": {
+"tp": "Permutations",
+"k": "5,040"
+},
+"25md02-060": {
+"tp": "Permutations"
+},
+"25md02-061": {
+"tp": "Sets",
+"q": "If A = {1, 2, 3}, B = {3, 4, 5} and the universal set U = {1, 2, 3, 4, 5}, find the complement of the union of A and B.",
+"k": "Empty set"
+},
+"25md02-062": {
+"tp": "Quartiles",
+"q": "Find the lower quartile of the data set 9, 12, 3, 5, 8, 3, 4.",
+"k": "3"
+},
+"25md02-063": {
+"tp": "Mean, median and mode"
+},
+"25md02-064": {
+"tp": "Permutations",
+"k": "60"
+},
+"25md02-065": {
+"tp": "Probability distributions",
+"q": "In a Poisson distribution, the number of trials is 50 and the probability of success is 4%. What is the mean value of this distribution?"
+},
+"25md02-066": {
+"tp": "Probability",
+"k": "1/2"
+},
+"25md02-067": {
+"tp": "Expected value"
+},
+"25md02-068": {
+"tp": "Probability",
+"k": "64/1000 or 16/250 or 8/125"
+},
+"25md02-069": {
+"tp": "Combinations",
+"q": "A committee of 5 people is to be formed from a group of 8 men and 6 women. If the committee must have exactly 3 men and 2 women, how many different committees can be formed?"
+},
+"25md02-070": {
+"tp": "Combinations"
+},
+"25md02-071": {
+"skip": true
+},
+"25md02-072": {
+"tp": "Analogies",
+"q": "Complete the series Hovel : Dirty :: Hub : ?",
+"o": [
+"Unseen",
+"Prideful",
+"Busy"
+],
+"k": "Busy"
+},
+"25md02-073": {
+"tp": "Analogies",
+"q": "Complete the series Bulky : Streamlined :: ? : Neat",
+"n": "Bulky is the opposite of streamlined; cluttered is the opposite of neat."
+},
+"25md02-074": {
+"tp": "Odd one out",
+"k": "Mammals"
+},
+"25md02-075": {
+"tp": "Idioms",
+"q": "\"The elephant in the room\" refers to:",
+"k": "Obvious problem"
+},
+"25md02-076": {
+"skip": true
+},
+"25md02-077": {
+"tp": "Vocabulary"
+},
+"25md02-078": {
+"skip": true
+},
+"25md02-079": {
+"tp": "Environment",
+"k": "2015",
+"s": "GK"
+},
+"25md02-080": {
+"tp": "Space",
+"k": "Ceres",
+"s": "GK"
+},
+"25md02-081": {
+"tp": "Number series",
+"q": "What Roman numeral will fill the blank in the series: VI, 10, V, 11, ___, 12, III, ...?",
+"k": "IV",
+"n": "Roman numerals count down (VI, V, IV, III) between numbers counting up (10, 11, 12)."
+},
+"25md02-082": {
+"tp": "Analogies",
+"k": "Conductor",
+"n": "A judge uses a gavel; a conductor uses a baton."
+},
+"25md02-083": {
+"skip": true
+},
+"25md02-084": {
+"tp": "Linear functions"
+},
+"25md02-085": {
+"tp": "Probability",
+"k": "11/36",
+"s": "DA"
+},
+"25md02-086": {
+"tp": "Perimeter",
+"k": "9 cm by 3 cm"
+},
+"25md02-087": {
+"tp": "Ratios",
+"q": "The ratio of catfish to crabs in a pond is 37:39 respectively. The average number of catfish and crabs in the pond is 152. What is the number of catfish in the pond?",
+"k": "148"
+},
+"25md02-088": {
+"tp": "Percentages",
+"k": "600,000"
+},
+"25md02-089": {
+"tp": "Area",
+"k": "52 m²"
+},
+"25md02-090": {
+"tp": "Arithmetic",
+"k": "4,600 books",
+"a": "24,600 books",
+"t": "d",
+"n": "The show's bar read 4,600, which counts 40 more shelves (46 × 100). With 40 more bookshelves of 6 shelves each, the total is 41 × 600 = 24,600."
+},
+"25md02-091": {
+"skip": true
+},
+"25md02-092": {
+"tp": "Rates"
+},
+"25md02-093": {
+"skip": true
+},
+"25md02-094": {
+"tp": "History",
+"k": "Jomo Kenyatta"
+},
+"25md02-095": {
+"tp": "Geography"
+},
+"25md02-096": {
+"tp": "Science",
+"k": "Sociology",
+"a": "Anthropology",
+"t": "d",
+"n": "The show's bar read Sociology. The study of how human culture emerged, evolved and is structured is anthropology."
+},
+"25md02-097": {
+"tp": "Sport",
+"k": "United States of America"
+},
+"25md02-098": {
+"tp": "Music"
+},
+"25md02-099": {
+"tp": "Film"
+},
+"25md02-100": {
+"tp": "Animals"
+},
+"25md02-101": {
+"tp": "History",
+"q": "Who is the first woman to be a pilot in Nigeria?",
+"o": [
+"Chinyere Kalu",
+"Chimuanya Oyebuchi",
+"Chisom Okon"
+]
+},
+"25md02-102": {
+"tp": "Film"
+},
+"25md02-103": {
+"tp": "Literature"
+},
+"25md02-104": {
+"tp": "Culture",
+"k": "Hydra"
+},
+"25md02-105": {
+"tp": "Fashion"
+},
+"25md02-106": {
+"skip": true
+},
+"25md02-107": {
+"tp": "Science"
+},
+"25md02-108": {
+"tp": "Food",
+"k": "Yellow"
+},
+"25md02-109": {
+"skip": true
+},
+"25md02-110": {
+"tp": "Geography",
+"k": "Johannesburg"
+},
+"25md02-111": {
+"tp": "Science"
+},
+"25md02-112": {
+"skip": true
+},
+"25md02-113": {
+"skip": true
+},
+"25md02-114": {
+"skip": true
+},
+"25md02-115": {
+"skip": true
+},
+"25md02-116": {
+"skip": true
+},
+"25md02-117": {
+"skip": true
+},
+"25md02-118": {
+"skip": true
+},
+"25md02-119": {
+"skip": true
+},
+"25md02-120": {
+"skip": true
+},
+"25md02-121": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md02-122": {
+"tp": "Percentages",
+"k": "300%",
+"s": "AM"
+},
+"25md02-123": {
+"tp": "Percentages",
+"q": "A shopkeeper decides to increase some prices by 40%. By how much would she increase the price of a packet of cereal costing ₦2?",
+"k": "₦0.80",
+"s": "AM"
+},
+"25md02-124": {
+"tp": "Perimeter",
+"s": "AM"
+},
+"25md02-125": {
+"tp": "Linear functions",
+"s": "AM"
+},
+"25md02-126": {
+"tp": "Probability",
+"q": "In a series of trials, each with a 40% chance of success, what is the probability of at least one success in two trials?",
+"k": "0.64",
+"s": "DA"
+},
+"25md02-127": {
+"tp": "Proportion",
+"s": "AM"
+},
+"25md02-128": {
+"tp": "Ratios",
+"q": "The ratio of ducks to frogs in a pond is 32:28 respectively. The average number of ducks and frogs in the pond is 150. What is the number of frogs in the pond?",
+"s": "AM"
+},
+"25md02-129": {
+"tp": "Discounts",
+"q": "A book costs ₦2,000. If a 10% discount is applied, how much will you pay for 24 books?",
+"k": "₦43,200",
+"s": "AM"
+},
+"25md02-130": {
+"tp": "Discounts",
+"q": "A store offers a 20% discount on all items. If a shirt costs $25 and a pair of trousers costs $10, how much will you pay for 20 shirts and 5 trousers altogether?",
+"s": "AM"
+},
+"25md02-131": {
+"tp": "Units",
+"k": "0.0251 L",
+"s": "AM"
+},
+"25md02-132": {
+"tp": "Probability",
+"k": "1/15 or 3/45",
+"s": "DA"
+},
+"25md02-133": {
+"skip": true
+},
+"25md02-134": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md02-135": {
+"tp": "Probability",
+"k": "50%",
+"s": "DA"
+},
+"25md02-136": {
+"tp": "Volume",
+"k": "180,000 L",
+"s": "AM"
+},
+"25md02-137": {
+"tp": "Percentages",
+"k": "400%",
+"s": "AM"
+},
+"25md02-138": {
+"tp": "Logarithms",
+"q": "What is the value of log₂64 + log₂32?",
+"s": "AM"
+},
+"25md02-139": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md02-140": {
+"tp": "Ratios",
+"k": "8 moles",
+"s": "AM"
+},
+"25md02-141": {
+"tp": "Percentages",
+"k": "150%",
+"s": "AM"
+},
+"25md02-142": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md02-143": {
+"tp": "Ages",
+"s": "AM"
+},
+"25md02-144": {
+"tp": "Rates",
+"k": "2/3",
+"n": "2/3 is how much of one room she paints; as a share of the two rooms it is 1/3.",
+"s": "AM"
+},
+"25md02-145": {
+"tp": "Depreciation",
+"s": "AM"
+},
+"25md02-146": {
+"skip": true
+},
+"25md02-147": {
+"tp": "pH",
+"q": "What is the pH of a solution with a hydroxide ion concentration of 1 × 10⁻⁴ M?",
+"s": "AM"
+},
+"25md02-148": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md02-149": {
+"skip": true
+},
+"25md02-150": {
+"tp": "Rates",
+"q": "A printer can print 7,000 pages in 40 minutes. How long will it take to print 4,200 pages?",
+"s": "AM"
+},
+"25md02-151": {
+"skip": true
+},
+"25md02-152": {
+"skip": true
+},
+"25md02-153": {
+"tp": "Magnification",
+"q": "If a microscope magnifies an object by 100x, and the actual size of the object is 0.005 mm, what is the magnified size?",
+"s": "AM"
+},
+"25md02-154": {
+"tp": "Charts",
+"s": "DA"
+},
+"25md02-155": {
+"tp": "Profit and loss",
+"s": "AM"
+},
+"25md02-156": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md02-157": {
+"tp": "Percentages",
+"s": "AM"
+},
+"25md02-158": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md02-159": {
+"tp": "Mixtures",
+"q": "How many liters of a 10% alcohol solution must be mixed with a 20% solution to obtain 10 liters of 12% alcohol solution?",
+"n": "That is 8 liters of the 10% solution and 2 liters of the 20% solution.",
+"s": "AM"
+},
+"25md02-160": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md02-161": {
+"tp": "Percentages",
+"k": "68%",
+"s": "AM"
+},
+"25md02-162": {
+"tp": "Volume",
+"s": "AM"
+},
+"25md02-163": {
+"tp": "Ratios",
+"q": "A mixture of water and sand has a 3:5 ratio of water to sand. If 900 cups of water are used, how many cups of sand are needed?",
+"s": "AM"
+},
+"25md02-164": {
+"skip": true
+},
+"25md02-165": {
+"tp": "Arithmetic",
+"s": "AM"
+},
+"25md02-166": {
+"tp": "Charles's law",
+"q": "Calculate the decrease in temperature (in Celsius) when 2 L at 27°C is compressed to 1 L.",
+"o": [
+"−123°C",
+"−103°C",
+"−113°C"
+],
+"k": "−123°C",
+"n": "The answer is the final temperature; the drop itself is 150 degrees.",
+"s": "AM"
+},
+"25md02-167": {
+"tp": "Growth",
+"s": "AM"
+},
+"25md02-168": {
+"tp": "Rates",
+"s": "AM"
+},
+"25md02-169": {
+"tp": "Ratios",
+"s": "AM"
+},
+"25md02-170": {
+"tp": "Linear functions",
+"s": "AM"
+},
+"25md02-171": {
+"tp": "Ratios",
+"q": "The ratio of the number of males to the number of females in a population is four thirds. If there are 618 females, how many males are there?",
+"s": "AM"
+},
+"25md02-172": {
+"skip": true
+},
+"25md02-173": {
+"skip": true
+},
+"25md02-174": {
+"skip": true
+},
+"25md02-175": {
+"tp": "Film",
+"s": "GK"
+},
+"25md02-176": {
+"tp": "Space",
+"q": "What planet did Clyde Tombaugh discover in 1930?",
+"s": "GK"
+},
+"25md02-177": {
+"tp": "Science",
+"k": "Second",
+"s": "GK"
+},
+"25md02-178": {
+"tp": "Mean"
+},
+"25md02-179": {
+"tp": "Normal distribution",
+"k": "87%"
+},
+"25md02-180": {
+"tp": "Combinations",
+"k": "15 ways"
+},
+"25md02-181": {
+"tp": "Mean"
+},
+"25md02-182": {
+"tp": "Coefficient of variation",
+"q": "If the mean of a certain set of data is 16 and the variance is 4, find the coefficient of variation.",
+"k": "12.5%"
+},
+"25md02-183": {
+"tp": "Variance",
+"k": "2.5"
+},
+"25md02-184": {
+"tp": "Range",
+"q": "Find the range in the following numbers: 9, 8, 15, 8, 20, 13, 22, 2, 20, 5, 8, 3, 15, 17",
+"k": "20"
+},
+"25md02-185": {
+"tp": "Mean, median and mode"
+},
+"25md02-186": {
+"tp": "Probability distributions",
+"k": "m = np"
+},
+"25md02-187": {
+"skip": true
+},
+"25md02-188": {
+"tp": "Letter series",
+"n": "The first and last letters move on one each time, with A in the middle: UAV."
+},
+"25md02-189": {
+"tp": "Odd one out",
+"n": "Pune and Gangtok are Indian cities; Kabul is in Afghanistan."
+},
+"25md02-190": {
+"tp": "Analogies",
+"q": "Complete the series Oxymoron : Contradiction :: Paradox : ?"
+},
+"25md02-191": {
+"tp": "Analogies",
+"n": "Fear is the opposite of composure; nadir is the opposite of zenith."
+},
+"25md02-192": {
+"tp": "Analogies",
+"n": "A spill leaves a stain; a blow leaves a welt."
+},
+"25md02-193": {
+"skip": true
+},
+"25md02-194": {
+"skip": true
+},
+"25md02-195": {
+"tp": "Economics",
+"q": "Which business model involves offering a product or service for free to attract customers?",
+"o": [
+"Freemium",
+"Subscription",
+"Advertising based"
+],
+"s": "GK"
+},
+"25md02-196": {
+"tp": "Units",
+"q": "A contractor earns 40 naira in 1 hour. How many kobo will he earn in 3 hours?",
+"k": "12,000 kobo",
+"s": "AM"
+},
+"25md02-197": {
+"tp": "History",
+"k": "Charlemagne",
+"s": "GK"
+},
+"25md02-198": {
+"skip": true
+},
+"25md02-199": {
+"tp": "Percentages",
+"k": "8%"
+},
+"25md02-200": {
+"tp": "Rates",
+"q": "A machine can produce 2,000 units in 5 hours. How many units can it produce in 8 hours?"
+},
+"25md02-201": {
+"tp": "Mixtures"
+},
+"25md02-202": {
+"tp": "Percentages",
+"q": "A store increases the price of a product from $500 to $6,400. What is the percentage increase?",
+"k": "1,180%"
+},
+"25md02-203": {
+"tp": "Percentages"
+},
+"25md02-204": {
+"tp": "Units",
+"k": "0.0125 km/s"
+},
+"25md02-205": {
+"tp": "Arithmetic",
+"k": "320,000 liters"
+},
+"25md02-206": {
+"skip": true
+},
+"25md02-207": {
+"tp": "Rates"
+},
+"25md02-208": {
+"tp": "Avogadro's law",
+"k": "24 L"
+},
+"25md02-209": {
+"tp": "Growth",
+"k": "12,000 cells"
+},
+"25md02-210": {
+"skip": true
+},
+"25md02-211": {
+"tp": "Health"
+},
+"25md02-212": {
+"tp": "Sport"
+},
+"25md02-213": {
+"tp": "History",
+"q": "The first national minimum wage law was enacted by President Shehu Shagari in what year?"
+},
+"25md02-214": {
+"tp": "Film"
+},
+"25md02-215": {
+"tp": "Food"
+},
+"25md02-216": {
+"tp": "Culture"
+},
+"25md02-217": {
+"tp": "Film",
+"k": "Donkey"
+},
+"25md02-218": {
+"tp": "History"
+},
+"25md02-219": {
+"tp": "Space",
+"q": "Which type of full moon follows a harvest moon?",
+"o": [
+"Autumn eclipse",
+"Harvest moon",
+"Hunter's moon"
+],
+"k": "Hunter's moon"
+},
+"25md02-220": {
+"tp": "Sport"
+},
+"25md02-221": {
+"tp": "Languages",
+"q": "The official national language of Tanzania is"
+},
+"25md02-222": {
+"tp": "Fashion",
+"k": "Toquilla palm"
+},
+"25md02-223": {
+"tp": "Film"
+},
+"25md02-224": {
+"tp": "Technology",
+"q": "In which year did Ray Tomlinson invent internet-based electronic mail?",
+"k": "1970",
+"a": "1971",
+"t": "d",
+"n": "The show's bar read 1970. Ray Tomlinson sent the first network email, on ARPANET, in 1971."
+},
+"25md02-225": {
+"tp": "History",
+"k": "Joan of Arc"
+},
+"25md02-226": {
+"skip": true
+},
+"25md02-227": {
+"skip": true
+},
+"25md02-228": {
+"skip": true
+},
+"25md02-229": {
+"skip": true
+},
+"25md02-230": {
+"skip": true
+}
+}

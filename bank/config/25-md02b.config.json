@@ -1,0 +1,45 @@
+{
+ "season": "25",
+ "video": "iJ74K0jxgWM",
+ "stage": "group",
+ "bm_max_step": 40,
+ "bm_left_row": 1,
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/25-md02.json",
+   "bank/review/25-md02.json"
+  ]
+ ],
+ "bm_subjects": {
+  "1": "DA",
+  "2": "VR",
+  "3": "AM",
+  "4": "GK"
+ },
+ "code": "md02b",
+ "match": "ACHIEVERS v CALEB, 2025",
+ "window": [
+  1900,
+  3300
+ ],
+ "qb_top": "ACHIEVERS",
+ "qb_bottom": "CALEB",
+ "bm_top": "ACHIEVERS",
+ "bm_bottom": "CALEB",
+ "quarter_starts": {
+  "QB": [
+   2058,
+   2191,
+   2340,
+   2472
+  ],
+  "BM": [
+   2730,
+   2840,
+   2955,
+   3105
+  ]
+ },
+ "out": "bank/master/25-md02b.json"
+}

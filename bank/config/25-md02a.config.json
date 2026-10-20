@@ -1,0 +1,45 @@
+{
+ "season": "25",
+ "video": "iJ74K0jxgWM",
+ "stage": "group",
+ "bm_max_step": 40,
+ "bm_left_row": 1,
+ "cards": [],
+ "parts": [
+  [
+   "bank/raw/25-md02.json",
+   "bank/review/25-md02.json"
+  ]
+ ],
+ "bm_subjects": {
+  "1": "DA",
+  "2": "VR",
+  "3": "AM",
+  "4": "GK"
+ },
+ "code": "md02a",
+ "match": "UNN v OOU, 2025",
+ "window": [
+  0,
+  1500
+ ],
+ "qb_top": "UNN",
+ "qb_bottom": "OOU",
+ "bm_top": "UNN",
+ "bm_bottom": "OOU",
+ "quarter_starts": {
+  "QB": [
+   276,
+   405,
+   554,
+   692
+  ],
+  "BM": [
+   905,
+   1000,
+   1110,
+   1220
+  ]
+ },
+ "out": "bank/master/25-md02a.json"
+}

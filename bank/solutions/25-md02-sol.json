@@ -1,0 +1,1359 @@
+{
+ "25-md02a-qb-0276": {
+  "solution": "Together 110 bricks an hour: 110 × 15 = 1,650 laid, so 150 are left.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0281": {
+  "solution": "600 × 1/6 = 100.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0294": {
+  "solution": "Quadrupling in 2 hours is doubling every hour, a growth of 100% an hour.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0304": {
+  "solution": "Each shirt drops 200 on 2,000, which is 10%; buying 10 does not change the rate.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.1"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0315": {
+  "solution": "The stretch is 60 ÷ 25 = 2.4 m per kg, so 40 kg gives 96 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0324": {
+  "solution": "243.5 hours = 876,600 s and 40 minutes = 2,400 s: 879,000 seconds.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0334": {
+  "solution": "3x − 100 = 500, so 3x = 600 and x = 200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0354": {
+  "solution": "Either game: 18 + 15 − 12 = 21, so 30 − 21 = 9.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0367": {
+  "solution": "75% of 260 = 195.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0378": {
+  "solution": "A : B = 4 : 6 = 8 : 12 and B : C = 12 : 14, so A : C = 8 : 14 = 4 : 7.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "4 : 7"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0391": {
+  "solution": "After a year at 5%: x + 0.05x = 1.05x.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0413": {
+  "solution": "6 ÷ 8 = 0.75 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0422": {
+  "solution": "15 is 5 lots of 3, so 5 × 2 = 10 white roses.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0432": {
+  "solution": "The largest share is 8 of 20 parts: 8,600 × 8 ÷ 20 = 3,440.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0453": {
+  "solution": "1/6 + 1/4 = 5/12 of the tank an hour, so 12/5 = 2.4 hours (2 h 24 min).",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2 2/5",
+   "12/5"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0462": {
+  "solution": "Blue or green: 9 of 15 = 3/5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "3/5",
+   "9/15",
+   "0.6"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0473": {
+  "solution": "Quadrupling in 2 hours is doubling every hour, a growth of 100% an hour.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0494": {
+  "solution": "$18 = 1,800 cents in 3,600 seconds: 0.5 cents a second.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0503": {
+  "solution": "Cost = 20 ÷ 1.25 = $16.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0513": {
+  "solution": "x² − 4x + 4 = (x − 2)² = 0, so x = 2 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0524": {
+  "solution": "1/2 × 1/2 = 1/4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/4",
+   "0.25"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0557": {
+  "solution": "55% is empty: 0.55 × 7,000 = 3,850 m³.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0567": {
+  "solution": "One-rupee coins are worth 8k rupees (8k coins) and fifty-paise coins 6k rupees (12k coins): 20k = 210, so k = 10.5 and there are 84 one-rupee coins.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0578": {
+  "solution": "2,000 + 5 × 500 = ₦4,500.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0591": {
+  "solution": "180 miles in 180 minutes: 1 mile a minute.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0597": {
+  "solution": "300 ÷ 60 = 5 hours = 18,000 seconds.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0617": {
+  "solution": "Together 130 units an hour: 1,040 ÷ 130 = 8 hours.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0628": {
+  "solution": "Red or blue: 14 of 18 = 7/9.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "7/9",
+   "14/18"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0635": {
+  "solution": "16,000 × 3 = 48,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0646": {
+  "solution": "Increase 16 on 8 = 200%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0654": {
+  "solution": "0.1 mol in 300 mL: 0.1 ÷ 0.3 = 0.33 M.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/3"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0665": {
+  "solution": "First : second : third = 1 : 3 : 4, so the largest is 4 of 8 parts: 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0674": {
+  "solution": "25,000 ÷ 5,000 = 5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0694": {
+  "solution": "It grows 2,000 a year, so 2050 is 30 years after 2010: 100,000 + 60,000 = 180,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0704": {
+  "solution": "1 − 0.3 = 0.7.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "70%"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0710": {
+  "solution": "60% is empty: 0.6 × 5,000 = 3,000 liters.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0718": {
+  "solution": "1.2 : 1.5 = 4 : 5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "4 : 5"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0726": {
+  "solution": "The amount earned depends on the hours worked, so the hours, x, are the independent variable.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0735": {
+  "solution": "0.05 × 500 = 25 mm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0743": {
+  "solution": "6 minutes is 1/10 of an hour: 6 km = 6,000 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0751": {
+  "solution": "20% of 400,000 = 80,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0772": {
+  "solution": "1/4 − 1/6 = 1/12 of the pool an hour: 12 hours.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0792": {
+  "solution": "12,000 × 3 = 36,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-qb-0800": {
+  "solution": "From 4 to 12 arcseconds is an increase of 8 on 4: 200%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2"
+  ],
+  "comment": ""
+ },
+ "25-md02a-qb-0810": {
+  "solution": "Joy gets 4 of 9 parts: 4,500 × 4 ÷ 9 = $2,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0906": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0910": {
+  "solution": "¹⁰C₃ = 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0918": {
+  "solution": "A scatter plot shows each pair of values as a point.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0924": {
+  "solution": "7! = 5,040.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0931": {
+  "solution": "⁸P₂ = 8 × 7 = 56.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0935": {
+  "solution": "A ∪ B = {1, 2, 3, 4, 5} = U, so nothing is left outside it.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Null set",
+   "{}",
+   "ϕ"
+  ],
+  "comment": ""
+ },
+ "25-md02a-bm-0943": {
+  "solution": "In order: 3, 3, 4, 5, 8, 9, 12. The lower half 3, 3, 4 has middle value 3.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0948": {
+  "solution": "Mode ≈ 3 × median − 2 × mean = 60 − 45 = 15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0955": {
+  "solution": "⁵P₃ = 5 × 4 × 3 = 60.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0961": {
+  "solution": "Mean = np = 50 × 0.04 = 2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0969": {
+  "solution": "Two or three heads: 3 + 1 = 4 of the 8 outcomes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0972": {
+  "solution": "2 × 0.3 + 4 × 0.4 + 6 × 0.3 = 0.6 + 1.6 + 1.8 = 4.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0980": {
+  "solution": "With replacement: (4/10)³ = 64/1000 = 8/125.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "8/125",
+   "64/1000",
+   "0.064"
+  ],
+  "comment": ""
+ },
+ "25-md02a-bm-0987": {
+  "solution": "⁸C₃ × ⁶C₂ = 56 × 15 = 840.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-0990": {
+  "solution": "⁸C₆ = ⁸C₂ = 28.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1006": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1007": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1021": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1028": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1040": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1051": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1064": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1080": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1089": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1135": {
+  "solution": "y = mx + c with c = 5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1140": {
+  "solution": "No 6 in two rolls: 25/36, so at least one 6: 11/36.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1145": {
+  "solution": "Width w, length 3w: 8w = 24, so 3 cm by 9 cm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1152": {
+  "solution": "There are 2 × 152 = 304 in all, and catfish are 37 of 76 parts: 148.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1169": {
+  "solution": "500,000 × 1.2 = 600,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1175": {
+  "solution": "6.5 × 8 = 52 m².",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1184": {
+  "solution": "Each bookshelf holds 6 × 100 = 600 books; 41 bookshelves hold 24,600.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1199": {
+  "solution": "1,500 liters more at 20 a minute: 75 minutes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1225": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1235": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1237": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1244": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "USA",
+   "United States"
+  ],
+  "comment": ""
+ },
+ "25-md02a-bm-1254": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1257": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1261": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1266": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1272": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1277": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1280": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1286": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1294": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1298": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1309": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02a-bm-1316": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2065": {
+  "solution": "8,000 × 3 = 24,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2074": {
+  "solution": "Increase 3 on 1 = 300%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "3"
+  ],
+  "comment": ""
+ },
+ "25-md02b-qb-2081": {
+  "solution": "40% of 2 = 0.80.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2092": {
+  "solution": "Width w and length w + 4: 2(2w + 4) = 60, so w = 13 m.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2101": {
+  "solution": "50 + 25 × 200 = $5,050.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2114": {
+  "solution": "Two failures: 0.6 × 0.6 = 0.36, so at least one success: 0.64.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "64%"
+  ],
+  "comment": ""
+ },
+ "25-md02b-qb-2124": {
+  "solution": "480 cookies is 7.5 times 64: 24 × 7.5 = 180 cups.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2133": {
+  "solution": "There are 300 in all, and frogs are 28 of 60 parts: 140.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2143": {
+  "solution": "Each book costs ₦1,800, so 24 cost ₦43,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2154": {
+  "solution": "20 × 25 + 5 × 10 = $550, less 20%: $440.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2165": {
+  "solution": "25.1 mL ÷ 1,000 = 0.0251 L.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2176": {
+  "solution": "Without replacement: 3/10 × 2/9 = 6/90 = 1/15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/15",
+   "3/45"
+  ],
+  "comment": ""
+ },
+ "25-md02b-qb-2200": {
+  "solution": "80 a day: 80 × 280 = 22,400.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2211": {
+  "solution": "Each flip of a fair coin is independent of the earlier ones: 1/2.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.5",
+   "1/2"
+  ],
+  "comment": ""
+ },
+ "25-md02b-qb-2220": {
+  "solution": "15 × 8 × 2 = 240 m³, and 75% of that is 180 m³ = 180,000 liters.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2231": {
+  "solution": "Increase 8 on 2 = 400%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "4"
+  ],
+  "comment": ""
+ },
+ "25-md02b-qb-2239": {
+  "solution": "2⁶ = 64 and 2⁵ = 32: 6 + 5 = 11.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2245": {
+  "solution": "5 doublings: 100 × 32 = 3,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2256": {
+  "solution": "8 : 2 = 4 : 1, so 32 ÷ 4 = 8 moles.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2267": {
+  "solution": "The price is 0.4 of the original; 0.4 × 2.5 = 1, a rise of 150%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1.5"
+  ],
+  "comment": ""
+ },
+ "25-md02b-qb-2277": {
+  "solution": "5,000 × 1.2² = 7,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2288": {
+  "solution": "Linda L, Theresa L + 4, Charles L + 11: 3L + 15 = 51, so L = 12 and Charles is 23.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2297": {
+  "solution": "She paints 2 rooms in 6 hours, so in 2 hours she paints 2/3 of a room.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/3"
+  ],
+  "comment": ""
+ },
+ "25-md02b-qb-2307": {
+  "solution": "30,000 × 0.8² = $19,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2347": {
+  "solution": "pOH = 4, so pH = 14 − 4 = 10.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2352": {
+  "solution": "4,000 is 2,000 lots of 2: 2,000 × 5 = 10,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2369": {
+  "solution": "4,200 is 0.6 of 7,000: 0.6 × 40 = 24 minutes.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2400": {
+  "solution": "0.005 × 100 = 0.5 mm.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2408": {
+  "solution": "A time-series plot shows how a quantity changes over time.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2418": {
+  "solution": "500 ÷ 10 = 50 units.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2426": {
+  "solution": "Twice the fruit needs twice the yogurt: 7 cups.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2435": {
+  "solution": "4,000,000 × 0.92 = $3,680,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2445": {
+  "solution": "150 minutes = 2.5 hours: 70 × 2.5 = 175 km.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2455": {
+  "solution": "0.1x + 0.2(10 − x) = 1.2 gives 0.1x = 0.8, so x = 8 liters of the 10% solution.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2478": {
+  "solution": "18,000 ÷ 620 = 29.0, about 29 gallons.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2488": {
+  "solution": "80% × 0.85 = 68%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.68"
+  ],
+  "comment": ""
+ },
+ "25-md02b-qb-2500": {
+  "solution": "18 × 12 × 7 = 1,512 m³.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2510": {
+  "solution": "900 is 300 lots of 3: 300 × 5 = 1,500 cups.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2525": {
+  "solution": "14 months = 420 days: 25 × 420 = 10,500.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2534": {
+  "solution": "Charles's law at constant pressure: T = 300 K × 1/2 = 150 K = −123°C.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2546": {
+  "solution": "1,000 × 3 = 3,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2555": {
+  "solution": "200 miles a gallon: 200 × 500 = 100,000 miles.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2566": {
+  "solution": "First : second : third = 1 : 2 : 6, so the largest is 6 of 9 parts of 180: 120.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2576": {
+  "solution": "30 × 5 + 20 × 300 = 150 + 6,000 = $6,150.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-qb-2585": {
+  "solution": "Males = 618 × 4/3 = 824.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2743": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2749": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2755": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2763": {
+  "solution": "36 ÷ 6 = 6.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2771": {
+  "solution": "About 86.6% of a normal distribution lies within 1.5 standard deviations of the mean.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2779": {
+  "solution": "⁶C₄ = ⁶C₂ = 15.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2787": {
+  "solution": "700 ÷ 5 = 140.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2796": {
+  "solution": "Standard deviation = 2, so CV = 2 ÷ 16 = 12.5%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.125",
+   "1/8"
+  ],
+  "comment": ""
+ },
+ "25-md02b-bm-2803": {
+  "solution": "Dividing every value by 2 divides the variance by 4: 10 ÷ 4 = 2.5.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2812": {
+  "solution": "22 − 2 = 20.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2817": {
+  "solution": "Mode ≈ 3 × median − 2 × mean = 129 − 91 = 38.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2824": {
+  "solution": "The Poisson mean is the number of trials times the probability of success.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "np"
+  ],
+  "comment": ""
+ },
+ "25-md02b-bm-2847": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2852": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2857": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2862": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2869": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2888": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2894": {
+  "solution": "₦120 in 3 hours, and ₦1 = 100 kobo: 12,000 kobo.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2931": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2967": {
+  "solution": "1.35 × 0.8 = 1.08: an 8% rise.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "0.08"
+  ],
+  "comment": ""
+ },
+ "25-md02b-bm-2973": {
+  "solution": "400 an hour: 400 × 8 = 3,200.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2981": {
+  "solution": "0.1x + 0.18 × 14 = 0.12(x + 14) gives 0.02x = 0.84, so x = 42 ounces.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-2987": {
+  "solution": "Increase 5,900 on 500 = 1,180%.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "11.8"
+  ],
+  "comment": ""
+ },
+ "25-md02b-bm-2995": {
+  "solution": "100,000 × 1.12 = $112,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3003": {
+  "solution": "45 ÷ 3,600 = 0.0125 km a second.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "1/80"
+  ],
+  "comment": ""
+ },
+ "25-md02b-bm-3011": {
+  "solution": "Two thirds is empty: 480,000 × 2/3 = 320,000 liters.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3027": {
+  "solution": "200 an hour: 200 × 42 = 8,400.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3035": {
+  "solution": "Volume is proportional to the amount of gas: doubling 0.625 mol to 1.25 mol doubles 12 L to 24 L.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3043": {
+  "solution": "4,000 × 3 = 12,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3117": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3125": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "UK",
+   "Britain"
+  ],
+  "comment": ""
+ },
+ "25-md02b-bm-3131": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3138": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3143": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3147": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3154": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3157": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3163": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3168": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3173": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3178": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3183": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3191": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-md02b-bm-3197": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Joan"
+  ],
+  "comment": ""
+ }
+}
