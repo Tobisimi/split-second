@@ -287,13 +287,26 @@
 "k": "30"
 },
 "25md04-067": {
-"skip": true
+"tp": "Music",
+"k": "Nicki Minaj",
+"s": "GK"
 },
 "25md04-068": {
-"skip": true
+"tp": "Fashion",
+"k": "Polyester",
+"s": "GK"
 },
 "25md04-069": {
-"skip": true
+"tp": "Geography",
+"q": "Which country is renowned for its fjords and stunning natural landscapes?",
+"o": [
+"Norway",
+"Sweden",
+"Finland",
+"Denmark"
+],
+"k": "Norway",
+"s": "GK"
 },
 "25md04-070": {
 "tp": "Permutations"
@@ -335,19 +348,33 @@
 "k": "1/18"
 },
 "25md04-080": {
-"skip": true
+"tp": "Idioms",
+"q": "\"Butter someone up\" means:",
+"k": "To flatter someone",
+"s": "VR"
 },
 "25md04-081": {
-"skip": true
+"tp": "Number series",
+"k": "132",
+"n": "Take away 44 each time.",
+"s": "VR"
 },
 "25md04-082": {
-"skip": true
+"tp": "Seating arrangements",
+"k": "James",
+"n": "From left to right: John, Thomas, Peter, James.",
+"s": "VR"
 },
 "25md04-083": {
-"skip": true
+"tp": "Analogies",
+"k": "Tranquility",
+"n": "Strife leads to annihilation; concord leads to tranquility.",
+"s": "VR"
 },
 "25md04-084": {
-"skip": true
+"tp": "Sport",
+"q": "The marathon represents the legendary feat of a Greek soldier who supposedly ran from Marathon to which other city?",
+"s": "GK"
 },
 "25md04-085": {
 "skip": true
@@ -356,28 +383,49 @@
 "skip": true
 },
 "25md04-087": {
-"skip": true
+"tp": "History",
+"k": "Ferdinand Magellan",
+"s": "GK"
 },
 "25md04-088": {
-"skip": true
+"tp": "Coding",
+"q": "Find the missing one RIDE : LNBE :: HELP : ?",
+"k": "BJJP",
+"n": "The letters move back 6, on 5, back 2 and stay: H, E, L, P becomes B, J, J, P.",
+"s": "VR"
 },
 "25md04-089": {
-"skip": true
+"tp": "Geography",
+"q": "Find the missing word Nepal : Kathmandu :: Bhutan : ?",
+"k": "Thimphu",
+"s": "GK"
 },
 "25md04-090": {
-"skip": true
+"tp": "Coding",
+"k": "UVQPG",
+"n": "Each letter moves 2 places on: S, T, O, N, E becomes U, V, Q, P, G.",
+"s": "VR"
 },
 "25md04-091": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Theatre : Actor :: Field : ?",
+"k": "Farmer",
+"s": "VR"
 },
 "25md04-092": {
-"skip": true
+"tp": "Analogies",
+"s": "VR"
 },
 "25md04-093": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Ragtime : United States :: Raga : ?",
+"n": "Ragtime is music from the United States; raga is music from India.",
+"s": "VR"
 },
 "25md04-094": {
-"skip": true
+"tp": "Analogies",
+"n": "A cask holds wine; a valise holds clothes.",
+"s": "VR"
 },
 "25md04-095": {
 "skip": true
@@ -386,43 +434,96 @@
 "skip": true
 },
 "25md04-097": {
-"skip": true
+"tp": "Geography",
+"q": "Most of the residents of Africa's least populous country live on the island of Mahé. Which nation is it?",
+"k": "Seychelles",
+"s": "GK"
 },
 "25md04-098": {
-"skip": true
+"tp": "Animals",
+"k": "Uganda",
+"s": "GK"
 },
 "25md04-099": {
-"skip": true
+"tp": "History",
+"k": "1964",
+"s": "GK"
 },
 "25md04-100": {
 "skip": true
 },
 "25md04-101": {
-"skip": true
+"tp": "Music",
+"q": "The Puerto Rican singer and rapper born Benito Antonio Martínez Ocasio in 1994 is better known by what two-word stage name?",
+"k": "Bad Bunny",
+"s": "GK"
 },
 "25md04-102": {
-"skip": true
+"tp": "Fashion",
+"o": [
+"Camila Coelho",
+"Charles Frederick Worth",
+"Mariano Di Vaio"
+],
+"k": "Charles Frederick Worth",
+"s": "GK"
 },
 "25md04-103": {
-"skip": true
+"tp": "Fashion",
+"o": [
+"DKNY",
+"Prada",
+"Christian Dior"
+],
+"k": "DKNY",
+"s": "GK"
 },
 "25md04-104": {
-"skip": true
+"tp": "Sport",
+"q": "Nehru Cup is related to which game?",
+"o": [
+"Football",
+"Hockey",
+"Cricket"
+],
+"s": "GK"
 },
 "25md04-105": {
-"skip": true
+"tp": "Film",
+"q": "In Thor: Ragnarok, who does Thor fight in the arena while stuck on Sakaar?",
+"k": "Hulk",
+"s": "GK"
 },
 "25md04-106": {
-"skip": true
+"tp": "Fashion",
+"k": "Katie Holmes",
+"s": "GK"
 },
 "25md04-107": {
-"skip": true
+"tp": "Sport",
+"k": "Super League",
+"s": "GK"
 },
 "25md04-108": {
-"skip": true
+"tp": "Film",
+"q": "Which capital city appears in the title of the third movie in The Fast and Furious franchise?",
+"o": [
+"Tokyo",
+"Moscow",
+"Istanbul"
+],
+"k": "Tokyo",
+"s": "GK"
 },
 "25md04-109": {
-"skip": true
+"tp": "Sport",
+"o": [
+"William G. Morgan",
+"John Morgan",
+"James Morgan"
+],
+"k": "William G. Morgan",
+"s": "GK"
 },
 "25md04-110": {
 "skip": true
@@ -716,97 +817,180 @@
 "skip": true
 },
 "25md04-177": {
-"skip": true
+"tp": "Alphabet",
+"q": "In \"COMPUTER\", which letter is sixth from the right when arranged alphabetically?",
+"o": [
+"M",
+"U",
+"E"
+],
+"k": "M",
+"n": "C E M O P R T U: counting from the right, M is sixth.",
+"s": "VR"
 },
 "25md04-178": {
 "skip": true
 },
 "25md04-179": {
-"skip": true
+"tp": "Science",
+"k": "Cell specialization",
+"s": "GK"
 },
 "25md04-180": {
-"skip": true
+"tp": "Blood relations",
+"q": "A's mother is the mother-in-law of the father of B. B is the brother of C, while A is the father of M. How is A related to C?",
+"k": "Uncle",
+"n": "B's father married A's sister, so A is the maternal uncle of B and C.",
+"s": "VR"
 },
 "25md04-181": {
-"skip": true
+"tp": "Vocabulary",
+"q": "Choose the word that best fills the gap: The austerity of the times has made people more ___ in their spending.",
+"k": "Circumspect",
+"s": "VR"
 },
 "25md04-182": {
-"skip": true
+"tp": "Analogies",
+"k": "Veracity",
+"n": "Deceit goes with fallacy; integrity goes with veracity (truthfulness).",
+"s": "VR"
 },
 "25md04-183": {
-"skip": true
+"tp": "History",
+"k": "Augustus",
+"s": "GK"
 },
 "25md04-184": {
-"skip": true
+"tp": "Food",
+"q": "A financier is a traditional French tea cake made with flour ground from what nut, whose French name is \"amande\"?",
+"k": "Almond",
+"s": "GK"
 },
 "25md04-185": {
-"skip": true
+"tp": "Energy",
+"q": "The \"Three Gorges Dam\", one of the world's largest hydropower projects, is located in which country?",
+"s": "GK"
 },
 "25md04-186": {
-"skip": true
+"tp": "Transport",
+"q": "Which car brand has a prancing horse as its logo?",
+"k": "Ferrari",
+"s": "GK"
 },
 "25md04-187": {
-"skip": true
+"tp": "Seating arrangements",
+"q": "Five girls are sitting on a bench to be photographed. Joy is to the left of Kenny and to the right of Rachel. Dami is to the right of Kenny. Timi is between Kenny and Dami. Who is sitting to Timi's immediate right?",
+"k": "Dami",
+"n": "From left to right: Rachel, Joy, Kenny, Timi, Dami.",
+"s": "VR"
 },
 "25md04-188": {
-"skip": true
+"tp": "Analogies",
+"q": "Red Fort : Delhi :: Taj Mahal : ?",
+"o": [
+"Agra",
+"Mysore",
+"Chennai"
+],
+"k": "Agra",
+"s": "VR"
 },
 "25md04-189": {
-"skip": true
+"tp": "Coding",
+"q": "If HOT is coded as GNS, how is COLD coded?",
+"k": "BNKC",
+"n": "Each letter moves one place back: C, O, L, D becomes B, N, K, C.",
+"s": "VR"
 },
 "25md04-190": {
-"skip": true
+"tp": "Analogies",
+"k": "Room",
+"n": "A nation is part of the world; a room is part of a house.",
+"s": "VR"
 },
 "25md04-191": {
 "skip": true
 },
 "25md04-192": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Denim : Cotton :: ___ : Flax",
+"k": "Linen",
+"n": "Denim is made from cotton; linen is made from flax.",
+"s": "VR"
 },
 "25md04-193": {
 "skip": true
 },
 "25md04-194": {
-"skip": true
+"tp": "Literature",
+"q": "Wole Soyinka dismissed which black literary movement by stating, \"a tiger does not need to proclaim his tigritude\"?",
+"k": "Negritude",
+"s": "GK"
 },
 "25md04-195": {
-"skip": true
+"tp": "Sport",
+"q": "The winner of the Australian Open Women's Singles Championship in 2005 was",
+"s": "GK"
 },
 "25md04-196": {
-"skip": true
+"tp": "Geography",
+"k": "Uganda",
+"s": "GK"
 },
 "25md04-197": {
 "skip": true
 },
 "25md04-198": {
-"skip": true
+"tp": "Health",
+"q": "Approximately how many times does a human heart beat daily?",
+"k": "100,000 times",
+"s": "GK"
 },
 "25md04-199": {
-"skip": true
+"tp": "Music",
+"q": "Sia Isobel Furler, better known by the stage name \"Sia\", is famed for her split white and black hair and large bows. What country is she from?",
+"k": "Australia",
+"s": "GK"
 },
 "25md04-200": {
-"skip": true
+"tp": "Fashion",
+"q": "What is the name of the first perfume launched by Coco Chanel in 1921?",
+"s": "GK"
 },
 "25md04-201": {
-"skip": true
+"tp": "Economics",
+"q": "Which club's card is known as the first modern-day credit card?",
+"k": "Dinner Club",
+"n": "Its real name is the Diners Club card (1950).",
+"s": "GK"
 },
 "25md04-202": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25md04-203": {
-"skip": true
+"tp": "Food",
+"q": "The Snickers bar takes its name from which animal?",
+"k": "Horse",
+"s": "GK"
 },
 "25md04-204": {
-"skip": true
+"tp": "Sport",
+"q": "The first Indian woman to get an Olympic medal is",
+"k": "Karnam Malleswari",
+"s": "GK"
 },
 "25md04-205": {
-"skip": true
+"tp": "Fashion",
+"k": "Sunglasses",
+"s": "GK"
 },
 "25md04-206": {
 "skip": true
 },
 "25md04-207": {
-"skip": true
+"tp": "Animals",
+"s": "GK"
 },
 "25md04-208": {
 "skip": true

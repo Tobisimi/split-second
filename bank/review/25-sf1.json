@@ -81,7 +81,8 @@
 "skip": true
 },
 "25sf1-028": {
-"skip": true
+"tp": "Analogies",
+"s": "VR"
 },
 "25sf1-029": {
 "tp": "Probability",
@@ -89,7 +90,10 @@
 "s": "DA"
 },
 "25sf1-030": {
-"skip": true
+"tp": "Literature",
+"q": "What memorable nickname does Gollum, originally Sméagol, give to the One Ring in \"The Lord of the Rings\"?",
+"k": "My Precious",
+"s": "GK"
 },
 "25sf1-031": {
 "tp": "Units",
@@ -105,7 +109,8 @@
 "s": "AM"
 },
 "25sf1-033": {
-"skip": true
+"tp": "Entertainment",
+"s": "GK"
 },
 "25sf1-034": {
 "tp": "Complex numbers",
@@ -125,7 +130,11 @@
 "s": "DA"
 },
 "25sf1-037": {
-"skip": true
+"tp": "Letter series",
+"q": "Complete the series SCD, TEF, UGH, ___, WKL",
+"k": "VIJ",
+"n": "The first letters run S, T, U, V, W and the pairs CD, EF, GH, IJ, KL.",
+"s": "VR"
 },
 "25sf1-038": {
 "tp": "Interquartile range",
@@ -172,7 +181,8 @@
 "s": "DA"
 },
 "25sf1-047": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25sf1-048": {
 "skip": true
@@ -184,10 +194,13 @@
 "s": "DA"
 },
 "25sf1-050": {
-"skip": true
+"tp": "Idioms",
+"q": "\"Cut to the chase\" means:",
+"s": "VR"
 },
 "25sf1-051": {
-"skip": true
+"tp": "History",
+"s": "GK"
 },
 "25sf1-052": {
 "tp": "Median",
@@ -202,7 +215,8 @@
 "s": "AM"
 },
 "25sf1-054": {
-"skip": true
+"tp": "Analogies",
+"s": "VR"
 },
 "25sf1-055": {
 "tp": "Arithmetic",
@@ -211,7 +225,8 @@
 "s": "AM"
 },
 "25sf1-056": {
-"skip": true
+"tp": "Antonyms",
+"s": "VR"
 },
 "25sf1-057": {
 "tp": "Ratios",
@@ -219,13 +234,20 @@
 "s": "AM"
 },
 "25sf1-058": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series 11 : 1,331 :: 14 : ?",
+"n": "1,331 = 11³, so the answer is 14³ = 2,744.",
+"s": "VR"
 },
 "25sf1-059": {
-"skip": true
+"tp": "Fashion",
+"k": "Philip Treacy",
+"s": "GK"
 },
 "25sf1-060": {
-"skip": true
+"tp": "Number series",
+"n": "They are the prime numbers in order; the next is 31.",
+"s": "VR"
 },
 "25sf1-061": {
 "tp": "Half-life",
@@ -278,10 +300,25 @@
 "s": "AM"
 },
 "25sf1-069": {
-"skip": true
+"tp": "Analogies",
+"q": "What is the relationship between \"Teacher\" and \"Student\"?",
+"o": [
+"Employer and employee",
+"Parent and child",
+"Educator and learner"
+],
+"s": "VR"
 },
 "25sf1-070": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Atom : Molecule :: Cell : ?",
+"o": [
+"Blood",
+"Nucleus",
+"Organism"
+],
+"n": "Atoms make up molecules; cells make up organisms.",
+"s": "VR"
 },
 "25sf1-071": {
 "tp": "Arithmetic",
@@ -301,7 +338,9 @@
 "s": "AM"
 },
 "25sf1-074": {
-"skip": true
+"tp": "Politics",
+"q": "Which country granted Edward Snowden permanent residency in October 2020?",
+"s": "GK"
 },
 "25sf1-075": {
 "tp": "Inequalities",
@@ -325,7 +364,15 @@
 "s": "AM"
 },
 "25sf1-078": {
-"skip": true
+"tp": "Analogies",
+"q": "Find the missing word Otter : Water :: Tiger : ?",
+"o": [
+"Forest",
+"Cage",
+"Wild"
+],
+"k": "Forest",
+"s": "VR"
 },
 "25sf1-079": {
 "tp": "Percentages",
@@ -346,7 +393,9 @@
 "s": "AM"
 },
 "25sf1-082": {
-"skip": true
+"tp": "Letter puzzles",
+"n": "ANTAGONISES has no U.",
+"s": "VR"
 },
 "25sf1-083": {
 "tp": "Ratios",
@@ -361,10 +410,19 @@
 "s": "AM"
 },
 "25sf1-085": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25sf1-086": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Persimmon : ___ :: Cottontail : Rabbit",
+"o": [
+"Berry",
+"Cinnamon",
+"Badge"
+],
+"n": "A persimmon is a kind of berry; a cottontail is a kind of rabbit.",
+"s": "VR"
 },
 "25sf1-087": {
 "tp": "Sound",
@@ -375,7 +433,14 @@
 "s": "AM"
 },
 "25sf1-088": {
-"skip": true
+"tp": "Energy",
+"q": "Who invented the first geothermal plant?",
+"o": [
+"Guglielmo Marconi",
+"Piero Ginori Conti",
+"Enrico Fermi"
+],
+"s": "GK"
 },
 "25sf1-089": {
 "skip": true
@@ -441,79 +506,115 @@
 "skip": true
 },
 "25sf1-105": {
-"skip": true
+"tp": "Animals"
 },
 "25sf1-106": {
-"skip": true
+"tp": "Culture",
+"q": "Which is the Western Zodiac sign of someone born on January 28?",
+"o": [
+"Aquarius",
+"Pisces",
+"Capricorn"
+]
 },
 "25sf1-107": {
-"skip": true
+"tp": "Transport",
+"q": "Which of the following is not a component of a ship?",
+"o": [
+"Foretop",
+"Foredeck",
+"Foreshank"
+]
 },
 "25sf1-108": {
-"skip": true
+"tp": "Sport"
 },
 "25sf1-109": {
-"skip": true
+"tp": "Sport",
+"q": "In which country were the 2008 Olympics held?"
 },
 "25sf1-110": {
-"skip": true
+"tp": "Music"
 },
 "25sf1-111": {
-"skip": true
+"tp": "Animals",
+"k": "Seahorse"
 },
 "25sf1-112": {
-"skip": true
+"tp": "History"
 },
 "25sf1-113": {
-"skip": true
+"tp": "Sport",
+"k": "Pele",
+"a": "Miroslav Klose",
+"t": "d",
+"n": "The show's bar read Pelé, who scored 12. Miroslav Klose holds the record with 16 World Cup goals (2002 to 2014)."
 },
 "25sf1-114": {
-"skip": true
+"tp": "Languages",
+"q": "Which three-syllable Italian word for \"little shadow\" names a hand-held device to keep dry during rain?"
 },
 "25sf1-115": {
-"skip": true
+"tp": "Economics"
 },
 "25sf1-116": {
-"skip": true
+"tp": "Technology"
 },
 "25sf1-117": {
-"skip": true
+"tp": "Science",
+"n": "Po (polonium) + Li (lithium) + O (oxygen) spells PoLiO."
 },
 "25sf1-118": {
-"skip": true
+"tp": "Languages"
 },
 "25sf1-119": {
-"skip": true
+"tp": "Sport"
 },
 "25sf1-120": {
-"skip": true
+"tp": "Languages"
 },
 "25sf1-121": {
-"skip": true
+"tp": "Technology",
+"k": "Operating system"
 },
 "25sf1-122": {
-"skip": true
+"tp": "History"
 },
 "25sf1-123": {
-"skip": true
+"tp": "Culture",
+"o": [
+"Reality",
+"Beauty",
+"Evil"
+],
+"k": "Beauty"
 },
 "25sf1-124": {
-"skip": true
+"tp": "Sport"
 },
 "25sf1-125": {
-"skip": true
+"tp": "Culture"
 },
 "25sf1-126": {
-"skip": true
+"tp": "Geography",
+"k": "Antarctica"
 },
 "25sf1-127": {
-"skip": true
+"tp": "Sport",
+"q": "Which is Usain Bolt's blistering 100m world record time?",
+"o": [
+"9.69s",
+"9.58s",
+"9.47s"
+],
+"k": "9.58s"
 },
 "25sf1-128": {
-"skip": true
+"tp": "Languages"
 },
 "25sf1-129": {
-"skip": true
+"tp": "Sport",
+"k": "Enzo Fernández"
 },
 "25sf1-130": {
 "tp": "Growth",
@@ -754,13 +855,27 @@
 "k": "3.80"
 },
 "25sf1-177": {
-"skip": true
+"tp": "Analogies",
+"k": "Sand"
 },
 "25sf1-178": {
-"skip": true
+"tp": "Vocabulary",
+"q": "The scientist was known for his ___ approach to solving problems.",
+"o": [
+"Methodical",
+"Haphazard",
+"Random"
+],
+"k": "Methodical"
 },
 "25sf1-179": {
-"skip": true
+"tp": "Analogies",
+"q": "Keyboard is to Typing as Mouse is to",
+"o": [
+"Scrolling",
+"Clicking",
+"Pointing"
+]
 },
 "25sf1-180": {
 "skip": true
@@ -769,7 +884,15 @@
 "skip": true
 },
 "25sf1-182": {
-"skip": true
+"tp": "Odd one out",
+"q": "Which is the odd one here?",
+"o": [
+"Rescind",
+"Revoke",
+"Change"
+],
+"k": "Change",
+"n": "Rescind and revoke both mean to cancel."
 },
 "25sf1-183": {
 "skip": true
@@ -778,37 +901,92 @@
 "skip": true
 },
 "25sf1-185": {
-"skip": true
+"tp": "Number series",
+"q": "What will be the missing number in the series 196, 169, ___, 121, 100, 81?",
+"k": "144",
+"n": "These are 14², 13², 12², 11², 10², 9²."
 },
 "25sf1-186": {
-"skip": true
+"tp": "Analogies",
+"q": "What will fill in the gap in the analogy Carbon : Diamond :: Corundum : ?",
+"o": [
+"Horse",
+"Ruby",
+"Eagle"
+],
+"k": "Ruby",
+"n": "Diamond is a gem form of carbon; ruby is a gem form of corundum."
 },
 "25sf1-187": {
-"skip": true
+"tp": "Odd one out",
+"q": "Choose the word which is different from the rest: Kiwi, Ostrich, Emu, Eagle.",
+"k": "Eagle",
+"n": "The other three birds cannot fly."
 },
 "25sf1-188": {
-"skip": true
+"tp": "Antonyms",
+"q": "Give the antonym of the word: STARTLED",
+"o": [
+"Relaxed",
+"Amused",
+"Endless"
+]
 },
 "25sf1-189": {
-"skip": true
+"tp": "Odd one out",
+"q": "Pick the odd man out",
+"o": [
+"Liking",
+"Hate",
+"Fondness"
+],
+"k": "Hate"
 },
 "25sf1-190": {
-"skip": true
+"tp": "Idioms",
+"q": "Meaning of \"He let the grass grow under his feet\"",
+"o": [
+"Stayed out",
+"Procrastinated",
+"Moved away"
+],
+"k": "Procrastinated"
 },
 "25sf1-191": {
-"skip": true
+"tp": "Analogies",
+"q": "Clock is to Time as Thermometer is to",
+"o": [
+"Humidity",
+"Pressure",
+"Temperature"
+]
 },
 "25sf1-192": {
-"skip": true
+"tp": "Analogies",
+"q": "What is the relationship between \"Key\" and \"Lock\"?",
+"o": [
+"Tool and function",
+"Cause and effect",
+"Part and whole"
+]
 },
 "25sf1-193": {
-"skip": true
+"tp": "Analogies"
 },
 "25sf1-194": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Rain : Sodden :: Soot : ___",
+"o": [
+"Grimy",
+"Frost",
+"Gaudy"
+],
+"k": "Grimy"
 },
 "25sf1-195": {
-"skip": true
+"tp": "Directions",
+"k": "South",
+"n": "South-West turning into North is a half turn, so North-East turns into South."
 },
 "25sf1-196": {
 "skip": true

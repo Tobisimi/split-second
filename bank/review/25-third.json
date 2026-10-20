@@ -71,10 +71,12 @@
 "s": "DA"
 },
 "25thd-020": {
-"skip": true
+"tp": "Energy",
+"s": "GK"
 },
 "25thd-021": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25thd-022": {
 "tp": "Trigonometry",
@@ -83,7 +85,8 @@
 "s": "AM"
 },
 "25thd-023": {
-"skip": true
+"tp": "Culture",
+"s": "GK"
 },
 "25thd-024": {
 "tp": "Chemistry calculations",
@@ -92,7 +95,9 @@
 "s": "AM"
 },
 "25thd-025": {
-"skip": true
+"tp": "Film",
+"q": "In Titanic, what did Cal give Rose as a gift?",
+"s": "GK"
 },
 "25thd-026": {
 "tp": "Permutations",
@@ -112,7 +117,9 @@
 "s": "AM"
 },
 "25thd-029": {
-"skip": true
+"tp": "Synonyms",
+"q": "What is the synonym of \"Cumbersome\"?",
+"s": "VR"
 },
 "25thd-030": {
 "tp": "z-scores",
@@ -120,10 +127,14 @@
 "s": "DA"
 },
 "25thd-031": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25thd-032": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Mosaic : Tile :: ___ : Frame",
+"n": "A mosaic is made of tiles; a film is made of frames.",
+"s": "VR"
 },
 "25thd-033": {
 "tp": "AC circuits",
@@ -181,7 +192,9 @@
 "s": "DA"
 },
 "25thd-043": {
-"skip": true
+"tp": "Number series",
+"n": "Each Fibonacci number is the sum of the two before it, so 3 + 5 = 8, not 7.",
+"s": "VR"
 },
 "25thd-044": {
 "tp": "Sets",
@@ -227,7 +240,9 @@
 "s": "DA"
 },
 "25thd-052": {
-"skip": true
+"tp": "Culture",
+"k": "Salsa",
+"s": "GK"
 },
 "25thd-053": {
 "tp": "Ages",
@@ -241,7 +256,14 @@
 "s": "AM"
 },
 "25thd-055": {
-"skip": true
+"tp": "Analogies",
+"q": "Find the missing word Earth : Gravitation :: Ice : ___",
+"o": [
+"Transparency",
+"Coldness",
+"Hardness"
+],
+"s": "VR"
 },
 "25thd-056": {
 "tp": "z-scores",
@@ -280,7 +302,14 @@
 "s": "AM"
 },
 "25thd-063": {
-"skip": true
+"tp": "History",
+"q": "Who was the second man on the moon?",
+"o": [
+"Michael Collins",
+"Neil Armstrong",
+"Buzz Aldrin"
+],
+"s": "GK"
 },
 "25thd-064": {
 "tp": "Growth",
@@ -304,7 +333,14 @@
 "s": "AM"
 },
 "25thd-068": {
-"skip": true
+"tp": "Literature",
+"q": "Whose nose grew longer when he told a lie in the children's story \"Le Avventure di Pinocchio\"?",
+"o": [
+"Nochinchio",
+"Timmy Talltale",
+"Pinocchio"
+],
+"s": "GK"
 },
 "25thd-069": {
 "tp": "Linear cost",
@@ -319,7 +355,15 @@
 "s": "AM"
 },
 "25thd-071": {
-"skip": true
+"tp": "Food",
+"q": "Which Mexican dish sometimes includes avocado for added creaminess?",
+"o": [
+"Quesadilla",
+"Guacamole",
+"Salsa"
+],
+"k": "Salsa",
+"s": "GK"
 },
 "25thd-072": {
 "skip": true
@@ -343,7 +387,9 @@
 "s": "AM"
 },
 "25thd-076": {
-"skip": true
+"tp": "Letter series",
+"n": "E, G, I, K, M and F, H, J, L, N, with L and A fixed: KLLA.",
+"s": "VR"
 },
 "25thd-077": {
 "tp": "Rates",
@@ -352,7 +398,15 @@
 "s": "AM"
 },
 "25thd-078": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Hindu : Temple :: Sikh : ___",
+"o": [
+"Gurdwara",
+"Church",
+"Mosque"
+],
+"k": "Gurdwara",
+"s": "VR"
 },
 "25thd-079": {
 "tp": "Arithmetic",
@@ -365,7 +419,14 @@
 "s": "DA"
 },
 "25thd-081": {
-"skip": true
+"tp": "Antonyms",
+"q": "What is the opposite of \"Optimistic\"?",
+"o": [
+"Positive",
+"Hopeful",
+"Pessimistic"
+],
+"s": "VR"
 },
 "25thd-082": {
 "tp": "Mean",
@@ -509,145 +570,292 @@
 "k": "9:4"
 },
 "25thd-111": {
-"skip": true
+"tp": "Odd one out"
 },
 "25thd-112": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Insert : Book :: Annex : ___",
+"o": [
+"Building",
+"Page",
+"Wing"
+],
+"k": "Building",
+"n": "An insert is added to a book; an annex is added to a building."
 },
 "25thd-113": {
-"skip": true
+"tp": "Directions",
+"k": "East",
+"a": "West",
+"t": "d",
+"n": "The show's bar read East. At 10:30 am the sun is in the east, so shadows point west; with her shadow in front of her she is walking west."
 },
 "25thd-114": {
-"skip": true
+"tp": "Synonyms",
+"q": "What is the synonym of \"Belligerent\"?",
+"o": [
+"Friendly",
+"Peaceful",
+"Aggressive"
+],
+"k": "Aggressive"
 },
 "25thd-115": {
-"skip": true
+"tp": "Alphabet",
+"k": "M and N",
+"n": "26 letters: M is the 13th and N the 14th."
 },
 "25thd-116": {
-"skip": true
+"tp": "Number series",
+"q": "What is the next number in the following pattern? 10, 20, 15, 30, 25, 50, ___",
+"n": "Double, then take away 5, in turn: 50 − 5 = 45."
 },
 "25thd-117": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the analogy Paw : Cat :: Hoof : ___",
+"o": [
+"Lion",
+"Horse",
+"Donkey"
+],
+"k": "Horse",
+"n": "A donkey has hooves too, so either fits."
 },
 "25thd-118": {
-"skip": true
+"tp": "Blood relations",
+"q": "Wasiu points to a photo and says, \"He is the son of the only son of my grandfather.\" How is he related to Wasiu?",
+"n": "The only son of Wasiu's grandfather is Wasiu's father, so the man is Wasiu's brother."
 },
 "25thd-119": {
-"skip": true
+"tp": "Coding",
+"q": "If 'BE' is related to 'GJ', then 'PS' is related to ?",
+"n": "Each letter moves 5 places on: P, S becomes U, X."
 },
 "25thd-120": {
-"skip": true
+"tp": "Number series",
+"q": "Determine the next number in this series 3, 6, 11, 19, ___",
+"k": "31",
+"n": "The gaps 3, 5, 8, 12 grow by 2, 3, 4."
 },
 "25thd-121": {
-"skip": true
+"tp": "Analogies"
 },
 "25thd-122": {
-"skip": true
+"tp": "Odd one out",
+"n": "Sublimation, filtration and centrifugation are ways of separating mixtures; condensation is a change of state."
 },
 "25thd-123": {
-"skip": true
+"tp": "Analogies",
+"k": "Pool"
 },
 "25thd-124": {
-"skip": true
+"tp": "Letter series",
+"q": "Which letter should come next in the series D, I, N, S to continue the pattern?",
+"k": "X",
+"n": "Each letter is 5 places after the last: D, I, N, S, X."
 },
 "25thd-125": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Exasperate : Irk :: ___ : Dissuade",
+"o": [
+"Prevent",
+"Argue",
+"Dismiss"
+],
+"n": "Exasperate is a stronger irk; prevent is a stronger dissuade."
 },
 "25thd-126": {
-"skip": true
+"tp": "Number series",
+"q": "Find the missing number in this: 1, 3, ___, 41, 206",
+"k": "10",
+"n": "Multiply by 2, 3, 4, 5 and add 1 each time: 3 × 3 + 1 = 10."
 },
 "25thd-127": {
-"skip": true
+"tp": "Synonyms",
+"q": "Another word for EMBEZZLE",
+"o": [
+"Remunerate",
+"Misappropriate",
+"Balance"
+],
+"k": "Misappropriate"
 },
 "25thd-128": {
-"skip": true
+"tp": "Idioms",
+"q": "Choose the one that best conveys the meaning of the idiom: To beg the question",
+"o": [
+"To raise objections",
+"To refer to",
+"To take for granted"
+],
+"k": "To raise objections",
+"a": "To take for granted",
+"t": "d",
+"n": "The show's bar read To raise objections. Begging the question means assuming the very thing you are trying to prove, that is, taking it for granted."
 },
 "25thd-129": {
-"skip": true
+"tp": "Word puzzles",
+"k": "Racecar"
 },
 "25thd-130": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Algebra : Calculus :: ___ : Surgery",
+"o": [
+"Anatomy",
+"Doctor",
+"Philosophy"
+],
+"n": "Algebra comes before calculus; anatomy comes before surgery."
 },
 "25thd-131": {
-"skip": true
+"tp": "Odd one out",
+"n": "The others are months."
 },
 "25thd-132": {
-"skip": true
+"tp": "Number series",
+"q": "What is the next number in the series 5, 8, 16, 19, 57, 60, ?",
+"n": "Add 3, then multiply by 2, 3, 4 in turn: 60 × 4 = 240."
 },
 "25thd-133": {
-"skip": true
+"tp": "Health",
+"q": "Which word does NOT belong with the others?",
+"o": [
+"Stomach",
+"Aorta",
+"Heart"
+],
+"n": "The stomach and heart are organs; the aorta is a blood vessel."
 },
 "25thd-134": {
 "skip": true
 },
 "25thd-135": {
-"skip": true
+"tp": "Sport",
+"q": "Which continent has the richest soccer clubs?",
+"o": [
+"North America",
+"Europe",
+"Africa"
+],
+"k": "Europe"
 },
 "25thd-136": {
-"skip": true
+"tp": "Geography",
+"k": "Bolivia"
 },
 "25thd-137": {
-"skip": true
+"tp": "Geography",
+"k": "Cuba"
 },
 "25thd-138": {
-"skip": true
+"tp": "Health",
+"k": "Diaphragm"
 },
 "25thd-139": {
-"skip": true
+"tp": "Economics",
+"k": "Bullion"
 },
 "25thd-140": {
-"skip": true
+"tp": "Geography"
 },
 "25thd-141": {
-"skip": true
+"tp": "Film",
+"q": "Who was the wife of Ned Stark in \"Game of Thrones\"?",
+"o": [
+"Daenerys",
+"Catelyn",
+"Sansa"
+],
+"k": "Catelyn"
 },
 "25thd-142": {
-"skip": true
+"tp": "Agriculture",
+"q": "The world's largest coconut producer in 2024 is",
+"o": [
+"Indonesia",
+"Nigeria",
+"Ecuador"
+],
+"k": "Indonesia"
 },
 "25thd-143": {
-"skip": true
+"tp": "History",
+"q": "Which concept was traditionally used in measuring the height of Mount Everest?",
+"o": [
+"Binomial expansion",
+"Bearing",
+"Trigonometry"
+]
 },
 "25thd-144": {
-"skip": true
+"tp": "Sport",
+"q": "Before Andy Murray, who was the last British tennis player to win a men's singles Grand Slam tournament?",
+"o": [
+"Fred Perry",
+"Pete Sampras",
+"Roger Federer"
+]
 },
 "25thd-145": {
-"skip": true
+"tp": "Geography",
+"k": "South Sudan"
 },
 "25thd-146": {
-"skip": true
+"tp": "Agriculture",
+"k": "Ethiopia"
 },
 "25thd-147": {
-"skip": true
+"tp": "Sport",
+"k": "Manchester United"
 },
 "25thd-148": {
-"skip": true
+"tp": "Agriculture",
+"q": "Which country is the largest producer of cocoa in Africa?",
+"o": [
+"Cote d'Ivoire",
+"Nigeria",
+"Ghana"
+],
+"k": "Cote d'Ivoire"
 },
 "25thd-149": {
-"skip": true
+"tp": "Sport",
+"k": "Tennis"
 },
 "25thd-150": {
-"skip": true
+"tp": "Science",
+"k": "Refraction"
 },
 "25thd-151": {
-"skip": true
+"tp": "Music",
+"k": "Coffee"
 },
 "25thd-152": {
-"skip": true
+"tp": "Geography",
+"k": "Gulf Stream"
 },
 "25thd-153": {
-"skip": true
+"tp": "Science",
+"q": "Which element of the actinide series is named indirectly after a Greek god whose name means \"the wealthy\"?",
+"k": "Plutonium",
+"n": "The screen read \"a Greek daughter's name the wealthy\". Plutonium is named after the dwarf planet Pluto, named after the god Pluto (Plouton, \"the wealthy one\")."
 },
 "25thd-154": {
-"skip": true
+"tp": "Animals",
+"k": "Human"
 },
 "25thd-155": {
-"skip": true
+"tp": "Sport",
+"k": "Australian football (AFL)"
 },
 "25thd-156": {
-"skip": true
+"tp": "History",
+"k": "Britain"
 },
 "25thd-157": {
-"skip": true
+"tp": "Animals",
+"q": "___ is the name of a baby goat.",
+"k": "Kid"
 },
 "25thd-158": {
 "tp": "Quartile deviation",

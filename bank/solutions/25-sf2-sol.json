@@ -587,5 +587,534 @@
    "1"
   ],
   "comment": ""
+ },
+ "25-sf2-qb-1245": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Sahara",
+   "Antarctica"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1255": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Shoal"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1259": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1270": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Painting",
+   "Art"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1274": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1278": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Pleasure"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1306": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1321": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1331": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Local area network"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1398": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1432": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1769": {
+  "solution": "3/11 × 2/10 = 6/110 = 3/55.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1786": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1794": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1815": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1819": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1864": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1876": {
+  "solution": "Totals 9, 10, 11, 12 come up 4 + 3 + 2 + 1 = 10 ways of 36: 10/36 = 5/18.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1898": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Kickoff",
+   "Kick off"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1908": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1930": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1943": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1971": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Exciting atmosphere",
+   "Exciting"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1976": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-qb-1986": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Forsake",
+   "Leave"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-1989": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Wake up"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-2000": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Pacific"
+  ],
+  "comment": ""
+ },
+ "25-sf2-qb-2007": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2283": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2287": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2290": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2294": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2304": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2310": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2317": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2324": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2327": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2330": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2335": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Submissive"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2338": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2347": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2349": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2354": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2356": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2362": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2370": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2377": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2381": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2386": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2388": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2392": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Grief"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2396": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Reveal a secret"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2399": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2403": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Decommissioned"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2422": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2426": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2430": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2435": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2439": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Bulova"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2445": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2453": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Thailand"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2461": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2468": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "C"
+  ],
+  "comment": ""
+ },
+ "25-sf2-bm-2476": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2483": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2490": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2495": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2500": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2511": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-sf2-bm-2542": {
+  "solution": "Every value is both the largest and the smallest, so the range is 0.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
  }
 }

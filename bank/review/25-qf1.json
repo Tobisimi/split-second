@@ -3,19 +3,32 @@
 "skip": true
 },
 "25qf1-002": {
-"skip": true
+"tp": "Animals",
+"o": [
+"Blackback",
+"Redhair",
+"Silver"
+],
+"k": "Blackback",
+"s": "GK"
 },
 "25qf1-003": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf1-004": {
-"skip": true
+"tp": "Culture",
+"s": "GK"
 },
 "25qf1-005": {
-"skip": true
+"tp": "Fashion",
+"q": "Who designed Audrey Hepburn's famous black dress in \"Breakfast at Tiffany's\"?",
+"s": "GK"
 },
 "25qf1-006": {
-"skip": true
+"tp": "Film",
+"q": "In \"Pirates of the Caribbean\", what is the name of Captain Barbossa's monkey?",
+"s": "GK"
 },
 "25qf1-007": {
 "tp": "Pharmacy calculations",
@@ -77,7 +90,9 @@
 "s": "DA"
 },
 "25qf1-017": {
-"skip": true
+"tp": "Analogies",
+"n": "Voracious is a stronger eager; famished is a stronger ravenous.",
+"s": "VR"
 },
 "25qf1-018": {
 "tp": "Probability",
@@ -125,7 +140,12 @@
 "s": "AM"
 },
 "25qf1-027": {
-"skip": true
+"tp": "Seating arrangements",
+"k": "S",
+"a": "X",
+"t": "d",
+"n": "The show's bar read S. A cannot be at the left end with R on his left, so A is at the right end with R beside him, P is at the left end, and X takes the seat next to P.",
+"s": "VR"
 },
 "25qf1-028": {
 "tp": "Magnification",
@@ -177,7 +197,9 @@
 "s": "DA"
 },
 "25qf1-036": {
-"skip": true
+"tp": "Riddles",
+"n": "Three ducks in a line fit every clue.",
+"s": "VR"
 },
 "25qf1-037": {
 "tp": "Magnification",
@@ -185,10 +207,19 @@
 "s": "AM"
 },
 "25qf1-038": {
-"skip": true
+"tp": "Literature",
+"q": "What star sign is Harry Potter?",
+"o": [
+"Gemini",
+"Scorpio",
+"Leo"
+],
+"n": "Harry was born on 31 July.",
+"s": "GK"
 },
 "25qf1-039": {
-"skip": true
+"tp": "Science",
+"s": "GK"
 },
 "25qf1-040": {
 "tp": "Percentages",
@@ -207,16 +238,26 @@
 "s": "DA"
 },
 "25qf1-042": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25qf1-043": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25qf1-044": {
 "skip": true
 },
 "25qf1-045": {
-"skip": true
+"tp": "Vocabulary",
+"q": "Choose the option that best completes the gap: Everyone makes a mistake occasionally, nobody is ___",
+"o": [
+"Imperfect",
+"Infallible",
+"Indestructible"
+],
+"k": "Infallible",
+"s": "VR"
 },
 "25qf1-046": {
 "tp": "Probability",
@@ -249,7 +290,8 @@
 "s": "AM"
 },
 "25qf1-052": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25qf1-053": {
 "tp": "Units",
@@ -264,7 +306,8 @@
 "s": "AM"
 },
 "25qf1-055": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf1-056": {
 "tp": "Arithmetic",
@@ -279,10 +322,14 @@
 "skip": true
 },
 "25qf1-059": {
-"skip": true
+"tp": "Energy",
+"s": "GK"
 },
 "25qf1-060": {
-"skip": true
+"tp": "Letter series",
+"k": "KL",
+"n": "Pairs of letters in order: EF, GH, IJ, KL.",
+"s": "VR"
 },
 "25qf1-061": {
 "tp": "Percentages",
@@ -447,13 +494,17 @@
 "k": "10 ways"
 },
 "25qf1-092": {
-"skip": true
+"tp": "Food",
+"k": "Moscow",
+"s": "GK"
 },
 "25qf1-093": {
-"skip": true
+"tp": "Animals",
+"s": "GK"
 },
 "25qf1-094": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf1-095": {
 "tp": "Combinations"
@@ -481,7 +532,8 @@
 "skip": true
 },
 "25qf1-099": {
-"skip": true
+"tp": "Health",
+"s": "GK"
 },
 "25qf1-100": {
 "skip": true
@@ -496,16 +548,26 @@
 "s": "AM"
 },
 "25qf1-103": {
-"skip": true
+"tp": "Analogies",
+"q": "Find the missing word CUP : LIP :: BIRD : ?",
+"k": "Beak",
+"n": "The lip is the rim of a cup; the beak is the mouth of a bird.",
+"s": "VR"
 },
 "25qf1-104": {
-"skip": true
+"tp": "Letter puzzles",
+"q": "Which cannot be formed from CONCEPTUALIZATION?",
+"n": "CONCEPTUALIZATION has no R.",
+"s": "VR"
 },
 "25qf1-105": {
 "skip": true
 },
 "25qf1-106": {
-"skip": true
+"tp": "Literature",
+"q": "How many rings of power were made for the elves in \"The Lord of the Rings\"?",
+"k": "3",
+"s": "GK"
 },
 "25qf1-107": {
 "skip": true
@@ -514,55 +576,88 @@
 "skip": true
 },
 "25qf1-109": {
-"skip": true
+"tp": "Science",
+"q": "The emission of radiation in a similar manner to fluorescence but on a longer timescale so that emission continues after excitation ceases is called",
+"s": "GK"
 },
 "25qf1-110": {
-"skip": true
+"tp": "Science",
+"k": "Stratosphere",
+"s": "GK"
 },
 "25qf1-111": {
-"skip": true
+"tp": "Health",
+"k": "Vitamin D",
+"s": "GK"
 },
 "25qf1-112": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25qf1-113": {
 "skip": true
 },
 "25qf1-114": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25qf1-115": {
-"skip": true
+"tp": "History",
+"k": "Columbus",
+"s": "GK"
 },
 "25qf1-116": {
-"skip": true
+"tp": "Fashion",
+"q": "Anna Wintour has held which position at Vogue since 1988?",
+"o": [
+"Editor-in-Chief",
+"Manager",
+"CEO"
+],
+"k": "Editor-in-Chief",
+"s": "GK"
 },
 "25qf1-117": {
 "skip": true
 },
 "25qf1-118": {
-"skip": true
+"tp": "History",
+"k": "Italy",
+"s": "GK"
 },
 "25qf1-119": {
-"skip": true
+"tp": "Sport",
+"k": "LeBron James",
+"s": "GK"
 },
 "25qf1-120": {
-"skip": true
+"tp": "Sport",
+"k": "Tennis",
+"s": "GK"
 },
 "25qf1-121": {
-"skip": true
+"tp": "Politics",
+"s": "GK"
 },
 "25qf1-122": {
-"skip": true
+"tp": "Sport",
+"k": "3",
+"s": "GK"
 },
 "25qf1-123": {
-"skip": true
+"tp": "History",
+"q": "In 2008 Nigeria ceded the Bakassi Peninsula to Cameroon. The World Court ordered that transfer, based on a 1913 treaty between which two colonial powers?",
+"k": "Germany and UK",
+"s": "GK"
 },
 "25qf1-124": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf1-125": {
-"skip": true
+"tp": "Space",
+"k": "Phoenix",
+"s": "GK"
 },
 "25qf1-126": {
 "skip": true
@@ -583,7 +678,9 @@
 "skip": true
 },
 "25qf1-132": {
-"skip": true
+"tp": "Algebra",
+"k": "23",
+"s": "AM"
 },
 "25qf1-133": {
 "skip": true
@@ -601,16 +698,35 @@
 "s": "DA"
 },
 "25qf1-136": {
-"skip": true
+"tp": "Letter series",
+"q": "Complete the series AYD, BVF, DRH, ?, KGL",
+"o": [
+"GMJ",
+"GLJ",
+"FMI"
+],
+"k": "GMJ",
+"n": "First letters A, B, D, G, K (gaps 1, 2, 3, 4); middle letters Y, V, R, M, G (back 3, 4, 5, 6); last letters D, F, H, J, L.",
+"s": "VR"
 },
 "25qf1-137": {
-"skip": true
+"tp": "Analogies",
+"o": [
+"Grammar",
+"Letter",
+"Language"
+],
+"k": "Letter",
+"n": "Molecules are made of atoms; words are made of letters.",
+"s": "VR"
 },
 "25qf1-138": {
 "skip": true
 },
 "25qf1-139": {
-"skip": true
+"tp": "Literature",
+"k": "Stratford-upon-Avon",
+"s": "GK"
 },
 "25qf1-140": {
 "tp": "Magnification",
@@ -630,7 +746,10 @@
 "s": "AM"
 },
 "25qf1-142": {
-"skip": true
+"tp": "Analogies",
+"k": "Median",
+"n": "A net divides a court; a median divides a highway.",
+"s": "VR"
 },
 "25qf1-143": {
 "tp": "Mean, median and mode",
@@ -678,7 +797,8 @@
 "s": "AM"
 },
 "25qf1-152": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25qf1-153": {
 "tp": "Probability",
@@ -686,10 +806,16 @@
 "s": "DA"
 },
 "25qf1-154": {
-"skip": true
+"tp": "History",
+"s": "GK"
 },
 "25qf1-155": {
-"skip": true
+"tp": "Letter series",
+"k": "O",
+"a": "P",
+"t": "d",
+"n": "The show's bar read O. The gaps alternate 3, 2, 3, 2, so the next gap is 3: M + 3 = P.",
+"s": "VR"
 },
 "25qf1-156": {
 "tp": "Ratios",
@@ -702,13 +828,18 @@
 "s": "AM"
 },
 "25qf1-158": {
-"skip": true
+"tp": "Letter positions",
+"n": "Removing every second letter leaves H R A H O I E; the 5th from the right is A.",
+"s": "VR"
 },
 "25qf1-159": {
-"skip": true
+"tp": "Culture",
+"s": "GK"
 },
 "25qf1-160": {
-"skip": true
+"tp": "Antonyms",
+"q": "Choose the word that is nearly opposite in meaning to the word \"ratified\"",
+"s": "VR"
 },
 "25qf1-161": {
 "tp": "Median",
@@ -744,7 +875,14 @@
 "s": "AM"
 },
 "25qf1-167": {
-"skip": true
+"tp": "Geography",
+"o": [
+"Accra",
+"Cotonou",
+"Mogadishu"
+],
+"k": "Accra",
+"s": "GK"
 },
 "25qf1-168": {
 "skip": true
@@ -801,7 +939,10 @@
 "skip": true
 },
 "25qf1-176": {
-"skip": true
+"tp": "Ordering",
+"k": "4231",
+"n": "Gather the ingredients, spread the condiments, assemble the layers, then cut and serve.",
+"s": "VR"
 },
 "25qf1-177": {
 "tp": "Percentages",
@@ -809,7 +950,8 @@
 "s": "AM"
 },
 "25qf1-178": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf1-179": {
 "tp": "Probability",
@@ -817,7 +959,8 @@
 "s": "DA"
 },
 "25qf1-180": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf1-181": {
 "tp": "Percentages",
@@ -831,10 +974,15 @@
 "s": "AM"
 },
 "25qf1-183": {
-"skip": true
+"tp": "Film",
+"q": "In the movie \"Pirates of the Caribbean\", what is the name of Jack Sparrow's ship?",
+"k": "Black Pearl",
+"s": "GK"
 },
 "25qf1-184": {
-"skip": true
+"tp": "Sport",
+"k": "College Football",
+"s": "GK"
 },
 "25qf1-185": {
 "tp": "Rates",
@@ -849,61 +997,98 @@
 "s": "DA"
 },
 "25qf1-187": {
-"skip": true
+"tp": "Probability",
+"k": "45%",
+"t": "w",
+"s": "DA"
 },
 "25qf1-188": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf1-189": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf1-190": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf1-191": {
-"skip": true
+"tp": "Animals",
+"s": "GK"
 },
 "25qf1-192": {
-"skip": true
+"tp": "Science",
+"o": [
+"Telemetry",
+"Space travel",
+"Magnetic levitation"
+],
+"k": "Telemetry",
+"s": "GK"
 },
 "25qf1-193": {
-"skip": true
+"tp": "Music",
+"k": "Un-Break My Heart",
+"s": "GK"
 },
 "25qf1-194": {
 "skip": true
 },
 "25qf1-195": {
-"skip": true
+"tp": "History",
+"s": "GK"
 },
 "25qf1-196": {
-"skip": true
+"tp": "Science",
+"k": "Lactic acid",
+"s": "GK"
 },
 "25qf1-197": {
-"skip": true
+"tp": "Geography",
+"k": "Peru",
+"s": "GK"
 },
 "25qf1-198": {
-"skip": true
+"tp": "Science",
+"s": "GK"
 },
 "25qf1-199": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf1-200": {
-"skip": true
+"tp": "Geography",
+"q": "Unimak is the largest island in which island chain?",
+"k": "Aleutian",
+"s": "GK"
 },
 "25qf1-201": {
-"skip": true
+"tp": "Fashion",
+"q": "Who designed Beyonce's glitter ball-inspired cowboy hat?",
+"o": [
+"Abby Misbin",
+"Audrey Hepburn",
+"Max Nelson"
+],
+"s": "GK"
 },
 "25qf1-202": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf1-203": {
-"skip": true
+"tp": "Economics",
+"s": "GK"
 },
 "25qf1-204": {
-"skip": true
+"tp": "Music",
+"s": "GK"
 },
 "25qf1-205": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf1-206": {
 "skip": true
@@ -980,55 +1165,103 @@
 "skip": true
 },
 "25qf1-221": {
-"skip": true
+"tp": "Vocabulary",
+"k": "Diplomatic",
+"s": "VR"
 },
 "25qf1-222": {
 "skip": true
 },
 "25qf1-223": {
-"skip": true
+"tp": "Analogies",
+"k": "Cat",
+"s": "VR"
 },
 "25qf1-224": {
-"skip": true
+"tp": "Letter puzzles",
+"s": "VR"
 },
 "25qf1-225": {
-"skip": true
+"tp": "Blood relations",
+"q": "L is the father of K, K is the brother of M and M is the wife of P. What is P to K?",
+"k": "Brother-in-law",
+"n": "P is married to K's sister, so P is K's brother-in-law.",
+"s": "VR"
 },
 "25qf1-226": {
-"skip": true
+"tp": "Letter series",
+"q": "Complete the series A, D, H, M, ?, Z",
+"o": [
+"S",
+"N",
+"G"
+],
+"k": "S",
+"n": "The gaps grow 3, 4, 5, 6, 7: M + 6 = S, then S + 7 = Z.",
+"s": "VR"
 },
 "25qf1-227": {
-"skip": true
+"tp": "Analogies",
+"k": "Longitude",
+"s": "VR"
 },
 "25qf1-228": {
-"skip": true
+"tp": "Analogies",
+"n": "A press turns grapes into wine; a churn turns cream into butter.",
+"s": "VR"
 },
 "25qf1-229": {
-"skip": true
+"tp": "Algebra",
+"q": "Two bus tickets from Ikeja to Abeokuta and three tickets from Ikeja to Ibadan cost ₦770 but three tickets from Ikeja to Abeokuta and two tickets from Ikeja to Ibadan cost ₦730. What are the fares for Abeokuta and Ibadan from Ikeja?",
+"k": "₦130 and ₦170",
+"s": "AM"
 },
 "25qf1-230": {
-"skip": true
+"tp": "Vocabulary",
+"q": "Individuals who experience extremes in introversion and extraversion are called",
+"s": "VR"
 },
 "25qf1-231": {
-"skip": true
+"tp": "Idioms",
+"q": "The idiom \"Rain on someone's parade\" means:",
+"s": "VR"
 },
 "25qf1-232": {
-"skip": true
+"tp": "Arithmetic",
+"q": "In Roman numerals, what is the answer when V̄ (V bar) is divided by a product of IV and V?",
+"o": [
+"CC",
+"CCL",
+"CCD"
+],
+"k": "CCL",
+"s": "AM"
 },
 "25qf1-233": {
-"skip": true
+"tp": "Letter puzzles",
+"q": "Identify the word that cannot be formed from the letters of the word \"MACHINES\"",
+"n": "MACHINES has no L.",
+"s": "VR"
 },
 "25qf1-234": {
-"skip": true
+"tp": "Letter series",
+"q": "What is the next letter in the following arrangement: D I L Q T Y B G ?",
+"n": "Add 5, then 3, in turn, going round from Z to A: G + 3 = J.",
+"s": "VR"
 },
 "25qf1-235": {
-"skip": true
+"tp": "Sport",
+"k": "32",
+"s": "GK"
 },
 "25qf1-236": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf1-237": {
-"skip": true
+"tp": "Technology",
+"k": "Diesel",
+"s": "GK"
 },
 "25qf1-238": {
 "skip": true
@@ -1051,13 +1284,17 @@
 "tp": "Combinations"
 },
 "25qf1-242": {
-"skip": true
+"tp": "Animals",
+"s": "GK"
 },
 "25qf1-243": {
-"skip": true
+"tp": "Economics",
+"s": "GK"
 },
 "25qf1-244": {
-"skip": true
+"tp": "Sport",
+"k": "Ronaldinho",
+"s": "GK"
 },
 "25qf1-245": {
 "tp": "Combinations"

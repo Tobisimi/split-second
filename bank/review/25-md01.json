@@ -317,13 +317,16 @@
 "k": "56"
 },
 "25md01-075": {
-"skip": true
+"tp": "Economics",
+"s": "GK"
 },
 "25md01-076": {
-"skip": true
+"tp": "Science",
+"s": "GK"
 },
 "25md01-077": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25md01-078": {
 "tp": "Probability"
@@ -351,88 +354,134 @@
 "tp": "Permutations"
 },
 "25md01-085": {
-"skip": true
+"tp": "Culture",
+"s": "GK"
 },
 "25md01-086": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25md01-087": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25md01-088": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25md01-089": {
-"skip": true
+"tp": "Sport",
+"k": "Nwankwo Kanu",
+"s": "GK"
 },
 "25md01-090": {
-"skip": true
+"tp": "Economics",
+"s": "GK"
 },
 "25md01-091": {
-"skip": true
+"tp": "Energy",
+"q": "The uranium isotope used in nuclear power plants is",
+"k": "Uranium-235",
+"s": "GK"
 },
 "25md01-092": {
-"skip": true
+"tp": "Music",
+"s": "GK"
 },
 "25md01-093": {
 "skip": true
 },
 "25md01-094": {
-"skip": true
+"tp": "Health",
+"s": "GK"
 },
 "25md01-095": {
-"skip": true
+"tp": "Health",
+"s": "GK"
 },
 "25md01-096": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25md01-097": {
-"skip": true
+"tp": "Fashion",
+"k": "French",
+"s": "GK"
 },
 "25md01-098": {
-"skip": true
+"tp": "History",
+"k": "Ibrahim Aduku",
+"s": "GK"
 },
 "25md01-099": {
-"skip": true
+"tp": "Film",
+"q": "In Aquaman, what was the name of Atlantis' first ruler?",
+"s": "GK"
 },
 "25md01-100": {
-"skip": true
+"tp": "Geography",
+"q": "Which European country is divided into areas called cantons?",
+"k": "Switzerland",
+"s": "GK"
 },
 "25md01-101": {
-"skip": true
+"tp": "Literature",
+"s": "GK"
 },
 "25md01-102": {
-"skip": true
+"tp": "History",
+"q": "Who was the first man in space, with his vehicle circling the Earth at a speed of 27,400 kilometres per hour?",
+"s": "GK"
 },
 "25md01-103": {
-"skip": true
+"tp": "Analogies",
+"n": "Diaphanous means transparent; enigmatic means obscure.",
+"s": "VR"
 },
 "25md01-104": {
-"skip": true
+"tp": "Environment",
+"k": "1997",
+"s": "GK"
 },
 "25md01-105": {
-"skip": true
+"tp": "Vocabulary",
+"q": "What is the term for the list of what will be discussed, in the order in which it is to be taken up, at a meeting?",
+"s": "VR"
 },
 "25md01-106": {
-"skip": true
+"tp": "Environment",
+"s": "GK"
 },
 "25md01-107": {
-"skip": true
+"tp": "Agriculture",
+"s": "GK"
 },
 "25md01-108": {
-"skip": true
+"tp": "Analogies",
+"n": "Petals are part of a flower; the binding is part of a book.",
+"s": "VR"
 },
 "25md01-109": {
-"skip": true
+"tp": "Letter series",
+"k": "JKJ",
+"n": "Each group is a letter, the next letter, then the first again: JKJ.",
+"s": "VR"
 },
 "25md01-110": {
 "skip": true
 },
 "25md01-111": {
-"skip": true
+"tp": "Alphabet",
+"k": "J",
+"a": "Q",
+"t": "d",
+"n": "The show's bar read J. Written in reverse, the alphabet ends with A, so the 17th letter from that end is Q; J is the 17th letter counting from Z.",
+"s": "VR"
 },
 "25md01-112": {
-"skip": true
+"tp": "Analogies",
+"q": "If \"A is to B\" is like \"C is to D\", what is the relationship between A and C?",
+"s": "VR"
 },
 "25md01-113": {
 "skip": true
@@ -791,74 +840,119 @@
 "skip": true
 },
 "25md01-198": {
-"skip": true
+"tp": "Food",
+"s": "GK"
 },
 "25md01-199": {
-"skip": true
+"tp": "History",
+"s": "GK"
 },
 "25md01-200": {
-"skip": true
+"tp": "Analogies",
+"q": "If \"A is to B\" is like \"C is to D\", what is the relationship between A and C?",
+"s": "VR"
 },
 "25md01-201": {
-"skip": true
+"tp": "Geography",
+"q": "What is another term for \"Weathering\"?",
+"k": "Denudation",
+"s": "GK"
 },
 "25md01-202": {
 "tp": "Arithmetic",
 "s": "AM"
 },
 "25md01-203": {
-"skip": true
+"tp": "Odd one out",
+"q": "Out of the four words given below, three are similar in a certain way and one is different. Select the odd one: Spinach, Onion, Radish, Turnip.",
+"n": "Spinach is a leaf; onion, radish and turnip grow underground.",
+"s": "VR"
 },
 "25md01-204": {
 "skip": true
 },
 "25md01-205": {
-"skip": true
+"tp": "Energy",
+"s": "GK"
 },
 "25md01-206": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25md01-207": {
-"skip": true
+"tp": "Environment",
+"s": "GK"
 },
 "25md01-208": {
-"skip": true
+"tp": "Agriculture",
+"s": "GK"
 },
 "25md01-209": {
-"skip": true
+"tp": "Odd one out",
+"q": "From the given words, Veil, Turban, Helmet, Hat, choose the word which is different from the rest.",
+"n": "A veil covers the face; the others are worn on the head.",
+"s": "VR"
 },
 "25md01-210": {
-"skip": true
+"tp": "Analogies",
+"q": "Find the missing word Thermometer : Temperature :: Compass : ?",
+"s": "VR"
 },
 "25md01-211": {
-"skip": true
+"tp": "Letter series",
+"q": "Complete the series P5QR, P4QS, P3QT, ___, P1QV",
+"k": "P2QU",
+"n": "The number counts down and the last letter moves on: P2QU.",
+"s": "VR"
 },
 "25md01-212": {
-"skip": true
+"tp": "Odd one out",
+"n": "Linux and MS-DOS are operating systems; MS Office is a set of applications.",
+"s": "VR"
 },
 "25md01-213": {
 "skip": true
 },
 "25md01-214": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Hovel : Dirty :: Hub : ___",
+"o": [
+"Unseen",
+"Prideful",
+"Busy"
+],
+"k": "Busy",
+"s": "VR"
 },
 "25md01-215": {
-"skip": true
+"tp": "Geography",
+"k": "South Africa",
+"a": "Namibia",
+"t": "d",
+"n": "The show's bar read South Africa. The Namib lies mostly in Namibia, with its edges in Angola and South Africa.",
+"s": "GK"
 },
 "25md01-216": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25md01-217": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25md01-218": {
-"skip": true
+"tp": "Space",
+"k": "167 YEARS",
+"s": "GK"
 },
 "25md01-219": {
-"skip": true
+"tp": "Music",
+"k": "Beach boys",
+"s": "GK"
 },
 "25md01-220": {
-"skip": true
+"tp": "Food",
+"s": "GK"
 },
 "25md01-221": {
 "tp": "Topology",
@@ -866,28 +960,34 @@
 "s": "AM"
 },
 "25md01-222": {
-"skip": true
+"tp": "History",
+"s": "GK"
 },
 "25md01-223": {
 "tp": "Conic sections",
 "s": "AM"
 },
 "25md01-224": {
-"skip": true
+"tp": "Culture",
+"s": "GK"
 },
 "25md01-225": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25md01-226": {
-"skip": true
+"tp": "Energy",
+"s": "GK"
 },
 "25md01-227": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25md01-228": {
 "skip": true
 },
 "25md01-229": {
-"skip": true
+"tp": "History",
+"s": "GK"
 }
 }

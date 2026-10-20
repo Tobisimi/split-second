@@ -159,7 +159,9 @@
 "s": "AM"
 },
 "25fin-049": {
-"skip": true
+"tp": "Analogies",
+"n": "Shakespeare is known for sonnets, Hemingway for novels.",
+"s": "VR"
 },
 "25fin-050": {
 "tp": "Sets",
@@ -173,7 +175,9 @@
 "s": "AM"
 },
 "25fin-052": {
-"skip": true
+"tp": "Analogies",
+"n": "A moat surrounds a castle; woods surround a glade.",
+"s": "VR"
 },
 "25fin-053": {
 "tp": "Ratios",
@@ -181,7 +185,11 @@
 "s": "AM"
 },
 "25fin-054": {
-"skip": true
+"tp": "Analogies",
+"q": "Give the right answer to this analogy: Thermometer : Temperature :: Sphygmomanometer : ___",
+"k": "Blood pressure",
+"n": "Each instrument measures the thing named after it.",
+"s": "VR"
 },
 "25fin-055": {
 "tp": "Arithmetic",
@@ -190,10 +198,13 @@
 "s": "AM"
 },
 "25fin-056": {
-"skip": true
+"tp": "Literature",
+"s": "GK"
 },
 "25fin-057": {
-"skip": true
+"tp": "Analogies",
+"n": "Quixotic is the opposite of pragmatic; murky is the opposite of clear.",
+"s": "VR"
 },
 "25fin-058": {
 "tp": "Dilution",
@@ -276,7 +287,14 @@
 "s": "AM"
 },
 "25fin-072": {
-"skip": true
+"tp": "Science",
+"q": "Which of these is a synonym for \"ecological succession\"?",
+"o": [
+"Community change",
+"Adaptation",
+"Natural selection"
+],
+"s": "GK"
 },
 "25fin-073": {
 "tp": "Normal distribution",
@@ -285,7 +303,10 @@
 "s": "DA"
 },
 "25fin-074": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Seaworthy : Sailing :: Potable : ___",
+"n": "The screen showed \"Portable\", but the answer fits potable: seaworthy means fit for sailing, potable means fit for drinking.",
+"s": "VR"
 },
 "25fin-075": {
 "tp": "z-scores",
@@ -294,7 +315,8 @@
 "s": "DA"
 },
 "25fin-076": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25fin-077": {
 "tp": "Mean",
@@ -303,13 +325,19 @@
 "s": "DA"
 },
 "25fin-078": {
-"skip": true
+"tp": "Odd one out",
+"q": "Pick the odd one out: 216, 36, 116",
+"k": "116",
+"n": "216 = 6³ and 36 = 6², but 116 is not a power of 6.",
+"s": "VR"
 },
 "25fin-079": {
 "skip": true
 },
 "25fin-080": {
-"skip": true
+"tp": "Odd one out",
+"n": "Cream, butter and ghee come from milk; oil does not.",
+"s": "VR"
 },
 "25fin-081": {
 "tp": "Hypothesis testing",
@@ -323,7 +351,8 @@
 "s": "DA"
 },
 "25fin-083": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25fin-084": {
 "tp": "Normal distribution",
@@ -349,7 +378,9 @@
 "s": "DA"
 },
 "25fin-088": {
-"skip": true
+"tp": "Analogies",
+"n": "Animals forage for food; a wildcat (in drilling) is a well sunk to search for oil.",
+"s": "VR"
 },
 "25fin-089": {
 "tp": "Quartiles",
@@ -369,10 +400,14 @@
 "s": "DA"
 },
 "25fin-092": {
-"skip": true
+"tp": "Letter series",
+"q": "Fill in the missing letter in the series: ___, E, G, J, M, Q",
+"n": "The gaps grow 2, 2, 3, 3, 4: C (3), E (5), G (7), J (10), M (13), Q (17).",
+"s": "VR"
 },
 "25fin-093": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25fin-094": {
 "tp": "Random variables",
@@ -380,13 +415,21 @@
 "s": "DA"
 },
 "25fin-095": {
-"skip": true
+"tp": "Letter puzzles",
+"k": "Straps",
+"a": "Strap",
+"t": "d",
+"n": "The show's bar read Straps. Wolf spelled backwards is Flow, and Parts spelled backwards is Strap.",
+"s": "VR"
 },
 "25fin-096": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25fin-097": {
-"skip": true
+"tp": "Letter series",
+"n": "Z, Y, X, W, V and A, B, C, D, E run in turn, with the numbers 5, 4, 6, 3, 7 swapping place each time.",
+"s": "VR"
 },
 "25fin-098": {
 "tp": "Range",
@@ -409,7 +452,9 @@
 "s": "DA"
 },
 "25fin-102": {
-"skip": true
+"tp": "Analogies",
+"n": "Chess is won by strategy; poker by bluffing.",
+"s": "VR"
 },
 "25fin-103": {
 "tp": "Median",
@@ -417,7 +462,9 @@
 "s": "DA"
 },
 "25fin-104": {
-"skip": true
+"tp": "Fashion",
+"k": "T-shirts",
+"s": "GK"
 },
 "25fin-105": {
 "tp": "Mean",
@@ -453,13 +500,17 @@
 "s": "DA"
 },
 "25fin-111": {
-"skip": true
+"tp": "Sport",
+"k": "Spur",
+"s": "GK"
 },
 "25fin-112": {
-"skip": true
+"tp": "Energy",
+"s": "GK"
 },
 "25fin-113": {
-"skip": true
+"tp": "Energy",
+"s": "GK"
 },
 "25fin-114": {
 "tp": "Mean",
@@ -468,7 +519,8 @@
 "s": "DA"
 },
 "25fin-115": {
-"skip": true
+"tp": "Music",
+"s": "GK"
 },
 "25fin-116": {
 "tp": "Median",
@@ -476,10 +528,13 @@
 "s": "DA"
 },
 "25fin-117": {
-"skip": true
+"tp": "Geography",
+"n": "Burkina Faso means \"land of incorruptible people\"; its capital is Ouagadougou.",
+"s": "GK"
 },
 "25fin-118": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25fin-119": {
 "tp": "Mode",
@@ -487,16 +542,24 @@
 "s": "DA"
 },
 "25fin-120": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series fecund : infertile :: ___ : fleet",
+"n": "Fecund is the opposite of infertile; slow is the opposite of fleet.",
+"s": "VR"
 },
 "25fin-121": {
-"skip": true
+"tp": "Charts",
+"k": "Scatter plot",
+"t": "w",
+"s": "DA"
 },
 "25fin-122": {
 "skip": true
 },
 "25fin-123": {
-"skip": true
+"tp": "Film",
+"q": "Who is the lead character in \"Birds of Prey\"?",
+"s": "GK"
 },
 "25fin-124": {
 "tp": "Bearings",
@@ -697,187 +760,234 @@
 "skip": true
 },
 "25fin-168": {
-"skip": true
+"tp": "Analogies",
+"n": "A king sits on a throne; a judge presides in a court."
 },
 "25fin-169": {
-"skip": true
+"tp": "Analogies",
+"n": "A tiger lives in the forest; an otter lives in water."
 },
 "25fin-170": {
-"skip": true
+"tp": "Analogies",
+"n": "Greedy is the opposite of generous; vindictive is the opposite of merciful."
 },
 "25fin-171": {
-"skip": true
+"tp": "Analogies"
 },
 "25fin-172": {
-"skip": true
+"tp": "Analogies",
+"n": "1 foot is 12 inches; 1 kilometre is 1,000 metres."
 },
 "25fin-173": {
-"skip": true
+"tp": "Synonyms"
 },
 "25fin-174": {
-"skip": true
+"tp": "Analogies",
+"k": "Joules",
+"n": "Time is measured in seconds; energy in joules."
 },
 "25fin-175": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Docile : Obey :: Sullen : ___",
+"n": "A docile person obeys; a sullen person broods."
 },
 "25fin-176": {
-"skip": true
+"tp": "Odd one out",
+"n": "An index, a glossary and a chapter are parts of a book."
 },
 "25fin-177": {
 "skip": true
 },
 "25fin-178": {
-"skip": true
+"tp": "Analogies",
+"n": "A stream is a small river; a pond is a small lake."
 },
 "25fin-179": {
 "skip": true
 },
 "25fin-180": {
-"skip": true
+"tp": "Number series",
+"n": "Halve, then multiply by 4, in turn: 192 ÷ 2 = 96."
 },
 "25fin-181": {
-"skip": true
+"tp": "Analogies",
+"n": "Cricket is played on a pitch; badminton on a court."
 },
 "25fin-182": {
-"skip": true
+"tp": "Analogies"
 },
 "25fin-183": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series AC : Alternating current :: DC : ___",
+"k": "Direct current"
 },
 "25fin-184": {
-"skip": true
+"tp": "Letter series",
+"n": "Every other letter: F, H, J, L, N."
 },
 "25fin-185": {
-"skip": true
+"tp": "Anagrams",
+"k": "Two",
+"n": "Using all four letters: DONE and NODE."
 },
 "25fin-186": {
-"skip": true
+"tp": "Analogies",
+"n": "A triangle is a kind of polygon; a circle is a kind of curve."
 },
 "25fin-187": {
-"skip": true
+"tp": "Analogies"
 },
 "25fin-188": {
-"skip": true
+"tp": "Synonyms",
+"q": "Choose the word most similar to \"Lucid\".",
+"o": [
+"Abstract",
+"Clear",
+"Confused"
+]
 },
 "25fin-189": {
-"skip": true
+"tp": "Vocabulary",
+"k": "Conflagration"
 },
 "25fin-190": {
-"skip": true
+"tp": "Antonyms"
 },
 "25fin-191": {
-"skip": true
+"tp": "Vocabulary"
 },
 "25fin-192": {
-"skip": true
+"tp": "Analogies"
 },
 "25fin-193": {
-"skip": true
+"tp": "Analogies"
 },
 "25fin-194": {
-"skip": true
+"tp": "Antonyms"
 },
 "25fin-195": {
-"skip": true
+"tp": "Analogies"
 },
 "25fin-196": {
-"skip": true
+"tp": "Blood relations",
+"n": "Mary is the mother of Chris's father."
 },
 "25fin-197": {
-"skip": true
+"tp": "Blood relations",
+"n": "Carol is the daughter of Tom's wife."
 },
 "25fin-198": {
-"skip": true
+"tp": "Sport",
+"k": "Cardiff"
 },
 "25fin-199": {
-"skip": true
+"tp": "Sport"
 },
 "25fin-200": {
-"skip": true
+"tp": "Geography",
+"k": "Algeria"
 },
 "25fin-201": {
-"skip": true
+"tp": "History"
 },
 "25fin-202": {
-"skip": true
+"tp": "Geography",
+"k": "Asia"
 },
 "25fin-203": {
-"skip": true
+"tp": "Sport"
 },
 "25fin-204": {
-"skip": true
+"tp": "Energy"
 },
 "25fin-205": {
-"skip": true
+"tp": "Sport"
 },
 "25fin-206": {
-"skip": true
+"tp": "Health"
 },
 "25fin-207": {
-"skip": true
+"tp": "Culture"
 },
 "25fin-208": {
-"skip": true
+"tp": "Sport",
+"k": "Sheffield FC (1889)",
+"a": "Notts County",
+"t": "d",
+"n": "The show's bar read Sheffield FC. Sheffield FC (founded 1857) is the oldest club but it is amateur; the oldest professional club is Notts County (1862)."
 },
 "25fin-209": {
-"skip": true
+"tp": "Culture",
+"k": "Love, loyalty and unity"
 },
 "25fin-210": {
-"skip": true
+"tp": "History",
+"k": "Mercedes"
 },
 "25fin-211": {
-"skip": true
+"tp": "History",
+"q": "___ was invented by David Bushnell."
 },
 "25fin-212": {
-"skip": true
+"tp": "Science",
+"k": "Knowledge"
 },
 "25fin-213": {
-"skip": true
+"tp": "Culture"
 },
 "25fin-214": {
-"skip": true
+"tp": "Geography",
+"q": "Which is the second longest river in Africa?",
+"k": "Congo River"
 },
 "25fin-215": {
-"skip": true
+"tp": "History"
 },
 "25fin-216": {
-"skip": true
+"tp": "Sport",
+"k": "Football"
 },
 "25fin-217": {
-"skip": true
+"tp": "Sport"
 },
 "25fin-218": {
-"skip": true
+"tp": "Geography"
 },
 "25fin-219": {
-"skip": true
+"tp": "Geography",
+"q": "___ is the capital of the country which is also a continent."
 },
 "25fin-220": {
-"skip": true
+"tp": "Culture"
 },
 "25fin-221": {
-"skip": true
+"tp": "History"
 },
 "25fin-222": {
-"skip": true
+"tp": "Film"
 },
 "25fin-223": {
-"skip": true
+"tp": "Sport",
+"k": "720 seconds"
 },
 "25fin-224": {
-"skip": true
+"tp": "Animals",
+"n": "Ireland and New Zealand have no native snakes either."
 },
 "25fin-225": {
-"skip": true
+"tp": "Geography"
 },
 "25fin-226": {
-"skip": true
+"tp": "Sport",
+"k": "Racket"
 },
 "25fin-227": {
-"skip": true
+"tp": "Animals",
+"k": "Dragonfly"
 },
 "25fin-228": {
-"skip": true
+"tp": "Geography",
+"k": "Mexico"
 },
 "25fin-229": {
 "skip": true

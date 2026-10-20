@@ -26,13 +26,15 @@
 "s": "DA"
 },
 "25qf2-007": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf2-008": {
 "skip": true
 },
 "25qf2-009": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf2-010": {
 "tp": "Percentages",
@@ -40,7 +42,9 @@
 "s": "AM"
 },
 "25qf2-011": {
-"skip": true
+"tp": "Analogies",
+"n": "An archaeologist studies archaeology; an ornithologist studies birds.",
+"s": "VR"
 },
 "25qf2-012": {
 "tp": "Linear functions",
@@ -61,10 +65,13 @@
 "skip": true
 },
 "25qf2-015": {
-"skip": true
+"tp": "Sport",
+"q": "For which sport is the Davis Cup given?",
+"s": "GK"
 },
 "25qf2-016": {
-"skip": true
+"tp": "Music",
+"s": "GK"
 },
 "25qf2-017": {
 "tp": "Ratios",
@@ -83,10 +90,18 @@
 "s": "AM"
 },
 "25qf2-020": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf2-021": {
-"skip": true
+"tp": "Letter puzzles",
+"q": "Find the word which can be made from letters of the given word: ELASTICITY",
+"o": [
+"Static",
+"Titular",
+"Ecstasy"
+],
+"s": "VR"
 },
 "25qf2-022": {
 "tp": "Growth",
@@ -95,13 +110,22 @@
 "s": "AM"
 },
 "25qf2-023": {
-"skip": true
+"tp": "Geography",
+"o": [
+"Mount Everest",
+"Mount Kilimanjaro",
+"Mount Kangchenjunga"
+],
+"s": "GK"
 },
 "25qf2-024": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf2-025": {
-"skip": true
+"tp": "Analogies",
+"q": "If sunrise is to dawn, then sunset is to",
+"s": "VR"
 },
 "25qf2-026": {
 "tp": "Percentages",
@@ -115,10 +139,12 @@
 "s": "AM"
 },
 "25qf2-028": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf2-029": {
-"skip": true
+"tp": "Energy",
+"s": "GK"
 },
 "25qf2-030": {
 "tp": "Rates",
@@ -131,14 +157,23 @@
 "s": "DA"
 },
 "25qf2-032": {
-"skip": true
+"tp": "Letter series",
+"q": "Complete the series OTE, PUF, QVG, ___",
+"o": [
+"RWH",
+"TCI",
+"SY"
+],
+"n": "Each of the three letters moves one place on: R, W, H.",
+"s": "VR"
 },
 "25qf2-033": {
 "tp": "Dispersion",
 "s": "DA"
 },
 "25qf2-034": {
-"skip": true
+"tp": "Analogies",
+"s": "VR"
 },
 "25qf2-035": {
 "tp": "z-scores",
@@ -173,7 +208,8 @@
 "s": "DA"
 },
 "25qf2-040": {
-"skip": true
+"tp": "Economics",
+"s": "GK"
 },
 "25qf2-041": {
 "tp": "Median",
@@ -199,7 +235,9 @@
 "s": "DA"
 },
 "25qf2-045": {
-"skip": true
+"tp": "Analogies",
+"n": "Dough becomes bread; batter becomes a pancake.",
+"s": "VR"
 },
 "25qf2-046": {
 "tp": "Polygons",
@@ -212,7 +250,8 @@
 "s": "AM"
 },
 "25qf2-048": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf2-049": {
 "tp": "Permutations",
@@ -225,7 +264,9 @@
 "s": "DA"
 },
 "25qf2-051": {
-"skip": true
+"tp": "Science",
+"k": "Penology",
+"s": "GK"
 },
 "25qf2-052": {
 "skip": true
@@ -253,10 +294,13 @@
 "s": "AM"
 },
 "25qf2-057": {
-"skip": true
+"tp": "Letter series",
+"n": "DEF, GHI, JKL run forward; WVU, TSR, QPO run backward from the end of the alphabet.",
+"s": "VR"
 },
 "25qf2-058": {
-"skip": true
+"tp": "Synonyms",
+"s": "VR"
 },
 "25qf2-059": {
 "tp": "Area",
@@ -294,13 +338,19 @@
 "s": "DA"
 },
 "25qf2-066": {
-"skip": true
+"tp": "Letter puzzles",
+"q": "Which word can be formed using the letters G, A, R, N, I, T?",
+"s": "VR"
 },
 "25qf2-067": {
-"skip": true
+"tp": "Permutations",
+"k": "240 ways",
+"t": "w",
+"s": "DA"
 },
 "25qf2-068": {
-"skip": true
+"tp": "Science",
+"s": "GK"
 },
 "25qf2-069": {
 "tp": "Permutations",
@@ -311,7 +361,10 @@
 "s": "DA"
 },
 "25qf2-071": {
-"skip": true
+"tp": "Number series",
+"k": "VIII",
+"n": "20, 17, 14, 11: take 3 each time, so 8.",
+"s": "VR"
 },
 "25qf2-072": {
 "tp": "Growth",
@@ -351,7 +404,9 @@
 "s": "AM"
 },
 "25qf2-078": {
-"skip": true
+"tp": "Geography",
+"k": "Victoria",
+"s": "GK"
 },
 "25qf2-079": {
 "tp": "Quadratics",
@@ -464,73 +519,107 @@
 "k": "220%"
 },
 "25qf2-101": {
-"skip": true
+"tp": "Inverse proportion",
+"k": "6 2/3 hours",
+"t": "w",
+"s": "AM"
 },
 "25qf2-102": {
-"skip": true
+"tp": "Sport",
+"k": "4 kg",
+"s": "GK"
 },
 "25qf2-103": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25qf2-104": {
-"skip": true
+"tp": "Energy",
+"s": "GK"
 },
 "25qf2-105": {
-"skip": true
+"tp": "History",
+"s": "GK"
 },
 "25qf2-106": {
-"skip": true
+"tp": "Film",
+"k": "Eddie Redmayne",
+"s": "GK"
 },
 "25qf2-107": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25qf2-108": {
-"skip": true
+"tp": "Economics",
+"q": "A measure of your money you might want to go over with your financial advisor is EBIT: earnings before ___ and taxes.",
+"s": "GK"
 },
 "25qf2-109": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25qf2-110": {
-"skip": true
+"tp": "Music",
+"s": "GK"
 },
 "25qf2-111": {
-"skip": true
+"tp": "Food",
+"s": "GK"
 },
 "25qf2-112": {
 "skip": true
 },
 "25qf2-113": {
-"skip": true
+"tp": "Economics",
+"s": "GK"
 },
 "25qf2-114": {
-"skip": true
+"tp": "Health",
+"k": "Kwashiorkor",
+"s": "GK"
 },
 "25qf2-115": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25qf2-116": {
 "skip": true
 },
 "25qf2-117": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25qf2-118": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf2-119": {
-"skip": true
+"tp": "Film",
+"k": "A Starbucks cup",
+"s": "GK"
 },
 "25qf2-120": {
-"skip": true
+"tp": "Energy",
+"s": "GK"
 },
 "25qf2-121": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25qf2-122": {
-"skip": true
+"tp": "Fashion",
+"o": [
+"Persia",
+"Israel",
+"Afghanistan"
+],
+"s": "GK"
 },
 "25qf2-123": {
-"skip": true
+"tp": "Sport",
+"k": "Rugby Union",
+"s": "GK"
 },
 "25qf2-124": {
 "tp": "Combinations"
@@ -596,37 +685,62 @@
 "k": "35"
 },
 "25qf2-137": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25qf2-138": {
-"skip": true
+"tp": "Music",
+"s": "GK"
 },
 "25qf2-139": {
 "skip": true
 },
 "25qf2-140": {
-"skip": true
+"tp": "Literature",
+"s": "GK"
 },
 "25qf2-141": {
-"skip": true
+"tp": "Directions",
+"q": "A boy rode his bicycle northward, then turned left, rode 1 km, and again turned left and rode 2 km. He found himself 1 km west of his starting point. How far did he ride northward initially?",
+"k": "2 km",
+"n": "North x, west 1, south 2 leaves him 1 km west and x − 2 north of the start, so x = 2 km.",
+"s": "VR"
 },
 "25qf2-142": {
-"skip": true
+"tp": "Analogies",
+"n": "The bear is a national symbol of Russia; the peacock of India.",
+"s": "VR"
 },
 "25qf2-143": {
-"skip": true
+"tp": "Letter puzzles",
+"n": "FERTILITY has no A.",
+"s": "VR"
 },
 "25qf2-144": {
-"skip": true
+"tp": "Blood relations",
+"n": "C and D are A's children, so A's brother B is their uncle.",
+"s": "VR"
 },
 "25qf2-145": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Sun : Solar System :: Moon : ___",
+"s": "VR"
 },
 "25qf2-146": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Dog : Loyalty :: Cat : ?",
+"o": [
+"Friendliness",
+"Independence",
+"Intelligence"
+],
+"s": "VR"
 },
 "25qf2-147": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Coward : Bravery :: Knave : ?",
+"n": "A coward lacks bravery; a knave lacks honesty, that is, truth.",
+"s": "VR"
 },
 "25qf2-148": {
 "tp": "Ratios",
@@ -634,25 +748,38 @@
 "s": "AM"
 },
 "25qf2-149": {
-"skip": true
+"tp": "Alphabet",
+"n": "In order: HIKE, HOCKEY, HOE, HOVER, HURRICANE.",
+"s": "VR"
 },
 "25qf2-150": {
-"skip": true
+"tp": "Vocabulary",
+"s": "VR"
 },
 "25qf2-151": {
-"skip": true
+"tp": "Idioms",
+"k": "An intellectual",
+"s": "VR"
 },
 "25qf2-152": {
-"skip": true
+"tp": "Vocabulary",
+"s": "VR"
 },
 "25qf2-153": {
-"skip": true
+"tp": "Number series",
+"k": "XXVI",
+"n": "6, 10, 14, 18, 22: add 4 each time, so 26.",
+"s": "VR"
 },
 "25qf2-154": {
-"skip": true
+"tp": "Technology",
+"k": "40 A",
+"n": "The usual charging rate is a tenth of the capacity: 400 ÷ 10 = 40 A.",
+"s": "GK"
 },
 "25qf2-155": {
-"skip": true
+"tp": "History",
+"s": "GK"
 },
 "25qf2-156": {
 "skip": true
@@ -741,7 +868,10 @@
 "skip": true
 },
 "25qf2-173": {
-"skip": true
+"tp": "Rates",
+"k": "80 bpm",
+"t": "w",
+"s": "AM"
 },
 "25qf2-174": {
 "tp": "Rates",
@@ -749,10 +879,12 @@
 "s": "AM"
 },
 "25qf2-175": {
-"skip": true
+"tp": "Energy",
+"s": "GK"
 },
 "25qf2-176": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf2-177": {
 "tp": "Percentages",
@@ -760,7 +892,16 @@
 "s": "AM"
 },
 "25qf2-178": {
-"skip": true
+"tp": "Directions",
+"q": "Find the missing word West : North-East :: South : ?",
+"o": [
+"Northwest",
+"North",
+"East"
+],
+"k": "Northwest",
+"n": "West to north-east is a turn of 135° clockwise; South turned 135° clockwise is north-west.",
+"s": "VR"
 },
 "25qf2-179": {
 "tp": "Arithmetic",
@@ -779,10 +920,19 @@
 "s": "DA"
 },
 "25qf2-182": {
-"skip": true
+"tp": "Letter puzzles",
+"q": "Find the word which cannot be made from letters of the given word POPULARITY.",
+"o": [
+"Plural",
+"Purity",
+"Trail"
+],
+"n": "PLURAL needs two Ls; POPULARITY has one.",
+"s": "VR"
 },
 "25qf2-183": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf2-184": {
 "tp": "Quartiles",
@@ -791,7 +941,8 @@
 "s": "DA"
 },
 "25qf2-185": {
-"skip": true
+"tp": "Health",
+"s": "GK"
 },
 "25qf2-186": {
 "tp": "Pharmacy calculations",
@@ -800,7 +951,8 @@
 "s": "AM"
 },
 "25qf2-187": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25qf2-188": {
 "tp": "Perimeter",
@@ -812,10 +964,15 @@
 "s": "DA"
 },
 "25qf2-190": {
-"skip": true
+"tp": "Growth",
+"k": "1,600",
+"t": "w",
+"s": "AM"
 },
 "25qf2-191": {
-"skip": true
+"tp": "Analogies",
+"n": "Candles are made from wax; paper from pulp.",
+"s": "VR"
 },
 "25qf2-192": {
 "tp": "Growth",
@@ -823,10 +980,12 @@
 "s": "AM"
 },
 "25qf2-193": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25qf2-194": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25qf2-195": {
 "tp": "Normal distribution",
@@ -849,10 +1008,14 @@
 "skip": true
 },
 "25qf2-200": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25qf2-201": {
-"skip": true
+"tp": "Technology",
+"k": "2",
+"n": "Primary (single use) and secondary (rechargeable).",
+"s": "GK"
 },
 "25qf2-202": {
 "tp": "Proportion",
@@ -879,7 +1042,8 @@
 "s": "DA"
 },
 "25qf2-207": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25qf2-208": {
 "skip": true
@@ -889,10 +1053,12 @@
 "s": "AM"
 },
 "25qf2-210": {
-"skip": true
+"tp": "Analogies",
+"s": "VR"
 },
 "25qf2-211": {
-"skip": true
+"tp": "Synonyms",
+"s": "VR"
 },
 "25qf2-212": {
 "tp": "Surface area",
@@ -913,7 +1079,15 @@
 "s": "DA"
 },
 "25qf2-216": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Recession : Economy :: Decrescendo : ?",
+"o": [
+"Finance",
+"Crescendo",
+"Volume"
+],
+"n": "A recession shrinks the economy; a decrescendo lowers the volume.",
+"s": "VR"
 },
 "25qf2-217": {
 "tp": "Combinations",
@@ -974,25 +1148,43 @@
 "skip": true
 },
 "25qf2-228": {
-"skip": true
+"tp": "Antonyms",
+"q": "Which one of these is the antonym of the word \"Perfidious\"?",
+"s": "VR"
 },
 "25qf2-229": {
-"skip": true
+"tp": "Alphabet",
+"s": "VR"
 },
 "25qf2-230": {
-"skip": true
+"tp": "Alphabet",
+"q": "Arrange the following words as per the order of the dictionary: 1. Direction 2. Directed 3. Director 4. Directing",
+"k": "2413",
+"n": "Directed, Directing, Direction, Director.",
+"s": "VR"
 },
 "25qf2-231": {
-"skip": true
+"tp": "Letter series",
+"q": "Complete the series AOE : FUJ :: RKT : ?",
+"o": [
+"WOY",
+"WQY",
+"VOY"
+],
+"k": "WQY",
+"n": "Move the letters 5, 6 and 5 places on: R, K, T becomes W, Q, Y.",
+"s": "VR"
 },
 "25qf2-232": {
 "skip": true
 },
 "25qf2-233": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25qf2-234": {
-"skip": true
+"tp": "Science",
+"s": "GK"
 },
 "25qf2-235": {
 "tp": "Permutations",
@@ -1001,19 +1193,38 @@
 "s": "DA"
 },
 "25qf2-236": {
-"skip": true
+"tp": "Analogies",
+"q": "Find the missing word Fast : Hunger :: Race : ?",
+"o": [
+"Fatigue",
+"Laziness",
+"Food"
+],
+"s": "VR"
 },
 "25qf2-237": {
-"skip": true
+"tp": "Letter puzzles",
+"q": "Find the word which cannot be made from letters of the given word INTERACTION.",
+"o": [
+"Intend",
+"Intern",
+"Care"
+],
+"n": "INTERACTION has no D.",
+"s": "VR"
 },
 "25qf2-238": {
-"skip": true
+"tp": "Analogies",
+"s": "VR"
 },
 "25qf2-239": {
-"skip": true
+"tp": "Analogies",
+"s": "VR"
 },
 "25qf2-240": {
-"skip": true
+"tp": "Probability",
+"k": "16/49 or 64/196",
+"s": "DA"
 },
 "25qf2-241": {
 "tp": "Probability",
@@ -1079,64 +1290,91 @@
 "t": "w"
 },
 "25qf2-253": {
-"skip": true
+"tp": "Agriculture",
+"k": "Spain",
+"s": "GK"
 },
 "25qf2-254": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25qf2-255": {
-"skip": true
+"tp": "Science",
+"k": "20,000",
+"s": "GK"
 },
 "25qf2-256": {
-"skip": true
+"tp": "Literature",
+"k": "A stag",
+"s": "GK"
 },
 "25qf2-257": {
-"skip": true
+"tp": "Music",
+"s": "GK"
 },
 "25qf2-258": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf2-259": {
-"skip": true
+"tp": "Music",
+"s": "GK"
 },
 "25qf2-260": {
-"skip": true
+"tp": "Agriculture",
+"k": "Gardening",
+"s": "GK"
 },
 "25qf2-261": {
-"skip": true
+"tp": "History",
+"k": "Rome",
+"s": "GK"
 },
 "25qf2-262": {
-"skip": true
+"tp": "Animals",
+"s": "GK"
 },
 "25qf2-263": {
-"skip": true
+"tp": "Technology",
+"s": "GK"
 },
 "25qf2-264": {
-"skip": true
+"tp": "Science",
+"k": "90%",
+"s": "GK"
 },
 "25qf2-265": {
-"skip": true
+"tp": "Sport",
+"k": "42.2km",
+"s": "GK"
 },
 "25qf2-266": {
-"skip": true
+"tp": "Fashion",
+"s": "GK"
 },
 "25qf2-267": {
-"skip": true
+"tp": "Geography",
+"k": "Convectional",
+"s": "GK"
 },
 "25qf2-268": {
-"skip": true
+"tp": "Entertainment",
+"s": "GK"
 },
 "25qf2-269": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25qf2-270": {
 "skip": true
 },
 "25qf2-271": {
-"skip": true
+"tp": "Culture",
+"s": "GK"
 },
 "25qf2-272": {
-"skip": true
+"tp": "Food",
+"s": "GK"
 },
 "25qf2-273": {
 "skip": true
@@ -1146,7 +1384,8 @@
 "k": "210"
 },
 "25qf2-275": {
-"skip": true
+"tp": "Polygons",
+"s": "AM"
 },
 "25qf2-276": {
 "tp": "Ratios",
@@ -1167,7 +1406,10 @@
 "n": "This counts height in edges for a full (perfect) binary tree: 1 + 2 + 4 + 8 + 16 = 31 nodes on 5 levels."
 },
 "25qf2-279": {
-"skip": true
+"tp": "Growth",
+"k": "1,728 bacteria",
+"t": "w",
+"s": "AM"
 },
 "25qf2-280": {
 "tp": "Growth"
@@ -1209,7 +1451,12 @@
 "n": "The show's bar read ₦6,400; 20 × ₦300 = ₦6,000, and 10% off is ₦5,400 (one of the options)."
 },
 "25qf2-288": {
-"skip": true
+"tp": "Discounts",
+"q": "With each speaker costing ₦250 and a 10% discount offered for every 10 speakers purchased, what is the total cost of buying 40 speakers?",
+"o": null,
+"k": "₦9,000",
+"t": "w",
+"s": "AM"
 },
 "25qf2-289": {
 "tp": "Discounts",

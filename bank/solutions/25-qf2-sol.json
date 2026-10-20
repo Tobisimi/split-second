@@ -1100,5 +1100,819 @@
   "check": "agree",
   "accept": [],
   "comment": ""
+ },
+ "25-qf2a-qb-0669": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0677": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0691": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0714": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0719": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0746": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0756": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0764": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0767": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0777": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0826": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0829": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0849": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0859": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0895": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0923": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0953": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-0967": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1001": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1012": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1061": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1067": {
+  "solution": "Treat the pair as one: 5! = 120 orders, times 2 for the pair: 240.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1084": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1096": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-qb-1147": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1351": {
+  "solution": "4 taps × 10 hours = 40 tap-hours, so 6 taps take 40 ÷ 6 = 6⅔ hours.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "20/3",
+   "6.67"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-bm-1429": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1433": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1437": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1443": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1445": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1451": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1453": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1458": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1461": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1466": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1473": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1477": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1485": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1498": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Lake Victoria"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-bm-1506": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1510": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1516": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1540": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1544": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1548": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1624": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1628": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1661": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1666": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1674": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1677": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1684": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1689": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1694": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1699": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1710": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1717": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1720": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1725": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1727": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2a-bm-1736": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "40"
+  ],
+  "comment": ""
+ },
+ "25-qf2a-bm-1741": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2169": {
+  "solution": "20 beats in 15 seconds is 80 beats in 60 seconds.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2191": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2197": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2212": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2246": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2251": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2267": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2280": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2301": {
+  "solution": "4 doublings: 100 × 16 = 1,600.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2319": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2329": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2338": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2389": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2399": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Two"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-qb-2459": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2472": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2476": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-qb-2507": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2705": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2712": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2720": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "2 4 1 3"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-bm-2722": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2738": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2746": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2759": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2763": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2767": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2770": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2810": {
+  "solution": "With replacement: 8/14 × 8/14 = 64/196 = 16/49.",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "16/49",
+   "64/196"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-bm-2920": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2928": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [
+   "Lake Victoria"
+  ],
+  "comment": ""
+ },
+ "25-qf2b-bm-2933": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2936": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2940": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2947": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2952": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2957": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2961": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2965": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2970": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2975": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2977": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2980": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2986": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2990": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-2995": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3001": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3003": {
+  "solution": "",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3030": {
+  "solution": "A rectangle has four sides, so it is a quadrilateral.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3048": {
+  "solution": "1,000 × 1.2³ = 1,728.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
+ },
+ "25-qf2b-bm-3098": {
+  "solution": "40 × ₦250 = ₦10,000; the discount applies to the whole order once it reaches the stated quantity, so 10% off leaves ₦9,000.",
+  "trick": "",
+  "check": "agree",
+  "accept": [],
+  "comment": ""
  }
 }

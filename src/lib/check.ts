@@ -38,11 +38,13 @@ function numText(s: string): string {
 // letters (with ^n, / or digits after letters, as in cm3): "5 out of 36", "1 and 3" and "-4sin(4x)" keep their numbers.
 // Maths words are never units: "1/2 pi" is not 1/2, "2sqrt3" is not 2, "5x" is not 5.
 const NOT_UNIT = /^(pi|sqrt|root|x|y|z)(?![a-z])/;
+// letters with at most a small power, then more of the same after a slash: m, cm3, m^2, mol/dm^3, m/s^2; "m8" in "4M8" is not a unit
+const UNIT = /^[a-zµΩ°][a-zµΩ°.\-]*(\^?-?[1-4])?(\/[a-zµΩ°][a-zµΩ°.\-]*(\^?-?[1-4])?)*$/;
 function stripUnit(t: string): string {
   if (/^-?\d*\.?\d+e[-+]?\d+$/.test(t)) return t;
   const toks = t.replace(/(\d)(?!e[-+]?\d)([a-zµΩ°])/g, '$1 $2').split(' ').filter(Boolean);
   let k = toks.length;
-  while (k > 1 && /^[a-zµΩ°][a-zµΩ°/^\d.\-]*$/.test(toks[k - 1]) && !NOT_UNIT.test(toks[k - 1])) k--;
+  while (k > 1 && UNIT.test(toks[k - 1]) && !NOT_UNIT.test(toks[k - 1])) k--;
   return toks.slice(0, k).join(' ');
 }
 

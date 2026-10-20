@@ -103,7 +103,7 @@ def main():
                 'solution': (s.get('solution') if q['subject'] in ('AM', 'DA') else (note if q['subject'] == 'VR' else None)) or None,
                 'trick': (s.get('trick') if q['subject'] in ('AM', 'DA') else None) or None,
             }
-            if q['subject'] in ('AM', 'DA') and note: item['showNote'] = ' '.join(x for x in (item['showNote'], note) if x)
+            if q['subject'] in ('AM', 'DA', 'GK') and note: item['showNote'] = ' '.join(x for x in (item['showNote'], note) if x)
             if others:
                 also = sorted({f"{STAGE_LABEL[t['stage']]} ({t['match']})" for t in others if t['match'] != q['match'] or t['stage'] != q['stage']})
                 if also: item['alsoIn'] = also

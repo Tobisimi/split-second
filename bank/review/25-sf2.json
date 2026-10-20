@@ -59,7 +59,10 @@
 "s": "AM"
 },
 "25sf2-018": {
-"skip": true
+"tp": "Geography",
+"k": "Sahara Desert",
+"n": "The Sahara is the largest hot desert; counting cold deserts, Antarctica is larger.",
+"s": "GK"
 },
 "25sf2-019": {
 "tp": "Mixtures",
@@ -68,10 +71,14 @@
 "s": "AM"
 },
 "25sf2-020": {
-"skip": true
+"tp": "Analogies",
+"q": "Lion is to Pride as Fish is to ____",
+"n": "A group of lions is a pride; a group of fish is a school.",
+"s": "VR"
 },
 "25sf2-021": {
-"skip": true
+"tp": "Agriculture",
+"s": "GK"
 },
 "25sf2-022": {
 "tp": "Combinations",
@@ -79,13 +86,20 @@
 "s": "DA"
 },
 "25sf2-023": {
-"skip": true
+"tp": "Analogies",
+"s": "VR"
 },
 "25sf2-024": {
-"skip": true
+"tp": "Letter series",
+"k": "I",
+"t": "w",
+"n": "Every other letter: A, C, E, G, I.",
+"s": "VR"
 },
 "25sf2-025": {
-"skip": true
+"tp": "Analogies",
+"n": "A mercenary works for wages; a dilettante dabbles for enjoyment.",
+"s": "VR"
 },
 "25sf2-026": {
 "tp": "Probability",
@@ -105,7 +119,11 @@
 "s": "AM"
 },
 "25sf2-029": {
-"skip": true
+"tp": "Letter series",
+"q": "Find the missing element in this series: ACB, DFE, ___, JLK",
+"k": "GIH",
+"n": "Each group takes three letters in a row and swaps the last two: ABC gives ACB, GHI gives GIH.",
+"s": "VR"
 },
 "25sf2-030": {
 "tp": "Complex analysis",
@@ -114,10 +132,15 @@
 "s": "AM"
 },
 "25sf2-031": {
-"skip": true
+"tp": "Alphabet",
+"q": "Choose the word which would come third if arranged alphabetically: section, secure, secretary, sector, second",
+"k": "Section",
+"n": "In order: second, secretary, section, sector, secure.",
+"s": "VR"
 },
 "25sf2-032": {
-"skip": true
+"tp": "Technology",
+"s": "GK"
 },
 "25sf2-033": {
 "tp": "Probability",
@@ -159,7 +182,8 @@
 "s": "AM"
 },
 "25sf2-040": {
-"skip": true
+"tp": "Health",
+"s": "GK"
 },
 "25sf2-041": {
 "tp": "Volume",
@@ -184,7 +208,10 @@
 "s": "AM"
 },
 "25sf2-045": {
-"skip": true
+"tp": "Mathematics",
+"q": "1417 can be represented in Roman numerals as",
+"n": "M (1000) + CD (400) + X (10) + VII (7).",
+"s": "GK"
 },
 "25sf2-046": {
 "tp": "Probability",
@@ -205,7 +232,9 @@
 "s": "DA"
 },
 "25sf2-050": {
-"skip": true
+"tp": "Probability",
+"k": "3/55",
+"s": "DA"
 },
 "25sf2-051": {
 "tp": "Combinations",
@@ -214,7 +243,8 @@
 "s": "DA"
 },
 "25sf2-052": {
-"skip": true
+"tp": "Film",
+"s": "GK"
 },
 "25sf2-053": {
 "tp": "Combinations",
@@ -222,7 +252,11 @@
 "s": "DA"
 },
 "25sf2-054": {
-"skip": true
+"tp": "Analogies",
+"q": "Find the missing word Battery : Terminals :: ___ : Poles",
+"k": "Magnet",
+"n": "A battery has terminals; a magnet has poles.",
+"s": "VR"
 },
 "25sf2-055": {
 "tp": "Pie charts",
@@ -235,10 +269,14 @@
 "s": "DA"
 },
 "25sf2-057": {
-"skip": true
+"tp": "Analogies",
+"n": "Typhoid is caused by bacteria; hepatitis by a virus.",
+"s": "VR"
 },
 "25sf2-058": {
-"skip": true
+"tp": "Literature",
+"q": "Finish this title by Shakespeare: \"Antony and ___\"",
+"s": "GK"
 },
 "25sf2-059": {
 "tp": "z-scores",
@@ -272,7 +310,10 @@
 "s": "DA"
 },
 "25sf2-064": {
-"skip": true
+"tp": "Alphabet",
+"q": "If the letters of the word 'ZEBRA' are rearranged in reverse alphabetical order, which letter will be in the middle?",
+"n": "Z, R, E, B, A: E is in the middle.",
+"s": "VR"
 },
 "25sf2-065": {
 "tp": "z-scores",
@@ -284,13 +325,17 @@
 "s": "DA"
 },
 "25sf2-066": {
-"skip": true
+"tp": "Probability",
+"k": "5/18",
+"t": "w",
+"s": "DA"
 },
 "25sf2-067": {
 "skip": true
 },
 "25sf2-068": {
-"skip": true
+"tp": "Sport",
+"s": "GK"
 },
 "25sf2-069": {
 "tp": "Probability",
@@ -299,7 +344,10 @@
 "s": "DA"
 },
 "25sf2-070": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Plagiarize : Words :: ___ : Game",
+"n": "Plagiarism steals words; poaching steals game.",
+"s": "VR"
 },
 "25sf2-071": {
 "skip": true
@@ -311,7 +359,10 @@
 "s": "DA"
 },
 "25sf2-073": {
-"skip": true
+"tp": "Coding",
+"q": "If 'CAT' is coded as 'DBU', what is the code for 'DOG'?",
+"n": "Each letter moves one place on: D, O, G becomes E, P, H.",
+"s": "VR"
 },
 "25sf2-074": {
 "tp": "Combinations",
@@ -325,7 +376,8 @@
 "s": "DA"
 },
 "25sf2-076": {
-"skip": true
+"tp": "Science",
+"s": "GK"
 },
 "25sf2-077": {
 "tp": "Central tendency",
@@ -349,10 +401,20 @@
 "s": "DA"
 },
 "25sf2-081": {
-"skip": true
+"tp": "Idioms",
+"s": "VR"
 },
 "25sf2-082": {
-"skip": true
+"tp": "Letter puzzles",
+"q": "One of these words cannot be formed using the letters of the word \"FORMATION\". Identify that word.",
+"o": [
+"Major",
+"Ratio",
+"Minor"
+],
+"k": "Major",
+"n": "FORMATION has no J.",
+"s": "VR"
 },
 "25sf2-083": {
 "tp": "Variance",
@@ -361,10 +423,14 @@
 "s": "DA"
 },
 "25sf2-084": {
-"skip": true
+"tp": "Synonyms",
+"s": "VR"
 },
 "25sf2-085": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Taps : Lights out :: Reveille : ___",
+"n": "Taps is the bugle call for lights out; reveille is the call to wake up.",
+"s": "VR"
 },
 "25sf2-086": {
 "tp": "Interquartile range",
@@ -373,10 +439,12 @@
 "s": "DA"
 },
 "25sf2-087": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25sf2-088": {
-"skip": true
+"tp": "Geography",
+"s": "GK"
 },
 "25sf2-089": {
 "tp": "Variance",
@@ -432,16 +500,28 @@
 "k": "75 pages"
 },
 "25sf2-102": {
-"skip": true
+"tp": "Analogies",
+"k": "Whole and part"
 },
 "25sf2-103": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Dress : Tailor :: ___ : Carpenter",
+"k": "Furniture"
 },
 "25sf2-104": {
-"skip": true
+"tp": "Alphabet",
+"q": "Which word comes first in the dictionary?",
+"o": [
+"Punnet",
+"Flurry",
+"Knacks"
+],
+"k": "Flurry"
 },
 "25sf2-105": {
-"skip": true
+"tp": "Odd one out",
+"k": "28",
+"n": "63, 124, 215 and 342 are each one less than a cube (4³, 5³, 6³, 7³); 28 is one more than 3³."
 },
 "25sf2-106": {
 "skip": true
@@ -450,121 +530,212 @@
 "skip": true
 },
 "25sf2-108": {
-"skip": true
+"tp": "Logic",
+"k": "60 days",
+"n": "Each cat kills one mouse in 60 days, so 14 cats kill 14 mice in 60 days."
 },
 "25sf2-109": {
-"skip": true
+"tp": "Letter series",
+"q": "Complete the series of letters A, B, D, ___, K, P.",
+"n": "The gaps grow by one: A (1), B (2), D (4), G (7), K (11), P (16)."
 },
 "25sf2-110": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete this: Palate : ___ :: Ceiling : Room",
+"o": [
+"Mouth",
+"Rainbow",
+"Rivulet"
+],
+"k": "Mouth",
+"n": "The palate is the roof of the mouth, as the ceiling is the roof of a room."
 },
 "25sf2-111": {
-"skip": true
+"tp": "Analogies"
 },
 "25sf2-112": {
-"skip": true
+"tp": "Odd one out",
+"q": "Choose the odd one",
+"o": [
+"Uranium",
+"Sodium",
+"Radium"
+],
+"k": "Sodium",
+"n": "Uranium and radium are radioactive; sodium is not."
 },
 "25sf2-113": {
-"skip": true
+"tp": "Antonyms",
+"q": "Choose the word which is the exact OPPOSITE of the given word: QUIESCENT",
+"o": [
+"Active",
+"Dormant",
+"Weak"
+]
 },
 "25sf2-114": {
-"skip": true
+"tp": "Antonyms",
+"k": "Subservient"
 },
 "25sf2-115": {
-"skip": true
+"tp": "Number series",
+"n": "Multiply by 2, 3, 4, 5 and add 1 each time: 41 × 5 + 1 = 206."
 },
 "25sf2-116": {
-"skip": true
+"tp": "Science",
+"s": "GK"
 },
 "25sf2-117": {
-"skip": true
+"tp": "Number series",
+"k": "21",
+"n": "Add 4 each time."
 },
 "25sf2-118": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Vacillate : Decide :: ___ : Leave",
+"n": "Vacillating puts off deciding; lingering puts off leaving."
 },
 "25sf2-119": {
-"skip": true
+"tp": "Alphabet",
+"k": "I",
+"t": "w",
+"n": "E, F, G, H, I."
 },
 "25sf2-120": {
-"skip": true
+"tp": "Number series",
+"q": "What is the missing number in the sequence 100, 180, ___, 448?",
+"n": "4 × 5², 5 × 6², 6 × 7², 7 × 8²: the missing term is 6 × 49 = 294."
 },
 "25sf2-121": {
-"skip": true
+"tp": "Letter series",
+"k": "4M8",
+"n": "The letter is the sum of the two numbers: 1 + 2 = 3 (C), 2 + 4 = 6 (F), 8 + 16 = 24 (X), but 4 + 8 = 12 is L, not M."
 },
 "25sf2-122": {
-"skip": true
+"tp": "Analogies",
+"k": "Hand"
 },
 "25sf2-123": {
-"skip": true
+"tp": "Letter series",
+"n": "Back 3, back 2, in turn: W, T, R, O, M."
 },
 "25sf2-124": {
-"skip": true
+"tp": "Odd one out",
+"q": "Choose the odd one.",
+"o": [
+"Velocity",
+"Archimedes",
+"Acceleration"
+],
+"k": "Archimedes",
+"n": "Velocity and acceleration are quantities; Archimedes is a person."
 },
 "25sf2-125": {
-"skip": true
+"tp": "Alphabet",
+"q": "Which word appears last in a dictionary?",
+"o": [
+"Throws",
+"Permit",
+"Recoup"
+],
+"k": "Throws"
 },
 "25sf2-126": {
-"skip": true
+"tp": "Analogies",
+"q": "Complete the series Whoop : Exuberance :: Keen : ___",
+"n": "A whoop shows exuberance; to keen is to wail in mourning."
 },
 "25sf2-127": {
-"skip": true
+"tp": "Idioms"
 },
 "25sf2-128": {
-"skip": true
+"tp": "Analogies",
+"k": "Donkey"
 },
 "25sf2-129": {
-"skip": true
+"tp": "Antonyms",
+"k": "Terminated"
 },
 "25sf2-130": {
 "skip": true
 },
 "25sf2-131": {
-"skip": true
+"tp": "Science",
+"q": "Which is not an example of the cryosphere?",
+"o": [
+"Glaciers",
+"Snow",
+"Water"
+],
+"k": "Water"
 },
 "25sf2-132": {
-"skip": true
+"tp": "Food"
 },
 "25sf2-133": {
-"skip": true
+"tp": "Film",
+"k": "Lex"
 },
 "25sf2-134": {
-"skip": true
+"tp": "Science"
 },
 "25sf2-135": {
-"skip": true
+"tp": "History",
+"k": "Bulova watches"
 },
 "25sf2-136": {
-"skip": true
+"tp": "Animals"
 },
 "25sf2-137": {
-"skip": true
+"tp": "History",
+"k": "Nepal",
+"n": "Thailand, Japan and Bhutan were never colonised either."
 },
 "25sf2-138": {
-"skip": true
+"tp": "Film",
+"k": "Money Heist",
+"n": "Helsinki is a character in Money Heist, which is a TV series."
 },
 "25sf2-139": {
-"skip": true
+"tp": "Music",
+"k": "C major"
 },
 "25sf2-140": {
-"skip": true
+"tp": "Geography"
 },
 "25sf2-141": {
-"skip": true
+"tp": "Geography",
+"k": "Lebanon"
 },
 "25sf2-142": {
-"skip": true
+"tp": "Animals",
+"q": "Which Australian animal belongs to the avian category?",
+"o": [
+"Kookaburra",
+"Wombat",
+"Wallaby"
+],
+"k": "Kookaburra"
 },
 "25sf2-143": {
-"skip": true
+"tp": "Sport",
+"k": "Marta"
 },
 "25sf2-144": {
-"skip": true
+"tp": "Sport"
 },
 "25sf2-145": {
 "skip": true
 },
 "25sf2-146": {
-"skip": true
+"tp": "Sport",
+"q": "Which of these is not a real sport?",
+"o": [
+"Chess",
+"Footgolf",
+"Hand rounders"
+],
+"k": "Hand rounders"
 },
 "25sf2-147": {
 "tp": "Permutations",
@@ -584,7 +755,8 @@
 "k": "5/12"
 },
 "25sf2-151": {
-"skip": true
+"tp": "Range",
+"k": "0"
 },
 "25sf2-152": {
 "tp": "Probability",
